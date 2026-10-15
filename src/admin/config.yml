@@ -1,0 +1,158 @@
+# Mesai Mutfak editör paneli (Sveltia CMS)
+backend:
+  name: github
+  repo: sitkipehlivan/mesaimutfak
+  branch: main
+  commit_messages:
+    create: "Yeni tarif: {{slug}}"
+    update: "Güncellendi: {{slug}}"
+    delete: "Silindi: {{slug}}"
+    uploadMedia: "Görsel yüklendi: {{path}}"
+    deleteMedia: "Görsel silindi: {{path}}"
+
+site_url: https://mesaimutfak.com
+display_url: https://mesaimutfak.com
+logo_url: /favicon.svg
+
+media_folder: src/img/tarifler
+public_folder: /img/tarifler
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: tarifler
+    label: Tarifler
+    label_singular: Tarif
+    description: Sitedeki tüm tarifler. Kaydettikten 1-2 dakika sonra sitede görünür.
+    folder: src/tarifler
+    create: true
+    delete: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}} · {{lvl}}"
+    sortable_fields: [title, date]
+    fields:
+      - { name: title, label: Tarif adı, widget: string }
+      - { name: date, label: Yayın tarihi, widget: datetime, time_format: false, format: "YYYY-MM-DD", default: "{{now}}", hint: "Yeni eklenenler listesi bu tarihe göre sıralanır." }
+      - { name: desc, label: Kısa açıklama, widget: text, hint: "Kartlarda ve Google sonuçlarında görünen tek cümle." }
+      - { name: image, label: Fotoğraf, widget: image, required: false, hint: "Yatay fotoğraf, en az 1600 px genişlik. Boş bırakılırsa illüstrasyon görünür." }
+      - { name: imageAlt, label: Fotoğraf açıklaması, widget: string, required: false, hint: "Görme engelliler ve Google için: fotoğrafta ne var?" }
+      - name: cats
+        label: Kategoriler
+        widget: select
+        multiple: true
+        min: 1
+        hint: "Önce bir yemek türü seç (ilk tür ana kategori olur), sonra varsa Hızlı / Vegan / Glutensiz ekle."
+        options:
+          - { label: Ana yemekler, value: ana }
+          - { label: Zeytinyağlılar, value: zeytinyagli }
+          - { label: Ara sıcaklar, value: arasicak }
+          - { label: Çorbalar, value: corba }
+          - { label: Pilavlar, value: pilav }
+          - { label: Kahvaltılık, value: kahvalti }
+          - { label: Salata & meze, value: salata }
+          - { label: Fırın yemekleri, value: firin }
+          - { label: Tatlılar, value: tatli }
+          - { label: Beyaz yakalılar için hızlı, value: hizli }
+          - { label: Vegan, value: vegan }
+          - { label: Glutensiz, value: glutensiz }
+      - { name: lvl, label: Zorluk, widget: select, options: [Kolay, Orta, Zor], default: Kolay }
+      - { name: prep, label: Hazırlık süresi (dk), widget: number, value_type: int, min: 0, default: 10 }
+      - { name: cook, label: Pişirme süresi (dk), widget: number, value_type: int, min: 0, default: 20, hint: "Ocak/fırın yoksa 0 yaz." }
+      - { name: serv, label: Porsiyon (kişi), widget: number, value_type: int, min: 1, default: 4 }
+      - name: moods
+        label: Ruh hali (Bugün ne pişirsem? aracı için)
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - { label: Yorgunum, value: yorgun }
+          - { label: Üşüdüm, value: soguk }
+          - { label: Hafif bir şey, value: hafif }
+          - { label: Canım tatlı çekiyor, value: tatli }
+          - { label: Misafir geliyor, value: misafir }
+          - { label: Keyfim yerinde, value: keyif }
+      - name: ingredients
+        label: Malzemeler
+        label_singular: Malzeme grubu
+        widget: list
+        hint: "Tek grup yeterliyse grup adını boş bırak. Miktar sayı olmalı (1,5 yerine 1.5); porsiyon ayarı bunu çarpar."
+        fields:
+          - { name: group, label: Grup adı (ör. İç harç), widget: string, required: false }
+          - name: items
+            label: Malzemeler
+            label_singular: Malzeme
+            widget: list
+            summary: "{{a}} {{u}} {{n}}"
+            fields:
+              - { name: a, label: Miktar, widget: number, value_type: float, required: false }
+              - { name: u, label: Birim (su bardağı, yemek kaşığı, g, adet…), widget: string, required: false }
+              - { name: n, label: Malzeme, widget: string }
+      - name: steps
+        label: Yapılışı
+        label_singular: Adım
+        widget: list
+        summary: "{{t}}"
+        fields:
+          - { name: t, label: Adım başlığı, widget: string }
+          - { name: d, label: Açıklama, widget: text }
+          - { name: time, label: Süre (ör. 15 dk), widget: string, required: false }
+      - { name: tips, label: Püf noktaları, widget: list, required: false, field: { name: tip, label: Püf noktası, widget: string } }
+      - { name: youtube, label: YouTube video ID, widget: string, required: false, hint: "youtube.com/watch?v= sonrasındaki kısım (ör. dQw4w9WgXcQ). Doldurulunca tarif sayfasında video görünür." }
+      - { name: videoLen, label: Video süresi (ör. 0:58), widget: string, required: false }
+      - name: chapters
+        label: Video bölümleri
+        label_singular: Bölüm
+        widget: list
+        required: false
+        summary: "{{t}} {{l}}"
+        fields:
+          - { name: t, label: Zaman (ör. 0:24), widget: string }
+          - { name: l, label: Başlık, widget: string }
+          - { name: d, label: Kısa açıklama, widget: string, required: false }
+      - name: art
+        label: İllüstrasyon renkleri (fotoğraf yoksa)
+        widget: select
+        multiple: true
+        required: false
+        max: 3
+        hint: "Fotoğraf yüklediysen boş bırakabilirsin."
+        options:
+          - { label: Pirinç / krem, value: rice }
+          - { label: Tereyağı sarısı, value: sun }
+          - { label: Yaprak yeşili, value: leaf }
+          - { label: Fıstık yeşili, value: pis }
+          - { label: Nar kırmızısı, value: pom }
+          - { label: Domates, value: tomato }
+          - { label: Mor soğan, value: onion }
+          - { label: Beyaz, value: card }
+      - { name: body, label: Giriş metni, widget: markdown, required: false, hint: "Tarif sayfasında başlığın altında görünen kısa hikâye." }
+
+  - name: ayarlar
+    label: Site ayarları
+    editor: { preview: false }
+    files:
+      - name: home
+        label: Ana sayfa vitrini
+        file: src/_data/home.json
+        fields:
+          - name: hero
+            label: Haftanın tarifi
+            widget: object
+            fields:
+              - { name: slug, label: Tarif, widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title] }
+              - { name: eyebrow, label: Üst yazı, widget: string, default: "Haftanın tarifi" }
+              - { name: heroImage, label: Ana sayfaya özel görsel, widget: image, required: false, hint: "Boşsa tarifin kendi fotoğrafı kullanılır." }
+          - { name: popular, label: Bu hafta en çok bakılanlar, widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], multiple: true, min: 4, max: 4 }
+      - name: site
+        label: Genel bilgiler
+        file: src/_data/site.json
+        fields:
+          - { name: name, label: Site adı, widget: string }
+          - { name: url, label: Site adresi, widget: string }
+          - { name: description, label: Site açıklaması (Google), widget: text }
+          - { name: youtube, label: YouTube kanal adresi, widget: string, hint: "Menüdeki ve alt bilgideki YouTube butonları buraya gider." }

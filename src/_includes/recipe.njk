@@ -47,7 +47,7 @@ layout: base.njk
           {% if grp.group %}<h3 class="ing-group">{{ grp.group }}</h3>{% endif %}
           <ul class="ing-list">
             {% for it in grp.items %}
-            <li><label><input type="checkbox"><span class="amt mono" data-a="{{ it[0] }}">{{ it[0] | amt }}</span> <span class="unit">{{ it[1] }}</span> <span class="nm">{{ it[2] }}</span></label></li>
+            <li><label><input type="checkbox"><span class="amt mono" data-a="{{ it.a }}">{{ it.a | amt }}</span> <span class="unit">{{ it.u }}</span> <span class="nm">{{ it.n }}</span></label></li>
             {% endfor %}
           </ul>
         {% endfor %}
@@ -68,7 +68,7 @@ layout: base.njk
           </li>
           {% endfor %}
         </ol>
-        {% if tips.length %}
+        {% if tips and tips.length %}
         <div class="tips">
           <h2>Püf noktaları</h2>
           <ul>{% for t in tips %}<li>{{ t }}</li>{% endfor %}</ul>
@@ -97,9 +97,9 @@ layout: base.njk
     <div class="vinfo">
       <div class="eyebrow">Video tarif{% if videoLen %} · {{ videoLen }}{% endif %}</div>
       <h2>{{ title }}</h2>
-      {% if chapters.length %}
+      {% if chapters and chapters.length %}
       <p>Ölçüler ekranda, süreler tencerenin yanında. Bölümlere göre izle.</p>
-      <ol class="chapters">{% for ch in chapters %}<li><span class="t">{{ ch[0] }}</span><span>{{ ch[1] }}<em>{{ ch[2] }}</em></span></li>{% endfor %}</ol>
+      <ol class="chapters">{% for ch in chapters %}<li><span class="t">{{ ch.t }}</span><span>{{ ch.l }}<em>{{ ch.d }}</em></span></li>{% endfor %}</ol>
       {% else %}
       <p>Bu tarifin videosu hazırlanıyor. Yeni videolardan haberdar olmak için YouTube kanalına abone ol.</p>
       <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>
@@ -132,7 +132,7 @@ layout: base.njk
   "recipeCategory": {{ (catKey | catLabel(categories)) | dump | safe }},
   "recipeCuisine": "Türk",
   "inLanguage": "tr",
-  "recipeIngredient": [{% for grp in ingredients %}{% for it in grp.items %}{{ ((it[0] | amt) + ' ' + it[1] + ' ' + it[2]) | trim | dump | safe }}{% if not loop.last %},{% endif %}{% endfor %}{% if not loop.last %},{% endif %}{% endfor %}],
+  "recipeIngredient": [{% for grp in ingredients %}{% for it in grp.items %}{{ ((it.a | amt) + ' ' + (it.u or '') + ' ' + it.n) | trim | dump | safe }}{% if not loop.last %},{% endif %}{% endfor %}{% if not loop.last %},{% endif %}{% endfor %}],
   "recipeInstructions": [{% for st in steps %}{"@type": "HowToStep", "name": {{ st.t | dump | safe }}, "text": {{ st.d | dump | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]{% if youtube %},
   "video": {"@type": "VideoObject", "name": {{ title | dump | safe }}, "embedUrl": "https://www.youtube.com/embed/{{ youtube }}", "thumbnailUrl": "https://i.ytimg.com/vi/{{ youtube }}/hqdefault.jpg", "uploadDate": "{{ page.date.toISOString() }}"}{% endif %}
 }

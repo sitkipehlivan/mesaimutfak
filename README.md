@@ -2,6 +2,22 @@
 
 Pratik yemek tarifleri sitesi. [Eleventy](https://www.11ty.dev) ile derlenir, Netlify'da yayınlanır. `main` dalına yapılan her push otomatik olarak yayına çıkar.
 
+## Editör paneli
+
+Editörler **https://mesaimutfak.com/admin** adresinden GitHub hesaplarıyla giriş yapar.
+
+- **Tarifler:** yeni tarif ekleme, fotoğraf yükleme, malzemeler, adımlar, püf noktaları, YouTube videosu ve bölümleri.
+- **Site ayarları → Ana sayfa vitrini:** haftanın tarifi, ana sayfaya özel görsel, en çok bakılan 4 tarif.
+- **Site ayarları → Genel bilgiler:** site açıklaması, YouTube kanal adresi.
+
+Kaydet'e basıldıktan sonra site 1-2 dakika içinde otomatik güncellenir.
+
+### Yeni editör eklemek
+
+1. Editör ücretsiz bir GitHub hesabı açar.
+2. Repo sahibi GitHub'da **Settings → Collaborators → Add people** ile editörü davet eder.
+3. Editör daveti kabul eder ve /admin adresinden giriş yapar.
+
 ## Yapı
 
 ```

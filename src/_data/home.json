@@ -1,5 +1,4 @@
 {
-  "_not": "Ana sayfa vitrini. Tarifleri dosya adıyla (slug) seç. heroImage boşsa tarifin kendi görseli, o da yoksa illüstrasyon kullanılır.",
   "hero": {
     "slug": "visneli-nar-eksili-zeytinyagli-sarma",
     "eyebrow": "Haftanın tarifi · Zeytinyağlılar",

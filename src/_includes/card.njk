@@ -2,7 +2,7 @@
 <a class="rc" href="{{ r.url | link }}">
   <div class="art{% if d.image %} has-photo{% endif %}" style="background:{{ r.fileSlug | tint }}">
     {% visual d, 'plate', r.fileSlug %}
-    <div class="badges">{% if d.youtube or d.chapters.length %}<span class="badge vid">▶ Video</span>{% endif %}{% if 'hizli' in d.cats %}<span class="badge wc">Hızlı</span>{% endif %}</div>
+    <div class="badges">{% if d.youtube %}<span class="badge vid">▶ Video</span>{% endif %}{% if 'hizli' in d.cats %}<span class="badge wc">Hızlı</span>{% endif %}</div>
   </div>
   <div class="body">
     <span class="cat-name">{{ d.cats[0] | catLabel(categories) }}</span>

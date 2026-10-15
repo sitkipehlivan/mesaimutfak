@@ -23,7 +23,8 @@ export function fmtAmount(n) {
 }
 
 export default function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets', 'src/img': 'img', 'src/favicon.svg': 'favicon.svg', 'src/robots.txt': 'robots.txt' });
+  eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets', 'src/img': 'img', 'src/favicon.svg': 'favicon.svg', 'src/robots.txt': 'robots.txt', 'src/admin': 'admin' });
+  eleventyConfig.ignores.add('src/admin/**');
 
   eleventyConfig.addCollection('tarifler', api =>
     api.getFilteredByGlob('src/tarifler/*.md').sort((a, b) => b.date - a.date));

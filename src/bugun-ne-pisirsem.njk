@@ -71,7 +71,7 @@ desc: Ruh haline, vaktine ve canının çektiğine göre sana bir tarif önereli
 {# Her tarif için önceden hazırlanmış kartlar; öneri motoru bunlardan seçer #}
 <div hidden id="pkPool">
   {% for r in collections.tarifler %}
-  <a class="pk-card" href="{{ r.url | link }}" data-slug="{{ r.fileSlug }}" data-cats="{{ r.data.cats | join(' ') }}" data-lvl="{{ r.data.lvl }}" data-min="{{ r.data.prep + r.data.cook }}" data-moods="{{ r.data.moods | join(' ') }}">
+  <a class="pk-card" href="{{ r.url | link }}" data-slug="{{ r.fileSlug }}" data-cats="{{ r.data.cats | join(' ') }}" data-lvl="{{ r.data.lvl }}" data-min="{{ r.data.prep + r.data.cook }}" data-moods="{{ (r.data.moods or []) | join(' ') }}">
     <span class="pk-art" style="background:{{ r.fileSlug | tint }}">{% visual r.data, 'plate', r.fileSlug %}</span>
     <span class="pk-txt">
       <span class="cat-name">{{ r.data.cats[0] | catLabel(categories) }}</span>
