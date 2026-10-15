@@ -1,0 +1,23 @@
+{%- set d = v.data -%}
+<section class="video-band" aria-label="Video tarif">
+  <div class="wrap vrow">
+    {% if d.youtube %}
+    <div class="yt yt-live"><iframe src="https://www.youtube-nocookie.com/embed/{{ d.youtube }}" title="{{ d.title }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    {% else %}
+    <a class="yt" href="{{ (v.url + '#video') | link }}" aria-label="{{ d.title }} tarifine git">
+      <div class="thumb">{% visual { art: d.art, title: d.title }, 'scene', v.fileSlug %}</div>
+      <span class="shade"></span>
+      <span class="chan"><i>m</i>mesai·mutfak</span>
+      <span class="pbtn"><svg viewBox="0 0 16 16"><path d="M3 1.5l11 6.5-11 6.5z"/></svg></span>
+      <span class="note">Video yakında{% if d.videoLen %} · {{ d.videoLen }}{% endif %}</span>
+    </a>
+    {% endif %}
+    <div class="vinfo">
+      <div class="eyebrow">Video tarif{% if d.videoLen %} · {{ d.videoLen }}{% endif %}</div>
+      <h2>{{ d.title }}</h2>
+      <p>{{ d.desc }}</p>
+      {% if d.chapters.length %}<ol class="chapters">{% for ch in d.chapters %}<li><span class="t">{{ ch[0] }}</span><span>{{ ch[1] }}<em>{{ ch[2] }}</em></span></li>{% endfor %}</ol>{% endif %}
+      <a class="more-link" href="{{ v.url | link }}">Tarifin tamamı →</a>
+    </div>
+  </div>
+</section>

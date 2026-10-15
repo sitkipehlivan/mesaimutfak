@@ -1,0 +1,18 @@
+{
+  "types": [
+    { "k": "ana", "l": "Ana yemekler", "s": "Akşam sofrasının yıldızları", "art": ["tomato", "onion", "sun"] },
+    { "k": "zeytinyagli", "l": "Zeytinyağlılar", "s": "Soğuk servis, ertesi gün daha güzel", "art": ["leaf", "pom", "leaf"] },
+    { "k": "arasicak", "l": "Ara sıcaklar", "s": "Sofraya ilk gelenler", "art": ["sun", "card", "sun"] },
+    { "k": "corba", "l": "Çorbalar", "s": "Bir tencere, birkaç gün", "art": ["tomato", "sun", "tomato"] },
+    { "k": "pilav", "l": "Pilavlar", "s": "Pirinçten bulgura, tane tane", "art": ["rice", "sun", "rice"] },
+    { "k": "kahvalti", "l": "Kahvaltılık", "s": "Hafta içi hızlı, hafta sonu keyifli", "art": ["sun", "tomato", "card"] },
+    { "k": "salata", "l": "Salata & meze", "s": "Yanına ya da başlı başına", "art": ["leaf", "tomato", "leaf"] },
+    { "k": "firin", "l": "Fırın yemekleri", "s": "Fırına ver, gerisini unut", "art": ["sun", "tomato", "onion"] },
+    { "k": "tatli", "l": "Tatlılar", "s": "Sütlüden şerbetliye", "art": ["pom", "card", "sun"] }
+  ],
+  "diets": [
+    { "k": "hizli", "l": "Beyaz yakalılar için hızlı", "s": "Mesai sonrası: az uğraş, az bulaşık", "art": ["sun", "tomato", "leaf"], "wc": true },
+    { "k": "vegan", "l": "Vegan", "s": "Hayvansal ürün yok, eksik lezzet de yok", "art": ["leaf", "pis", "tomato"] },
+    { "k": "glutensiz", "l": "Glutensiz", "s": "Buğday, arpa ve çavdar içermeyenler", "art": ["rice", "sun", "tomato"] }
+  ]
+}

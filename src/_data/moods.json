@@ -1,0 +1,8 @@
+[
+  { "k": "yorgun", "l": "Yorgunum", "s": "Az uğraş, az bulaşık", "e": "☕", "msg": "Bugün mutfakta kahramanlık yok. Kısa, kolay, tek kap." },
+  { "k": "soguk", "l": "Üşüdüm", "s": "İçimi ısıtsın", "e": "🧣", "msg": "Buharı tüten bir tencere iyi gelir." },
+  { "k": "hafif", "l": "Hafif bir şey", "s": "Ağır gelmesin", "e": "🌿", "msg": "Zeytinyağı, yeşillik, ferah bir tabak." },
+  { "k": "tatli", "l": "Canım tatlı çekiyor", "s": "Şeker şart", "e": "🍯", "msg": "Tatlı krizine en iyi cevap ev yapımı bir tatlı." },
+  { "k": "misafir", "l": "Misafir geliyor", "s": "Sofrada iz bıraksın", "e": "🍽️", "msg": "Masaya konunca \"tarifini verir misin?\" dedirtecek bir tabak." },
+  { "k": "keyif", "l": "Keyfim yerinde", "s": "Uğraşırım, sorun değil", "e": "🎶", "msg": "Müziği aç, önlüğü bağla. Bugün biraz uğraşmaya değer." }
+]

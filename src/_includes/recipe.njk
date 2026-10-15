@@ -1,0 +1,139 @@
+---
+layout: base.njk
+---
+{%- set me = collections.tarifler | bySlug(page.fileSlug) -%}
+{%- set catKey = cats[0] -%}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Konum">
+    <a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><a href="{{ ('/kategori/' + catKey + '/') | link }}">{{ catKey | catLabel(categories) }}</a><span>/</span><span aria-current="page">{{ title }}</span>
+  </nav>
+
+  <article class="recipe">
+    <header class="r-hero">
+      <div class="r-photo{% if image %} has-photo{% endif %}" style="background:{{ page.fileSlug | tint }}">
+        {% visual { image: image, imageAlt: imageAlt, title: title, art: art }, 'scene', page.fileSlug %}
+        {% if not image %}<span class="ph-tag">Fotoğraf alanı</span>{% endif %}
+      </div>
+      <div class="r-info">
+        <div class="r-cats">
+          {% for c in cats %}<a class="r-cat{% if c == 'hizli' %} wc{% endif %}" href="{{ ('/kategori/' + c + '/') | link }}">{{ c | catLabel(categories) }}</a>{% endfor %}
+        </div>
+        <h1>{{ title }}</h1>
+        <p class="r-desc">{{ desc }}</p>
+        <dl class="r-facts">
+          <div><dt>Hazırlık</dt><dd>{{ prep }} dk</dd></div>
+          <div><dt>Pişirme</dt><dd>{% if cook %}{{ cook }} dk{% else %}Ocak yok{% endif %}</dd></div>
+          <div><dt>Toplam</dt><dd>{{ prep + cook }} dk</dd></div>
+          <div><dt>Zorluk</dt><dd><span class="lvl lvl-{{ lvl | lower }}"><i></i><i></i><i></i></span>{{ lvl }}</dd></div>
+        </dl>
+        <div class="r-actions">
+          <a class="btn" href="#malzemeler">Malzemeler</a>
+          <a class="btn ghost" href="#video">{% if youtube %}Videoyu izle{% else %}Video{% endif %}</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="r-body">
+      <aside class="ingredients" id="malzemeler" data-base="{{ serv }}">
+        <div class="ing-head">
+          <h2>Malzemeler</h2>
+          <div class="servings" role="group" aria-label="Porsiyon">
+            <button type="button" class="srv-btn" data-d="-1" aria-label="Porsiyonu azalt">−</button>
+            <output class="mono" id="srvOut">{{ serv }} kişilik</output>
+            <button type="button" class="srv-btn" data-d="1" aria-label="Porsiyonu artır">+</button>
+          </div>
+        </div>
+        {% for grp in ingredients %}
+          {% if grp.group %}<h3 class="ing-group">{{ grp.group }}</h3>{% endif %}
+          <ul class="ing-list">
+            {% for it in grp.items %}
+            <li><label><input type="checkbox"><span class="amt mono" data-a="{{ it[0] }}">{{ it[0] | amt }}</span> <span class="unit">{{ it[1] }}</span> <span class="nm">{{ it[2] }}</span></label></li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
+        <p class="ing-note">İşaretlediklerin üstü çizilir, alışverişte işine yarar.</p>
+      </aside>
+
+      <div class="method">
+        <div class="r-intro">{{ content | safe }}</div>
+        <h2>Yapılışı</h2>
+        <ol class="steps">
+          {% for st in steps %}
+          <li>
+            <div class="st-no mono">{{ loop.index }}</div>
+            <div class="st-body">
+              <h3>{{ st.t }}{% if st.time %} <span class="st-time mono">{{ st.time }}</span>{% endif %}</h3>
+              <p>{{ st.d }}</p>
+            </div>
+          </li>
+          {% endfor %}
+        </ol>
+        {% if tips.length %}
+        <div class="tips">
+          <h2>Püf noktaları</h2>
+          <ul>{% for t in tips %}<li>{{ t }}</li>{% endfor %}</ul>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </article>
+</div>
+
+<section class="video-band" id="video" aria-label="Video tarif">
+  <div class="wrap vrow">
+    {% if youtube %}
+    <div class="yt yt-live">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ youtube }}" title="{{ title }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    {% else %}
+    <div class="yt" role="img" aria-label="{{ title }} videosu için yer">
+      <div class="thumb">{% visual { art: art, title: title }, 'scene', page.fileSlug %}</div>
+      <span class="shade"></span>
+      <span class="chan"><i>m</i>mesai·mutfak</span>
+      <span class="pbtn"><svg viewBox="0 0 16 16"><path d="M3 1.5l11 6.5-11 6.5z"/></svg></span>
+      <span class="note">Video yakında{% if videoLen %} · {{ videoLen }}{% endif %}</span>
+    </div>
+    {% endif %}
+    <div class="vinfo">
+      <div class="eyebrow">Video tarif{% if videoLen %} · {{ videoLen }}{% endif %}</div>
+      <h2>{{ title }}</h2>
+      {% if chapters.length %}
+      <p>Ölçüler ekranda, süreler tencerenin yanında. Bölümlere göre izle.</p>
+      <ol class="chapters">{% for ch in chapters %}<li><span class="t">{{ ch[0] }}</span><span>{{ ch[1] }}<em>{{ ch[2] }}</em></span></li>{% endfor %}</ol>
+      {% else %}
+      <p>Bu tarifin videosu hazırlanıyor. Yeni videolardan haberdar olmak için YouTube kanalına abone ol.</p>
+      <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+{%- set rel = collections.tarifler | related(me) -%}
+{% if rel.length %}
+<section class="block">
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Bunu sevdiysen</div><h2>Benzer tarifler</h2></div></div>
+    <div class="grid">{% for r in rel %}{% include "card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": {{ title | dump | safe }},
+  "description": {{ desc | dump | safe }},
+  {% if image %}"image": {{ (site.url + image) | dump | safe }},{% endif %}
+  "prepTime": "PT{{ prep }}M",
+  "cookTime": "PT{{ cook }}M",
+  "totalTime": "PT{{ prep + cook }}M",
+  "recipeYield": "{{ serv }} kişilik",
+  "recipeCategory": {{ (catKey | catLabel(categories)) | dump | safe }},
+  "recipeCuisine": "Türk",
+  "inLanguage": "tr",
+  "recipeIngredient": [{% for grp in ingredients %}{% for it in grp.items %}{{ ((it[0] | amt) + ' ' + it[1] + ' ' + it[2]) | trim | dump | safe }}{% if not loop.last %},{% endif %}{% endfor %}{% if not loop.last %},{% endif %}{% endfor %}],
+  "recipeInstructions": [{% for st in steps %}{"@type": "HowToStep", "name": {{ st.t | dump | safe }}, "text": {{ st.d | dump | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]{% if youtube %},
+  "video": {"@type": "VideoObject", "name": {{ title | dump | safe }}, "embedUrl": "https://www.youtube.com/embed/{{ youtube }}", "thumbnailUrl": "https://i.ytimg.com/vi/{{ youtube }}/hqdefault.jpg", "uploadDate": "{{ page.date.toISOString() }}"}{% endif %}
+}
+</script>

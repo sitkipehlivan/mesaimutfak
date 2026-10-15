@@ -1,0 +1,17 @@
+{
+  "_not": "Ana sayfa vitrini. Tarifleri dosya adıyla (slug) seç. heroImage boşsa tarifin kendi görseli, o da yoksa illüstrasyon kullanılır.",
+  "hero": {
+    "slug": "visneli-nar-eksili-zeytinyagli-sarma",
+    "eyebrow": "Haftanın tarifi · Zeytinyağlılar",
+    "heroImage": ""
+  },
+  "popular": ["tereyagli-pirinc-pilavi", "kirmizi-mercimek-corbasi", "firinda-karniyarik", "ayva-tatlisi"],
+  "videos": ["tereyagli-pirinc-pilavi", "visneli-nar-eksili-zeytinyagli-sarma"],
+  "week": [
+    { "d": "Pzt", "b": "Nohutlu bulgur + fırın tavuk", "c": ["rice", "tomato", "leaf"] },
+    { "d": "Sal", "b": "Mercimek çorbası + kısır", "c": ["tomato", "sun", "leaf"] },
+    { "d": "Çar", "b": "Sarma + yoğurt", "c": ["leaf", "card", "pom"] },
+    { "d": "Per", "b": "Bulgur + fırın sebze", "c": ["rice", "tomato", "sun"] },
+    { "d": "Cum", "b": "Mercimek köftesi + kısır", "c": ["leaf", "rice", "sun"] }
+  ]
+}

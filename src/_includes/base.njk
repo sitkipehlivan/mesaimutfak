@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% if title and not isHome %}{{ title }} · {{ site.name }}{% else %}{{ site.name }} · Pratik yemek tarifleri{% endif %}</title>
+<meta name="description" content="{{ desc or site.description }}">
+<meta name="theme-color" content="#F6F8F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121714" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta property="og:type" content="{% if layout == 'recipe.njk' %}article{% else %}website{% endif %}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ title or site.name }}">
+<meta property="og:description" content="{{ desc or site.description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+{% if image %}<meta property="og:image" content="{{ site.url }}{{ image }}">{% endif %}
+<meta property="og:locale" content="tr_TR">
+<link rel="icon" href="{{ '/favicon.svg' | link }}" type="image/svg+xml">
+<script>try{var t=localStorage.getItem('mm-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="{{ '/assets/style.css' | link }}">
+{% block head %}{% endblock %}
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="{{ '/' | link }}" aria-label="{{ site.name }} ana sayfa">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><rect x="5" y="15" width="30" height="19" rx="5" fill="var(--sun)" stroke="var(--ink)" stroke-width="2.5"/><rect x="10" y="9" width="20" height="5" rx="2.5" fill="var(--ink)"/><rect x="18" y="5" width="4" height="5" rx="2" fill="var(--ink)"/></svg>
+      mesai·mutfak
+    </a>
+    <nav class="main" aria-label="Ana menü">
+      <a href="{{ '/tarifler/' | link }}">Tarifler</a>
+      <a href="{{ '/#kategoriler' | link }}">Kategoriler</a>
+      <a href="{{ '/kategori/hizli/' | link }}">Beyaz yakalı hızlı</a>
+      <a href="{{ '/bugun-ne-pisirsem/' | link }}" class="nav-tool">Bugün ne pişirsem?</a>
+    </nav>
+    <button class="theme" id="themeBtn" aria-label="Koyu temaya geç"><svg class="sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg></button>
+    <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>YouTube</a>
+  </div>
+</header>
+
+<main id="top">
+{{ content | safe }}
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 mesaimutfak.com</span>
+    <nav class="foot-nav" aria-label="Alt menü">
+      <a href="{{ '/tarifler/' | link }}">Tüm tarifler</a>
+      <a href="{{ '/bugun-ne-pisirsem/' | link }}">Bugün ne pişirsem?</a>
+      <a href="{{ '/kategori/vegan/' | link }}">Vegan</a>
+      <a href="{{ '/kategori/glutensiz/' | link }}">Glutensiz</a>
+    </nav>
+    <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>
+  </div>
+</footer>
+<script src="{{ '/assets/site.js' | link }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

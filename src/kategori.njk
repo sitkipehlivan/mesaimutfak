@@ -1,0 +1,29 @@
+---
+layout: base.njk
+pagination:
+  data: allcats
+  size: 1
+  alias: cat
+permalink: "/kategori/{{ cat.k }}/"
+eleventyComputed:
+  title: "{{ cat.l }}"
+  desc: "{{ cat.l }} tarifleri: {{ cat.s }}"
+---
+{%- set list = collections.tarifler | inCat(cat.k) -%}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><a href="{{ '/#kategoriler' | link }}">Kategoriler</a><span>/</span><span aria-current="page">{{ cat.l }}</span></nav>
+  <header class="cat-hero{% if cat.wc %} wc{% endif %}">
+    <span class="ic" style="{% if not cat.wc %}background:{{ cat.k | tint }}{% endif %}">{% plateArt cat.art, cat.k %}</span>
+    <div>
+      <div class="eyebrow">Kategori · {{ list.length }} tarif</div>
+      <h1>{{ cat.l }}</h1>
+      <p>{{ cat.s }}</p>
+    </div>
+  </header>
+  <nav class="cat-strip" aria-label="Diğer kategoriler">
+    {% for c in allcats %}<a href="{{ ('/kategori/' + c.k + '/') | link }}"{% if c.k == cat.k %} aria-current="page"{% endif %}>{{ c.l }}</a>{% endfor %}
+  </nav>
+  <div class="grid" style="margin-block:28px 64px">
+    {% for r in list %}{% include "card.njk" %}{% else %}<div class="empty">Bu kategoride henüz tarif yok.</div>{% endfor %}
+  </div>
+</div>
