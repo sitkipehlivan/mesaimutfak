@@ -48,16 +48,16 @@ collections:
         min: 1
         hint: "Önce bir yemek türü seç (ilk tür ana kategori olur), sonra varsa Hızlı / Vegan / Glutensiz ekle."
         options:
-          - { label: Ana yemekler, value: ana }
+          - { label: Ana Yemekler, value: ana }
           - { label: Zeytinyağlılar, value: zeytinyagli }
-          - { label: Ara sıcaklar, value: arasicak }
+          - { label: Ara Sıcaklar, value: arasicak }
           - { label: Çorbalar, value: corba }
           - { label: Pilavlar, value: pilav }
           - { label: Kahvaltılık, value: kahvalti }
-          - { label: Salata & meze, value: salata }
-          - { label: Fırın yemekleri, value: firin }
+          - { label: Salata & Meze, value: salata }
+          - { label: Fırın Yemekleri, value: firin }
           - { label: Tatlılar, value: tatli }
-          - { label: Hızlı tarifler, value: hizli }
+          - { label: Hızlı Tarifler, value: hizli }
           - { label: Vegan, value: vegan }
           - { label: Glutensiz, value: glutensiz }
       - { name: lvl, label: Zorluk, widget: select, options: [Kolay, Orta, Zor], default: Kolay }
