@@ -15,8 +15,10 @@ art:
 - sun
 - onion
 - tomato
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/7/78/%C4%B0%C3%A7li_k%C3%B6fte_20250205.jpg'
+imageAlt: 'Çıtır kabuklu içli köfteler'
+imageCredit: 'Basak · CC0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:%C4%B0%C3%A7li_k%C3%B6fte_20250205.jpg'
 youtube: ''
 videoLen: ''
 chapters: []

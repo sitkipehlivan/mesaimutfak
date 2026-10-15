@@ -41,6 +41,8 @@ collections:
       - { name: desc, label: Kısa açıklama, widget: text, hint: "Kartlarda ve Google sonuçlarında görünen tek cümle." }
       - { name: image, label: Fotoğraf, widget: image, required: false, hint: "Yatay fotoğraf, en az 1600 px genişlik. Boş bırakılırsa illüstrasyon görünür." }
       - { name: imageAlt, label: Fotoğraf açıklaması, widget: string, required: false, hint: "Görme engelliler ve Google için: fotoğrafta ne var?" }
+      - { name: imageCredit, label: Fotoğraf kaynağı, widget: string, required: false, hint: "Kendi fotoğrafınsa boş bırak. Başka kaynaktan alındıysa: Fotoğrafçı · Lisans (ör. Ali Veli · CC BY 4.0)" }
+      - { name: imageCreditUrl, label: Fotoğraf kaynak linki, widget: string, required: false }
       - name: cats
         label: Kategoriler
         widget: select

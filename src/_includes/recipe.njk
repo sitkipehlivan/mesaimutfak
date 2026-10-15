@@ -11,8 +11,9 @@ layout: base.njk
   <article class="recipe">
     <header class="r-hero">
       <div class="r-photo{% if image %} has-photo{% endif %}" style="background:{{ page.fileSlug | tint }}">
-        {% visual { image: image, imageAlt: imageAlt, title: title, art: art }, 'scene', page.fileSlug %}
+        {% visual { image: image, imageAlt: imageAlt, title: title, art: art }, 'scene', page.fileSlug, true %}
         {% if not image %}<span class="ph-tag">Fotoğraf alanı</span>{% endif %}
+        {% if imageCredit %}<a class="credit" href="{{ imageCreditUrl or '#' }}" target="_blank" rel="noopener">Fotoğraf: {{ imageCredit }}</a>{% endif %}
       </div>
       <div class="r-info">
         <div class="r-cats">
@@ -87,7 +88,7 @@ layout: base.njk
     </div>
     {% else %}
     <div class="yt" role="img" aria-label="{{ title }} videosu için yer">
-      <div class="thumb">{% visual { art: art, title: title }, 'scene', page.fileSlug %}</div>
+      <div class="thumb">{% visual { image: image, imageAlt: '', title: title, art: art }, 'scene', page.fileSlug %}</div>
       <span class="shade"></span>
       <span class="chan"><i>m</i>mesai·mutfak</span>
       <span class="pbtn"><svg viewBox="0 0 16 16"><path d="M3 1.5l11 6.5-11 6.5z"/></svg></span>
@@ -124,7 +125,7 @@ layout: base.njk
   "@type": "Recipe",
   "name": {{ title | dump | safe }},
   "description": {{ desc | dump | safe }},
-  {% if image %}"image": {{ (site.url + image) | dump | safe }},{% endif %}
+  {% if image %}"image": {{ (site.url + (image | imgUrl(1600))) | dump | safe }},{% endif %}
   "prepTime": "PT{{ prep }}M",
   "cookTime": "PT{{ cook }}M",
   "totalTime": "PT{{ prep + cook }}M",

@@ -7,7 +7,7 @@ isHome: true
 {# 1. Haftanın tarifi #}
 <div class="wrap hero-solo">
   <a class="feature" href="{{ heroR.url | link }}">
-    <span class="photo">{% visual { image: heroR.data.image, heroImage: home.hero.heroImage, imageAlt: heroR.data.imageAlt, title: heroR.data.title, art: heroR.data.art }, 'scene', heroR.fileSlug %}</span>
+    <span class="photo">{% visual { image: heroR.data.image, heroImage: home.hero.heroImage, imageAlt: heroR.data.imageAlt, title: heroR.data.title, art: heroR.data.art }, 'scene', heroR.fileSlug, true %}</span>
     {% if not (home.hero.heroImage or heroR.data.image) %}<span class="ph-tag">Fotoğraf alanı</span>{% endif %}
     <span class="over">
       <span class="eyebrow">{{ home.hero.eyebrow }}</span>

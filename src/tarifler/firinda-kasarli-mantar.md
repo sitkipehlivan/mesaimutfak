@@ -17,8 +17,10 @@ art:
 - card
 - sun
 - onion
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/8/84/Baby_bella_mushrooms%2C_baked_with_cheeses%2C_garlic%2C_and_olive_oil_-_Massachusetts.jpg'
+imageAlt: 'Peynirli, sarımsaklı fırında mantar'
+imageCredit: 'Daderot · CC0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Baby_bella_mushrooms,_baked_with_cheeses,_garlic,_and_olive_oil_-_Massachusetts.jpg'
 youtube: ''
 videoLen: ''
 chapters: []

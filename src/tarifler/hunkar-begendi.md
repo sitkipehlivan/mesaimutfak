@@ -16,8 +16,10 @@ art:
 - card
 - tomato
 - onion
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/4/4f/Hunkarbegendi.jpg'
+imageAlt: 'Patlıcanlı beğendi üzerinde etli hünkâr beğendi'
+imageCredit: 'lezzetcatering.com · CC BY-SA 3.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Hunkarbegendi.jpg'
 youtube: ''
 videoLen: ''
 chapters: []

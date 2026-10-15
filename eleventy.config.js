@@ -24,6 +24,7 @@ export function fmtAmount(n) {
 
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets', 'src/img': 'img', 'src/favicon.svg': 'favicon.svg', 'src/robots.txt': 'robots.txt', 'src/admin': 'admin' });
+  eleventyConfig.addCollection('photos', api => api.getFilteredByGlob('src/tarifler/*.md').filter(r => r.data.image && r.data.imageCredit).sort((a, b) => a.data.title.localeCompare(b.data.title, 'tr')));
   eleventyConfig.ignores.add('src/admin/**');
 
   eleventyConfig.addCollection('tarifler', api =>
@@ -42,11 +43,22 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('sortByMin', list => [...list].sort((a, b) => (a.data.prep + a.data.cook) - (b.data.prep + b.data.cook)));
   eleventyConfig.addFilter('take', (list, n) => list.slice(0, n));
 
-  // Görsel: dosya varsa fotoğraf, yoksa illüstrasyon
-  eleventyConfig.addShortcode('visual', function (data, kind = 'plate', key = '') {
+  // Netlify Image CDN: fotoğrafı boyutlandırıp WebP/AVIF olarak sunar (uzak adresler netlify.toml'da izinli)
+  const cdn = (src, w) => PREVIEW ? src : `/.netlify/images?url=${encodeURIComponent(src)}&w=${w}&q=72`;
+  eleventyConfig.addFilter('imgUrl', (src, w = 1200) => src ? cdn(src, w) : '');
+
+  // Görsel: fotoğraf varsa fotoğraf, yoksa illüstrasyon
+  eleventyConfig.addShortcode('visual', function (data, kind = 'plate', key = '', eager = false) {
     const from = this.page?.url || '/';
     const img = kind === 'scene' ? (data.heroImage || data.image) : data.image;
-    if (img) return `<img class="photo-img" src="${relLink(from, img)}" alt="${(data.imageAlt || data.title || '').replace(/"/g, '&quot;')}" loading="${kind === 'scene' ? 'eager' : 'lazy'}">`;
+    if (img) {
+      const src = img.startsWith('/') ? relLink(from, img) : img;
+      const widths = kind === 'scene' ? [800, 1200, 1800] : [400, 700, 1000];
+      const sizes = kind === 'scene' ? '(max-width: 900px) 100vw, 1200px' : '(max-width: 600px) 100vw, 400px';
+      const alt = (data.imageAlt || data.title || '').replace(/"/g, '&quot;');
+      const lazy = kind === 'scene' && eager ? 'eager" fetchpriority="high' : 'lazy';
+      return `<img class="photo-img" src="${cdn(src, widths[1])}" srcset="${widths.map(w => cdn(src, w) + ' ' + w + 'w').join(', ')}" sizes="${sizes}" alt="${alt}" loading="${lazy}" decoding="async">`;
+    }
     return kind === 'scene' ? tabletop(data.art, key || data.title) : plate(data.art, key || data.title);
   });
   eleventyConfig.addShortcode('plateArt', (art, key) => plate(art, key));

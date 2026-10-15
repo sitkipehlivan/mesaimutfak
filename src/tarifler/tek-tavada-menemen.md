@@ -16,8 +16,10 @@ art:
 - tomato
 - sun
 - leaf
-image: ''
-imageAlt: ''
+image: 'https://images.unsplash.com/photo-1582492710145-d723e0a219f8'
+imageAlt: 'Tavada domatesli, yumurtalı menemen'
+imageCredit: 'amirali mirhashemian · Unsplash lisansı'
+imageCreditUrl: 'https://unsplash.com/photos/stainless-steel-bowl-with-food-K9oKpOebg84'
 youtube: ''
 videoLen: ''
 chapters: []

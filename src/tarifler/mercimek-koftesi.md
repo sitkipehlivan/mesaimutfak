@@ -16,8 +16,10 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Mercimekkoftesi.jpg'
+imageAlt: 'Tabağa dizilmiş mercimek köfteleri'
+imageCredit: 'Ahzaryamed · CC BY-SA 4.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Mercimekkoftesi.jpg'
 youtube: ''
 videoLen: ''
 chapters: []

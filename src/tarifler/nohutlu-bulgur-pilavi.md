@@ -17,8 +17,10 @@ art:
 - sun
 - rice
 - leaf
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Bulgur_pilav%C4%B1_%28tel_sehriyeli%29.jpg'
+imageAlt: 'Tabakta bulgur pilavı'
+imageCredit: 'E4024 · CC BY-SA 4.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Bulgur_pilav%C4%B1_(tel_sehriyeli).jpg'
 youtube: ''
 videoLen: ''
 chapters: []

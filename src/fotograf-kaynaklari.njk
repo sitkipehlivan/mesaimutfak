@@ -1,0 +1,25 @@
+---
+layout: base.njk
+permalink: /fotograf-kaynaklari/
+title: Fotoğraf kaynakları
+desc: Mesai Mutfak'ta kullanılan fotoğrafların sahipleri ve lisansları.
+---
+<div class="wrap">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Fotoğraf kaynakları</span></nav>
+  <header class="cat-hero">
+    <div>
+      <div class="eyebrow">Teşekkürler</div>
+      <h1>Fotoğraf kaynakları</h1>
+      <p>Bazı tarif fotoğrafları, fotoğrafçılarının açık lisansla paylaştığı çalışmalardır. Fotoğrafçı adı ve lisansı aşağıda, her birinin kaynak sayfası bağlantıda.</p>
+    </div>
+  </header>
+  <ul class="credits-list">
+    {% for r in collections.photos %}
+    <li>
+      <a class="th" href="{{ r.url | link }}">{% visual r.data, 'plate', r.fileSlug %}</a>
+      <div><a href="{{ r.url | link }}"><b>{{ r.data.title }}</b></a><span>{{ r.data.imageCredit }}</span>{% if r.data.imageCreditUrl %}<a class="src" href="{{ r.data.imageCreditUrl }}" target="_blank" rel="noopener">Kaynak sayfası ↗</a>{% endif %}</div>
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="credits-note">CC BY ve CC BY-SA lisanslı fotoğraflar, lisans koşulları gereği fotoğrafçı adı belirtilerek kullanılmaktadır. CC0, kamu malı ve Unsplash lisanslı fotoğraflar serbestçe kullanılabilir.</p>
+</div>

@@ -2,6 +2,9 @@
   command = "npm run build"
   publish = "_site"
 
+[images]
+  remote_images = ["https://upload\\.wikimedia\\.org/.*", "https://images\\.unsplash\\.com/.*", "https://images\\.pexels\\.com/.*"]
+
 [build.environment]
   NODE_VERSION = "22"
 

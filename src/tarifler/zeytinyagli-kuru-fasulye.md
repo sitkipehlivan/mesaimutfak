@@ -17,8 +17,10 @@ art:
 - card
 - tomato
 - onion
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Kuru_fasulye_%28etsiz%29.jpg'
+imageAlt: 'Tabakta etsiz kuru fasulye'
+imageCredit: 'E4024 · CC BY-SA 4.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Kuru_fasulye_(etsiz).jpg'
 youtube: ''
 videoLen: ''
 chapters: []

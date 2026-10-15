@@ -18,8 +18,10 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/5/54/Mercimek_%C3%A7orbas%C4%B1_in_Ankara.jpg'
+imageAlt: 'Kasede kırmızı mercimek çorbası ve limon'
+imageCredit: 'E4024 · CC BY-SA 4.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbas%C4%B1_in_Ankara.jpg'
 youtube: ''
 videoLen: ''
 chapters: []

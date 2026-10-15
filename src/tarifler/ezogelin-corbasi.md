@@ -15,8 +15,10 @@ art:
 - tomato
 - sun
 - leaf
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/6/60/20230430_Ezogelin_%C3%A7orbas%C4%B1.jpg'
+imageAlt: 'Kasede ezogelin çorbası'
+imageCredit: 'Basak · CC BY-SA 4.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:20230430_Ezogelin_%C3%A7orbas%C4%B1.jpg'
 youtube: ''
 videoLen: ''
 chapters: []

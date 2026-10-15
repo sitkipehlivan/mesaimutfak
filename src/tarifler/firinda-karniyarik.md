@@ -17,8 +17,10 @@ art:
 - onion
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Karn%C4%B1yar%C4%B1k_-_Lunch_at_Yanyali_Fehmi_Lokantasi_%286421044715%29.jpg'
+imageAlt: 'Kıymalı harçla doldurulmuş, üzeri domates ve biberli karnıyarık'
+imageCredit: 'William Neuheisel · CC BY 2.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Karn%C4%B1yar%C4%B1k_-_Lunch_at_Yanyali_Fehmi_Lokantasi_(6421044715).jpg'
 youtube: ''
 videoLen: ''
 chapters: []

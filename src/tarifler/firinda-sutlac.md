@@ -16,8 +16,10 @@ art:
 - card
 - sun
 - card
-image: ''
-imageAlt: ''
+image: 'https://upload.wikimedia.org/wikipedia/commons/7/7f/F%C4%B1r%C4%B1n_s%C3%BCtla%C3%A7.jpg'
+imageAlt: 'Toprak kapta, üzeri kızarmış fırın sütlaç'
+imageCredit: 'E4024 · CC BY-SA 4.0'
+imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:F%C4%B1r%C4%B1n_s%C3%BCtla%C3%A7.jpg'
 youtube: ''
 videoLen: ''
 chapters: []
