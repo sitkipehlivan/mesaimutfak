@@ -3,8 +3,9 @@ layout: base.njk
 isHome: true
 ---
 {%- set heroR = collections.tarifler | bySlug(home.hero.slug) -%}
-{%- set vids = collections.tarifler | bySlugs(home.videos) -%}
-<div class="wrap hero">
+
+{# 1. Haftanın tarifi #}
+<div class="wrap hero-solo">
   <a class="feature" href="{{ heroR.url | link }}">
     <span class="photo">{% visual { image: heroR.data.image, heroImage: home.hero.heroImage, imageAlt: heroR.data.imageAlt, title: heroR.data.title, art: heroR.data.art }, 'scene', heroR.fileSlug %}</span>
     {% if not (home.hero.heroImage or heroR.data.image) %}<span class="ph-tag">Fotoğraf alanı</span>{% endif %}
@@ -14,51 +15,49 @@ isHome: true
       <span class="meta"><span>{{ heroR.data.prep + heroR.data.cook }} dk</span><span>{{ heroR.data.serv }} kişilik</span><span>{{ heroR.data.lvl }}</span></span>
     </span>
   </a>
-  <aside class="popular">
-    <div class="eyebrow">Bu hafta en çok bakılanlar</div>
-    <div class="pop-list">
-      {% for r in collections.tarifler | bySlugs(home.popular) %}
-      <a class="pop-item" href="{{ r.url | link }}"><span class="th" style="background:{{ r.fileSlug | tint }}">{% visual r.data, 'plate', r.fileSlug %}</span><span><b><span class="n">{{ loop.index }}</span>{{ r.data.title }}</b><span>{{ r.data.prep + r.data.cook }} dk · {{ r.data.serv }} kişilik</span></span></a>
-      {% endfor %}
-    </div>
-  </aside>
 </div>
 
-<section class="block" id="kategoriler" style="padding-top:8px">
+{# 2. Kategoriler #}
+<section class="home-sec" id="kategoriler">
   <div class="wrap">
-    <div class="sec-head"><h2>Kategoriler</h2></div>
-    <div class="cat-group">
-      <h3>Sofraya göre<span>Ne pişirmek istiyorsun?</span></h3>
-      <div class="cats">
-        {% for c in categories.types %}
-        <a class="cat" href="{{ ('/kategori/' + c.k + '/') | link }}"><span class="ic" style="background:{{ c.k | tint }}">{% plateArt c.art, c.k %}</span><b>{{ c.l }}</b></a>
-        {% endfor %}
-      </div>
+    <div class="home-head">
+      <h2>Kategoriler</h2>
+      <a class="tool-btn" href="{{ '/bugun-ne-pisirsem/' | link }}">Bugün ne pişirsem? <span aria-hidden="true">→</span></a>
     </div>
-    <div class="cat-group">
-      <h3>Sana göre<span>Beslenme tercihi ve vakit</span></h3>
-      <div class="diet">
-        {% for c in categories.diets %}
-        <a class="dcard{% if c.wc %} wc{% endif %}" href="{{ ('/kategori/' + c.k + '/') | link }}"><span class="ic" style="{% if not c.wc %}background:{{ c.k | tint }}{% endif %}">{% plateArt c.art, c.k %}</span><span><b>{{ c.l }}</b><span>{{ c.s }}</span><em>{{ (collections.tarifler | inCat(c.k)).length }} tarif</em></span></a>
-        {% endfor %}
-      </div>
+    <div class="cats cats-sm">
+      {% for c in categories.types %}
+      <a class="cat" href="{{ ('/kategori/' + c.k + '/') | link }}"><span class="ic" style="background:{{ c.k | tint }}">{% plateArt c.art, c.k %}</span><b>{{ c.l }}</b></a>
+      {% endfor %}
     </div>
   </div>
 </section>
 
-<section class="block" style="padding-top:12px">
+{# 3. Sana göre #}
+<section class="home-sec">
   <div class="wrap">
-    <div class="sec-head">
-      <div><div class="eyebrow">Son eklenenler</div><h2>Yeni tarifler</h2></div>
-      <a class="clear" href="{{ '/tarifler/' | link }}">Tüm tarifler</a>
+    <div class="home-head"><h2>Sana göre</h2><span class="home-sub">Beslenme tercihi ve vakit</span></div>
+    <div class="diet">
+      {% for c in categories.diets %}
+      <a class="dcard{% if c.wc %} wc{% endif %}" href="{{ ('/kategori/' + c.k + '/') | link }}"><span class="ic" style="{% if not c.wc %}background:{{ c.k | tint }}{% endif %}">{% plateArt c.art, c.k %}</span><span><b>{{ c.l }}</b><span>{{ c.s }}</span><em>{{ (collections.tarifler | inCat(c.k)).length }} tarif</em></span></a>
+      {% endfor %}
     </div>
-    <div class="grid">{% for r in collections.tarifler | take(8) %}{% include "card.njk" %}{% endfor %}</div>
   </div>
 </section>
 
-{% if vids[0] %}{% set v = vids[0] %}{% include "video-band.njk" %}{% endif %}
+{# 4. En çok bakılanlar #}
+<section class="home-sec">
+  <div class="wrap">
+    <div class="home-head"><h2>Bu hafta en çok bakılanlar</h2><a class="home-more" href="{{ '/tarifler/' | link }}">Tüm tarifler →</a></div>
+    <div class="pop-row">
+      {% for r in collections.tarifler | bySlugs(home.popular) %}
+      <a class="pop-item" href="{{ r.url | link }}"><span class="th" style="background:{{ r.fileSlug | tint }}">{% visual r.data, 'plate', r.fileSlug %}</span><span><b><span class="n">{{ loop.index }}</span>{{ r.data.title }}</b><span>{{ r.data.prep + r.data.cook }} dk · {{ r.data.lvl }}</span></span></a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
 
-<section class="block">
+{# 5. Bugün ne pişirsem? #}
+<section class="home-sec">
   <div class="wrap">
     <div class="picker-promo">
       <div>
@@ -73,7 +72,8 @@ isHome: true
   </div>
 </section>
 
-<section class="block" id="hizli" style="padding-top:0">
+{# 6. Beyaz yakalılar için hızlı #}
+<section class="home-sec home-last" id="hizli">
   <div class="wrap">
     <div class="wc-band">
       <div class="sec-head">
@@ -82,42 +82,13 @@ isHome: true
           <h2>Mesaiden çık, kısa sürede sofrada ol.</h2>
           <p>Tek kap, az bulaşık, ertesi gün ofis kutusuna da giren tarifler.</p>
         </div>
-        <a class="clear" href="{{ '/kategori/hizli/' | link }}">Kategorinin tümü</a>
+        <a class="clear" href="{{ '/kategori/hizli/' | link }}">Kategoriye git</a>
       </div>
       <div class="wc-grid">
         {% for r in collections.tarifler | inCat('hizli') | sortByMin | take(4) %}
-        <a class="wc-card" href="{{ r.url | link }}"><span class="clock">{{ r.data.prep + r.data.cook }}<small>dk</small></span><b>{{ r.data.title }}</b><span>{{ r.data.desc }}</span></a>
+        <a class="wc-card" href="{{ r.url | link }}"><span class="clock">{{ r.data.prep + r.data.cook }}<small>dk</small></span><b>{{ r.data.title }}</b></a>
         {% endfor %}
       </div>
-      <div class="wc-split">
-        <div>
-          <div class="eyebrow">Hafta hazırlığı</div>
-          <h3>Pazar 2 saat, hafta boyu 5 öğle yemeği.</h3>
-          <p>Fırın ve ocak aynı anda çalışır: bir tepsi sebze-tavuk, bir tencere bulgur, bir tencere çorba. Pazartesiden cumaya kutular hazır.</p>
-        </div>
-        <div class="week">
-          {% for w in home.week %}<div class="day"><span class="d">{{ w.d }}</span><div class="box" aria-hidden="true">{% for c in w.c %}<i style="background:var(--{{ c }})"></i>{% endfor %}</div><b>{{ w.b }}</b></div>{% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-{% if vids[1] %}{% set v = vids[1] %}{% include "video-band.njk" %}{% endif %}
-
-<section class="block" id="bulten">
-  <div class="wrap">
-    <div class="news">
-      <div>
-        <h2>Cuma bülteni</h2>
-        <p>Haftada bir e-posta: hafta sonu tarifi, yeni videolar ve market listesi.</p>
-      </div>
-      <form id="newsForm" novalidate>
-        <label for="email" class="eyebrow" style="flex-basis:100%;color:#10200A">E-posta adresin</label>
-        <input id="email" type="email" placeholder="ad@ornek.com" autocomplete="email">
-        <button type="submit">Abone ol</button>
-        <div class="msg" id="newsMsg" role="status"></div>
-      </form>
     </div>
   </div>
 </section>

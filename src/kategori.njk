@@ -20,9 +20,6 @@ eleventyComputed:
       <p>{{ cat.s }}</p>
     </div>
   </header>
-  <nav class="cat-strip" aria-label="Diğer kategoriler">
-    {% for c in allcats %}<a href="{{ ('/kategori/' + c.k + '/') | link }}"{% if c.k == cat.k %} aria-current="page"{% endif %}>{{ c.l }}</a>{% endfor %}
-  </nav>
   <div class="grid" style="margin-block:28px 64px">
     {% for r in list %}{% include "card.njk" %}{% else %}<div class="empty">Bu kategoride henüz tarif yok.</div>{% endfor %}
   </div>

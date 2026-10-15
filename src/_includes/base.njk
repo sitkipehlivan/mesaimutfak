@@ -39,6 +39,12 @@
     <button class="theme" id="themeBtn" aria-label="Koyu temaya geç"><svg class="sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg></button>
     <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>YouTube</a>
   </div>
+  <nav class="topcats" aria-label="Kategoriler">
+    <div class="wrap">
+      <a href="{{ '/yeni-tarifler/' | link }}"{% if page.url == '/yeni-tarifler/' %} aria-current="page"{% endif %}>Yeni eklenenler</a>
+      {% for c in allcats %}<a href="{{ ('/kategori/' + c.k + '/') | link }}"{% if page.url == '/kategori/' + c.k + '/' %} aria-current="page"{% endif %}{% if c.wc %} class="wc"{% endif %}>{{ c.l }}</a>{% endfor %}
+    </div>
+  </nav>
 </header>
 
 <main id="top">

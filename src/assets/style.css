@@ -249,7 +249,7 @@ nav.main a.nav-tool{color:var(--pom)}
 
 .r-body{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,7fr);gap:40px;align-items:start;padding-bottom:64px}
 @media (max-width:900px){.r-body{grid-template-columns:1fr;gap:28px}}
-.ingredients{position:sticky;top:calc(env(safe-area-inset-top,0px) + 84px);background:var(--card);border:2px solid var(--ink);border-radius:22px;padding:22px}
+.ingredients{position:sticky;top:calc(env(safe-area-inset-top,0px) + 132px);background:var(--card);border:2px solid var(--ink);border-radius:22px;padding:22px}
 @media (max-width:900px){.ingredients{position:static}}
 .ing-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:6px}
 .ing-head h2{font-size:26px}
@@ -329,7 +329,7 @@ nav.main a.nav-tool{color:var(--pom)}
 .opt span{display:inline-block;border:1.5px solid var(--ink);background:var(--card);border-radius:99px;padding:8px 15px;font-weight:600;font-size:14px;cursor:pointer}
 .opt input:checked + span{background:var(--ink);color:var(--card)}
 .pk-submit{display:flex;gap:10px;flex-wrap:wrap}
-.pk-result{position:sticky;top:calc(env(safe-area-inset-top,0px) + 84px);background:var(--card);border:2px solid var(--ink);border-radius:26px;padding:22px;box-shadow:8px 8px 0 var(--ink)}
+.pk-result{position:sticky;top:calc(env(safe-area-inset-top,0px) + 132px);background:var(--card);border:2px solid var(--ink);border-radius:26px;padding:22px;box-shadow:8px 8px 0 var(--ink)}
 @media (max-width:960px){.pk-result{position:static}}
 .pk-msg{font-family:var(--f-display);font-weight:700;font-size:20px;line-height:1.2;margin:0 0 16px}
 .pk-card{display:grid;grid-template-columns:84px minmax(0,1fr);gap:14px;align-items:center;padding:10px;border:1.5px solid var(--line);border-radius:16px}
@@ -353,3 +353,39 @@ nav.main a.nav-tool{color:var(--pom)}
 .pk-more .mono{font-size:13px;color:var(--ink-2)}
 .pk-alt-head{margin-bottom:10px}
 .pk-alts{display:flex;flex-direction:column;gap:10px}
+
+/* ===== v4: sade ana sayfa ===== */
+.topcats{border-top:1px solid var(--line)}
+.topcats .wrap{display:flex;gap:6px;overflow-x:auto;padding-block:8px;scrollbar-width:none}
+.topcats .wrap::-webkit-scrollbar{display:none}
+.topcats a{flex:none;text-decoration:none;font-size:13.5px;font-weight:600;padding:5px 12px;border-radius:99px;border:1px solid transparent;color:var(--ink-2)}
+.topcats a:hover{border-color:var(--line);color:var(--ink)}
+.topcats a[aria-current="page"]{background:var(--ink);color:var(--card)}
+.topcats a.wc{color:#18201C;background:var(--sun)}
+html{scroll-padding-top:130px}
+
+.hero-solo{padding-block:24px 8px}
+.hero-solo .feature .photo{aspect-ratio:21/9}
+@media (max-width:700px){.hero-solo .feature .photo{aspect-ratio:4/3}}
+
+.home-sec{padding-block:30px}
+.home-last{padding-bottom:64px}
+.home-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px 20px;flex-wrap:wrap;margin-bottom:18px}
+.home-head h2{font-size:clamp(26px,3.2vw,36px);font-weight:800;line-height:1}
+.home-sub{color:var(--ink-2);font-size:15px;margin-right:auto}
+.home-more{font-weight:700;text-decoration:none;color:var(--pom)}
+.home-more:hover{text-decoration:underline}
+.tool-btn{display:inline-flex;align-items:center;gap:8px;background:var(--pom);color:#fff;border:2px solid var(--ink);border-radius:99px;padding:9px 18px;font-weight:700;font-size:15px;text-decoration:none;box-shadow:3px 3px 0 var(--ink);transition:transform .15s,box-shadow .15s}
+.tool-btn:hover{transform:translate(-1px,-1px);box-shadow:4px 4px 0 var(--ink)}
+
+.cats-sm{grid-template-columns:repeat(9,minmax(0,1fr));gap:10px}
+.cats-sm .ic{max-width:84px}
+.cats-sm b{font-size:13.5px}
+@media (max-width:1000px){.cats-sm{grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:96px;overflow-x:auto;padding-bottom:6px}}
+
+.pop-row{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+@media (max-width:1000px){.pop-row{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){.pop-row{grid-template-columns:1fr}}
+.pop-row .pop-item{grid-template-columns:80px minmax(0,1fr)}
+.wc-card b{font-size:17px}
+@media (prefers-reduced-motion: reduce){.tool-btn{transition:none}}

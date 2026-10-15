@@ -1,0 +1,19 @@
+---
+layout: base.njk
+permalink: /yeni-tarifler/
+title: Yeni eklenenler
+desc: Mesai Mutfak'a en son eklenen tarifler.
+---
+<div class="wrap">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Yeni eklenenler</span></nav>
+  <header class="cat-hero">
+    <div>
+      <div class="eyebrow">Son eklenen 12 tarif</div>
+      <h1>Yeni eklenenler</h1>
+      <p>Mutfağa en son giren tarifler, en yeniden eskiye.</p>
+    </div>
+  </header>
+  <div class="grid" style="margin-block:12px 64px">
+    {% for r in collections.tarifler | take(12) %}{% include "card.njk" %}{% endfor %}
+  </div>
+</div>

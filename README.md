@@ -7,14 +7,14 @@ Pratik yemek tarifleri sitesi. [Eleventy](https://www.11ty.dev) ile derlenir, Ne
 ```
 src/
   tarifler/*.md          her tarif bir dosya (malzemeler, adımlar, video, görsel)
-  _data/home.json        ana sayfa vitrini: haftanın tarifi, popülerler, ana sayfa videoları
+  _data/home.json        ana sayfa vitrini: haftanın tarifi ve en çok bakılanlar
   _data/categories.json  kategoriler
   _data/moods.json       "Bugün ne pişirsem?" aracındaki ruh halleri
   img/tarifler/          tarif fotoğrafları
   assets/                stil ve script
 ```
 
-Sayfalar: ana sayfa, `/tarif/<dosya-adı>/`, `/kategori/<anahtar>/`, `/tarifler/`, `/bugun-ne-pisirsem/`.
+Sayfalar: ana sayfa, `/yeni-tarifler/`, `/tarif/<dosya-adı>/`, `/kategori/<anahtar>/`, `/tarifler/`, `/bugun-ne-pisirsem/`.
 
 ## Yeni tarif eklemek
 
@@ -34,7 +34,7 @@ Görsel yoksa sitede illüstrasyon görünür. Ana sayfanın büyük görseli i�
 
 ## Video eklemek
 
-YouTube'a yüklenen videonun ID'sini (`youtube.com/watch?v=` sonrasındaki kısım) tarif dosyasındaki `youtube:` alanına yaz. Detay sayfasındaki video alanı otomatik olarak gerçek videoya döner. `chapters` alanı YouTube bölüm listesiyle aynı tutulabilir. Ana sayfada hangi videoların görüneceği `home.json` > `videos` listesinden seçilir.
+YouTube'a yüklenen videonun ID'sini (`youtube.com/watch?v=` sonrasındaki kısım) tarif dosyasındaki `youtube:` alanına yaz. Detay sayfasındaki video alanı otomatik olarak gerçek videoya döner. `chapters` alanı YouTube bölüm listesiyle aynı tutulabilir. Videolar ana sayfada değil, tarif detay sayfalarında gösterilir.
 
 ## Yerelde çalıştırmak
 

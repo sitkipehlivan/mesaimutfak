@@ -13,9 +13,6 @@ desc: Mesai Mutfak'taki tüm pratik yemek tarifleri.
       <p>Kategoriye göre süz, ya da karar veremiyorsan <a href="{{ '/bugun-ne-pisirsem/' | link }}">bugün ne pişirsem?</a> aracını dene.</p>
     </div>
   </header>
-  <nav class="cat-strip" aria-label="Kategoriler">
-    {% for c in allcats %}<a href="{{ ('/kategori/' + c.k + '/') | link }}">{{ c.l }}</a>{% endfor %}
-  </nav>
   <div class="grid" style="margin-block:28px 64px">
     {% for r in collections.tarifler %}{% include "card.njk" %}{% endfor %}
   </div>
