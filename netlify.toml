@@ -1,0 +1,21 @@
+[build]
+  publish = "."
+
+# www → çıplak domain
+[[redirects]]
+  from = "https://www.mesaimutfak.com/*"
+  to = "https://mesaimutfak.com/:splat"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+
+[[headers]]
+  for = "/*.svg"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"

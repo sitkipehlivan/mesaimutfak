@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mesai Mutfak · Pratik yemek tarifleri</title>
+<meta name="description" content="Ana yemekten tatlıya, vegan ve glutensiz seçeneklerle pratik yemek tarifleri ve kısa video tarifler.">
+<meta name="theme-color" content="#F6F8F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121714" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="https://mesaimutfak.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Mesai Mutfak">
+<meta property="og:title" content="Mesai Mutfak · Pratik yemek tarifleri">
+<meta property="og:description" content="Ana yemekten tatlıya pratik tarifler ve kısa video tarifler.">
+<meta property="og:url" content="https://mesaimutfak.com/">
+<meta property="og:locale" content="tr_TR">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<script>try{var t=localStorage.getItem('mm-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap">
+<style>
+html{scroll-padding-top:80px}
+body{margin:0}
+/* Layout: food magazine home — big visual hero with side "popular" list, category circles, recipe grid, YouTube video slots between sections, a white-collar quick-recipes band. */
+:root{
+  --paper:#F6F8F2; --card:#FFFFFF; --ink:#18201C; --ink-2:#4A564F; --line:#DDE3D6;
+  --pis:#7FAF5C; --pom:#D2335A; --sun:#F2B12E; --tomato:#E5603D; --rice:#F1EBDC;
+  --water:#BFDCEA; --leaf:#5C8B45; --onion:#9B6CB0; --plate:#FFFFFF; --plate-ring:#E7ECE2;
+  --table:#D9E4CF; --yt:#E5262E;
+  --f-display:"Bricolage Grotesque","Arial Black",system-ui,sans-serif;
+  --f-body:"Figtree","Helvetica Neue",Arial,system-ui,sans-serif;
+  --f-mono:"DM Mono",ui-monospace,Menlo,monospace;
+  --r:18px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#121714; --card:#1B221E; --ink:#ECF1E7; --ink-2:#A9B5AC; --line:#2C3631;
+    --pis:#97C877; --pom:#F0587C; --sun:#F5BE45; --tomato:#F07A57; --rice:#E6DFCD;
+    --water:#5A8BA3; --leaf:#77A65E; --onion:#B58BCB; --plate:#222B26; --plate-ring:#2F3A34;
+    --table:#26302A; --yt:#F04A50; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#121714; --card:#1B221E; --ink:#ECF1E7; --ink-2:#A9B5AC; --line:#2C3631;
+  --pis:#97C877; --pom:#F0587C; --sun:#F5BE45; --tomato:#F07A57; --rice:#E6DFCD;
+  --water:#5A8BA3; --leaf:#77A65E; --onion:#B58BCB; --plate:#222B26; --plate-ring:#2F3A34;
+  --table:#26302A; --yt:#F04A50; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1240px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;letter-spacing:-.02em}
+a{color:inherit}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--pom);outline-offset:3px;border-radius:6px}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-2)}
+
+/* header */
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:color-mix(in srgb,var(--paper) 90%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:24px;padding-block:14px}
+.logo{display:flex;align-items:center;gap:10px;font-family:var(--f-display);font-weight:800;font-size:22px;text-decoration:none;letter-spacing:-.03em}
+.logo svg{width:34px;height:34px;flex:none}
+.logo small{font-family:var(--f-mono);font-weight:400;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2);border:1px dashed var(--line);border-radius:99px;padding:2px 8px}
+nav.main{display:flex;gap:22px;margin-left:auto;font-weight:600;font-size:15px}
+nav.main a{text-decoration:none;padding-block:4px;border-bottom:2px solid transparent}
+nav.main a:hover{border-color:var(--pom)}
+.yt-link{display:inline-flex;align-items:center;gap:8px;font-weight:700;font-size:14px;text-decoration:none;background:var(--yt);color:#fff;padding:8px 14px;border-radius:99px}
+.yt-link svg{width:16px;height:16px;fill:#fff}
+@media (max-width:900px){nav.main{display:none}.logo small{display:none}.top .yt-link{margin-left:auto}}
+
+/* hero */
+.hero{display:grid;grid-template-columns:minmax(0,8fr) minmax(0,4fr);gap:28px;padding-block:28px 48px}
+@media (max-width:900px){.hero{grid-template-columns:1fr}}
+.feature{position:relative;border-radius:26px;overflow:hidden;background:var(--table);min-height:0;display:block;text-decoration:none}
+.feature .photo{display:block;width:100%;aspect-ratio:4/3;max-width:100%}
+.feature .photo svg{width:100%;height:100%;display:block}
+.ph-tag{position:absolute;right:14px;top:14px;font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:color-mix(in srgb,var(--card) 85%,transparent);border:1px dashed var(--ink-2);border-radius:99px;padding:3px 10px;color:var(--ink-2)}
+.feature .over{position:absolute;left:0;right:0;bottom:0;padding:clamp(18px,3vw,32px);background:linear-gradient(to top,rgba(10,16,12,.82),rgba(10,16,12,.45) 60%,transparent);color:#fff;display:flex;flex-direction:column;gap:10px}
+.feature .over .eyebrow{color:rgba(255,255,255,.8)}
+.feature h1{font-size:clamp(32px,5vw,64px);line-height:.95;font-weight:800;max-width:16ch}
+.feature .meta{display:flex;flex-wrap:wrap;gap:8px}
+.feature .meta span{font-family:var(--f-mono);font-size:13px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);border-radius:99px;padding:4px 11px}
+.popular{display:flex;flex-direction:column;gap:14px;min-width:0}
+.popular h2{font-size:24px}
+.pop-item{display:grid;grid-template-columns:96px minmax(0,1fr);gap:14px;align-items:center;padding:10px;border-radius:16px;background:var(--card);border:1.5px solid var(--line);text-decoration:none}
+.pop-item:hover{border-color:var(--ink)}
+.pop-item .th{aspect-ratio:1;max-width:100%;border-radius:12px;display:grid;place-items:center}
+.pop-item .th svg{width:82%}
+.pop-item b{font-family:var(--f-display);font-size:17px;line-height:1.15;display:block}
+.pop-item span{font-family:var(--f-mono);font-size:12px;color:var(--ink-2)}
+.pop-item .n{font-family:var(--f-display);font-weight:800;color:var(--pom);font-size:15px;margin-right:4px}
+
+/* theme toggle */
+.theme{width:40px;height:40px;border-radius:50%;border:1.5px solid var(--ink);background:var(--card);display:grid;place-items:center;flex:none}
+.theme svg{width:18px;height:18px;fill:none;stroke:var(--ink);stroke-width:2;stroke-linecap:round}
+.theme .moon{display:none}
+:root[data-theme="dark"] .theme .sun{display:none}
+:root[data-theme="dark"] .theme .moon{display:block}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .theme .sun{display:none}:root:not([data-theme="light"]) .theme .moon{display:block}}
+@media (max-width:900px){.theme{margin-left:auto}.top .yt-link{margin-left:0}}
+
+/* categories */
+.cat-group{display:grid;grid-template-columns:150px minmax(0,1fr);gap:20px;align-items:start}
+.cat-group + .cat-group{margin-top:30px;padding-top:26px;border-top:1px dashed var(--line)}
+.cat-group h3{font-size:19px;line-height:1.15}
+.cat-group h3 span{display:block;font-family:var(--f-mono);font-weight:400;font-size:12px;letter-spacing:.04em;color:var(--ink-2);margin-top:6px}
+@media (max-width:760px){.cat-group{grid-template-columns:1fr;gap:14px}}
+.cats{display:grid;grid-template-columns:repeat(9,minmax(0,1fr));gap:12px}
+@media (max-width:1100px){.cats{grid-template-columns:repeat(5,minmax(0,1fr))}}
+@media (max-width:560px){.cats{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.diet{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+@media (max-width:760px){.diet{grid-template-columns:1fr}}
+.dcard{display:grid;grid-template-columns:72px minmax(0,1fr);gap:14px;align-items:center;text-align:left;padding:14px;border-radius:18px;border:1.5px solid var(--line);background:var(--card);transition:border-color .2s}
+.dcard:hover,.dcard[aria-pressed="true"]{border-color:var(--ink)}
+.dcard .ic{width:72px;height:72px;border-radius:50%;display:grid;place-items:center}
+.dcard .ic svg{width:80%}
+.dcard b{font-family:var(--f-display);font-size:19px;line-height:1.1;display:block}
+.dcard span{font-size:13.5px;color:var(--ink-2)}
+.dcard em{font-style:normal;font-family:var(--f-mono);font-size:12px;color:var(--pom);display:block;margin-top:4px}
+.dcard.wc .ic{background:var(--sun)}
+.diet-tags{display:flex;gap:6px;flex-wrap:wrap}
+.dt{font-family:var(--f-mono);font-size:11px;letter-spacing:.04em;padding:2px 8px;border-radius:6px;border:1px solid var(--line);color:var(--ink-2)}
+.dt.v{color:var(--leaf);border-color:var(--leaf)}
+.dt.g{color:var(--tomato);border-color:var(--tomato)}
+.cat{display:flex;flex-direction:column;align-items:center;gap:10px;background:none;border:none;padding:0;text-align:center}
+.cat .ic{width:100%;max-width:112px;aspect-ratio:1;border-radius:50%;display:grid;place-items:center;border:2px solid transparent;transition:transform .2s,border-color .2s}
+.cat .ic svg{width:78%}
+.cat:hover .ic{transform:translateY(-3px)}
+.cat[aria-pressed="true"] .ic{border-color:var(--ink)}
+.cat b{font-size:14.5px;line-height:1.2}
+.cat.special b{color:var(--pom)}
+
+section.block{padding-block:52px}
+.sec-head{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:26px}
+.sec-head h2{font-size:clamp(30px,4.2vw,50px);font-weight:800;line-height:.95}
+.sec-head p{color:var(--ink-2);max-width:46ch;margin:8px 0 0}
+.clear{border:1.5px solid var(--ink);background:var(--card);border-radius:99px;padding:8px 16px;font-weight:600;font-size:14px}
+
+/* recipe grid */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:22px}
+.rc{background:var(--card);border:1.5px solid var(--line);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column;transition:transform .2s,border-color .2s}
+.rc:hover{transform:translateY(-4px);border-color:var(--ink)}
+.rc .art{position:relative;aspect-ratio:4/3;max-width:100%;display:grid;place-items:center}
+.rc .art svg{width:70%;height:auto}
+.rc .badges{position:absolute;left:12px;top:12px;display:flex;gap:6px;flex-wrap:wrap}
+.badge{font-family:var(--f-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;background:var(--card);border:1.5px solid var(--ink);border-radius:99px;padding:3px 9px}
+.badge.vid{background:var(--yt);color:#fff;border-color:var(--yt)}
+.badge.wc{background:var(--sun);color:#18201C;border-color:#18201C}
+.rc .body{padding:16px 18px 18px;display:flex;flex-direction:column;gap:10px;flex:1}
+.rc .cat-name{font-family:var(--f-mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--pom)}
+.rc h3{font-size:21px;font-weight:700;line-height:1.1}
+.rc p{margin:0;color:var(--ink-2);font-size:14.5px}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);margin:auto 0 0;border-top:1px dashed var(--line);padding-top:12px}
+.facts div{display:flex;flex-direction:column;gap:2px}
+.facts dt{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
+.facts dd{margin:0;font-weight:700;font-size:15px;font-variant-numeric:tabular-nums}
+.empty{grid-column:1/-1;padding:40px;text-align:center;color:var(--ink-2);border:1.5px dashed var(--line);border-radius:var(--r)}
+
+/* YouTube slot */
+.video-band{background:var(--ink);color:var(--paper)}
+.video-band .wrap{padding-block:48px}
+.vrow{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,4fr);gap:32px;align-items:start}
+@media (max-width:900px){.vrow{grid-template-columns:1fr}}
+.yt{position:relative;aspect-ratio:16/9;max-width:100%;border-radius:18px;overflow:hidden;background:var(--table)}
+.yt svg.thumb{position:absolute;inset:0;width:100%;height:100%}
+.yt .shade{position:absolute;inset:0;background:linear-gradient(to top,rgba(0,0,0,.55),transparent 55%)}
+.yt .pbtn{position:absolute;left:50%;top:50%;width:76px;height:52px;margin:-26px 0 0 -38px;border-radius:14px;background:var(--yt);display:grid;place-items:center}
+.yt .pbtn svg{width:22px;height:22px;fill:#fff;margin-left:3px}
+.yt .note{position:absolute;left:14px;bottom:12px;right:14px;font-family:var(--f-mono);font-size:12px;color:#fff;opacity:.9}
+.yt .chan{position:absolute;left:14px;top:12px;display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;color:#fff;background:rgba(0,0,0,.45);padding:5px 10px 5px 5px;border-radius:99px}
+.yt .chan i{width:22px;height:22px;border-radius:50%;background:var(--sun);display:grid;place-items:center;color:#18201C;font-style:normal;font-family:var(--f-display);font-weight:800;font-size:12px}
+.vinfo .eyebrow{color:color-mix(in srgb,var(--paper) 70%,transparent)}
+.vinfo h2{font-size:clamp(28px,3.4vw,40px);font-weight:800;line-height:1;margin:8px 0 10px}
+.vinfo p{margin:0 0 18px;color:color-mix(in srgb,var(--paper) 75%,transparent)}
+.chapters{list-style:none;margin:0;padding:0;border-top:1px solid color-mix(in srgb,var(--paper) 20%,transparent)}
+.chapters li{display:grid;grid-template-columns:52px minmax(0,1fr);gap:10px;padding:9px 0;border-bottom:1px solid color-mix(in srgb,var(--paper) 12%,transparent);font-size:14.5px}
+.chapters .t{font-family:var(--f-mono);color:var(--sun);font-size:13px;padding-top:1px}
+.chapters em{font-style:normal;color:color-mix(in srgb,var(--paper) 65%,transparent);display:block;font-size:13px}
+
+/* white collar band */
+.wc-band{background:var(--sun);color:#18201C;border-radius:32px;padding:clamp(22px,4vw,44px);border:2px solid #18201C}
+.wc-band .sec-head p,.wc-band .eyebrow{color:#3A3115}
+.wc-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+@media (max-width:980px){.wc-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:520px){.wc-grid{grid-template-columns:1fr}}
+.wc-card{background:#FFFBEF;border:2px solid #18201C;border-radius:18px;padding:16px;display:flex;flex-direction:column;gap:8px}
+.wc-card .clock{font-family:var(--f-display);font-weight:800;font-size:40px;line-height:1}
+.wc-card .clock small{font-size:16px;font-weight:600;margin-left:3px}
+.wc-card b{font-size:16.5px;line-height:1.2}
+.wc-card span{font-size:13.5px;color:#4B4330}
+.wc-split{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,7fr);gap:22px;margin-top:26px;padding-top:26px;border-top:2px dashed rgba(24,32,28,.35)}
+@media (max-width:900px){.wc-split{grid-template-columns:1fr}}
+.wc-split h3{font-size:26px;line-height:1}
+.wc-split p{margin:8px 0 0;font-size:15px;color:#3A3115}
+.week{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+@media (max-width:700px){.week{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.day{background:#FFFBEF;border:2px solid #18201C;border-radius:14px;padding:12px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.day .d{font-family:var(--f-mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+.box{aspect-ratio:4/3;max-width:100%;border:2px solid #18201C;border-radius:10px;display:grid;grid-template-columns:3fr 2fr;grid-template-rows:1fr 1fr;gap:3px;padding:3px;background:#fff}
+.box i{border-radius:6px;border:1.5px solid #18201C}
+.box i:first-child{grid-row:span 2}
+.day b{font-size:13.5px;line-height:1.25}
+
+/* newsletter */
+.news{background:var(--pis);color:#10200A;border-radius:28px;padding:40px clamp(20px,4vw,48px);display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px;align-items:center;border:2px solid #10200A}
+.news h2{font-size:clamp(30px,4vw,48px);font-weight:800;line-height:.95}
+.news p{margin:10px 0 0;max-width:40ch}
+.news form{display:flex;gap:10px;flex-wrap:wrap}
+.news input{flex:1;min-width:0;font:inherit;padding:14px 16px;border-radius:12px;border:2px solid #10200A;background:#fff;color:#10200A}
+.news button{padding:14px 20px;border-radius:12px;border:2px solid #10200A;background:#10200A;color:#fff;font-weight:700}
+.news .msg{flex-basis:100%;font-weight:600;font-size:14px;min-height:1.4em}
+@media (max-width:820px){.news{grid-template-columns:1fr}}
+
+footer{padding-block:48px 40px;color:var(--ink-2);font-size:14px}
+footer .wrap{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:24px}
+@media (prefers-reduced-motion: reduce){.rc,.cat .ic{transition:none}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#top" aria-label="Mesai Mutfak ana sayfa">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><rect x="5" y="15" width="30" height="19" rx="5" fill="var(--sun)" stroke="var(--ink)" stroke-width="2.5"/><rect x="10" y="9" width="20" height="5" rx="2.5" fill="var(--ink)"/><rect x="18" y="5" width="4" height="5" rx="2" fill="var(--ink)"/></svg>
+      mesai·mutfak
+    </a>
+    <nav class="main" aria-label="Ana menü">
+      <a href="#kategoriler">Kategoriler</a>
+      <a href="#tarifler">Tarifler</a>
+      <a href="#hizli">Beyaz yakalı hızlı</a>
+      <a href="#bulten">Bülten</a>
+    </nav>
+    <button class="theme" id="themeBtn" aria-label="Koyu temaya geç"><svg class="sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg></button>
+    <a class="yt-link" href="https://www.youtube.com" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>YouTube</a>
+  </div>
+</header>
+
+<main id="top">
+  <!-- HERO -->
+  <div class="wrap hero">
+    <a class="feature" href="#tarifler" id="feature">
+      <span class="photo" id="heroPhoto"></span>
+      <span class="ph-tag">Fotoğraf alanı</span>
+      <span class="over">
+        <span class="eyebrow">Haftanın tarifi · Zeytinyağlılar</span>
+        <h1>Vişneli, nar ekşili zeytinyağlı sarma</h1>
+        <span class="meta"><span>90 dk</span><span>6 kişilik</span><span>Ertesi gün daha güzel</span></span>
+      </span>
+    </a>
+    <aside class="popular">
+      <div class="eyebrow">Bu hafta en çok bakılanlar</div>
+      <div id="popular" style="display:flex;flex-direction:column;gap:12px"></div>
+    </aside>
+  </div>
+
+  <!-- CATEGORIES -->
+  <section class="block" id="kategoriler" style="padding-top:8px">
+    <div class="wrap">
+      <div class="sec-head"><h2>Kategoriler</h2></div>
+      <div class="cat-group">
+        <h3>Sofraya göre<span>Ne pişirmek istiyorsun?</span></h3>
+        <div class="cats" id="cats" role="group" aria-label="Yemek türü"></div>
+      </div>
+      <div class="cat-group">
+        <h3>Sana göre<span>Beslenme tercihi ve vakit</span></h3>
+        <div class="diet" id="diet" role="group" aria-label="Beslenme ve pratik tarifler"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- RECIPES -->
+  <section class="block" id="tarifler" style="padding-top:12px">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <div class="eyebrow" id="gridEyebrow">Son eklenenler</div>
+          <h2 id="gridTitle">Yeni tarifler</h2>
+        </div>
+        <button class="clear" id="clearBtn" hidden>Tüm tarifleri göster</button>
+      </div>
+      <div class="grid" id="grid"></div>
+    </div>
+  </section>
+
+  <!-- VIDEO 1 -->
+  <section class="video-band" aria-label="Video tarif">
+    <div class="wrap vrow" id="video1"></div>
+  </section>
+
+  <!-- WHITE COLLAR -->
+  <section class="block" id="hizli">
+    <div class="wrap">
+      <div class="wc-band">
+        <div class="sec-head">
+          <div>
+            <div class="eyebrow">Kategori · Beyaz yakalılar için hızlı tarifler</div>
+            <h2>Mesaiden çık, 30 dakikada sofrada ol.</h2>
+            <p>Tek kap, az bulaşık, ertesi gün ofis kutusuna da giren tarifler.</p>
+          </div>
+          <button class="clear" data-cat="hizli" id="wcAll">Kategorinin tümü</button>
+        </div>
+        <div class="wc-grid" id="wcGrid"></div>
+        <div class="wc-split">
+          <div>
+            <div class="eyebrow">Hafta hazırlığı</div>
+            <h3>Pazar 2 saat, hafta boyu 5 öğle yemeği.</h3>
+            <p>Fırın ve ocak aynı anda çalışır: bir tepsi sebze-tavuk, bir tencere bulgur, bir tencere çorba. Pazartesiden cumaya kutular hazır.</p>
+          </div>
+          <div class="week" id="week"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VIDEO 2 -->
+  <section class="video-band" aria-label="Video tarif">
+    <div class="wrap vrow" id="video2"></div>
+  </section>
+
+  <!-- NEWSLETTER -->
+  <section class="block" id="bulten">
+    <div class="wrap">
+      <div class="news">
+        <div>
+          <h2>Cuma bülteni</h2>
+          <p>Haftada bir e-posta: hafta sonu tarifi, yeni videolar ve market listesi.</p>
+        </div>
+        <form id="newsForm" novalidate>
+          <label for="email" class="eyebrow" style="flex-basis:100%;color:#10200A">E-posta adresin</label>
+          <input id="email" type="email" placeholder="ad@ornek.com" autocomplete="email">
+          <button type="submit">Abone ol</button>
+          <div class="msg" id="newsMsg" role="status"></div>
+        </form>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 mesaimutfak.com</span>
+    <a class="yt-link" href="https://www.youtube.com" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>
+  </div>
+</footer>
+
+<script>
+const $ = id => document.getElementById(id);
+const COLORS = { rice:'var(--rice)', sun:'var(--sun)', leaf:'var(--leaf)', pom:'var(--pom)', tomato:'var(--tomato)', onion:'var(--onion)', card:'var(--card)', water:'var(--water)' };
+const TINTS = ['var(--water)','color-mix(in srgb,var(--sun) 40%,var(--card))','color-mix(in srgb,var(--pis) 35%,var(--card))','color-mix(in srgb,var(--pom) 22%,var(--card))'];
+
+/* ---------- data ---------- */
+/* "Sofraya göre": yemek türü. "Sana göre": beslenme ve vakit (bir tarif birden fazlasına girebilir). */
+const CATS = [
+  { k:'ana', l:'Ana yemekler', art:['tomato','onion','sun'] },
+  { k:'zeytinyagli', l:'Zeytinyağlılar', art:['leaf','pom','leaf'] },
+  { k:'arasicak', l:'Ara sıcaklar', art:['sun','card','sun'] },
+  { k:'corba', l:'Çorbalar', art:['tomato','sun','tomato'] },
+  { k:'pilav', l:'Pilavlar', art:['rice','sun','rice'] },
+  { k:'kahvalti', l:'Kahvaltılık', art:['sun','tomato','card'] },
+  { k:'salata', l:'Salata & meze', art:['leaf','tomato','leaf'] },
+  { k:'firin', l:'Fırın yemekleri', art:['sun','tomato','onion'] },
+  { k:'tatli', l:'Tatlılar', art:['pom','card','sun'] }
+];
+const DIET = [
+  { k:'hizli', l:'Beyaz yakalılar için hızlı', s:'Mesai sonrası, 30 dakika ve altı', art:['sun','tomato','leaf'], wc:true },
+  { k:'vegan', l:'Vegan', s:'Hayvansal ürün yok, eksik lezzet de yok', art:['leaf','pis','tomato'] },
+  { k:'glutensiz', l:'Glutensiz', s:'Buğday, arpa ve çavdar içermeyenler', art:['rice','sun','tomato'] }
+];
+const ALLCATS = [...CATS, ...DIET];
+COLORS.pis = 'var(--pis)';
+const R = [
+  { t:'Vişneli, nar ekşili zeytinyağlı sarma', d:'Ekşi-tatlı iç harç, pazar sar, hafta boyu soğuk ye.', min:90, serv:6, lvl:'Orta', cats:['zeytinyagli','vegan','glutensiz'], vid:true, art:['leaf','pom','leaf'] },
+  { t:'Tereyağlı pirinç pilavı', d:'1’e 1,5 oranı ve 10 dakika demlenme: tane tane pilav.', min:35, serv:4, lvl:'Kolay', cats:['pilav','hizli'], vid:true, art:['rice','sun','rice'] },
+  { t:'Fırında karnıyarık', d:'Patlıcanı kızartmadan fırında közle, kıymalı harçla doldur.', min:60, serv:4, lvl:'Orta', cats:['ana','firin','glutensiz'], art:['onion','tomato','leaf'] },
+  { t:'Paçanga böreği', d:'Pastırma, kaşar, biber; yufkada çıtır ara sıcak.', min:25, serv:4, lvl:'Kolay', cats:['arasicak','hizli'], art:['sun','pom','card'] },
+  { t:'Tek tavada menemen', d:'Soğanlı ya da soğansız, 12 dakikada tek tava.', min:12, serv:2, lvl:'Kolay', cats:['kahvalti','hizli','glutensiz'], art:['tomato','sun','leaf'] },
+  { t:'Zeytinyağlı kuru fasulye', d:'Etsiz, bol soğanlı, ertesi gün daha güzel.', min:75, serv:6, lvl:'Kolay', cats:['ana','vegan','glutensiz'], art:['card','tomato','onion'] },
+  { t:'Tek tepside tavuk ve kök sebze', d:'Fırına at, 40 dakika sonra akşam yemeği hazır.', min:40, serv:3, lvl:'Kolay', cats:['ana','firin','hizli','glutensiz'], art:['sun','tomato','onion'] },
+  { t:'Ayva tatlısı', d:'Karanfilli şerbette, fırında yavaş pişen klasik.', min:70, serv:4, lvl:'Kolay', cats:['tatli','vegan','glutensiz'], art:['sun','pom','sun'] },
+  { t:'Kırmızı mercimek çorbası', d:'Bir tencere, beş gün. Porsiyonlayıp dondurulur.', min:30, serv:6, lvl:'Kolay', cats:['corba','hizli','vegan','glutensiz'], art:['tomato','sun','tomato'] },
+  { t:'Fırında kaşarlı mantar', d:'Toprak kapta tereyağlı mantar, üstü erimiş kaşar.', min:20, serv:2, lvl:'Kolay', cats:['arasicak','hizli','glutensiz'], art:['card','sun','onion'] },
+  { t:'Zeytinyağlı taze fasulye', d:'Domatesle ağır ağır, soğuk servis.', min:60, serv:4, lvl:'Kolay', cats:['zeytinyagli','vegan','glutensiz'], art:['leaf','tomato','leaf'] },
+  { t:'Nohutlu bulgur pilavı', d:'Konserve nohutla 25 dakika; ofis kutusunda bozulmaz.', min:25, serv:4, lvl:'Kolay', cats:['pilav','hizli','vegan'], art:['sun','rice','leaf'] },
+  { t:'Ocaksız kısır', d:'Kaynar suyla demlenen ince bulgur, bol yeşillik.', min:20, serv:4, lvl:'Kolay', cats:['salata','hizli','vegan'], art:['tomato','leaf','leaf'] },
+  { t:'Sarımsaklı yoğurtlu makarna', d:'Makarna haşlanırken sos hazır, üstüne pul biberli tereyağı.', min:15, serv:2, lvl:'Kolay', cats:['ana','hizli'], art:['rice','tomato','card'] },
+  { t:'Fırında sütlaç', d:'Üstü kızarık, kenarı karamelize. Bir gün önceden yap.', min:75, serv:6, lvl:'Orta', cats:['tatli','glutensiz'], art:['card','sun','card'] },
+  { t:'Ezogelin çorbası', d:'Bulgur, pirinç, mercimek ve nane; kış klasiği.', min:40, serv:6, lvl:'Kolay', cats:['corba','vegan'], art:['tomato','sun','leaf'] },
+  { t:'Közlenmiş patlıcan salatası', d:'Ocakta közle, sarımsak ve yoğurtla karıştır.', min:30, serv:4, lvl:'Kolay', cats:['salata','glutensiz'], art:['onion','card','leaf'] },
+  { t:'Mercimek köftesi', d:'Ocakta 10 dakika, gerisi yoğurmak; marulla servis.', min:35, serv:6, lvl:'Kolay', cats:['arasicak','vegan'], art:['tomato','leaf','sun'] }
+];
+
+/* ---------- illustration (placeholder for photos) ---------- */
+function plate(r, i) {
+  let s = (i + 3) * 97; const rn = () => (s = (s * 9301 + 49297) % 233280) / 233280;
+  const [base, a, b] = r.art; let o = '';
+  o += `<circle cx="100" cy="100" r="92" fill="var(--plate)" stroke="var(--ink)" stroke-width="2.5"/><circle cx="100" cy="100" r="76" fill="var(--plate-ring)"/>`;
+  o += `<circle cx="100" cy="100" r="62" fill="${COLORS[base]}" stroke="var(--ink)" stroke-width="2"/>`;
+  for (let k = 0; k < 16; k++) {
+    const ang = rn() * Math.PI * 2, rad = Math.sqrt(rn()) * 50, x = 100 + Math.cos(ang) * rad, y = 100 + Math.sin(ang) * rad;
+    const c = COLORS[k % 3 ? a : b];
+    o += k % 2 ? `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${(5 + rn() * 5).toFixed(1)}" fill="${c}" stroke="var(--ink)" stroke-width="1.4"/>`
+               : `<rect x="${(x-7).toFixed(1)}" y="${(y-3).toFixed(1)}" width="14" height="6" rx="3" fill="${c}" stroke="var(--ink)" stroke-width="1.2" transform="rotate(${Math.round(rn()*180)} ${x.toFixed(1)} ${y.toFixed(1)})"/>`;
+  }
+  return `<svg viewBox="0 0 200 200" aria-hidden="true">${o}</svg>`;
+}
+/* big tabletop scene: sarma platter */
+function tabletop(kind) {
+  let s = 11; const rn = () => (s = (s * 9301 + 49297) % 233280) / 233280;
+  let o = `<rect width="800" height="600" fill="var(--table)"/>`;
+  for (let y = 0; y < 600; y += 24) o += `<line x1="0" y1="${y}" x2="800" y2="${y}" stroke="var(--ink)" stroke-opacity=".05"/>`;
+  // napkin
+  o += `<rect x="560" y="40" width="210" height="260" rx="6" fill="var(--card)" transform="rotate(8 665 170)" stroke="var(--ink)" stroke-opacity=".25"/>`;
+  for (let i = 0; i < 6; i++) o += `<line x1="${578 + i*34}" y1="40" x2="${560 + i*34}" y2="300" stroke="var(--pom)" stroke-opacity=".35" stroke-width="5" transform="rotate(8 665 170)"/>`;
+  // fork
+  o += `<g transform="rotate(8 680 200)"><rect x="672" y="70" width="10" height="240" rx="5" fill="var(--ink)" opacity=".75"/><rect x="662" y="60" width="30" height="50" rx="6" fill="var(--ink)" opacity=".75"/></g>`;
+  // plate
+  o += `<circle cx="350" cy="310" r="250" fill="var(--plate)" stroke="var(--ink)" stroke-width="3"/><circle cx="350" cy="310" r="210" fill="var(--plate-ring)"/>`;
+  if (kind === 'sarma') {
+    let k = 0;
+    [[0,1],[62,7],[124,13],[184,19]].forEach(([r, n]) => {
+      for (let i = 0; i < n; i++) {
+        const a = i / n * Math.PI * 2 + r / 50, x = 350 + Math.cos(a) * r, y = 310 + Math.sin(a) * r, d = Math.round(a * 180 / Math.PI + 90);
+        if (r > 170 && rn() < .1) continue;
+        const sh = rn() < .5 ? 'var(--leaf)' : 'color-mix(in srgb,var(--leaf) 80%,var(--ink))';
+        o += `<g transform="rotate(${d} ${x.toFixed(1)} ${y.toFixed(1)})"><rect x="${(x-17).toFixed(1)}" y="${(y-28).toFixed(1)}" width="34" height="56" rx="16" fill="${sh}" stroke="var(--ink)" stroke-width="2"/><path d="M${(x-8).toFixed(1)} ${(y-18).toFixed(1)} q8 18 0 36 M${(x+5).toFixed(1)} ${(y-20).toFixed(1)} q8 20 0 40" fill="none" stroke="var(--card)" stroke-opacity=".35" stroke-width="2"/></g>`;
+        k++;
+      }
+    });
+    // lemon slices
+    [[200,170],[520,440],[470,140]].forEach(([x,y]) => o += `<circle cx="${x}" cy="${y}" r="30" fill="var(--sun)" stroke="var(--ink)" stroke-width="2"/><circle cx="${x}" cy="${y}" r="22" fill="color-mix(in srgb,var(--sun) 60%,var(--card))"/>` + [0,60,120].map(a=>`<line x1="${x}" y1="${y-22}" x2="${x}" y2="${y+22}" stroke="var(--sun)" stroke-width="2" transform="rotate(${a} ${x} ${y})"/>`).join(''));
+    // pomegranate seeds scattered
+    for (let i = 0; i < 40; i++) { const a = rn()*Math.PI*2, r = 60 + rn()*170; o += `<ellipse cx="${(350+Math.cos(a)*r).toFixed(1)}" cy="${(310+Math.sin(a)*r).toFixed(1)}" rx="6" ry="8" fill="var(--pom)" stroke="var(--ink)" stroke-width="1" transform="rotate(${Math.round(rn()*180)} ${(350+Math.cos(a)*r).toFixed(1)} ${(310+Math.sin(a)*r).toFixed(1)})"/>`; }
+  } else {
+    // pilav mound
+    o += `<circle cx="350" cy="310" r="170" fill="var(--rice)" stroke="var(--ink)" stroke-width="2"/>`;
+    for (let i = 0; i < 260; i++) { const a = rn()*Math.PI*2, r = Math.sqrt(rn())*160, x = 350+Math.cos(a)*r, y = 310+Math.sin(a)*r; o += `<ellipse cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" rx="8" ry="3.4" fill="${rn()<.12?'#C98A2B':'var(--card)'}" stroke="var(--ink)" stroke-opacity=".35" stroke-width="1" transform="rotate(${Math.round(rn()*180)} ${x.toFixed(1)} ${y.toFixed(1)})"/>`; }
+    o += `<rect x="300" y="270" width="70" height="44" rx="8" fill="var(--sun)" stroke="var(--ink)" stroke-width="2" transform="rotate(-12 335 292)"/>`;
+  }
+  // yogurt bowl
+  o += `<circle cx="680" cy="470" r="86" fill="var(--card)" stroke="var(--ink)" stroke-width="3"/><circle cx="680" cy="470" r="66" fill="color-mix(in srgb,var(--card) 70%,var(--water))"/><path d="M640 460 q20 -18 40 0 t40 0" fill="none" stroke="var(--pom)" stroke-width="5" stroke-linecap="round"/>`;
+  return `<svg viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice" aria-hidden="true">${o}</svg>`;
+}
+$('heroPhoto').innerHTML = tabletop('sarma');
+
+/* ---------- popular ---------- */
+const POP = [1, 4, 7, 2];
+$('popular').innerHTML = POP.map((i, n) => { const r = R[i]; return `<a class="pop-item" href="#tarifler"><span class="th" style="background:${TINTS[i % 4]}">${plate(r, i)}</span><span><b><span class="n">${n + 1}</span>${r.t}</b><span>${r.min} dk · ${r.serv} kişilik</span></span></a>`; }).join('');
+
+/* ---------- categories + grid ---------- */
+let cat = null;
+function renderCats() {
+  $('cats').innerHTML = CATS.map((c, i) => `<button class="cat${c.special ? ' special' : ''}" data-k="${c.k}" aria-pressed="${cat === c.k}"><span class="ic" style="background:${c.special ? 'var(--sun)' : TINTS[i % 4]}">${plate(c, i + 20)}</span><b>${c.l}</b></button>`).join('');
+  $('diet').innerHTML = DIET.map((c, i) => `<button class="dcard${c.wc ? ' wc' : ''}" data-k="${c.k}" aria-pressed="${cat === c.k}"><span class="ic" style="${c.wc ? '' : `background:${TINTS[(i + 1) % 4]}`}">${plate(c, i + 40)}</span><span><b>${c.l}</b><span>${c.s}</span><em>${R.filter(r => r.cats.includes(c.k)).length} tarif</em></span></button>`).join('');
+  document.querySelectorAll('#cats .cat, #diet .dcard').forEach(b => b.onclick = () => setCat(cat === b.dataset.k ? null : b.dataset.k, true));
+}
+function setCat(k, scroll) {
+  cat = k; renderCats(); renderGrid();
+  if (scroll) $('tarifler').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+}
+function card(r) {
+  const i = R.indexOf(r), c = CATS.find(x => x.k === r.cats[0]);
+  return `<article class="rc"><div class="art" style="background:${TINTS[i % 4]}">${plate(r, i)}<div class="badges">${r.vid ? '<span class="badge vid">▶ Video</span>' : ''}${r.cats.includes('hizli') ? '<span class="badge wc">Hızlı</span>' : ''}</div></div>
+    <div class="body"><span class="cat-name">${c.l}</span><h3>${r.t}</h3><p>${r.d}</p>
+    ${r.cats.includes('vegan') || r.cats.includes('glutensiz') ? `<div class="diet-tags">${r.cats.includes('vegan') ? '<span class="dt v">Vegan</span>' : ''}${r.cats.includes('glutensiz') ? '<span class="dt g">Glutensiz</span>' : ''}</div>` : ''}
+    <dl class="facts"><div><dt>Süre</dt><dd>${r.min} dk</dd></div><div><dt>Porsiyon</dt><dd>${r.serv} kişi</dd></div><div><dt>Zorluk</dt><dd>${r.lvl}</dd></div></dl></div></article>`;
+}
+function renderGrid() {
+  const list = cat ? R.filter(r => r.cats.includes(cat)) : R.slice(0, 8);
+  const c = ALLCATS.find(x => x.k === cat);
+  $('gridEyebrow').textContent = c ? `Kategori · ${list.length} tarif` : 'Son eklenenler';
+  $('gridTitle').textContent = c ? c.l : 'Yeni tarifler';
+  $('clearBtn').hidden = !cat;
+  $('grid').innerHTML = list.length ? list.map(card).join('') : `<div class="empty">Bu kategoride henüz tarif yok.</div>`;
+}
+$('clearBtn').onclick = () => setCat(null);
+$('wcAll').onclick = () => setCat('hizli', true);
+
+/* ---------- YouTube slots ---------- */
+const VIDS = [
+  { id:'video1', kind:'pilav', title:'Tereyağlı pirinç pilavı', len:'0:58', desc:'Bardakta ölçü, tencerede süre: tane tane pilavın bütün püf noktaları tek videoda.',
+    ch:[['0:00','Ölçüler','Bardakta 1 sb pirinç, yanında ölçü yazısı'],['0:08','Islatma','Ilık tuzlu su · 20 dk'],['0:16','Şehriye kavurma','1 yk tereyağı · altın rengi olana kadar'],['0:26','Su oranı','1 : 1,5 · su kaynar olmalı'],['0:36','Pişirme','Kısık ateş · 15 dk, kapağı açma'],['0:48','Püf noktası','Kapak altına bez · 10 dk demlendir']] },
+  { id:'video2', kind:'sarma', title:'Vişneli, nar ekşili zeytinyağlı sarma', len:'1:24', desc:'İç harçtan tencereye diziliş ve pişirme süresine kadar adım adım.',
+    ch:[['0:00','Malzemeler','Kaseler tek tek, gramajları yanında'],['0:12','Yaprak','Salamura yaprağı 5 dk haşla'],['0:24','İç harç','Pirinç, soğan, kuru vişne, nar ekşisi'],['0:42','Sarma','Bir tatlı kaşığı harç, sıkı ama ezmeden'],['1:00','Pişirme','Üstüne tabak · kısık ateş 40 dk'],['1:14','Püf noktası','Buzdolabında bir gece bekletince daha lezzetli']] }
+];
+VIDS.forEach(v => {
+  $(v.id).innerHTML = `
+    <div class="yt" role="img" aria-label="${v.title} YouTube videosu için yer">
+      <!-- Yayında: <iframe src="https://www.youtube-nocookie.com/embed/VIDEO_ID" title="${v.title}" allowfullscreen loading="lazy"></iframe> -->
+      <svg class="thumb" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice" aria-hidden="true">${tabletop(v.kind).replace(/^<svg[^>]*>|<\/svg>$/g, '')}</svg>
+      <span class="shade"></span>
+      <span class="chan"><i>m</i>mesai·mutfak</span>
+      <span class="pbtn"><svg viewBox="0 0 16 16"><path d="M3 1.5l11 6.5-11 6.5z"/></svg></span>
+      <span class="note">YouTube embed alanı · ${v.len}</span>
+    </div>
+    <div class="vinfo">
+      <div class="eyebrow">Video tarif · ${v.len}</div>
+      <h2>${v.title}</h2>
+      <p>${v.desc}</p>
+      <ol class="chapters">${v.ch.map(([t, a, b]) => `<li><span class="t">${t}</span><span>${a}<em>${b}</em></span></li>`).join('')}</ol>
+    </div>`;
+});
+
+/* ---------- white collar ---------- */
+$('wcGrid').innerHTML = R.filter(r => r.cats.includes('hizli')).sort((a, b) => a.min - b.min).slice(0, 4)
+  .map(r => `<div class="wc-card"><span class="clock">${r.min}<small>dk</small></span><b>${r.t}</b><span>${r.d}</span></div>`).join('');
+const WEEK = [
+  ['Pzt','Nohutlu bulgur + fırın tavuk',['rice','tomato','leaf']],
+  ['Sal','Mercimek çorbası + kısır',['tomato','sun','leaf']],
+  ['Çar','Sarma + yoğurt',['leaf','card','pom']],
+  ['Per','Bulgur + fırın sebze',['rice','tomato','sun']],
+  ['Cum','Mücver + kısır',['leaf','rice','sun']]
+];
+$('week').innerHTML = WEEK.map(([d, b, c]) => `<div class="day"><span class="d">${d}</span><div class="box" aria-hidden="true">${c.map(x => `<i style="background:${COLORS[x]}"></i>`).join('')}</div><b>${b}</b></div>`).join('');
+
+/* ---------- newsletter ---------- */
+$('newsForm').addEventListener('submit', e => {
+  e.preventDefault();
+  const v = $('email').value.trim();
+  $('newsMsg').textContent = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)
+    ? 'Bu bir tasarım taslağı: abonelik henüz bir e-posta servisine bağlı değil.'
+    : 'Geçerli bir e-posta adresi yaz (ör. ad@ornek.com).';
+});
+
+/* ---------- theme (açık / koyu) ---------- */
+const root = document.documentElement, darkMQ = matchMedia('(prefers-color-scheme: dark)');
+const isDark = () => root.dataset.theme ? root.dataset.theme === 'dark' : darkMQ.matches;
+function syncThemeLabel() { $('themeBtn').setAttribute('aria-label', isDark() ? 'Açık temaya geç' : 'Koyu temaya geç'); }
+try { const saved = localStorage.getItem('mm-theme'); if (saved === 'dark' || saved === 'light') root.dataset.theme = saved; } catch (e) {}
+$('themeBtn').onclick = () => {
+  const next = isDark() ? 'light' : 'dark';
+  root.dataset.theme = next; syncThemeLabel();
+  try { localStorage.setItem('mm-theme', next); } catch (e) {}
+};
+darkMQ.addEventListener?.('change', syncThemeLabel);
+syncThemeLabel();
+
+renderCats(); renderGrid();
+</script>
+</body>
+</html>
