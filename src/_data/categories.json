@@ -13,6 +13,7 @@
   "diets": [
     { "k": "hizli", "l": "Hızlı Tarifler", "s": "Mesai sonrası: az uğraş, az bulaşık", "art": ["sun", "tomato", "leaf"], "wc": true },
     { "k": "vegan", "l": "Vegan", "s": "Hayvansal ürün yok, eksik lezzet de yok", "art": ["leaf", "pis", "tomato"] },
-    { "k": "glutensiz", "l": "Glutensiz", "s": "Buğday, arpa ve çavdar içermeyenler", "art": ["rice", "sun", "tomato"] }
+    { "k": "glutensiz", "l": "Glutensiz", "s": "Buğday, arpa ve çavdar içermeyenler", "art": ["rice", "sun", "tomato"] },
+    { "k": "saglikli", "l": "Sağlıklı Tatlılar", "s": "Rafine şekersiz, meyveli ve doyurucu", "art": ["pom", "sun", "leaf"] }
   ]
 }

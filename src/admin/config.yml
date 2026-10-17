@@ -48,7 +48,7 @@ collections:
         widget: select
         multiple: true
         min: 1
-        hint: "Önce bir yemek türü seç (ilk tür ana kategori olur), sonra varsa Hızlı / Vegan / Glutensiz ekle."
+        hint: "Önce bir yemek türü seç (ilk tür ana kategori olur), sonra varsa Hızlı / Vegan / Glutensiz / Sağlıklı Tatlılar ekle."
         options:
           - { label: Ana Yemekler, value: ana }
           - { label: Zeytinyağlılar, value: zeytinyagli }
@@ -62,6 +62,7 @@ collections:
           - { label: Hızlı Tarifler, value: hizli }
           - { label: Vegan, value: vegan }
           - { label: Glutensiz, value: glutensiz }
+          - { label: Sağlıklı Tatlılar, value: saglikli }
       - { name: lvl, label: Zorluk, widget: select, options: [Kolay, Orta, Zor], default: Kolay }
       - { name: prep, label: Hazırlık süresi (dk), widget: number, value_type: int, min: 0, default: 10 }
       - { name: cook, label: Pişirme süresi (dk), widget: number, value_type: int, min: 0, default: 20, hint: "Ocak/fırın yoksa 0 yaz." }

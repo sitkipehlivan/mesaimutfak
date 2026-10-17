@@ -36,7 +36,7 @@ Sayfalar: ana sayfa, `/yeni-tarifler/`, `/tarif/<dosya-adı>/`, `/kategori/<anah
 
 `src/tarifler/` içindeki bir dosyayı kopyala, adını değiştir (ör. `firinda-levrek.md`, adres `/tarif/firinda-levrek/` olur) ve alanları doldur:
 
-- `cats`: ilki ana kategori olur. Ek olarak `hizli`, `vegan`, `glutensiz` eklenebilir.
+- `cats`: ilki ana kategori olur. Ek olarak `hizli`, `vegan`, `glutensiz`, `saglikli` (Sağlıklı Tatlılar) eklenebilir.
 - `lvl`: `Kolay`, `Orta` ya da `Zor`
 - `moods`: `yorgun`, `soguk`, `hafif`, `tatli`, `misafir`, `keyif` (öneri aracı bunları kullanır)
 - `ingredients`: `[miktar, birim, malzeme]`. Miktar sayı olmalı (porsiyon ayarı bunu çarpar), miktarsız malzemeler için `null`.
