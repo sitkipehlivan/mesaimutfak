@@ -482,3 +482,6 @@ html{scroll-padding-top:130px}
   .hsearch button{width:40px;height:40px;border:1.5px solid var(--ink);background:var(--card)}
   .top .wrap{gap:10px}
 }
+
+nav.main a{white-space:nowrap}
+@media (max-width:1080px){nav.main{display:none}.hsearch{margin-left:auto}}
