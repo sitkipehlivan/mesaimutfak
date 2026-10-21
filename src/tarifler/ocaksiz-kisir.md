@@ -17,10 +17,10 @@ art:
 - tomato
 - leaf
 - leaf
-image: 'https://upload.wikimedia.org/wikipedia/commons/e/e6/Kisir.jpg'
+image: /img/tarifler/ocaksiz-kisir.jpg
 imageAlt: 'Yeşillikli, zeytinli kısır'
-imageCredit: 'Noumenon · CC BY-SA 3.0'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Kisir.jpg'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []

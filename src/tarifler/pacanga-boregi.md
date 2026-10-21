@@ -16,10 +16,10 @@ art:
 - sun
 - pom
 - card
-image: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Pa%C3%A7anga_b%C3%B6re%C4%9Fi.jpg'
+image: /img/tarifler/pacanga-boregi.jpg
 imageAlt: 'Tabakta kızarmış paçanga böreği'
-imageCredit: 'Gökçe Yörük · Kamu malı'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Pa%C3%A7anga_b%C3%B6re%C4%9Fi.jpg'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []

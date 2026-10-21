@@ -18,10 +18,10 @@ art:
 - sun
 - tomato
 - onion
-image: 'https://upload.wikimedia.org/wikipedia/commons/9/9c/Chicken_leg_quarter_20260412_145308.jpg'
+image: /img/tarifler/tek-tepside-tavuk-ve-kok-sebze.jpg
 imageAlt: 'Fırında patatesli tavuk but'
-imageCredit: 'Vauia Rex · CC0'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Chicken_leg_quarter_20260412_145308.jpg'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []

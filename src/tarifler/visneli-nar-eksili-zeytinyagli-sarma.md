@@ -18,10 +18,10 @@ art:
 - leaf
 - pom
 - leaf
-image: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Vi%C5%9Fneli_Yaprak_Sarma.jpg'
+image: /img/tarifler/visneli-nar-eksili-zeytinyagli-sarma.jpg
 imageAlt: 'Vişneli zeytinyağlı yaprak sarma'
-imageCredit: 'Garrett Ziegler · CC BY-SA 4.0'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Vi%C5%9Fneli_Yaprak_Sarma.jpg'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: '1:24'
 chapters:

@@ -18,10 +18,10 @@ art:
 - sun
 - pom
 - sun
-image: 'https://upload.wikimedia.org/wikipedia/commons/8/80/Tepside_ayva_tatl%C4%B1s%C4%B1.jpg'
+image: /img/tarifler/ayva-tatlisi.jpg
 imageAlt: 'Tepside fırınlanmış, şerbetli kırmızı ayva tatlısı'
-imageCredit: 'Garrett Ziegler · CC BY-SA 4.0'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Tepside_ayva_tatl%C4%B1s%C4%B1.jpg'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []

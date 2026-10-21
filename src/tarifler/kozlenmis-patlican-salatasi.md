@@ -16,10 +16,10 @@ art:
 - onion
 - card
 - leaf
-image: 'https://upload.wikimedia.org/wikipedia/commons/2/20/Mutabbel_1.JPG'
+image: /img/tarifler/kozlenmis-patlican-salatasi.jpg
 imageAlt: 'Zeytinyağı gezdirilmiş, yoğurtlu közlenmiş patlıcan ezmesi'
-imageCredit: 'Dr. Bernd Gross · CC BY-SA 3.0'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Mutabbel_1.JPG'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []

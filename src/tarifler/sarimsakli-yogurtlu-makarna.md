@@ -15,10 +15,10 @@ art:
 - rice
 - tomato
 - card
-image: 'https://images.unsplash.com/photo-1707572691131-5b73867b29e0'
+image: /img/tarifler/sarimsakli-yogurtlu-makarna.jpg
 imageAlt: 'Sarımsaklı yoğurt ve tereyağlı sosla makarna'
-imageCredit: 'Berat Aras · Unsplash lisansı'
-imageCreditUrl: 'https://unsplash.com/photos/a-white-bowl-filled-with-food-on-top-of-a-wooden-table-ytoyrnNh3TM'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []

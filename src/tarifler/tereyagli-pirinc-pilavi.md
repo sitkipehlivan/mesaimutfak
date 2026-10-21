@@ -16,10 +16,10 @@ art:
 - rice
 - sun
 - rice
-image: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Turkish_Pilaf_Rice_-_degustation_-_Ottoman_Cuisine_%283061206332%29.jpg'
+image: /img/tarifler/tereyagli-pirinc-pilavi.jpg
 imageAlt: 'Tabakta tane tane tereyağlı pirinç pilavı'
-imageCredit: 'Alpha · CC BY-SA 2.0'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Turkish_Pilaf_Rice_-_degustation_-_Ottoman_Cuisine_(3061206332).jpg'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: 0:58
 chapters:

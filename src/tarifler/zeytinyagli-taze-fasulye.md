@@ -16,10 +16,10 @@ art:
 - leaf
 - tomato
 - leaf
-image: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Etsiz_taze_fasulye.jpg'
+image: /img/tarifler/zeytinyagli-taze-fasulye.jpg
 imageAlt: 'Domatesli zeytinyağlı taze fasulye'
-imageCredit: 'E4024 · CC BY-SA 4.0'
-imageCreditUrl: 'https://commons.wikimedia.org/wiki/File:Etsiz_taze_fasulye.jpg'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []
