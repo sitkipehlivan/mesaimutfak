@@ -65,3 +65,25 @@ YouTube'a yüklenen videonun ID'sini (`youtube.com/watch?v=` sonrasındaki kıs�
 npm install
 npm start      # http://localhost:8080
 ```
+
+## Reklam (Google Ad Manager)
+
+Panel → Site ayarları → Genel bilgiler → **Reklam**: ağ kodunu gir, "Reklamlar açık"ı işaretle. Kapalıyken sitede reklam alanı görünmez.
+Yerleşimi görmek için herhangi bir sayfaya `?reklam=onizleme` ekle (oturum boyunca açık kalır, `?reklam=kapat` ile kapanır).
+
+Ad Manager'da `mesaimutfak` klasörü altında açılacak reklam birimleri:
+
+| Birim | Masaüstü (≥1000px) | Tablet | Mobil (<768px) | Nerede |
+|---|---|---|---|---|
+| `masthead` | 970x250, 970x90, 728x90 | 728x90 | 320x100 | Tüm sayfalar, menünün altı |
+| `mpu_atf` | 300x250 | 300x250 | 300x250 | Ana sayfa: haftanın tarifi yanı/altı · Tarif: malzemelerin altı (mobilde üstü) |
+| `mpu_incontent` | 300x250 | 300x250 | 300x250 | Tarif: adımlardan sonra · Kategori: 6. karttan sonra |
+| `rail_left`, `rail_right` | 160x600 | – | – | Tüm sayfalar, ekran ≥1600px |
+| `anchor_mobile` | – | – | 320x50 | Mobil, ekranın altında sabit (kapatılabilir) |
+| `interstitial` | Web interstitial | | 320x480 | Sayfa geçişleri (Google'ın kendi formatı) |
+
+Hedefleme anahtarları: `sayfa` (home/tarif/kategori/diger), `kategori`, `tarif`, `cihaz`.
+Çerez onayı yoksa kişiselleştirilmemiş reklam istenir. ads.txt satırları panelden girilir, `/ads.txt` otomatik oluşur.
+
+### Video ve preroll
+Tarife **Video dosyası linki** (MP4 ya da HLS .m3u8) girilirse YouTube yerine kendi player'ımız (video.js + Google IMA) açılır; **Preroll VAST etiketi** doluysa video başında reklam oynar. Reklam engelleyicide video yine oynar. YouTube ID'si olan tarifler eskisi gibi YouTube'dan oynar.

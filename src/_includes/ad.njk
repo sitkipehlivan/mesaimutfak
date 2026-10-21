@@ -1,0 +1,6 @@
+{%- set s = adslots[slot] -%}
+<div class="ad ad-{{ slot }}" data-ad="{{ slot }}" data-unit="{{ s.unit }}" data-desktop="{{ s.desktop | dump }}" data-tablet="{{ s.tablet | dump }}" data-mobile="{{ s.mobile | dump }}"{% if s.minWidth %} data-minw="{{ s.minWidth }}"{% endif %}>
+  <span class="ad-label">Reklam</span>
+  <div class="ad-slot" id="ad-{{ slot }}"></div>{% if slot == 'anchor' %}
+  <button class="ad-x" type="button" aria-label="Reklamı kapat">×</button>{% endif %}
+</div>

@@ -28,5 +28,14 @@
       "logo": ""
     }
   ],
-  "contactEmail": ""
+  "contactEmail": "",
+  "ads": {
+    "enabled": false,
+    "network": "",
+    "prefix": "mesaimutfak",
+    "interstitial": true,
+    "anchor": true,
+    "vastTag": "",
+    "adsTxt": ""
+  }
 }

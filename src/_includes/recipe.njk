@@ -35,6 +35,7 @@ layout: base.njk
     </header>
 
     <div class="r-body">
+      <div class="r-side">
       <aside class="ingredients" id="malzemeler" data-base="{{ serv }}">
         <div class="ing-head">
           <h2>Malzemeler</h2>
@@ -69,6 +70,8 @@ layout: base.njk
           <p class="shop-msg" id="shopMsg" role="status"></p>
         </div>
       </aside>
+      {% set slot = 'atf' %}{% include "ad.njk" %}
+      </div>
 
       <div class="method">
         <div class="r-intro">{{ content | safe }}</div>
@@ -84,6 +87,7 @@ layout: base.njk
           </li>
           {% endfor %}
         </ol>
+        {% set slot = 'incontent' %}{% include "ad.njk" %}
         {% if tips and tips.length %}
         <div class="tips">
           <h2>Püf noktaları</h2>
@@ -97,7 +101,11 @@ layout: base.njk
 
 <section class="video-band" id="video" aria-label="Video tarif">
   <div class="wrap vrow">
-    {% if youtube %}
+    {% if videoUrl %}
+    <div class="yt yt-live player-wrap">
+      <video-js id="mmPlayer" class="video-js vjs-fill vjs-big-play-centered" controls preload="none" playsinline{% if image %} poster="{{ image | imgUrl(1200) }}"{% endif %} data-src="{{ videoUrl }}" data-title="{{ title }}"></video-js>
+    </div>
+    {% elif youtube %}
     <div class="yt yt-live">
       <iframe src="https://www.youtube-nocookie.com/embed/{{ youtube }}" title="{{ title }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>

@@ -127,20 +127,23 @@
 
   /* ---------- çerez onayı ve GA4 ---------- */
   const ga = document.documentElement.dataset.ga4;
-  if (ga) {
+  let adsOn = false; try { adsOn = JSON.parse(document.documentElement.dataset.ads || '{}').enabled; } catch (e) {}
+  if (ga || adsOn) {
     const CKEY = 'mm-consent';
     let c = null; try { c = localStorage.getItem(CKEY); } catch (e) {}
     const load = () => {
+      if (!ga) return;
       const s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ga; document.head.appendChild(s);
       window.dataLayer = window.dataLayer || []; window.gtag = function () { dataLayer.push(arguments); };
       gtag('js', new Date()); gtag('config', ga, { anonymize_ip: true });
     };
+    const decide = v => { try { localStorage.setItem(CKEY, v); } catch (e) {} document.dispatchEvent(new CustomEvent('mm-consent', { detail: v })); };
     if (c === 'yes') load();
     else if (c !== 'no') {
       const b = $('consent'); if (b) {
         b.hidden = false;
-        $('consentYes').onclick = () => { try { localStorage.setItem(CKEY, 'yes'); } catch (e) {} b.hidden = true; load(); };
-        $('consentNo').onclick = () => { try { localStorage.setItem(CKEY, 'no'); } catch (e) {} b.hidden = true; };
+        $('consentYes').onclick = () => { b.hidden = true; decide('yes'); load(); };
+        $('consentNo').onclick = () => { b.hidden = true; decide('no'); };
       }
     }
   }

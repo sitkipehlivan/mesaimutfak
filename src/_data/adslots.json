@@ -1,0 +1,114 @@
+{
+  "masthead": {
+    "unit": "masthead",
+    "label": "Masthead",
+    "desktop": [
+      [
+        970,
+        250
+      ],
+      [
+        970,
+        90
+      ],
+      [
+        728,
+        90
+      ]
+    ],
+    "tablet": [
+      [
+        728,
+        90
+      ]
+    ],
+    "mobile": [
+      [
+        320,
+        100
+      ]
+    ]
+  },
+  "atf": {
+    "unit": "mpu_atf",
+    "label": "300x250",
+    "desktop": [
+      [
+        300,
+        250
+      ]
+    ],
+    "tablet": [
+      [
+        300,
+        250
+      ]
+    ],
+    "mobile": [
+      [
+        300,
+        250
+      ]
+    ]
+  },
+  "incontent": {
+    "unit": "mpu_incontent",
+    "label": "300x250",
+    "desktop": [
+      [
+        300,
+        250
+      ]
+    ],
+    "tablet": [
+      [
+        300,
+        250
+      ]
+    ],
+    "mobile": [
+      [
+        300,
+        250
+      ]
+    ]
+  },
+  "rail_left": {
+    "unit": "rail_left",
+    "label": "160x600",
+    "desktop": [
+      [
+        160,
+        600
+      ]
+    ],
+    "tablet": [],
+    "mobile": [],
+    "minWidth": 1600
+  },
+  "rail_right": {
+    "unit": "rail_right",
+    "label": "160x600",
+    "desktop": [
+      [
+        160,
+        600
+      ]
+    ],
+    "tablet": [],
+    "mobile": [],
+    "minWidth": 1600
+  },
+  "anchor": {
+    "unit": "anchor_mobile",
+    "label": "320x50",
+    "desktop": [],
+    "tablet": [],
+    "mobile": [
+      [
+        320,
+        50
+      ]
+    ]
+  }
+}

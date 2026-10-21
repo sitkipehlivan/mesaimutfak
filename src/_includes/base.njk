@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="tr"{% if site.ga4 %} data-ga4="{{ site.ga4 }}"{% endif %}>
+{%- set pageType = 'home' if isHome else ('tarif' if layout == 'recipe.njk' else ('kategori' if cat else 'diger')) -%}
+<html lang="tr"{% if site.ga4 %} data-ga4="{{ site.ga4 }}"{% endif %} data-ads="{{ {enabled: site.ads.enabled, network: site.ads.network, prefix: site.ads.prefix, interstitial: site.ads.interstitial, anchor: site.ads.anchor, vastTag: site.ads.vastTag} | dump }}" data-page-type="{{ pageType }}" data-cat="{{ (cats[0] if cats else (cat.k if cat else '')) }}" data-slug="{{ page.fileSlug if layout == 'recipe.njk' else '' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -60,6 +61,8 @@
     </div>
   </nav>
 </header>
+{% set slot = 'masthead' %}<div class="wrap ad-row">{% include "ad.njk" %}</div>
+{% set slot = 'rail_left' %}{% include "ad.njk" %}{% set slot = 'rail_right' %}{% include "ad.njk" %}{% set slot = 'anchor' %}{% include "ad.njk" %}
 
 <main id="top">
 {{ content | safe }}
@@ -80,11 +83,12 @@
     <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>
   </div>
 </footer>
-{% if site.ga4 %}<div class="consent" id="consent" hidden role="dialog" aria-label="Çerez tercihi">
-  <p>Siteyi geliştirmek için anonim ziyaret istatistikleri topluyoruz. İzin veriyor musun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
+{% if site.ga4 or site.ads.enabled %}<div class="consent" id="consent" hidden role="dialog" aria-label="Çerez tercihi">
+  <p>Siteyi geliştirmek için anonim ziyaret istatistikleri topluyor{% if site.ads.enabled %} ve ilgi alanına göre reklam gösteriyor{% endif %}uz. İzin veriyor musun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
   <div><button type="button" class="btn" id="consentYes">Kabul et</button><button type="button" class="btn ghost" id="consentNo">Reddet</button></div>
 </div>{% endif %}
 <script src="{{ '/assets/site.js' | link }}"></script>
+<script src="{{ '/assets/ads.js' | link }}" defer></script>
 {% block scripts %}{% endblock %}
 </body>
 </html>

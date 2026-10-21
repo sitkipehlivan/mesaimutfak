@@ -5,7 +5,7 @@ isHome: true
 {%- set heroR = collections.tarifler | bySlug(home.hero.slug) -%}
 
 {# 1. Haftanın tarifi #}
-<div class="wrap hero-solo">
+<div class="wrap hero-solo hero-ad">
   <a class="feature" href="{{ heroR.url | link }}">
     <span class="photo">{% visual { image: heroR.data.image, heroImage: home.hero.heroImage, imageAlt: heroR.data.imageAlt, title: heroR.data.title, art: heroR.data.art }, 'scene', heroR.fileSlug, true %}</span>
     {% if not (home.hero.heroImage or heroR.data.image) %}<span class="ph-tag">Fotoğraf alanı</span>{% endif %}
@@ -15,6 +15,7 @@ isHome: true
       <span class="meta"><span>{{ heroR.data.prep + heroR.data.cook }} dk</span><span>{{ heroR.data.serv }} kişilik</span><span>{{ heroR.data.lvl }}</span></span>
     </span>
   </a>
+  {% set slot = 'atf' %}{% include "ad.njk" %}
 </div>
 
 {# Arama #}

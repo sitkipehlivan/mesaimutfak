@@ -106,6 +106,7 @@ collections:
           - { name: d, label: Açıklama, widget: text }
           - { name: time, label: Süre (ör. 15 dk), widget: string, required: false }
       - { name: tips, label: Püf noktaları, widget: list, required: false, field: { name: tip, label: Püf noktası, widget: string } }
+      - { name: videoUrl, label: Video dosyası linki (kendi player + preroll), widget: string, required: false, hint: "MP4 ya da HLS (.m3u8) linki. Doluysa YouTube yerine kendi player'ımız açılır ve video başında reklam (preroll) gösterilebilir." }
       - { name: youtube, label: YouTube video ID, widget: string, required: false, hint: "youtube.com/watch?v= sonrasındaki kısım (ör. dQw4w9WgXcQ). Doldurulunca tarif sayfasında video görünür." }
       - { name: videoLen, label: Video süresi (ör. 0:58), widget: string, required: false }
       - name: chapters
@@ -163,6 +164,17 @@ collections:
           - { name: ogImage, label: Varsayılan paylaşım görseli, widget: string, required: false }
           - { name: contactEmail, label: İletişim e-postası (gizlilik sayfasında görünür), widget: string, required: false }
           - { name: ga4, label: Google Analytics ölçüm kimliği (G-XXXXXXX), widget: string, required: false, hint: "Doldurulunca çerez onayı alan ziyaretçiler ölçülmeye başlar." }
+          - name: ads
+            label: Reklam (Google Ad Manager)
+            widget: object
+            fields:
+              - { name: enabled, label: Reklamlar açık, widget: boolean, default: false }
+              - { name: network, label: Ad Manager ağ kodu (network code), widget: string, required: false, hint: "Ad Manager → Yönetici → Genel ayarlar'daki sayı." }
+              - { name: prefix, label: Reklam birimi ana klasörü, widget: string, default: mesaimutfak }
+              - { name: interstitial, label: Sayfa geçişlerinde interstitial, widget: boolean, default: true }
+              - { name: anchor, label: Mobilde alt sabit banner (anchor), widget: boolean, default: true }
+              - { name: vastTag, label: Preroll VAST etiketi, widget: text, required: false, hint: "Ad Manager video reklam birimi ya da başka bir ad server'ın VAST linki." }
+              - { name: adsTxt, label: ads.txt satırları, widget: text, required: false, hint: "Ad Manager/AdSense'in verdiği satırları yapıştır (ör. google.com, pub-xxx, DIRECT, f08c47fec0942fa0)." }
           - name: partners
             label: Sipariş butonları (tarif sayfalarında)
             widget: list
