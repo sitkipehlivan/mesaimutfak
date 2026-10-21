@@ -8,7 +8,8 @@ pagination:
 permalink: "/kategori/{{ cat.k }}/"
 eleventyComputed:
   title: "{{ cat.l }}"
-  desc: "{{ cat.l }} tarifleri: {{ cat.s }}"
+  seoTitle: "{{ cat.seoTitle }}: Pratik ve kolay tarifler"
+  desc: "{{ cat.intro }}"
 ---
 {%- set list = collections.tarifler | inCat(cat.k) -%}
 <div class="wrap">
@@ -18,10 +19,16 @@ eleventyComputed:
     <div>
       <div class="eyebrow">Kategori · {{ list.length }} tarif</div>
       <h1>{{ cat.l }}</h1>
-      <p>{{ cat.s }}</p>
+      <p>{{ cat.intro }}</p>
     </div>
   </header>
   <div class="grid" style="margin-block:28px 64px">
     {% for r in list %}{% include "card.njk" %}{% else %}<div class="empty">Bu kategoride henüz tarif yok.</div>{% endfor %}
   </div>
 </div>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "CollectionPage", "name": {{ cat.seoTitle | dump | safe }}, "description": {{ cat.intro | dump | safe }}, "url": "{{ site.url }}{{ page.url }}",
+ "mainEntity": {"@type": "ItemList", "itemListElement": [{% for r in list %}{"@type": "ListItem", "position": {{ loop.index }}, "url": "{{ site.url }}{{ r.url }}", "name": {{ r.data.title | dump | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]},
+ "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Ana sayfa", "item": "{{ site.url }}/"}, {"@type": "ListItem", "position": 2, "name": {{ cat.l | dump | safe }}, "item": "{{ site.url }}{{ page.url }}"}]}}
+</script>

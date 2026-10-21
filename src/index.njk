@@ -92,3 +92,10 @@ isHome: true
     </div>
   </div>
 </section>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [
+  {"@type": "WebSite", "@id": "{{ site.url }}/#website", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}/", "inLanguage": "tr", "description": {{ site.description | dump | safe }}, "publisher": {"@id": "{{ site.url }}/#org"}},
+  {"@type": "Organization", "@id": "{{ site.url }}/#org", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}/", "logo": "{{ site.url }}/favicon.svg"}
+]}
+</script>

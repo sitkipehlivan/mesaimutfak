@@ -3,17 +3,26 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{% if title and not isHome %}{{ title }} · {{ site.name }}{% else %}{{ site.name }} · Pratik yemek tarifleri{% endif %}</title>
-<meta name="description" content="{{ desc or site.description }}">
+{%- set metaTitle = (seoTitle or title) if (title and not isHome) else '' -%}
+{%- set metaDesc = seoDesc or desc or site.description -%}
+{%- set ogImg = (site.url + (image | imgUrl(1200))) if image else (site.url + (site.ogImage | imgUrl(1200))) -%}
+<title>{% if metaTitle %}{{ metaTitle }} | {{ site.name }}{% else %}{{ site.name }}: Pratik ve kolay yemek tarifleri{% endif %}</title>
+<meta name="description" content="{{ metaDesc }}">
+<meta name="robots" content="{% if page.url == '/404.html' %}noindex{% else %}index, follow, max-image-preview:large{% endif %}">
 <meta name="theme-color" content="#F6F8F2" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#121714" media="(prefers-color-scheme: dark)">
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 <meta property="og:type" content="{% if layout == 'recipe.njk' %}article{% else %}website{% endif %}">
 <meta property="og:site_name" content="{{ site.name }}">
-<meta property="og:title" content="{{ title or site.name }}">
-<meta property="og:description" content="{{ desc or site.description }}">
+<meta property="og:title" content="{{ metaTitle or (site.name + ': Pratik ve kolay yemek tarifleri') }}">
+<meta property="og:description" content="{{ metaDesc }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-{% if image %}<meta property="og:image" content="{{ site.url }}{{ image | imgUrl(1200) }}">{% endif %}
+<meta property="og:image" content="{{ ogImg }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ metaTitle or site.name }}">
+<meta name="twitter:description" content="{{ metaDesc }}">
+<meta name="twitter:image" content="{{ ogImg }}">
+{% if site.googleVerification %}<meta name="google-site-verification" content="{{ site.googleVerification }}">{% endif %}
 <meta property="og:locale" content="tr_TR">
 <link rel="icon" href="{{ '/favicon.svg' | link }}" type="image/svg+xml">
 <script>try{var t=localStorage.getItem('mm-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>

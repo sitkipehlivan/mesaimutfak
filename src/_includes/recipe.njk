@@ -60,7 +60,7 @@ layout: base.njk
         <h2>Yapılışı</h2>
         <ol class="steps">
           {% for st in steps %}
-          <li>
+          <li id="adim-{{ loop.index }}">
             <div class="st-no mono">{{ loop.index }}</div>
             <div class="st-body">
               <h3>{{ st.t }}{% if st.time %} <span class="st-time mono">{{ st.time }}</span>{% endif %}</h3>
@@ -125,7 +125,11 @@ layout: base.njk
   "@type": "Recipe",
   "name": {{ title | dump | safe }},
   "description": {{ desc | dump | safe }},
-  {% if image %}"image": {{ (site.url + (image | imgUrl(1600))) | dump | safe }},{% endif %}
+  "image": [{{ (site.url + ((image or site.ogImage) | imgUrl(1600))) | dump | safe }}, {{ (site.url + ((image or site.ogImage) | imgUrl(1200))) | dump | safe }}],
+  "author": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": {{ site.url | dump | safe }}},
+  "publisher": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": {{ site.url | dump | safe }}, "logo": {"@type": "ImageObject", "url": "{{ site.url }}/favicon.svg"}},
+  "datePublished": "{{ page.date.toISOString().slice(0,10) }}",
+  "keywords": {{ (title + ' tarifi, ' + title + ' nasıl yapılır, ' + (cats | catLabels(categories))) | dump | safe }},
   "prepTime": "PT{{ prep }}M",
   "cookTime": "PT{{ cook }}M",
   "totalTime": "PT{{ prep + cook }}M",
@@ -134,7 +138,14 @@ layout: base.njk
   "recipeCuisine": "Türk",
   "inLanguage": "tr",
   "recipeIngredient": [{% for grp in ingredients %}{% for it in grp.items %}{{ ((it.a | amt) + ' ' + (it.u or '') + ' ' + it.n) | trim | dump | safe }}{% if not loop.last %},{% endif %}{% endfor %}{% if not loop.last %},{% endif %}{% endfor %}],
-  "recipeInstructions": [{% for st in steps %}{"@type": "HowToStep", "name": {{ st.t | dump | safe }}, "text": {{ st.d | dump | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]{% if youtube %},
+  "recipeInstructions": [{% for st in steps %}{"@type": "HowToStep", "name": {{ st.t | dump | safe }}, "text": {{ st.d | dump | safe }}, "url": "{{ site.url }}{{ page.url }}#adim-{{ loop.index }}"}{% if not loop.last %},{% endif %}{% endfor %}]{% if youtube %},
   "video": {"@type": "VideoObject", "name": {{ title | dump | safe }}, "embedUrl": "https://www.youtube.com/embed/{{ youtube }}", "thumbnailUrl": "https://i.ytimg.com/vi/{{ youtube }}/hqdefault.jpg", "uploadDate": "{{ page.date.toISOString() }}"}{% endif %}
 }
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+  {"@type": "ListItem", "position": 1, "name": "Ana sayfa", "item": "{{ site.url }}/"},
+  {"@type": "ListItem", "position": 2, "name": {{ (catKey | catLabel(categories)) | dump | safe }}, "item": "{{ site.url }}/kategori/{{ catKey }}/"},
+  {"@type": "ListItem", "position": 3, "name": {{ title | dump | safe }}, "item": "{{ site.url }}{{ page.url }}"}
+]}
 </script>

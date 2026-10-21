@@ -38,6 +38,7 @@ export default function (eleventyConfig) {
     .filter(r => r.fileSlug !== cur.fileSlug && r.data.cats.some(c => cur.data.cats.includes(c)))
     .slice(0, 4));
   eleventyConfig.addFilter('catLabel', (k, cats) => ([...cats.types, ...cats.diets].find(c => c.k === k) || {}).l || k);
+  eleventyConfig.addFilter('catLabels', (ks, cats) => (ks || []).map(k => ([...cats.types, ...cats.diets].find(c => c.k === k) || {}).l || k).join(', '));
   eleventyConfig.addFilter('amt', fmtAmount);
   eleventyConfig.addFilter('tint', k => tint(k));
   eleventyConfig.addFilter('sortByMin', list => [...list].sort((a, b) => (a.data.prep + a.data.cook) - (b.data.prep + b.data.cook)));
