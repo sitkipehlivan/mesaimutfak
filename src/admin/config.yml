@@ -53,6 +53,7 @@ collections:
           - { label: Ana Yemekler, value: ana }
           - { label: Zeytinyağlılar, value: zeytinyagli }
           - { label: Ara Sıcaklar, value: arasicak }
+          - { label: Hamur İşleri, value: hamurisi }
           - { label: Çorbalar, value: corba }
           - { label: Pilavlar, value: pilav }
           - { label: Kahvaltılık, value: kahvalti }

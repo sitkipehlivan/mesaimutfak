@@ -10,7 +10,7 @@
         "sun"
       ],
       "seoTitle": "Ana Yemek Tarifleri",
-      "intro": "Akşam sofrası için pratik ana yemek tarifleri: fırın yemeklerinden tavuğa, karnıyarıktan hünkâr beğendiye. Her tarifte süre, porsiyon ve adım adım yapılış."
+      "intro": "Akşam sofrası için pratik ana yemek tarifleri: iskender, mantı, köfteler, tavuk sote, tas kebabı ve karnıyarık. Her tarifte süre, porsiyon ve adım adım yapılış."
     },
     {
       "k": "zeytinyagli",
@@ -22,7 +22,7 @@
         "leaf"
       ],
       "seoTitle": "Zeytinyağlı Tarifleri",
-      "intro": "Zeytinyağlı yemek tarifleri: sarma, taze fasulye, kuru fasulye ve daha fazlası. Soğuk servis edilen, ertesi gün daha lezzetli tarifler."
+      "intro": "Zeytinyağlı yemek tarifleri: sarma, imam bayıldı, enginar, pırasa, barbunya, biber dolması ve taze fasulye. Soğuk servis edilen, ertesi gün daha lezzetli tarifler."
     },
     {
       "k": "arasicak",
@@ -37,6 +37,18 @@
       "intro": "Kolay ara sıcak tarifleri: paçanga böreği, içli köfte, dinamit karides ve misafir sofraları için meze tarifleri."
     },
     {
+      "k": "hamurisi",
+      "l": "Hamur İşleri",
+      "s": "Börek, poğaça, pide ve gözleme",
+      "art": [
+        "sun",
+        "rice",
+        "card"
+      ],
+      "seoTitle": "Hamur İşi Tarifleri",
+      "intro": "Hamur işi tarifleri: su böreği, ıspanaklı börek, poğaça, açma, pide, lahmacun ve gözleme. Ev yapımı hamurlar, adım adım ve püf noktalarıyla."
+    },
+    {
       "k": "corba",
       "l": "Çorbalar",
       "s": "Bir tencere, birkaç gün",
@@ -46,7 +58,7 @@
         "tomato"
       ],
       "seoTitle": "Çorba Tarifleri",
-      "intro": "Pratik çorba tarifleri: mercimek, ezogelin ve tatlı patates çorbası. Bir tencere yap, birkaç gün ye."
+      "intro": "Pratik çorba tarifleri: mercimek, ezogelin, yayla, tarhana, domates ve mantar çorbası. Bir tencere yap, birkaç gün ye."
     },
     {
       "k": "pilav",
@@ -58,7 +70,7 @@
         "rice"
       ],
       "seoTitle": "Pilav Tarifleri",
-      "intro": "Tane tane pilav tarifleri: tereyağlı pirinç pilavı, nohutlu bulgur pilavı. Su oranları ve püf noktalarıyla."
+      "intro": "Tane tane pilav tarifleri: tereyağlı pirinç pilavı, iç pilav, domatesli pilav, tavuklu pilav ve bulgur pilavları. Su oranları ve püf noktalarıyla."
     },
     {
       "k": "kahvalti",
@@ -70,7 +82,7 @@
         "card"
       ],
       "seoTitle": "Kahvaltılık Tarifleri",
-      "intro": "Kahvaltılık tarifleri: menemen, pankek, tatlı patates tostu ve kahvaltı tavaları. Hafta içi hızlı, hafta sonu keyifli."
+      "intro": "Kahvaltılık tarifleri: menemen, çılbır, sucuklu yumurta, krep, pankek, waffle, kuymak ve gözleme. Hafta içi hızlı, hafta sonu keyifli."
     },
     {
       "k": "salata",
@@ -82,7 +94,7 @@
         "leaf"
       ],
       "seoTitle": "Salata ve Meze Tarifleri",
-      "intro": "Salata ve meze tarifleri: kısır, közlenmiş patlıcan salatası ve sofraya yakışan pratik mezeler."
+      "intro": "Salata ve meze tarifleri: çoban salatası, piyaz, cacık, haydari, humus, acılı ezme ve kısır. Sofraya yakışan pratik mezeler."
     },
     {
       "k": "firin",
@@ -106,7 +118,7 @@
         "sun"
       ],
       "seoTitle": "Tatlı Tarifleri",
-      "intro": "Kolay tatlı tarifleri: fırın sütlaç, ayva tatlısı ve sağlıklı chia bowl’lar. Sütlüden meyveliye pratik tatlılar."
+      "intro": "Kolay tatlı tarifleri: kek, brownie, cheesecake, tiramisu, sütlaç, revani, şekerpare ve baklava. Sütlüden şerbetliye pratik tatlılar."
     }
   ],
   "diets": [
