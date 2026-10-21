@@ -13,6 +13,7 @@ desc: Mesai Mutfak'ta kullanılan fotoğrafların sahipleri ve lisansları.
       <p>Bazı tarif fotoğrafları, fotoğrafçılarının açık lisansla paylaştığı çalışmalardır. Fotoğrafçı adı ve lisansı aşağıda, her birinin kaynak sayfası bağlantıda.</p>
     </div>
   </header>
+  {% if not collections.photos.length %}<p class="credits-note">Şu anda sitedeki tüm fotoğraflar Mesai Mutfak’a aittir.</p>{% endif %}
   <ul class="credits-list">
     {% for r in collections.photos %}
     <li>

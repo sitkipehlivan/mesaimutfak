@@ -17,7 +17,7 @@ art:
 - tomato
 - sun
 - leaf
-image: ''
+image: /img/tarifler/tatli-patatesli-yumurtali-kahvalti-tavasi.jpg
 imageAlt: ''
 imageCredit: ''
 imageCreditUrl: ''

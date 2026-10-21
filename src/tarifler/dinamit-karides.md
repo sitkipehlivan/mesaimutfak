@@ -16,7 +16,7 @@ art:
 - sun
 - tomato
 - leaf
-image: ''
+image: /img/tarifler/dinamit-karides.jpg
 imageAlt: ''
 imageCredit: ''
 imageCreditUrl: ''

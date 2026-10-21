@@ -17,7 +17,7 @@ art:
 - sun
 - tomato
 - rice
-image: ''
+image: /img/tarifler/dinamit-tavuk.jpg
 imageAlt: ''
 imageCredit: ''
 imageCreditUrl: ''

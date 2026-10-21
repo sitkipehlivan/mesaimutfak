@@ -17,10 +17,10 @@ art:
 - sun
 - pom
 - rice
-image: 'https://images.unsplash.com/photo-1612182062633-9ff3b3598e96'
+image: /img/tarifler/pankek.jpg
 imageAlt: 'Tabakta üst üste dizilmiş, ahududu ve yaban mersinli pankekler'
-imageCredit: 'Jaqueline Pelzer · Unsplash lisansı'
-imageCreditUrl: 'https://unsplash.com/photos/pancakes-with-berries-on-white-ceramic-plate-MytHEJlzdcM'
+imageCredit: ''
+imageCreditUrl: ''
 youtube: ''
 videoLen: ''
 chapters: []
