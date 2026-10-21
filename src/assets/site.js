@@ -132,14 +132,12 @@
     const CKEY = 'mm-consent';
     let c = null; try { c = localStorage.getItem(CKEY); } catch (e) {}
     const load = () => {
-      if (!ga) return;
-      const s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ga; document.head.appendChild(s);
-      window.dataLayer = window.dataLayer || []; window.gtag = function () { dataLayer.push(arguments); };
-      gtag('js', new Date()); gtag('config', ga, { anonymize_ip: true });
+      if (!ga || !window.gtag) return;
+      gtag('consent', 'update', { analytics_storage: 'granted', ad_storage: 'granted', ad_user_data: 'granted', ad_personalization: 'granted' });
+      gtag('set', 'ads_data_redaction', false);
     };
     const decide = v => { try { localStorage.setItem(CKEY, v); } catch (e) {} document.dispatchEvent(new CustomEvent('mm-consent', { detail: v })); };
-    if (c === 'yes') load();
-    else if (c !== 'no') {
+    if (c !== 'yes' && c !== 'no') {
       const b = $('consent'); if (b) {
         b.hidden = false;
         $('consentYes').onclick = () => { b.hidden = true; decide('yes'); load(); };
