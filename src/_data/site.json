@@ -3,5 +3,21 @@
   "url": "https://mesaimutfak.com",
   "description": "Pratik ve kolay yemek tarifleri: ana yemekler, zeytinyağlılar, çorbalar, tatlılar; vegan, glutensiz ve mesai sonrası için hızlı tarifler.",
   "youtube": "https://www.youtube.com",
-  "ogImage": "/img/tarifler/visneli-nar-eksili-zeytinyagli-sarma.jpg"
+  "ogImage": "/img/tarifler/visneli-nar-eksili-zeytinyagli-sarma.jpg",
+  "ga4": "",
+  "partners": [
+    {
+      "k": "getir",
+      "name": "Getir",
+      "url": "https://getir.com/",
+      "enabled": true
+    },
+    {
+      "k": "yemeksepeti",
+      "name": "Yemeksepeti Market",
+      "url": "https://www.yemeksepeti.com/",
+      "enabled": true
+    }
+  ],
+  "contactEmail": ""
 }

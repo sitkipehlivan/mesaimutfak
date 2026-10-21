@@ -17,6 +17,18 @@ isHome: true
   </a>
 </div>
 
+{# Arama #}
+<section class="home-search">
+  <div class="wrap">
+    <form class="bigsearch" role="search" action="{{ '/ara/' | link }}">
+      <label for="homeq" class="sr-only">Tarif ya da malzeme ara</label>
+      <input id="homeq" name="q" type="search" placeholder="{{ collections.tarifler.length }} tarif içinde ara: mantı, tavuk, nohut, vegan…" autocomplete="off">
+      <button type="submit" class="btn">Ara</button>
+    </form>
+    <div class="qchips"><span>Sık arananlar:</span>{% for q in ['mantı', 'köfte', 'börek', 'tavuk', 'çorba', 'kek', 'vegan', 'pilav'] %}<a href="{{ ('/ara/?q=' + q) | link }}">{{ q }}</a>{% endfor %}</div>
+  </div>
+</section>
+
 {# 2. Kategoriler #}
 <section class="home-sec" id="kategoriler">
   <div class="wrap">
@@ -95,7 +107,8 @@ isHome: true
 
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@graph": [
-  {"@type": "WebSite", "@id": "{{ site.url }}/#website", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}/", "inLanguage": "tr", "description": {{ site.description | dump | safe }}, "publisher": {"@id": "{{ site.url }}/#org"}},
+  {"@type": "WebSite", "@id": "{{ site.url }}/#website", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}/", "inLanguage": "tr", "description": {{ site.description | dump | safe }}, "publisher": {"@id": "{{ site.url }}/#org"},
+   "potentialAction": {"@type": "SearchAction", "target": {"@type": "EntryPoint", "urlTemplate": "{{ site.url }}/ara/?q={search_term_string}"}, "query-input": "required name=search_term_string"}},
   {"@type": "Organization", "@id": "{{ site.url }}/#org", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}/", "logo": "{{ site.url }}/favicon.svg"}
 ]}
 </script>

@@ -1,0 +1,29 @@
+---
+layout: base.njk
+permalink: /listem/
+title: Alışveriş listem
+desc: Tariflerden eklediğin eksik malzemeler tek listede.
+---
+<div class="wrap" id="listPage">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Alışveriş listem</span></nav>
+  <header class="cat-hero"><div>
+    <div class="eyebrow" id="listCount"></div>
+    <h1>Alışveriş listem</h1>
+    <p>Tarif sayfalarında evde olanları işaretleyip "Listeme ekle"ye bastığın malzemeler burada toplanır. Liste sadece bu cihazda saklanır.</p>
+  </div></header>
+  <div id="listEmpty" class="empty" hidden>Listen boş. Bir tarif açıp eksik malzemelerini <b>Listeme ekle</b> ile buraya ekleyebilirsin. <a href="{{ '/tarifler/' | link }}">Tariflere göz at</a></div>
+  <div id="listFull" hidden>
+    <ul class="list-recipes" id="listRecipes"></ul>
+    <div class="shop shop-page">
+      <div class="shop-actions">
+        <button type="button" class="btn" id="listCopy">Tüm listeyi kopyala</button>
+        <a class="btn ghost" id="listWa" href="https://wa.me/" target="_blank" rel="noopener">WhatsApp</a>
+        <button type="button" class="btn ghost" id="listClear">Listeyi temizle</button>
+      </div>
+      {%- set activePartners = site.partners | selectattr('enabled') -%}
+      {% if activePartners.length %}<div class="shop-partners"><span>Hemen sipariş ver</span>{% for p in activePartners %}<a class="partner" data-partner="{{ p.k }}" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.name }}</a>{% endfor %}</div>
+      <p class="shop-hint">Butona basınca liste kopyalanır; uygulamada aratıp sepete ekleyebilirsin.</p>{% endif %}
+      <p class="shop-msg" id="listMsg" role="status"></p>
+    </div>
+  </div>
+</div>

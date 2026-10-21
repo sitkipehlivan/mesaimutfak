@@ -1,0 +1,18 @@
+---
+layout: base.njk
+permalink: /gizlilik/
+title: Gizlilik ve çerezler
+desc: Mesai Mutfak'ın topladığı veriler, çerezler ve tercihlerin.
+---
+<div class="wrap prose">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Gizlilik</span></nav>
+  <h1>Gizlilik ve çerezler</h1>
+  <p>Mesai Mutfak’ta üyelik yok; adını, e-postanı ya da ödeme bilgini istemiyoruz.</p>
+  <h2>Cihazında saklananlar</h2>
+  <p>Açık/koyu tema seçimin ve "Alışveriş listem" sayfasına eklediğin malzemeler yalnızca kendi tarayıcında (localStorage) saklanır, bize gönderilmez. Tarayıcı verilerini sildiğinde bunlar da silinir.</p>
+  <h2>Ziyaret istatistikleri</h2>
+  <p>İzin verirsen, sitenin nasıl kullanıldığını anlamak için Google Analytics ile anonim istatistikler topluyoruz: hangi tariflerin okunduğu, alışveriş listesi ve sipariş butonlarının kullanımı gibi. İzin vermezsen bu ölçüm hiç yüklenmez. Tercihini tarayıcı verilerini silerek sıfırlayabilirsin.</p>
+  <h2>Dış bağlantılar</h2>
+  <p>Tarif videoları YouTube’un gizlilik odaklı oynatıcısıyla (youtube-nocookie.com) gösterilir. "Hemen sipariş ver" butonları seni ilgili market uygulamasına götürür; orada o şirketin gizlilik koşulları geçerlidir.</p>
+  {% if site.contactEmail %}<h2>İletişim</h2><p>Soruların için: {{ site.contactEmail }}</p>{% endif %}
+</div>

@@ -160,3 +160,15 @@ collections:
           - { name: url, label: Site adresi, widget: string }
           - { name: description, label: Site açıklaması (Google), widget: text }
           - { name: youtube, label: YouTube kanal adresi, widget: string, hint: "Menüdeki ve alt bilgideki YouTube butonları buraya gider." }
+          - { name: ogImage, label: Varsayılan paylaşım görseli, widget: string, required: false }
+          - { name: contactEmail, label: İletişim e-postası (gizlilik sayfasında görünür), widget: string, required: false }
+          - { name: ga4, label: Google Analytics ölçüm kimliği (G-XXXXXXX), widget: string, required: false, hint: "Doldurulunca çerez onayı alan ziyaretçiler ölçülmeye başlar." }
+          - name: partners
+            label: Sipariş butonları (tarif sayfalarında)
+            widget: list
+            summary: "{{name}}"
+            fields:
+              - { name: k, label: Kısa ad (ör. getir), widget: string }
+              - { name: name, label: Buton yazısı, widget: string }
+              - { name: url, label: Link, widget: string, hint: "Anlaşma sonrası partnerin verdiği takip linkiyle değiştirilir." }
+              - { name: enabled, label: Görünsün, widget: boolean, default: true }

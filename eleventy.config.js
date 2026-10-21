@@ -39,6 +39,9 @@ export default function (eleventyConfig) {
     .slice(0, 4));
   eleventyConfig.addFilter('catLabel', (k, cats) => ([...cats.types, ...cats.diets].find(c => c.k === k) || {}).l || k);
   eleventyConfig.addFilter('catLabels', (ks, cats) => (ks || []).map(k => ([...cats.types, ...cats.diets].find(c => c.k === k) || {}).l || k).join(', '));
+  const PANTRY = /^(su|sıcak su|soğuk su|ılık su|kaynar su|buzlu su|tuz|karabiber)\b/i;
+  eleventyConfig.addFilter('isPantry', n => PANTRY.test(String(n || '').trim()) && !/suyu|sulu/.test(String(n)));
+  eleventyConfig.addFilter('ingNames', groups => [...new Set((groups || []).flatMap(g => (g.items || []).map(it => String(it.n || '').replace(/\(.*?\)|,.*$/g, '').trim().toLocaleLowerCase('tr'))))].filter(Boolean).join(' '));
   eleventyConfig.addFilter('amt', fmtAmount);
   eleventyConfig.addFilter('tint', k => tint(k));
   eleventyConfig.addFilter('sortByMin', list => [...list].sort((a, b) => (a.data.prep + a.data.cook) - (b.data.prep + b.data.cook)));

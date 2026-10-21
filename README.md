@@ -18,6 +18,13 @@ Kaydet'e basıldıktan sonra site 1-2 dakika içinde otomatik güncellenir.
 2. Repo sahibi GitHub'da **Settings → Collaborators → Add people** ile editörü davet eder.
 3. Editör daveti kabul eder ve /admin adresinden giriş yapar.
 
+## Arama, alışveriş listesi ve sipariş butonları
+
+- **Arama** (`/ara/`): başlık, kategori ve malzemelerde arar, Türkçe karakter duyarsızdır. Dizin her derlemede `/arama-dizini.json` olarak üretilir.
+- **Eksik malzemeler**: tarif sayfasında evde olanlar işaretlenir, kalanlar kopyalanabilir, WhatsApp'ta paylaşılabilir ya da **Alışveriş listem** (`/listem/`) sayfasında toplanır (yalnızca kullanıcının tarayıcısında).
+- **Sipariş butonları**: Panel → Site ayarları → Genel bilgiler → *Sipariş butonları*. Anlaşma yapılınca partnerin verdiği takip linki buraya yazılır; kapatmak için "Görünsün" işaretini kaldır.
+- **Ölçüm**: Panelde *Google Analytics ölçüm kimliği* doldurulunca çerez onayı veren ziyaretçiler ölçülür. Olaylar: `search`, `shopping_list_copy`, `shopping_list_share`, `shopping_list_add`, `partner_click` (partner, tarif ve ürün sayısıyla).
+
 ## Yapı
 
 ```

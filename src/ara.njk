@@ -1,0 +1,20 @@
+---
+layout: base.njk
+permalink: /ara/
+title: Tarif ara
+desc: Mesai Mutfak'ta tarif adı, malzeme ya da kategoriye göre tarif ara.
+---
+<div class="wrap" id="searchPage">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Tarif ara</span></nav>
+  <header class="search-hero">
+    <h1>Ne pişirmek istersin?</h1>
+    <form class="bigsearch" role="search" action="{{ '/ara/' | link }}" id="searchForm">
+      <label for="q" class="sr-only">Tarif ya da malzeme ara</label>
+      <input id="q" name="q" type="search" placeholder="Tarif, malzeme ya da kategori yaz: mantı, tavuk, vegan…" autocomplete="off" autofocus>
+      <button type="submit" class="btn">Ara</button>
+    </form>
+    <p class="search-sum" id="searchSum" role="status"></p>
+  </header>
+  <div class="grid sgrid" id="searchResults" style="margin-block:8px 64px"></div>
+  <noscript><p>Arama için JavaScript gerekiyor. <a href="{{ '/tarifler/' | link }}">Tüm tarifleri</a> görebilirsin.</p></noscript>
+</div>

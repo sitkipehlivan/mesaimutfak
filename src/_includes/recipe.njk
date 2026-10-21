@@ -48,11 +48,26 @@ layout: base.njk
           {% if grp.group %}<h3 class="ing-group">{{ grp.group }}</h3>{% endif %}
           <ul class="ing-list">
             {% for it in grp.items %}
-            <li><label><input type="checkbox"><span class="amt mono" data-a="{{ it.a }}">{{ it.a | amt }}</span> <span class="unit">{{ it.u }}</span> <span class="nm">{{ it.n }}</span></label></li>
+            <li{% if it.n | isPantry %} data-pantry="1"{% endif %}><label><input type="checkbox" class="have" aria-label="Evde var: {{ it.n }}"><span class="amt mono" data-a="{{ it.a }}">{{ it.a | amt }}</span> <span class="unit">{{ it.u }}</span> <span class="nm">{{ it.n }}</span></label></li>
             {% endfor %}
           </ul>
         {% endfor %}
-        <p class="ing-note">İşaretlediklerin üstü çizilir, alışverişte işine yarar.</p>
+        <p class="ing-note">Evde olanları işaretle, kalanlar alışveriş listene girer.</p>
+        <div class="shop" id="shop" data-slug="{{ page.fileSlug }}" data-title="{{ title }}" data-url="{{ site.url }}{{ page.url }}">
+          <div class="shop-head"><b>Eksik malzemeler</b><span class="mono" id="shopCount"></span></div>
+          <ul class="shop-list" id="shopList"></ul>
+          <div class="shop-actions">
+            <button type="button" class="btn" id="shopCopy">Listeyi kopyala</button>
+            <a class="btn ghost" id="shopWa" href="https://wa.me/" target="_blank" rel="noopener">WhatsApp</a>
+            <button type="button" class="btn ghost" id="shopAdd">Listeme ekle</button>
+          </div>
+          {%- set activePartners = site.partners | selectattr('enabled') -%}
+          {% if activePartners.length %}
+          <div class="shop-partners"><span>Hemen sipariş ver</span>{% for p in activePartners %}<a class="partner" data-partner="{{ p.k }}" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.name }}</a>{% endfor %}</div>
+          <p class="shop-hint">Butona basınca liste kopyalanır; uygulamada aratıp sepete ekleyebilirsin.</p>
+          {% endif %}
+          <p class="shop-msg" id="shopMsg" role="status"></p>
+        </div>
       </aside>
 
       <div class="method">

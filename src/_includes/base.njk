@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="tr">
+<html lang="tr"{% if site.ga4 %} data-ga4="{{ site.ga4 }}"{% endif %}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -45,6 +45,11 @@
       <a href="{{ '/kategori/hizli/' | link }}">Hızlı Tarifler</a>
       <a href="{{ '/bugun-ne-pisirsem/' | link }}" class="nav-tool">Bugün ne pişirsem?</a>
     </nav>
+    <form class="hsearch" role="search" action="{{ '/ara/' | link }}">
+      <label for="hq" class="sr-only">Tarif ara</label>
+      <input id="hq" name="q" type="search" placeholder="Tarif ara" autocomplete="off">
+      <button type="submit" aria-label="Ara"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
+    </form>
     <button class="theme" id="themeBtn" aria-label="Koyu temaya geç"><svg class="sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg></button>
     <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>YouTube</a>
   </div>
@@ -66,13 +71,19 @@
     <nav class="foot-nav" aria-label="Alt menü">
       <a href="{{ '/tarifler/' | link }}">Tüm tarifler</a>
       <a href="{{ '/bugun-ne-pisirsem/' | link }}">Bugün ne pişirsem?</a>
+      <a href="{{ '/listem/' | link }}">Alışveriş listem</a>
       <a href="{{ '/kategori/vegan/' | link }}">Vegan</a>
       <a href="{{ '/kategori/glutensiz/' | link }}">Glutensiz</a>
+      <a href="{{ '/gizlilik/' | link }}">Gizlilik</a>
       {% if collections.photos.length %}<a href="{{ '/fotograf-kaynaklari/' | link }}">Fotoğraf kaynakları</a>{% endif %}
     </nav>
     <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>
   </div>
 </footer>
+{% if site.ga4 %}<div class="consent" id="consent" hidden role="dialog" aria-label="Çerez tercihi">
+  <p>Siteyi geliştirmek için anonim ziyaret istatistikleri topluyoruz. İzin veriyor musun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
+  <div><button type="button" class="btn" id="consentYes">Kabul et</button><button type="button" class="btn ghost" id="consentNo">Reddet</button></div>
+</div>{% endif %}
 <script src="{{ '/assets/site.js' | link }}"></script>
 {% block scripts %}{% endblock %}
 </body>

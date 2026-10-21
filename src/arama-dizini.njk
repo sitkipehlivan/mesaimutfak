@@ -1,0 +1,6 @@
+---
+permalink: /arama-dizini.json
+eleventyExcludeFromCollections: true
+---
+[{% for r in collections.tarifler %}{"t": {{ r.data.title | dump | safe }}, "u": "{{ r.url }}", "d": {{ r.data.desc | dump | safe }}, "c": {{ (r.data.cats | catLabels(categories)) | dump | safe }}, "k": "{{ r.data.cats[0] }}", "m": {{ r.data.prep + r.data.cook }}, "l": "{{ r.data.lvl }}", "i": {{ (r.data.image | imgUrl(700)) | dump | safe }}, "g": {{ r.data.ingredients | ingNames | dump | safe }}}{% if not loop.last %},
+{% endif %}{% endfor %}]

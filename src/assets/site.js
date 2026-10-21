@@ -39,10 +39,129 @@
       $('srvOut').textContent = n + ' kişilik';
       ing.querySelectorAll('.amt').forEach(el => {
         const a = parseFloat(el.dataset.a);
-        if (!isNaN(a)) el.textContent = fmt(Math.round(a * n / base * 4) / 4 || a * n / base);
+        if (isNaN(a)) return;
+        const v = a * n / base;
+        const unit = (el.parentNode.querySelector('.unit') || {}).textContent || '';
+        const whole = /^(adet|diş|dal|yaprak|dilim|paket|kutu|demet)$/.test(unit.trim());
+        el.textContent = v >= 50 ? String(Math.round(v / 5) * 5) : v >= 10 ? String(Math.round(v)) : whole ? fmt(Math.max(0.5, Math.round(v * 2) / 2)) : fmt(Math.round(v * 4) / 4 || v);
       });
     };
     ing.querySelectorAll('.srv-btn').forEach(b => b.onclick = () => { n = Math.min(24, Math.max(1, n + +b.dataset.d)); render(); });
+  }
+
+
+  /* ---------- ölçüm (GA4, yalnızca onay verilirse) ---------- */
+  window.mmTrack = function (name, params) {
+    try { if (window.gtag) window.gtag('event', name, params || {}); } catch (e) {}
+  };
+
+  /* ---------- eksik malzemeler / alışveriş listesi ---------- */
+  const shop = $('shop');
+  const LKEY = 'mm-list';
+  const readList = () => { try { return JSON.parse(localStorage.getItem(LKEY) || '{}'); } catch (e) { return {}; } };
+  const writeList = v => { try { localStorage.setItem(LKEY, JSON.stringify(v)); return true; } catch (e) { return false; } };
+  async function copyText(t) {
+    try { await navigator.clipboard.writeText(t); return true; }
+    catch (e) {
+      const ta = document.createElement('textarea'); ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta); ta.select(); let ok = false; try { ok = document.execCommand('copy'); } catch (_) {}
+      ta.remove(); return ok;
+    }
+  }
+  if (shop && ing) {
+    const msg = t => { $('shopMsg').textContent = t; clearTimeout(msg._t); msg._t = setTimeout(() => $('shopMsg').textContent = '', 4000); };
+    const missing = () => [...ing.querySelectorAll('.ing-list li')]
+      .filter(li => !li.dataset.pantry && !li.querySelector('.have').checked)
+      .map(li => [li.querySelector('.amt').textContent, li.querySelector('.unit').textContent, li.querySelector('.nm').textContent].join(' ').replace(/\s+/g, ' ').trim());
+    const listText = items => `${shop.dataset.title} için alışveriş listem:\n` + items.map(i => '• ' + i).join('\n') + `\n\nTarif: ${shop.dataset.url}`;
+    const update = () => {
+      const items = missing();
+      $('shopCount').textContent = items.length ? items.length + ' ürün' : 'hepsi evde';
+      $('shopList').innerHTML = items.map(i => `<li>${i.replace(/</g, '&lt;')}</li>`).join('');
+      $('shopWa').href = 'https://wa.me/?text=' + encodeURIComponent(listText(items));
+      shop.classList.toggle('done', !items.length);
+    };
+    ing.addEventListener('change', update);
+    ing.addEventListener('click', e => { if (e.target.closest('.srv-btn')) setTimeout(update, 0); });
+    update();
+    $('shopCopy').onclick = async () => { const ok = await copyText(listText(missing())); msg(ok ? 'Liste kopyalandı.' : 'Kopyalanamadı, listeyi seçip kopyalayabilirsin.'); mmTrack('shopping_list_copy', { recipe: shop.dataset.slug, items: missing().length }); };
+    $('shopWa').addEventListener('click', () => mmTrack('shopping_list_share', { recipe: shop.dataset.slug, method: 'whatsapp' }));
+    $('shopAdd').onclick = () => {
+      const l = readList(); l[shop.dataset.slug] = { title: shop.dataset.title, url: shop.dataset.url, items: missing(), at: Date.now() };
+      msg(writeList(l) ? 'Listene eklendi. Tüm listen: mesaimutfak.com/listem' : 'Bu tarayıcı listeyi saklamaya izin vermiyor.');
+      mmTrack('shopping_list_add', { recipe: shop.dataset.slug, items: missing().length });
+    };
+    shop.querySelectorAll('.partner').forEach(a => a.addEventListener('click', () => {
+      copyText(listText(missing()));
+      mmTrack('partner_click', { partner: a.dataset.partner, recipe: shop.dataset.slug, items: missing().length });
+    }));
+  }
+
+  /* ---------- listem sayfası ---------- */
+  const lp = $('listPage');
+  if (lp) {
+    const render = () => {
+      const l = readList(), keys = Object.keys(l).sort((a, b) => l[b].at - l[a].at);
+      $('listEmpty').hidden = !!keys.length; $('listFull').hidden = !keys.length;
+      $('listRecipes').innerHTML = keys.map(k => `<li><div><a href="${l[k].url}">${l[k].title}</a><span>${l[k].items.length} ürün</span></div><ul>${l[k].items.map(i => `<li>${i}</li>`).join('')}</ul><button type="button" class="btn ghost" data-rm="${k}">Çıkar</button></li>`).join('');
+      $('listRecipes').querySelectorAll('[data-rm]').forEach(b => b.onclick = () => { const l2 = readList(); delete l2[b.dataset.rm]; writeList(l2); render(); });
+      const all = keys.flatMap(k => l[k].items);
+      const text = 'Mesai Mutfak alışveriş listem:\n' + keys.map(k => `\n${l[k].title}\n` + l[k].items.map(i => '• ' + i).join('\n')).join('\n');
+      $('listCount').textContent = `${keys.length} tarif · ${all.length} ürün`;
+      $('listWa').href = 'https://wa.me/?text=' + encodeURIComponent(text);
+      $('listCopy').onclick = async () => { const ok = await copyText(text); $('listMsg').textContent = ok ? 'Liste kopyalandı.' : 'Kopyalanamadı.'; mmTrack('shopping_list_copy', { recipe: 'listem', items: all.length }); };
+      $('listClear').onclick = () => { writeList({}); render(); };
+      lp.querySelectorAll('.partner').forEach(a => a.onclick = () => { copyText(text); mmTrack('partner_click', { partner: a.dataset.partner, recipe: 'listem', items: all.length }); });
+    };
+    render();
+  }
+
+  /* ---------- çerez onayı ve GA4 ---------- */
+  const ga = document.documentElement.dataset.ga4;
+  if (ga) {
+    const CKEY = 'mm-consent';
+    let c = null; try { c = localStorage.getItem(CKEY); } catch (e) {}
+    const load = () => {
+      const s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ga; document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || []; window.gtag = function () { dataLayer.push(arguments); };
+      gtag('js', new Date()); gtag('config', ga, { anonymize_ip: true });
+    };
+    if (c === 'yes') load();
+    else if (c !== 'no') {
+      const b = $('consent'); if (b) {
+        b.hidden = false;
+        $('consentYes').onclick = () => { try { localStorage.setItem(CKEY, 'yes'); } catch (e) {} b.hidden = true; load(); };
+        $('consentNo').onclick = () => { try { localStorage.setItem(CKEY, 'no'); } catch (e) {} b.hidden = true; };
+      }
+    }
+  }
+
+
+  /* ---------- arama ---------- */
+  const sp = $('searchPage');
+  if (sp) {
+    const norm = t => String(t || '').toLocaleLowerCase('tr').replace(/[çğıöşüâîû]/g, ch => ({ 'ç': 'c', 'ğ': 'g', 'ı': 'i', 'ö': 'o', 'ş': 's', 'ü': 'u', 'â': 'a', 'î': 'i', 'û': 'u' })[ch]).replace(/[^a-z0-9 ]/g, ' ');
+    const params = new URLSearchParams(location.search); const qi = $('q'); qi.value = params.get('q') || '';
+    const root = document.querySelector('.logo').getAttribute('href').replace(/index\.html$/, '');
+    let data = null;
+    const card = r => `<a class="rc" href="${root.replace(/\/$/, '')}${r.u}"><div class="art${r.i ? ' has-photo' : ''}">${r.i ? `<img class="photo-img" src="${r.i}" alt="" loading="lazy">` : `<span class="ph-letter">${r.t[0]}</span>`}</div><div class="body"><span class="cat-name">${r.c.split(', ')[0]}</span><h3>${r.t}</h3><p>${r.d}</p><dl class="facts"><div><dt>Süre</dt><dd>${r.m} dk</dd></div><div><dt>Zorluk</dt><dd>${r.l}</dd></div><div><dt>Kategori</dt><dd>${r.c.split(', ').length > 1 ? r.c.split(', ')[1] : r.c}</dd></div></dl></div></a>`;
+    const run = () => {
+      const q = qi.value.trim(), words = norm(q).split(/\s+/).filter(w => w.length > 1);
+      history.replaceState(null, '', q ? '?q=' + encodeURIComponent(q) : location.pathname);
+      if (!words.length) { $('searchSum').textContent = `${data.length} tarif var. Bir tarif adı ya da malzeme yaz.`; $('searchResults').innerHTML = ''; return; }
+      const scored = data.map(r => {
+        const T = norm(r.t), C = norm(r.c), G = norm(r.g), D = norm(r.d); let s = 0;
+        for (const w of words) { if (T.includes(w)) s += 10; else if (C.includes(w)) s += 6; else if (G.includes(w)) s += 4; else if (D.includes(w)) s += 2; else return null; }
+        return { r, s: s + (T.startsWith(words[0]) ? 5 : 0) };
+      }).filter(Boolean).sort((a, b) => b.s - a.s);
+      $('searchSum').textContent = scored.length ? `“${q}” için ${scored.length} tarif bulundu.` : `“${q}” için tarif bulunamadı. Daha kısa bir kelime ya da bir malzeme dene.`;
+      $('searchResults').innerHTML = scored.map(x => card(x.r)).join('');
+      mmTrack('search', { search_term: q, results: scored.length });
+    };
+    let t; qi.addEventListener('input', () => { clearTimeout(t); t = setTimeout(run, 180); });
+    $('searchForm').addEventListener('submit', e => { e.preventDefault(); run(); });
+    fetch(root.replace(/\/$/, '') + '/arama-dizini.json').then(r => r.json()).then(d => { data = d; run(); })
+      .catch(() => { $('searchSum').textContent = 'Arama şu an yüklenemedi. Sayfayı yenilemeyi dene.'; });
   }
 
   /* ---------- bugün ne pişirsem? ---------- */
