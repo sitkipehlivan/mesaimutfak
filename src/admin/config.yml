@@ -164,6 +164,7 @@ collections:
           - { name: ogImage, label: Varsayılan paylaşım görseli, widget: string, required: false }
           - { name: contactEmail, label: İletişim e-postası (gizlilik sayfasında görünür), widget: string, required: false }
           - { name: ga4, label: Google Analytics ölçüm kimliği (G-XXXXXXX), widget: string, required: false, hint: "Doldurulunca çerez onayı alan ziyaretçiler ölçülmeye başlar." }
+          - { name: adsenseClient, label: AdSense yayıncı kimliği (ca-pub-…), widget: string, required: false, hint: "Doluysa AdSense kodu her sayfanın head kısmına eklenir." }
           - name: ads
             label: Reklam (Google Ad Manager)
             widget: object
