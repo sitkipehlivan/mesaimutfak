@@ -87,6 +87,7 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
       <a href="{{ '/kategori/vegan/' | link }}">Vegan</a>
       <a href="{{ '/kategori/glutensiz/' | link }}">Glutensiz</a>
       <a href="{{ '/gizlilik/' | link }}">Gizlilik</a>
+      {% if site.ga4 or site.ads.enabled %}<a href="#" data-consent-open>Çerez tercihleri</a>{% endif %}
       {% if collections.photos.length %}<a href="{{ '/fotograf-kaynaklari/' | link }}">Fotoğraf kaynakları</a>{% endif %}
     </nav>
     <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>

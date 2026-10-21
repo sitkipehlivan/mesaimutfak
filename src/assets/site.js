@@ -137,13 +137,14 @@
       gtag('set', 'ads_data_redaction', false);
     };
     const decide = v => { try { localStorage.setItem(CKEY, v); } catch (e) {} document.dispatchEvent(new CustomEvent('mm-consent', { detail: v })); };
-    if (c !== 'yes' && c !== 'no') {
-      const b = $('consent'); if (b) {
-        b.hidden = false;
-        $('consentYes').onclick = () => { b.hidden = true; decide('yes'); load(); };
-        $('consentNo').onclick = () => { b.hidden = true; decide('no'); };
-      }
+    const b = $('consent');
+    if (b) {
+      $('consentYes').addEventListener('click', () => { b.hidden = true; decide('yes'); load(); });
+      $('consentNo').addEventListener('click', () => { b.hidden = true; decide('no'); if (window.gtag) gtag('consent', 'update', { analytics_storage: 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' }); });
+      b.hidden = (c === 'yes' || c === 'no');
     }
+    // alt bilgideki "Çerez tercihleri" linki banner'ı yeniden açar
+    document.querySelectorAll('[data-consent-open]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); if (b) b.hidden = false; }));
   }
 
 
