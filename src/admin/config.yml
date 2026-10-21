@@ -171,4 +171,5 @@ collections:
               - { name: k, label: Kısa ad (ör. getir), widget: string }
               - { name: name, label: Buton yazısı, widget: string }
               - { name: url, label: Link, widget: string, hint: "Anlaşma sonrası partnerin verdiği takip linkiyle değiştirilir." }
+              - { name: logo, label: Resmi logo (anlaşma sonrası), widget: image, required: false, hint: "Markanın verdiği logo dosyası. Boşsa buton marka adını yazıyla gösterir." }
               - { name: enabled, label: Görünsün, widget: boolean, default: true }

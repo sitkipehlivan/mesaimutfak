@@ -485,3 +485,10 @@ html{scroll-padding-top:130px}
 
 nav.main a{white-space:nowrap}
 @media (max-width:1080px){nav.main{display:none}.hsearch{margin-left:auto}}
+
+.partner{display:inline-flex;align-items:center;gap:8px;background:var(--card);color:var(--ink);border:1.5px solid var(--ink);transition:transform .15s}
+.partner.last{background:var(--sun);color:#18201C;border:2px solid #18201C}
+.partner .last-tag{display:none;font-style:normal;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.04em;text-transform:uppercase;background:#18201C;color:#fff;border-radius:99px;padding:1px 7px}
+.partner.last .last-tag{display:inline-block}
+.partner.has-logo img{height:20px;width:auto;display:block}
+@media (prefers-reduced-motion: reduce){.partner{transition:none}}

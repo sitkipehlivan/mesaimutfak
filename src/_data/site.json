@@ -10,13 +10,22 @@
       "k": "getir",
       "name": "Getir",
       "url": "https://getir.com/",
-      "enabled": true
+      "enabled": true,
+      "logo": ""
     },
     {
       "k": "yemeksepeti",
       "name": "Yemeksepeti Market",
       "url": "https://www.yemeksepeti.com/",
-      "enabled": true
+      "enabled": true,
+      "logo": ""
+    },
+    {
+      "k": "migros",
+      "name": "Migros Sanal Market",
+      "url": "https://www.migros.com.tr/",
+      "enabled": true,
+      "logo": ""
     }
   ],
   "contactEmail": ""

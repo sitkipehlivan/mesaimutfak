@@ -21,7 +21,7 @@ desc: Tariflerden eklediğin eksik malzemeler tek listede.
         <button type="button" class="btn ghost" id="listClear">Listeyi temizle</button>
       </div>
       {%- set activePartners = site.partners | selectattr('enabled') -%}
-      {% if activePartners.length %}<div class="shop-partners"><span>Hemen sipariş ver</span>{% for p in activePartners %}<a class="partner" data-partner="{{ p.k }}" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.name }}</a>{% endfor %}</div>
+      {% if activePartners.length %}<div class="shop-partners"><span>Hangi marketten sipariş vermek istersin?</span>{% for p in activePartners %}<a class="partner{% if p.logo %} has-logo{% endif %}" data-partner="{{ p.k }}" href="{{ p.url }}" target="_blank" rel="noopener">{% if p.logo %}<img src="{{ p.logo | link }}" alt="{{ p.name }}">{% else %}{{ p.name }}{% endif %}<em class="last-tag">son kullandığın</em></a>{% endfor %}</div>
       <p class="shop-hint">Butona basınca liste kopyalanır; uygulamada aratıp sepete ekleyebilirsin.</p>{% endif %}
       <p class="shop-msg" id="listMsg" role="status"></p>
     </div>

@@ -55,6 +55,15 @@
     try { if (window.gtag) window.gtag('event', name, params || {}); } catch (e) {}
   };
 
+  /* ---------- market seçimi: son kullanılan öne ---------- */
+  const PKEY = 'mm-partner';
+  let lastP = null; try { lastP = localStorage.getItem(PKEY); } catch (e) {}
+  document.querySelectorAll('.shop-partners').forEach(box => {
+    const a = lastP && box.querySelector(`.partner[data-partner="${lastP}"]`);
+    if (a) { a.classList.add('last'); box.insertBefore(a, box.querySelector('.partner')); }
+    box.addEventListener('click', e => { const p = e.target.closest('.partner'); if (p) try { localStorage.setItem(PKEY, p.dataset.partner); } catch (_) {} });
+  });
+
   /* ---------- eksik malzemeler / alışveriş listesi ---------- */
   const shop = $('shop');
   const LKEY = 'mm-list';
