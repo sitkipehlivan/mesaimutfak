@@ -7,6 +7,7 @@ cats:
 - vegan
 - glutensiz
 - hizli
+- dunya
 lvl: Kolay
 prep: 10
 cook: 0

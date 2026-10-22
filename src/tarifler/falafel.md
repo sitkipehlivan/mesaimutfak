@@ -6,6 +6,7 @@ cats:
 - arasicak
 - vegan
 - glutensiz
+- dunya
 lvl: Orta
 prep: 20
 cook: 15

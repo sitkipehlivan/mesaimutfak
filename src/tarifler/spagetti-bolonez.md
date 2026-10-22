@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Kıymalı, havuçlu, uzun pişen domates sosu ve spagetti.
 cats:
 - ana
+- dunya
 lvl: Kolay
 prep: 15
 cook: 45

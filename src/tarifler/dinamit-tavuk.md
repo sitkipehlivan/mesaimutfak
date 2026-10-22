@@ -5,6 +5,7 @@ desc: 'Dinamit karidesin tavuk göğsüyle yapılan hali: çıtır kaplama, ayn�
 cats:
 - ana
 - hizli
+- dunya
 lvl: Kolay
 prep: 10
 cook: 15

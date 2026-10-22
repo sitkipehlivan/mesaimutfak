@@ -5,6 +5,7 @@ desc: Sarımsaklı mantar, krema ve parmesanla kadifemsi bir makarna.
 cats:
 - ana
 - hizli
+- dunya
 lvl: Kolay
 prep: 5
 cook: 15

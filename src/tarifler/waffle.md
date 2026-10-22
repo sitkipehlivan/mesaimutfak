@@ -5,6 +5,7 @@ desc: Dışı çıtır, içi yumuşak waffle; meyve ve çikolatayla.
 cats:
 - kahvalti
 - tatli
+- dunya
 lvl: Kolay
 prep: 10
 cook: 20

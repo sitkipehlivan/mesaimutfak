@@ -6,6 +6,7 @@ cats:
 - ana
 - hizli
 - vegan
+- dunya
 lvl: Kolay
 prep: 5
 cook: 15

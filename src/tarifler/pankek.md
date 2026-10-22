@@ -5,6 +5,7 @@ desc: Tek kasede çırpılan, kabarık ve yumuşak pankek; 20 dakikada kahvaltı
 cats:
 - kahvalti
 - hizli
+- dunya
 lvl: Kolay
 prep: 5
 cook: 15

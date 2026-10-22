@@ -5,6 +5,7 @@ desc: Çıtır kaplanmış karidesler, acı-tatlı kremamsı sosa bulanıyor. So
 cats:
 - arasicak
 - hizli
+- dunya
 lvl: Kolay
 prep: 10
 cook: 10

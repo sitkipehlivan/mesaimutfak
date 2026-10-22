@@ -5,6 +5,7 @@ desc: İnce hamur, domates sosu, mozzarella; ev fırınında çıtır pizza.
 cats:
 - hamurisi
 - ana
+- dunya
 lvl: Orta
 prep: 30
 cook: 15

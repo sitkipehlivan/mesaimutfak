@@ -6,6 +6,7 @@ cats:
 - kahvalti
 - tatli
 - hizli
+- dunya
 lvl: Kolay
 prep: 10
 cook: 20

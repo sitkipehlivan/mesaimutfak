@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Kahveye batırılmış kedi dili, mascarpone kreması ve kakao.
 cats:
 - tatli
+- dunya
 lvl: Orta
 prep: 30
 cook: 0
