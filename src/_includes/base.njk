@@ -9,7 +9,7 @@
 {%- set ogImg = (site.url + (image | imgUrl(1200))) if image else (site.url + (site.ogImage | imgUrl(1200))) -%}
 <title>{% if metaTitle %}{{ metaTitle }} | {{ site.name }}{% else %}{{ site.name }}: Pratik ve kolay yemek tarifleri{% endif %}</title>
 <meta name="description" content="{{ metaDesc }}">
-<meta name="robots" content="{% if page.url == '/404.html' %}noindex{% else %}index, follow, max-image-preview:large{% endif %}">
+<meta name="robots" content="{% if page.url == '/404.html' or noindex %}noindex{% else %}index, follow, max-image-preview:large{% endif %}">
 <meta name="theme-color" content="#F6F8F2" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#121714" media="(prefers-color-scheme: dark)">
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
@@ -86,6 +86,9 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
       <a href="{{ '/listem/' | link }}">Alışveriş listem</a>
       <a href="{{ '/kategori/vegan/' | link }}">Vegan</a>
       <a href="{{ '/kategori/glutensiz/' | link }}">Glutensiz</a>
+      <a href="{{ '/hakkimizda/' | link }}">Hakkımızda</a>
+      <a href="{{ '/iletisim/' | link }}">İletişim</a>
+      <a href="{{ '/reklam/' | link }}">Reklam</a>
       <a href="{{ '/gizlilik/' | link }}">Gizlilik</a>
       {% if site.ga4 or site.ads.enabled %}<a href="#" data-consent-open>Çerez tercihleri</a>{% endif %}
       {% if collections.photos.length %}<a href="{{ '/fotograf-kaynaklari/' | link }}">Fotoğraf kaynakları</a>{% endif %}

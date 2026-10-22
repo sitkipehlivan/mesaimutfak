@@ -34,6 +34,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('inCat', (list, k) => list.filter(r => (r.data.cats || []).includes(k)));
   eleventyConfig.addFilter('bySlug', (list, slug) => list.find(r => r.fileSlug === slug));
   eleventyConfig.addFilter('bySlugs', (list, slugs) => (slugs || []).map(s => list.find(r => r.fileSlug === s)).filter(Boolean));
+  eleventyConfig.addFilter('byAuthor', (list, slug) => (list || []).filter(r => r.data.author === slug || r.data.editor === slug));
+  eleventyConfig.addFilter('person', (slug, authors) => ((authors && authors.list) || []).find(a => a.slug === slug));
   eleventyConfig.addFilter('related', (list, cur) => list
     .filter(r => r.fileSlug !== cur.fileSlug && r.data.cats.some(c => cur.data.cats.includes(c)))
     .slice(0, 4));

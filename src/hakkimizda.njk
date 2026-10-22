@@ -1,0 +1,39 @@
+---
+layout: base.njk
+permalink: /hakkimizda/
+title: Hakkımızda
+seoTitle: "Hakkımızda: Mesai Mutfak kimdir?"
+desc: Mesai Mutfak, yoğun tempoda yaşayanlar için denenmiş, ölçüleri net ve pratik yemek tarifleri yayınlayan bir tarif sitesidir.
+---
+<div class="wrap prose">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Hakkımızda</span></nav>
+  <h1>Hakkımızda</h1>
+  <p class="lead">Mesai Mutfak, gün boyu koşturup akşam “bugün ne pişirsem?” diye düşünenler için kuruldu. Amacımız basit: evde gerçekten yapılabilen, ölçüleri net, adımları kısa tarifler.</p>
+
+  <h2>Ne yapıyoruz?</h2>
+  <p>Ana yemeklerden zeytinyağlılara, çorbalardan tatlılara kadar {{ collections.tarifler.length }} tarifi tek tek yazdık; her tarifte hazırlık ve pişirme süresi, porsiyon, zorluk derecesi ve püf noktaları var. Porsiyon sayısını değiştirdiğinde malzeme miktarları kendiliğinden güncelleniyor; evde olmayan malzemeleri tek tıkla alışveriş listene ekleyebiliyorsun.</p>
+
+  <h2>Neye dikkat ediyoruz?</h2>
+  <ul class="prose-list">
+    <li><b>Ölçüler net olsun.</b> “Göz kararı” yerine su bardağı, yemek kaşığı ve gram veriyoruz.</li>
+    <li><b>Zaman gerçekçi olsun.</b> Yazdığımız süreler, hazırlığı da hesaba katan gerçek mutfak süreleri.</li>
+    <li><b>Kolay bulunsun.</b> Malzemeler mahalle marketinde bulunabilecek şeyler; zor bulunanlar için alternatif öneriyoruz.</li>
+    <li><b>Herkese bir şey olsun.</b> Hızlı Tarifler, Vegan, Glutensiz ve Sağlıklı Tatlılar bölümleriyle farklı beslenme tercihlerine yer açıyoruz.</li>
+  </ul>
+
+  <h2>Tariflerimiz nasıl hazırlanıyor?</h2>
+  <p>Tarifler editör ekibimiz tarafından hazırlanıyor ve yayından önce ölçü, süre ve yazım açısından kontrol ediliyor. Bir tarifte hata görürsen ya da kendi denemeni paylaşmak istersen <a href="{{ '/iletisim/' | link }}">bize yaz</a>; tarifleri okuyucu geri bildirimleriyle güncelliyoruz.</p>
+
+  <h2>Videolar</h2>
+  <p>Tariflerin kısa, infografik tarzda video anlatımlarını hazırlıyoruz: ölçüler ekranda, süreler tencerenin yanında. Yeni videolar için <a href="{{ site.youtube }}" target="_blank" rel="noopener">YouTube kanalımızı</a> takip edebilirsin.</p>
+
+  <h2>Reklam ve işbirlikleri</h2>
+  <p>Mesai Mutfak ücretsizdir ve reklam gelirleriyle ayakta durur. Reklamları içeriği bölmeyecek şekilde yerleştiriyoruz; markalarla yaptığımız sponsorlu içerikleri her zaman açıkça belirtiyoruz. Ayrıntılar için <a href="{{ '/reklam/' | link }}">Reklam ve işbirliği</a> sayfasına göz at.</p>
+
+  <p class="prose-cta"><a class="btn" href="{{ '/iletisim/' | link }}">Bize ulaş</a> <a class="btn ghost" href="{{ '/tarifler/' | link }}">Tariflere göz at</a></p>
+</div>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "AboutPage", "name": "Hakkımızda", "url": "{{ site.url }}/hakkimizda/",
+ "mainEntity": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}", "logo": "{{ site.url }}/favicon.svg"{% if site.contactEmail %}, "email": "{{ site.contactEmail }}"{% endif %}}}
+</script>

@@ -1,0 +1,29 @@
+---
+layout: base.njk
+pagination:
+  data: authors.list
+  size: 1
+  alias: au
+permalink: "/yazar/{{ au.slug }}/"
+eleventyComputed:
+  title: "{{ au.name }}"
+  seoTitle: "{{ au.name }}: {{ au.role or 'Yazar' }}"
+  desc: "{{ au.bio }}"
+---
+{%- set mine = collections.tarifler | byAuthor(au.slug) -%}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><a href="{{ '/hakkimizda/' | link }}">Hakkımızda</a><span>/</span><span aria-current="page">{{ au.name }}</span></nav>
+  <div class="prose" style="padding-bottom:0">
+    <div class="author-card">{% if au.photo %}<img src="{{ au.photo | imgUrl(240) }}" alt="{{ au.name }}" width="88" height="88">{% endif %}
+      <div><div class="eyebrow">{{ au.role or 'Yazar' }}</div><h1 style="margin:4px 0 0">{{ au.name }}</h1></div></div>
+    {% if au.bio %}<p class="lead">{{ au.bio }}</p>{% endif %}
+    {% if au.expertise %}<p>Uzmanlık: {{ au.expertise }}</p>{% endif %}
+    <p>{% if au.instagram %}<a href="{{ au.instagram }}" target="_blank" rel="noopener me">Instagram</a> {% endif %}{% if au.linkedin %}<a href="{{ au.linkedin }}" target="_blank" rel="noopener me">LinkedIn</a>{% endif %}</p>
+  </div>
+  <h2 style="margin-top:28px">{{ au.name }} tarifleri ({{ mine.length }})</h2>
+  <div class="grid" style="margin-block:18px 64px">{% for r in mine %}{% include "card.njk" %}{% else %}<div class="empty">Henüz tarif yok.</div>{% endfor %}</div>
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "ProfilePage", "url": "{{ site.url }}{{ page.url }}",
+ "mainEntity": {"@type": "Person", "name": {{ au.name | dump | safe }}, "jobTitle": {{ (au.role or 'Yazar') | dump | safe }}, "url": "{{ site.url }}{{ page.url }}"{% if au.bio %}, "description": {{ au.bio | dump | safe }}{% endif %}{% if au.photo %}, "image": "{{ site.url }}{{ au.photo | imgUrl(400) }}"{% endif %}, "worksFor": {"@type": "Organization", "name": {{ site.name | dump | safe }}}{% if au.instagram or au.linkedin %}, "sameAs": [{% if au.instagram %}"{{ au.instagram }}"{% endif %}{% if au.instagram and au.linkedin %}, {% endif %}{% if au.linkedin %}"{{ au.linkedin }}"{% endif %}]{% endif %}}}
+</script>

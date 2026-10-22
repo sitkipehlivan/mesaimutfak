@@ -135,6 +135,10 @@ collections:
           - { label: Domates, value: tomato }
           - { label: Mor soğan, value: onion }
           - { label: Beyaz, value: card }
+      - { name: author, label: Tarifi yazan, widget: relation, collection: ayarlar, file: authors, value_field: "list.*.slug", search_fields: ["list.*.name"], display_fields: ["list.*.name"], required: false, hint: "Önce Site ayarları → Yazar ve editörler'e kişiyi ekle." }
+      - { name: editor, label: Editör kontrolü, widget: relation, collection: ayarlar, file: authors, value_field: "list.*.slug", search_fields: ["list.*.name"], display_fields: ["list.*.name"], required: false }
+      - { name: updated, label: Son güncelleme tarihi, widget: datetime, time_format: false, format: "YYYY-MM-DD", required: false, hint: "Tarifte önemli bir değişiklik yaptıysan doldur; Google'a da bildirilir." }
+      - { name: sponsor, label: Sponsor marka (sponsorlu tarifse), widget: string, required: false, hint: "Doluysa tarifte 'Sponsorlu · Marka' etiketi görünür." }
       - { name: body, label: Giriş metni, widget: markdown, required: false, hint: "Tarif sayfasında başlığın altında görünen kısa hikâye." }
 
   - name: ayarlar
@@ -153,6 +157,25 @@ collections:
               - { name: eyebrow, label: Üst yazı, widget: string, default: "Haftanın tarifi" }
               - { name: heroImage, label: Ana sayfaya özel görsel, widget: image, required: false, hint: "Boşsa tarifin kendi fotoğrafı kullanılır." }
           - { name: popular, label: Bu hafta en çok bakılanlar, widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], multiple: true, min: 4, max: 4 }
+      - name: authors
+        label: Yazar ve editörler
+        file: src/_data/authors.json
+        fields:
+          - name: list
+            label: Kişiler
+            label_singular: Kişi
+            widget: list
+            required: false
+            summary: "{{name}} · {{role}}"
+            fields:
+              - { name: slug, label: Kısa ad (adres için, ör. ayse-yilmaz), widget: string, pattern: ["^[a-z0-9-]+$", "Sadece küçük harf, rakam ve tire"] }
+              - { name: name, label: Ad soyad, widget: string }
+              - { name: role, label: Unvan, widget: select, options: [Yazar, Editör, Şef, Diyetisyen, Yemek fotoğrafçısı], default: Yazar }
+              - { name: bio, label: Kısa biyografi, widget: text, required: false, hint: "2-3 cümle: mutfak deneyimi, eğitimi, uzmanlığı. Google güven sinyali için önemli." }
+              - { name: expertise, label: Uzmanlık alanları, widget: string, required: false, hint: "ör. Zeytinyağlılar, hamur işleri, vegan mutfak" }
+              - { name: photo, label: Fotoğraf, widget: image, required: false }
+              - { name: instagram, label: Instagram linki, widget: string, required: false }
+              - { name: linkedin, label: LinkedIn linki, widget: string, required: false }
       - name: site
         label: Genel bilgiler
         file: src/_data/site.json

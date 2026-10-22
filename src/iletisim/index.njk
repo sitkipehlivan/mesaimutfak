@@ -1,0 +1,50 @@
+---
+layout: base.njk
+permalink: /iletisim/
+title: İletişim
+seoTitle: "İletişim: Mesai Mutfak'a ulaş"
+desc: Tarif önerin, bir düzeltme ya da reklam ve işbirliği talebin mi var? Mesai Mutfak'a buradan yazabilirsin.
+---
+<div class="wrap prose">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">İletişim</span></nav>
+  <h1>İletişim</h1>
+  <p class="lead">Tarif önerin, bir tarifte gördüğün hata, video fikrin ya da reklam ve işbirliği talebin mi var? Formu doldur, genelde 1-2 iş günü içinde dönüyoruz.</p>
+
+  <form class="cform" name="iletisim" method="POST" action="/iletisim/tesekkurler/" data-netlify="true" netlify-honeypot="web_site">
+    <input type="hidden" name="form-name" value="iletisim">
+    <p class="hp" aria-hidden="true"><label>Bu alanı boş bırak <input name="web_site" tabindex="-1" autocomplete="off"></label></p>
+    <div class="cform-row">
+      <label>Adın<input name="ad" required autocomplete="name"></label>
+      <label>E-posta adresin<input name="email" type="email" required autocomplete="email"></label>
+    </div>
+    <label>Konu
+      <select name="konu" id="cKonu">
+        <option>Genel</option>
+        <option>Tarif önerisi</option>
+        <option>Tarifte hata / düzeltme</option>
+        <option value="Reklam ve işbirliği">Reklam ve işbirliği</option>
+        <option>Basın</option>
+      </select>
+    </label>
+    <label class="c-brand" hidden>Marka / ajans<input name="marka" autocomplete="organization"></label>
+    <label>Mesajın<textarea name="mesaj" rows="6" required></textarea></label>
+    <label class="c-kvkk"><input type="checkbox" name="kvkk" required><span>Mesajıma dönüş yapılabilmesi için adımın ve e-postamın işlenmesini kabul ediyorum (<a href="{{ '/gizlilik/' | link }}">Gizlilik</a>).</span></label>
+    <button class="btn" type="submit">Gönder</button>
+  </form>
+
+  {% if site.contactEmail %}
+  <h2>E-posta</h2>
+  <p>Formu kullanmak istemezsen doğrudan yazabilirsin: <a href="mailto:{{ site.contactEmail }}">{{ site.contactEmail }}</a></p>
+  {% endif %}
+  <h2>Reklam vermek mi istiyorsun?</h2>
+  <p>Reklam alanları, video ve sponsorlu tarif seçenekleri için <a href="{{ '/reklam/' | link }}">Reklam ve işbirliği</a> sayfasına bak.</p>
+</div>
+<script>
+(function(){var s=document.getElementById('cKonu'),b=document.querySelector('.c-brand');if(!s||!b)return;
+var q=new URLSearchParams(location.search).get('konu');if(q==='reklam')s.value='Reklam ve işbirliği';
+var f=function(){b.hidden=s.value!=='Reklam ve işbirliği'};s.addEventListener('change',f);f();})();
+</script>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "ContactPage", "name": "İletişim", "url": "{{ site.url }}/iletisim/"}
+</script>

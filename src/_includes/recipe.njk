@@ -21,6 +21,8 @@ layout: base.njk
         </div>
         <h1>{{ title }}</h1>
         <p class="r-desc">{{ desc }}</p>
+        {%- set au = author | person(authors) -%}{%- set ed = editor | person(authors) -%}
+        {% if au or ed or sponsor %}<p class="byline">{% if au %}<span>Tarif: <a href="{{ ('/yazar/' + au.slug + '/') | link }}" rel="author">{{ au.name }}</a></span>{% endif %}{% if ed %}<span>Editör kontrolü: <a href="{{ ('/yazar/' + ed.slug + '/') | link }}">{{ ed.name }}</a></span>{% endif %}{% if updated %}<span>Güncellendi: {{ updated }}</span>{% endif %}{% if sponsor %}<span><b>Sponsorlu</b> · {{ sponsor }}</span>{% endif %}</p>{% endif %}
         <dl class="r-facts">
           <div><dt>Hazırlık</dt><dd>{{ prep }} dk</dd></div>
           <div><dt>Pişirme</dt><dd>{% if cook %}{{ cook }} dk{% else %}Ocak yok{% endif %}</dd></div>
@@ -149,7 +151,8 @@ layout: base.njk
   "name": {{ title | dump | safe }},
   "description": {{ desc | dump | safe }},
   "image": [{{ (site.url + ((image or site.ogImage) | imgUrl(1600))) | dump | safe }}, {{ (site.url + ((image or site.ogImage) | imgUrl(1200))) | dump | safe }}],
-  "author": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": {{ site.url | dump | safe }}},
+  {% if au %}"author": {"@type": "Person", "name": {{ au.name | dump | safe }}, "url": "{{ site.url }}/yazar/{{ au.slug }}/"},{% else %}"author": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": {{ site.url | dump | safe }}},{% endif %}
+  {% if updated %}"dateModified": "{{ updated }}",{% endif %}
   "publisher": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": {{ site.url | dump | safe }}, "logo": {"@type": "ImageObject", "url": "{{ site.url }}/favicon.svg"}},
   "datePublished": "{{ page.date.toISOString().slice(0,10) }}",
   "keywords": {{ (title + ' tarifi, ' + title + ' nasıl yapılır, ' + (cats | catLabels(categories))) | dump | safe }},
