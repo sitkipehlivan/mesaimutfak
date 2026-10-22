@@ -157,6 +157,25 @@ collections:
               - { name: eyebrow, label: Üst yazı, widget: string, default: "Haftanın tarifi" }
               - { name: heroImage, label: Ana sayfaya özel görsel, widget: image, required: false, hint: "Boşsa tarifin kendi fotoğrafı kullanılır." }
           - { name: popular, label: Bu hafta en çok bakılanlar, widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], multiple: true, min: 4, max: 4 }
+      - name: catthumbs
+        label: Kategori görselleri
+        file: src/_data/catthumbs.json
+        description: Her kategorinin yuvarlak küçük görseli bu tarifin fotoğrafından alınır. Seçilen tarifin fotoğrafı yoksa kategorideki ilk fotoğraflı tarif kullanılır.
+        fields:
+          - { name: ana, label: "Ana Yemekler", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: zeytinyagli, label: "Zeytinyağlılar", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: arasicak, label: "Ara Sıcaklar", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: hamurisi, label: "Hamur İşleri", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: corba, label: "Çorbalar", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: pilav, label: "Pilavlar", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: kahvalti, label: "Kahvaltılık", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: salata, label: "Salata & Meze", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: firin, label: "Fırın Yemekleri", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: tatli, label: "Tatlılar", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: hizli, label: "Hızlı Tarifler", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: vegan, label: "Vegan", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: glutensiz, label: "Glutensiz", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
+          - { name: saglikli, label: "Sağlıklı Tatlılar", widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title], required: false }
       - name: authors
         label: Yazar ve editörler
         file: src/_data/authors.json

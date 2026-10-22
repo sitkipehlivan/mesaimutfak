@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/tatli-patates-corbasi.jpg
+imageAlt: 'Kasede kremalı tatlı patates çorbası, kabak çekirdeği ile'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

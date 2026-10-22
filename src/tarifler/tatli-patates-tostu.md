@@ -16,8 +16,8 @@ art:
 - sun
 - leaf
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/tatli-patates-tostu.jpg
+imageAlt: 'Avokado ve yumurtalı, muzlu ve fıstık ezmeli tatlı patates tostları'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

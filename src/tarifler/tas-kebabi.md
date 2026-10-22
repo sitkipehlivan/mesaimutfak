@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tas-kebabi.jpg
+imageAlt: 'Tabakta pilavla servis edilen sebzeli tas kebabı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

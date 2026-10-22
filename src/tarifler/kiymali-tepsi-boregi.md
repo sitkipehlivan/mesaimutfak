@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kiymali-tepsi-boregi.jpg
+imageAlt: 'Tabakta kare dilimlenmiş kıymalı tepsi böreği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

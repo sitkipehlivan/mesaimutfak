@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/peynirli-pogaca.jpg
+imageAlt: 'Tabakta çörekotlu ve susamlı peynirli poğaçalar, yanında çay'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

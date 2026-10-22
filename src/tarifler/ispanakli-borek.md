@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/ispanakli-borek.jpg
+imageAlt: 'Tabakta kat kat ispanaklı börek dilimleri'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

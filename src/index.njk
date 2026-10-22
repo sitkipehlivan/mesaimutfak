@@ -39,7 +39,7 @@ isHome: true
     </div>
     <div class="cats cats-sm">
       {% for c in categories.types %}
-      <a class="cat" href="{{ ('/kategori/' + c.k + '/') | link }}"><span class="ic" style="background:{{ c.k | tint }}">{% plateArt c.art, c.k %}</span><b>{{ c.l }}</b></a>
+      <a class="cat" href="{{ ('/kategori/' + c.k + '/') | link }}">{% set ci = c.k | catImg(catthumbs, collections.tarifler) %}<span class="ic{% if ci %} has-img{% endif %}" style="background:{{ c.k | tint }}">{% if ci %}<img src="{{ ci.src }}" srcset="{{ ci.src }} 1x, {{ ci.src2 }} 2x" alt="" width="160" height="160" loading="lazy" decoding="async">{% else %}{% plateArt c.art, c.k %}{% endif %}</span><b>{{ c.l }}</b></a>
       {% endfor %}
     </div>
   </div>
@@ -51,7 +51,7 @@ isHome: true
     <div class="home-head"><h2>Sana göre</h2><span class="home-sub">Beslenme tercihi ve vakit</span></div>
     <div class="diet">
       {% for c in categories.diets %}
-      <a class="dcard{% if c.wc %} wc{% endif %}" href="{{ ('/kategori/' + c.k + '/') | link }}"><span class="ic" style="{% if not c.wc %}background:{{ c.k | tint }}{% endif %}">{% plateArt c.art, c.k %}</span><span><b>{{ c.l }}</b><span>{{ c.s }}</span><em>{{ (collections.tarifler | inCat(c.k)).length }} tarif</em></span></a>
+      <a class="dcard{% if c.wc %} wc{% endif %}" href="{{ ('/kategori/' + c.k + '/') | link }}">{% set ci = c.k | catImg(catthumbs, collections.tarifler) %}<span class="ic{% if ci %} has-img{% endif %}" style="{% if not c.wc %}background:{{ c.k | tint }}{% endif %}">{% if ci %}<img src="{{ ci.src }}" srcset="{{ ci.src }} 1x, {{ ci.src2 }} 2x" alt="" width="160" height="160" loading="lazy" decoding="async">{% else %}{% plateArt c.art, c.k %}{% endif %}</span><span><b>{{ c.l }}</b><span>{{ c.s }}</span><em>{{ (collections.tarifler | inCat(c.k)).length }} tarif</em></span></a>
       {% endfor %}
     </div>
   </div>

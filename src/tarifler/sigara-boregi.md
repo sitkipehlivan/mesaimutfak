@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/sigara-boregi.jpg
+imageAlt: 'Tabakta çıtır sigara böreği ve yoğurtlu sos'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

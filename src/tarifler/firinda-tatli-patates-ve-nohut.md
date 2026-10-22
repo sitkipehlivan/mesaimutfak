@@ -18,8 +18,8 @@ art:
 - sun
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-tatli-patates-ve-nohut.jpg
+imageAlt: 'Kasede roka yatağında fırınlanmış tatlı patates küpleri ve çıtır nohut'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

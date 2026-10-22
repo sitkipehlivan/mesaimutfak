@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/acma.jpg
+imageAlt: 'Tabakta susamlı, yumuşak ev yapımı açmalar ve yanında çay'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

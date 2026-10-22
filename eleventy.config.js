@@ -36,6 +36,15 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('bySlugs', (list, slugs) => (slugs || []).map(s => list.find(r => r.fileSlug === s)).filter(Boolean));
   eleventyConfig.addFilter('byAuthor', (list, slug) => (list || []).filter(r => r.data.author === slug || r.data.editor === slug));
   eleventyConfig.addFilter('person', (slug, authors) => ((authors && authors.list) || []).find(a => a.slug === slug));
+  // kategori küçük görseli: panelde seçilen tarif, yoksa kategorideki ilk fotoğraflı tarif
+  eleventyConfig.addFilter('catImg', (k, thumbs, list) => {
+    const inCat = (list || []).filter(r => (r.data.cats || []).includes(k) && r.data.image);
+    const pick = inCat.find(r => r.page.fileSlug === (thumbs || {})[k]) || inCat[0];
+    if (!pick) return null;
+    const src = pick.data.image;
+    const u = w => PREVIEW ? src : `/.netlify/images?url=${encodeURIComponent(src)}&w=${w}&h=${w}&fit=cover&q=72`;
+    return { src: u(160), src2: u(320), alt: pick.data.title };
+  });
   eleventyConfig.addFilter('related', (list, cur) => list
     .filter(r => r.fileSlug !== cur.fileSlug && r.data.cats.some(c => cur.data.cats.includes(c)))
     .slice(0, 4));

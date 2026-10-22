@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/su-boregi.jpg
+imageAlt: 'Tabakta kat kat peynirli su böreği dilimi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

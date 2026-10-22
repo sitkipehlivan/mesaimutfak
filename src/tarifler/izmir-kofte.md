@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/izmir-kofte.jpg
+imageAlt: 'Domates soslu fırında köfte, patates ve biberle İzmir köfte, yanında pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

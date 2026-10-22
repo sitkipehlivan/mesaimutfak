@@ -19,8 +19,8 @@ art:
 - onion
 - sun
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/acai-chia-bowl.jpg
+imageAlt: 'Muz, çilek, granola ve chia tohumuyla süslenmiş açai bowl'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

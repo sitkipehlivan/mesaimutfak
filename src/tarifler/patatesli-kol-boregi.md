@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/patatesli-kol-boregi.jpg
+imageAlt: 'Tepside sarmal patatesli kol böreği ve tabakta bir dilim'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

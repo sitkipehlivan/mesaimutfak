@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/iskender.jpg
+imageAlt: 'Tereyağlı pide üzerinde ince dilim döner, domates sosu ve yoğurtla İskender'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

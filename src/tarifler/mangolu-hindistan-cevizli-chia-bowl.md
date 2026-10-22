@@ -19,8 +19,8 @@ art:
 - sun
 - card
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/mangolu-hindistan-cevizli-chia-bowl.jpg
+imageAlt: 'Mango püresi ve hindistan cevizi parçalarıyla chia puding kasesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

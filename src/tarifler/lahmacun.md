@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/lahmacun.jpg
+imageAlt: 'Tabakta incecik lahmacunlar, maydanoz, soğan ve limon'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/gozleme.jpg
+imageAlt: 'Tabakta ispanaklı peynirli, üçgen dilimlenmiş gözleme ve ayran'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -20,8 +20,8 @@ art:
 - pom
 - sun
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/pitaya-chia-bowl.jpg
+imageAlt: 'Pitaya, mango, kivi, granola ve chia ile renkli smoothie bowl'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
