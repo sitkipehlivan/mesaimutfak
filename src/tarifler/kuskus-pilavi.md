@@ -1,0 +1,63 @@
+---
+title: Kuskus pilavı
+date: '2026-10-22'
+desc: Tereyağında kavrulup demlenen, sebzeli ve hafif kuskus.
+cats:
+- pilav
+- hizli
+lvl: Kolay
+prep: 5
+cook: 15
+serv: 4
+moods:
+- yorgun
+- hafif
+art:
+- rice
+- sun
+- rice
+image: ''
+imageAlt: ''
+imageCredit: ''
+imageCreditUrl: ''
+youtube: ''
+videoLen: ''
+chapters: []
+ingredients:
+- group: ''
+  items:
+  - a: 1.5
+    u: su bardağı
+    n: kuskus (Türk kuskusu)
+  - a: 1
+    u: adet
+    n: havuç, küp
+  - a: 0.5
+    u: su bardağı
+    n: bezelye
+  - a: 2
+    u: yemek kaşığı
+    n: tereyağı
+  - a: 1
+    u: tatlı kaşığı
+    n: domates salçası
+  - a: 2
+    u: su bardağı
+    n: sıcak su
+  - a: 1
+    u: tatlı kaşığı
+    n: tuz
+steps:
+- t: Kavur
+  d: Tereyağında havucu çevir, kuskusu ekleyip 3-4 dakika kavur.
+- t: Salça
+  d: Salçayı ve bezelyeyi ekleyip 1 dakika çevir.
+- t: Pişir
+  d: Sıcak suyu ve tuzu ekleyip kapağı kapalı, kısık ateşte suyunu çekene kadar pişir. 10 dakika demlendir.
+  time: 15 dk
+tips:
+- Türk kuskusu taneli ve iridir; Fas kuskusu ise sıcak suyla demlenir, pişirilmez.
+- Tavuk sote ya da köftenin yanına çok yakışır.
+---
+
+Pirinç ve bulgurdan sıkılanlar için tane tane, pratik bir yan lezzet.
