@@ -119,6 +119,18 @@
       ],
       "seoTitle": "Tatlı Tarifleri",
       "intro": "Kolay tatlı tarifleri: kek, brownie, cheesecake, tiramisu, sütlaç, revani, şekerpare ve baklava. Sütlüden şerbetliye pratik tatlılar."
+    },
+    {
+      "k": "dunya",
+      "l": "Dünya Mutfağı",
+      "s": "İtalya’dan Asya’ya",
+      "art": [
+        "tomato",
+        "leaf",
+        "sun"
+      ],
+      "seoTitle": "Dünya Mutfağı Tarifleri",
+      "intro": "Evde kolayca yapabileceğin dünya mutfağı tarifleri: İtalyan makarnaları ve risotto, Asya’dan pad thai, köri ve teriyaki, Meksika’dan taco ve quesadilla. Malzemeleri Türkiye’de bulunur, ölçüler net."
     }
   ],
   "diets": [

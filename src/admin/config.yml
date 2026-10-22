@@ -60,6 +60,7 @@ collections:
           - { label: Salata & Meze, value: salata }
           - { label: Fırın Yemekleri, value: firin }
           - { label: Tatlılar, value: tatli }
+          - { label: Dünya Mutfağı, value: dunya }
           - { label: Hızlı Tarifler, value: hizli }
           - { label: Vegan, value: vegan }
           - { label: Glutensiz, value: glutensiz }
