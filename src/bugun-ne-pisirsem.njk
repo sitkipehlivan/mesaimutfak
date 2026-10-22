@@ -33,13 +33,13 @@ desc: Ruh haline, vaktine ve canının çektiğine göre sana bir tarif önereli
       <fieldset class="pk-q">
         <legend><span class="mono">3</span> Zorluk</legend>
         <div class="opt-row">
-          {% for l in [['', 'Fark etmez'], ['Kolay', 'Kolay'], ['Orta', 'Orta'], ['Zor', 'Zor']] %}<label class="opt"><input type="radio" name="lvl" value="{{ l[0] }}" id="lvl-{{ l[0] or 'any' }}"{% if not l[0] %} checked{% endif %}><span>{{ l[1] }}</span></label>{% endfor %}
+          {% for l in [['', 'Fark etmez'], ['Kolay', 'Kolay'], ['Emek', 'Emek isteyen']] %}<label class="opt"><input type="radio" name="lvl" value="{{ l[0] }}" id="lvl-{{ l[0] or 'any' }}"{% if not l[0] %} checked{% endif %}><span>{{ l[1] }}</span></label>{% endfor %}
         </div>
       </fieldset>
       <fieldset class="pk-q">
         <legend><span class="mono">4</span> Ne kadar vaktin var?</legend>
         <div class="opt-row">
-          {% for l in [['', 'Fark etmez'], ['30', '30 dk ve altı'], ['60', '1 saat'], ['999', 'Bütün akşam']] %}<label class="opt"><input type="radio" name="time" value="{{ l[0] }}" id="time-{{ l[0] or 'any' }}"{% if not l[0] %} checked{% endif %}><span>{{ l[1] }}</span></label>{% endfor %}
+          {% for l in [['', 'Fark etmez'], ['30', '30 dk ve altı'], ['60', '1 saat ve altı']] %}<label class="opt"><input type="radio" name="time" value="{{ l[0] }}" id="time-{{ l[0] or 'any' }}"{% if not l[0] %} checked{% endif %}><span>{{ l[1] }}</span></label>{% endfor %}
         </div>
       </fieldset>
       <fieldset class="pk-q">
@@ -57,6 +57,7 @@ desc: Ruh haline, vaktine ve canının çektiğine göre sana bir tarif önereli
 
     <section class="pk-result" aria-live="polite">
       <p class="pk-msg" id="pkMsg">Seçim yapmadan bile bir önerimiz var:</p>
+      <div class="pk-relax" id="pkRelax"></div>
       <div id="pkMain"></div>
       <div class="pk-more">
         <button type="button" class="btn" id="pkNext">Başka öner</button>

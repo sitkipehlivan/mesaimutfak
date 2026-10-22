@@ -191,23 +191,71 @@
     };
     const shuffle = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 
+    const LVL = { Kolay: 1, Orta: 2, Zor: 3 };
+    const TL = { 30: '30 dk ve altı', 60: '1 saat ve altı' };
+    const typeOk = (r, t) => !t || TYPES[t].some(c => r.cats.includes(c));
+    // kesin filtreler: tür, zorluk, süre, beslenme. Uymayan tarif asla gösterilmez.
+    const hard = (q, r) => typeOk(r, q.type) && (!q.lvl || (q.lvl === 'Emek' ? r.lvl !== 'Kolay' : r.lvl === q.lvl)) && (!q.time || r.min <= q.time) &&
+      (!q.vegan || r.cats.includes('vegan')) && (!q.gf || r.cats.includes('glutensiz'));
+    const count = q => pool.filter(r => hard(q, r)).length;
+    const setVal = (name, v) => { const el = form.querySelector(`input[name="${name}"][value="${v}"]`); if (el) el.checked = true; };
+
+    function relaxOptions(q) {
+      // sonuç verecek en küçük gevşetmeleri öner
+      const out = [];
+      if (q.time === 30 && count({ ...q, time: 60 })) out.push(['Süreyi 1 saate çıkar', () => setVal('time', '60')]);
+      if (q.time && count({ ...q, time: 0 })) out.push(['Süre fark etmez', () => setVal('time', '')]);
+      if (q.lvl && count({ ...q, lvl: '' })) out.push(['Zorluk fark etmez', () => setVal('lvl', '')]);
+      if (q.vegan && count({ ...q, vegan: false })) out.push(['Vegan şartını kaldır', () => { form.querySelector('input[name="vegan"]').checked = false; }]);
+      if (q.gf && count({ ...q, gf: false })) out.push(['Glutensiz şartını kaldır', () => { form.querySelector('input[name="glutensiz"]').checked = false; }]);
+      if (q.type && count({ ...q, type: '' })) out.push(['Tür fark etmez', () => setVal('type', '')]);
+      if (!out.length) {
+        // tek adımda sonuç yoksa: sadece türü koruyup diğer şartları kaldır, o da olmazsa her şeyi sıfırla
+        if (q.type && count({ type: q.type })) out.push(['Sadece türü koru', () => { const t = q.type; form.reset(); setTimeout(() => { setVal('type', t); suggest(); }, 0); }]);
+        out.push(['Seçimleri sıfırla', () => { form.reset(); }]);
+      }
+      return out.slice(0, 3);
+    }
+
+    function updateCounts(q) {
+      // her seçeneğin yanında, diğer seçimlerle kaç tarif kaldığını göster; 0 olanları soluklaştır
+      form.querySelectorAll('input[name="type"],input[name="lvl"],input[name="time"]').forEach(el => {
+        const key = el.name, v = el.value;
+        const nq = { ...q, [key]: key === 'time' ? +(v || 0) : v };
+        const n = count(nq), lab = el.closest('label');
+        lab.classList.toggle('zero', n === 0 && !el.checked);
+        let sp = lab.querySelector('.n'); if (!sp) { sp = document.createElement('small'); sp.className = 'n'; lab.querySelector('span').appendChild(sp); }
+        sp.textContent = ' ' + n;
+      });
+      ['vegan', 'glutensiz'].forEach(k => {
+        const el = form.querySelector(`input[name="${k}"]`); if (!el) return;
+        const n = count({ ...q, [k === 'vegan' ? 'vegan' : 'gf']: true }), lab = el.closest('label');
+        lab.classList.toggle('zero', n === 0 && !el.checked);
+        let sp = lab.querySelector('.n'); if (!sp) { sp = document.createElement('small'); sp.className = 'n'; lab.querySelector('span').appendChild(sp); }
+        sp.textContent = ' ' + n;
+      });
+    }
+
     function suggest() {
       const q = read();
-      let cand = pool.filter(r =>
-        (!q.type || TYPES[q.type].some(c => r.cats.includes(c))) &&
-        (!q.vegan || r.cats.includes('vegan')) &&
-        (!q.gf || r.cats.includes('glutensiz')));
-      const exactOf = r => (!q.lvl || r.lvl === q.lvl) && (!q.time || r.min <= q.time) && (!q.mood || r.moods.includes(q.mood));
-      const score = r => (q.mood && r.moods.includes(q.mood) ? 4 : 0) + (q.lvl && r.lvl === q.lvl ? 3 : 0) + (q.time && r.min <= q.time ? 2 : 0);
-      ranked = shuffle(cand).sort((a, b) => score(b) - score(a));
+      const cand = pool.filter(r => hard(q, r));
+      const moodHit = r => q.mood && r.moods.includes(q.mood);
+      const lvlScore = r => -(LVL[r.lvl] || 2) * 0.1; // eşitlikte kolay olan öne
+      ranked = shuffle(cand).sort((a, b) => ((moodHit(b) ? 4 : 0) + lvlScore(b)) - ((moodHit(a) ? 4 : 0) + lvlScore(a)));
       pos = 0;
       const m = moods.find(x => x.k === q.mood);
-      const exact = ranked.filter(exactOf).length;
+      const hits = q.mood ? cand.filter(moodHit).length : cand.length;
       let msg = m ? m.msg : 'İşte bugünün önerisi:';
-      if (!ranked.length) msg = 'Bu seçimlerle eşleşen tarif yok. Beslenme ya da tür seçimini gevşetmeyi dene.';
-      else if (!exact && (q.mood || q.lvl || q.time)) msg += ' Tam eşleşen yok, en yakınları getirdik.';
+      const relax = $('pkRelax'); relax.innerHTML = '';
+      if (!ranked.length) {
+        msg = 'Bu seçimlere uyan tarif henüz yok.';
+        const opts = relaxOptions(q);
+        if (opts.length) msg += ' Şunlardan birini dene:';
+        opts.forEach(([label, fn]) => { const bt = document.createElement('button'); bt.type = 'button'; bt.className = 'btn ghost'; bt.textContent = label; bt.onclick = () => { fn(); setTimeout(suggest, 0); }; relax.appendChild(bt); });
+      } else if (q.mood && !hits) msg += ' Bu ruh haline birebir uyan yok; seçimlerine uyan diğer tarifleri getirdik.';
       $('pkMsg').textContent = msg;
-      $('pkCount').textContent = ranked.length ? `${exact || ranked.length} uygun tarif` : '';
+      $('pkCount').textContent = ranked.length ? `${ranked.length} uygun tarif` : '';
+      updateCounts(q);
       show();
     }
     function show() {
