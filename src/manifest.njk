@@ -1,0 +1,30 @@
+---
+permalink: /manifest.webmanifest
+eleventyExcludeFromCollections: true
+---
+{
+  "name": "Mesai Mutfak: Pratik tarifler",
+  "short_name": "Mesai Mutfak",
+  "description": {{ site.description | dump | safe }},
+  "lang": "tr",
+  "dir": "ltr",
+  "id": "/",
+  "start_url": "/?kaynak=uygulama",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F8F2",
+  "theme_color": "#F6F8F2",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    {"src": "/img/app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/img/app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/img/app/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "/img/app/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Bugün ne pişirsem?", "url": "/bugun-ne-pisirsem/", "icons": [{"src": "/img/app/icon-192.png", "sizes": "192x192"}]},
+    {"name": "Kaydettiklerim", "url": "/kaydettiklerim/", "icons": [{"src": "/img/app/icon-192.png", "sizes": "192x192"}]},
+    {"name": "Alışveriş listem", "url": "/listem/", "icons": [{"src": "/img/app/icon-192.png", "sizes": "192x192"}]}
+  ]
+}

@@ -26,6 +26,14 @@
 {% if site.googleVerification %}<meta name="google-site-verification" content="{{ site.googleVerification }}">{% endif %}
 <meta property="og:locale" content="tr_TR">
 <link rel="icon" href="{{ '/favicon.svg' | link }}" type="image/svg+xml">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="apple-touch-icon" href="/img/app/apple-touch-icon.png">
+<meta name="theme-color" content="#F6F8F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121714" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Mesai Mutfak">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 {% if site.ga4 %}<script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
 (function(){var c=null;try{c=localStorage.getItem('mm-consent')}catch(e){}var g=c==='yes'?'granted':'denied';
@@ -34,7 +42,7 @@ gtag('set','ads_data_redaction',g==='denied');gtag('set','url_passthrough',false
 gtag('js',new Date());gtag('config','{{ site.ga4 }}');
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4 }}"></script>{% endif %}
-<script>try{var t=localStorage.getItem('mm-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>
+<script>try{if(matchMedia('(display-mode: standalone)').matches||navigator.standalone)document.documentElement.classList.add('is-app')}catch(e){}try{var t=localStorage.getItem('mm-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap">
@@ -60,6 +68,7 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
       <input id="hq" name="q" type="search" placeholder="Tarif ara" autocomplete="off">
       <button type="submit" aria-label="Ara"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
     </form>
+    <a class="theme favlink" href="/kaydettiklerim/" aria-label="Kaydettiklerim"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg><i id="favCount" hidden></i></a>
     <button class="theme" id="themeBtn" aria-label="Koyu temaya geç"><svg class="sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg><svg class="moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg></button>
     <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>YouTube</a>
   </div>
@@ -84,6 +93,8 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
       <a href="{{ '/tarifler/' | link }}">Tüm tarifler</a>
       <a href="{{ '/bugun-ne-pisirsem/' | link }}">Bugün ne pişirsem?</a>
       <a href="{{ '/listem/' | link }}">Alışveriş listem</a>
+      <a href="/kaydettiklerim/">Kaydettiklerim</a>
+      <button type="button" class="linkbtn" id="installBtn" hidden>Uygulamayı yükle</button>
       <a href="{{ '/kategori/vegan/' | link }}">Vegan</a>
       <a href="{{ '/kategori/glutensiz/' | link }}">Glutensiz</a>
       <a href="{{ '/hakkimizda/' | link }}">Hakkımızda</a>
@@ -100,8 +111,16 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
   <p>Siteyi geliştirmek için anonim ziyaret istatistikleri topluyor{% if site.ads.enabled %} ve ilgi alanına göre reklam gösteriyor{% endif %}uz. İzin veriyor musun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
   <div><button type="button" class="btn" id="consentYes">Kabul et</button><button type="button" class="btn ghost" id="consentNo">Reddet</button></div>
 </div>{% endif %}
+<nav class="tabbar" aria-label="Uygulama menüsü">
+  <a href="/"{% if isHome %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M4 11l8-6 8 6v8a1 1 0 0 1-1 1h-4v-6H9v6H5a1 1 0 0 1-1-1z"/></svg>Ana sayfa</a>
+  <a href="/ara/"{% if page.url == '/ara/' %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>Ara</a>
+  <a href="/bugun-ne-pisirsem/"{% if page.url == '/bugun-ne-pisirsem/' %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M5 11h14v6a3 3 0 0 1-3 3H8a3 3 0 0 1-3-3z"/><path d="M3 11h18M9 7c0-1 1-1 1-2M14 7c0-1 1-1 1-2"/></svg>Ne pişirsem</a>
+  <a href="/kaydettiklerim/"{% if page.url == '/kaydettiklerim/' %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg>Kaydettiklerim</a>
+  <a href="/listem/"{% if page.url == '/listem/' %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></svg>Listem</a>
+</nav>
 <script src="{{ '/assets/site.js' | link }}"></script>
 <script src="{{ '/assets/ads.js' | link }}" defer></script>
+<script src="{{ '/assets/app.js' | link }}" defer></script>
 {% block scripts %}{% endblock %}
 </body>
 </html>

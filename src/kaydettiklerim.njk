@@ -1,0 +1,22 @@
+---
+layout: base.njk
+permalink: /kaydettiklerim/
+title: Kaydettiklerim
+desc: Kaydettiğin tarifler; internet olmadan da açılır.
+noindex: true
+eleventyExcludeFromCollections: true
+---
+<div class="wrap" id="favPage">
+  <nav class="crumbs" aria-label="Konum"><a href="/">Ana sayfa</a><span>/</span><span aria-current="page">Kaydettiklerim</span></nav>
+  <header class="cat-hero"><div>
+    <div class="eyebrow" id="favSum"></div>
+    <h1>Kaydettiklerim</h1>
+    <p>Tarif sayfalarındaki <b>Kaydet</b> butonuyla eklediğin tarifler burada. Kaydettiğin tarifler internet olmadan da açılır; liste sadece bu cihazda saklanır.</p>
+  </div></header>
+  <div id="favEmpty" class="empty" hidden>Henüz kaydettiğin tarif yok. Beğendiğin bir tarifte <b>Kaydet</b>’e bas. <a href="/bugun-ne-pisirsem/">Bugün ne pişirsem?</a></div>
+  <div class="fav-grid" id="favGrid"></div>
+  <div class="install-card" id="installCard" hidden>
+    <div><b>Mesai Mutfak’ı telefonuna ekle</b><p id="installText">Ana ekrandan tek dokunuşla aç, kaydettiklerine internetsiz ulaş.</p></div>
+    <button type="button" class="btn" id="installBtn2">Uygulamayı yükle</button>
+  </div>
+</div>

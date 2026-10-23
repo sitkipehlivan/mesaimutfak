@@ -1,0 +1,69 @@
+---
+permalink: /sw.js
+eleventyExcludeFromCollections: true
+---
+/* Mesai Mutfak service worker · sürüm {{ build.time }} */
+const V = '{{ build.time }}';
+const SHELL = 'mm-shell-' + V, PAGES = 'mm-pages', IMGS = 'mm-imgs', SAVED = 'mm-saved', FONTS = 'mm-fonts';
+const PRECACHE = ['/', '/offline/', '/listem/', '/kaydettiklerim/', '/bugun-ne-pisirsem/', '/assets/style.css', '/assets/site.js', '/assets/ads.js', '/favicon.svg', '/img/app/icon-192.png', '/manifest.webmanifest'];
+
+self.addEventListener('install', e => {
+  e.waitUntil(caches.open(SHELL).then(c => c.addAll(PRECACHE)).then(() => self.skipWaiting()));
+});
+self.addEventListener('activate', e => {
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith('mm-shell-') && k !== SHELL).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+});
+
+async function trim(name, max) {
+  const c = await caches.open(name), ks = await c.keys();
+  for (let i = 0; i < ks.length - max; i++) await c.delete(ks[i]);
+}
+async function put(name, req, res, max) {
+  if (!res || !res.ok || res.type === 'opaqueredirect') return;
+  const c = await caches.open(name); await c.put(req, res); if (max) trim(name, max);
+}
+
+self.addEventListener('fetch', e => {
+  const req = e.request, url = new URL(req.url);
+  if (req.method !== 'GET') return;
+  // Google Fonts: önce önbellek
+  if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com') {
+    e.respondWith(caches.match(req).then(r => r || fetch(req).then(res => { put(FONTS, req, res.clone()); return res; })));
+    return;
+  }
+  if (url.origin !== location.origin) return;           // reklam, analiz vb. dokunma
+  if (url.pathname.startsWith('/admin') || url.pathname === '/sw.js') return;
+
+  // sayfalar: önce ağ, olmazsa önbellek, o da yoksa çevrimdışı sayfası
+  if (req.mode === 'navigate') {
+    e.respondWith((async () => {
+      try {
+        const res = await fetch(req);
+        put(PAGES, stripQuery(req), res.clone(), 80);
+        return res;
+      } catch (err) {
+        return (await caches.match(stripQuery(req), { ignoreSearch: true })) || (await caches.match('/offline/'));
+      }
+    })());
+    return;
+  }
+  // görseller: önce önbellek
+  if (url.pathname.startsWith('/.netlify/images') || url.pathname.startsWith('/img/')) {
+    e.respondWith(caches.match(req).then(r => r || fetch(req).then(res => { put(IMGS, req, res.clone(), 250); return res; }).catch(() => new Response('', { status: 504 }))));
+    return;
+  }
+  // css, js, json: önbellekten hemen ver, arkada tazele
+  e.respondWith(caches.match(req, { ignoreSearch: url.pathname.startsWith('/assets/') }).then(r => {
+    const net = fetch(req).then(res => { if (url.pathname.startsWith('/assets/') || url.pathname.endsWith('.json')) put(SHELL, req, res.clone()); return res; }).catch(() => r);
+    return r || net;
+  }));
+});
+
+function stripQuery(req) { const u = new URL(req.url); u.search = ''; return new Request(u.toString()); }
+
+// Kaydedilen tarifleri kalıcı önbelleğe al / çıkar
+self.addEventListener('message', e => {
+  const d = e.data || {};
+  if (d.type === 'save' && d.urls) e.waitUntil(caches.open(SAVED).then(c => Promise.all(d.urls.map(u => fetch(u).then(r => r.ok && c.put(u, r)).catch(() => {})))));
+  if (d.type === 'unsave' && d.urls) e.waitUntil(caches.open(SAVED).then(c => Promise.all(d.urls.map(u => c.delete(u)))));
+});

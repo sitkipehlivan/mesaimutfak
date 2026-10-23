@@ -31,6 +31,8 @@ layout: base.njk
         </dl>
         <div class="r-actions">
           <a class="btn" href="#malzemeler">Malzemeler</a>
+          <button type="button" class="btn ghost fav-btn" id="favBtn" data-slug="{{ page.fileSlug }}" data-title="{{ title }}" data-url="{{ page.url }}" data-img="{{ (image | imgUrl(600)) if image else '' }}" data-meta="{{ prep + cook }} dk · {{ serv }} kişilik · {{ lvl }}" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg><span>Kaydet</span></button>
+          <button type="button" class="btn ghost" id="cookBtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 11h14v6a3 3 0 0 1-3 3H8a3 3 0 0 1-3-3z"/><path d="M3 11h18M9 7c0-1 1-1 1-2M14 7c0-1 1-1 1-2"/></svg>Pişirme modu</button>
           <a class="btn ghost" href="#video">{% if youtube %}Videoyu izle{% else %}Video{% endif %}</a>
         </div>
       </div>
