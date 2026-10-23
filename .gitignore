@@ -2,3 +2,4 @@ node_modules/
 _site/
 _preview/
 .DS_Store
+scripts/ig/_render.html

@@ -142,6 +142,24 @@ collections:
       - { name: sponsor, label: Sponsor marka (sponsorlu tarifse), widget: string, required: false, hint: "Doluysa tarifte 'Sponsorlu · Marka' etiketi görünür." }
       - { name: body, label: Giriş metni, widget: markdown, required: false, hint: "Tarif sayfasında başlığın altında görünen kısa hikâye." }
 
+  - name: instagram
+    label: Instagram takvimi
+    label_singular: Instagram postu
+    description: "Tarif ve saat seç; carousel görselleri otomatik hazırlanır ve post o saatte Instagram'a kendiliğinden atılır. Sadece fotoğrafı olan tarifler paylaşılabilir."
+    folder: src/instagram
+    create: true
+    delete: true
+    extension: md
+    format: frontmatter
+    slug: "{{zaman}}-{{recipe}}"
+    summary: "{{zaman}} · {{recipe}}"
+    sortable_fields: [zaman]
+    fields:
+      - { name: recipe, label: Tarif, widget: relation, collection: tarifler, value_field: "{{slug}}", search_fields: [title], display_fields: [title] }
+      - { name: zaman, label: Yayın zamanı (Türkiye saati), widget: datetime, format: "YYYY-MM-DD HH:mm", hint: "Görsellerin hazırlanması birkaç dakika sürer; en az 30 dakika sonrası için planla." }
+      - { name: yayinla, label: Yayınlansın, widget: boolean, default: true, hint: "Kapatırsan post bekletilir." }
+      - { name: aciklama, label: Özel açıklama (boş bırakılırsa otomatik), widget: text, required: false, hint: "Boşsa tarif adı, malzemeler ve hashtag'lerle otomatik yazılır." }
+
   - name: ayarlar
     label: Site ayarları
     editor: { preview: false }

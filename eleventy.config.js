@@ -1,3 +1,5 @@
+import { caption as igCaption } from './scripts/ig/lib.mjs';
+import fsIg from 'node:fs';
 import path from 'node:path';
 import fs from 'node:fs';
 import { plate, tabletop, tint } from './lib/art.js';
@@ -45,6 +47,23 @@ export default function (eleventyConfig) {
     const u = w => PREVIEW ? src : `/.netlify/images?url=${encodeURIComponent(src)}&w=${w}&h=${w}&fit=cover&q=72`;
     return { src: u(160), src2: u(320), alt: pick.data.title };
   });
+  // Instagram takvimi
+  eleventyConfig.addFilter('igImages', slug => { try { return fsIg.readdirSync('src/img/ig/' + slug).filter(f => f.endsWith('.jpg')).sort().map(f => `/img/ig/${slug}/${f}`); } catch (e) { return []; } });
+  eleventyConfig.addFilter('igFeed', (posts, recipes, base, gen) => {
+    const T = z => { if (z instanceof Date) { const p = n => String(n).padStart(2, '0'); return `${z.getUTCFullYear()}-${p(z.getUTCMonth() + 1)}-${p(z.getUTCDate())}T${p(z.getUTCHours())}:${p(z.getUTCMinutes())}:00+03:00`; } const m = /^(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})/.exec(String(z || '')); return m ? `${m[1]}T${m[2]}:00+03:00` : ''; };
+    const imgs = slug => { try { return fsIg.readdirSync('src/img/ig/' + slug).filter(f => f.endsWith('.jpg')).sort().map(f => `${base}/img/ig/${slug}/${f}`); } catch (e) { return []; } };
+    const out = [];
+    for (const p of [...(posts || [])].sort((a, b) => T(a.data.zaman).localeCompare(T(b.data.zaman)))) {
+      const r = (recipes || []).find(x => x.page.fileSlug === p.data.recipe); const im = imgs(p.data.recipe);
+      if (!r || !im.length || !T(p.data.zaman)) continue;
+      out.push({ id: p.page.inputPath.split('/').pop().replace(/\.md$/, ''), recipe: p.data.recipe, title: r.data.title, time: T(p.data.zaman), active: p.data.yayinla !== false, images: im, caption: igCaption(r.data, p.data.aciklama) });
+    }
+    return JSON.stringify({ generated: gen, posts: out }, null, 1);
+  });
+  eleventyConfig.addFilter('igSort', list => [...(list || [])].sort((a, b) => String(a.data.zaman).localeCompare(String(b.data.zaman))));
+  eleventyConfig.addFilter('igAbs', (list, base) => (list || []).map(u => base + u));
+  eleventyConfig.addFilter('igCaption', (r, override) => igCaption(r, override));
+  eleventyConfig.addFilter('igTime', z => { if (z instanceof Date) { const p = n => String(n).padStart(2, '0'); return `${z.getUTCFullYear()}-${p(z.getUTCMonth() + 1)}-${p(z.getUTCDate())}T${p(z.getUTCHours())}:${p(z.getUTCMinutes())}:00+03:00`; } const m = /^(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})/.exec(String(z || '')); return m ? `${m[1]}T${m[2]}:00+03:00` : ''; });
   eleventyConfig.addFilter('related', (list, cur) => list
     .filter(r => r.fileSlug !== cur.fileSlug && r.data.cats.some(c => cur.data.cats.includes(c)))
     .slice(0, 4));

@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
+Disallow: /instagram-takvim.json
 
 Sitemap: https://mesaimutfak.com/sitemap.xml

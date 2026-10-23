@@ -1,0 +1,32 @@
+@font-face{font-family:BG;src:url(./fonts/BricolageGrotesque.ttf)}@font-face{font-family:FT;src:url(./fonts/Figtree.ttf)}@font-face{font-family:DM;src:url(./fonts/DMMono-Regular.ttf);font-weight:400}@font-face{font-family:DM;src:url(./fonts/DMMono-Medium.ttf);font-weight:500}
+*{box-sizing:border-box;margin:0;padding:0}body{background:#999;font-family:FT;color:#18201C}
+.wrap{width:1080px;height:1350px;overflow:hidden;margin-bottom:20px}
+.s{width:1080px;height:1350px;position:relative;background:#F6F8F2;overflow:hidden}
+.eb{font-family:DM;font-size:26px;letter-spacing:.14em;text-transform:uppercase;color:#4A564F}
+.logo{display:flex;align-items:center;gap:14px;font-family:BG;font-weight:800;font-size:38px;letter-spacing:-.03em;font-optical-sizing:none;font-variation-settings:"opsz" 24}.logo .ic{width:56px;height:56px}
+.ph{background-size:cover;background-position:center}
+.cover .ph{position:absolute;left:0;top:0;width:1080px;height:880px}
+.cover .top{position:absolute;left:44px;top:44px;background:#F6F8F2;border:3px solid #18201C;border-radius:99px;padding:10px 26px 10px 16px;box-shadow:6px 6px 0 #18201C}
+.cover .pan{position:absolute;left:0;right:0;bottom:0;height:470px;background:#F6F8F2;border-top:4px solid #18201C;padding:48px 64px}
+.cover h1{font-family:BG;font-weight:800;font-size:92px;line-height:.93;letter-spacing:-.025em;margin:14px 0 26px;max-width:950px}
+.cover .meta{display:flex;flex-wrap:wrap;gap:12px}.cover .meta span{font-family:DM;font-size:27px;border:3px solid #18201C;border-radius:99px;padding:8px 22px;background:#fff}
+.swipe{position:absolute;right:44px;top:780px;font-family:BG;font-weight:800;font-size:32px;background:#F2B12E;border:3px solid #18201C;border-radius:99px;padding:12px 28px;box-shadow:6px 6px 0 #18201C}
+.hd{padding:70px 72px 26px;border-bottom:3px solid #18201C;background:#F2B12E}
+.hd .eb{color:#18201C}.hd h2{font-family:BG;font-weight:800;font-size:68px;line-height:.95;letter-spacing:-.02em;margin-top:10px}
+.ing ul{list-style:none;padding:40px 72px;display:grid;grid-template-columns:1fr;gap:0}
+.ing ul.two{display:block;columns:2;column-gap:56px}.ing ul.two li{break-inside:avoid}.ing ul.two li.g{break-after:avoid}
+.ing li{display:flex;gap:18px;align-items:baseline;padding:17px 0;border-bottom:2px solid #DDE3D6;font-size:36px;line-height:1.2}
+.ing li b{font-family:DM;font-weight:500;font-size:28px;min-width:190px;flex:none;color:#18201C}
+.ing ul.two li b{min-width:150px;font-size:25px}.ing ul.two li{font-size:29px}
+.ing ul.dense li{padding:13px 0;font-size:30px}.ing ul.dense li b{font-size:26px;min-width:150px}
+.ing li.g{grid-column:1/-1;border:0;padding:22px 0 4px;font-family:DM;font-size:24px;letter-spacing:.12em;text-transform:uppercase;color:#D2335A}
+.ing ul.two li.g:first-child{padding-top:0}
+.steps ol{list-style:none;padding:56px 72px;display:flex;flex-direction:column;gap:46px}
+.steps li{display:flex;gap:28px}.steps .no{flex:none;width:92px;height:92px;border-radius:50%;background:#18201C;color:#F6F8F2;font-family:BG;font-weight:800;font-size:44px;display:grid;place-items:center}
+.steps h3{font-family:BG;font-weight:800;font-size:52px;line-height:1.05;margin-bottom:10px}.steps h3 em{font-style:normal;font-family:DM;font-weight:500;font-size:24px;background:#fff;border:2px solid #18201C;border-radius:99px;padding:3px 14px;vertical-align:middle;margin-left:8px;white-space:nowrap}
+.steps p{font-size:38px;line-height:1.42;color:#2E3833}
+.foot{position:absolute;left:72px;right:72px;bottom:52px;display:flex;justify-content:space-between;align-items:center}.foot .logo{font-size:30px}.foot .logo .ic{width:44px;height:44px}.pg{font-family:DM;font-size:26px;color:#4A564F}
+.end .full{position:absolute;inset:0}
+.end .card{position:absolute;left:56px;right:56px;bottom:56px;background:#F6F8F2;border:4px solid #18201C;border-radius:36px;box-shadow:10px 10px 0 #18201C;padding:44px 52px}
+.end .tip{font-family:BG;font-weight:800;font-size:46px;line-height:1.12;margin:14px 0 26px}
+.end .cta{display:flex;flex-direction:column;gap:6px;border-top:3px solid #DDE3D6;padding-top:22px;margin-bottom:24px}.end .cta b{font-size:38px}.end .cta span{font-size:30px;color:#4A564F}

@@ -5,6 +5,10 @@
 [images]
   remote_images = ["https://upload\\.wikimedia\\.org/.*", "https://images\\.unsplash\\.com/.*", "https://images\\.pexels\\.com/.*"]
 
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
 [build.environment]
   NODE_VERSION = "22"
 

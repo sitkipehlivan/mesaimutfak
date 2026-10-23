@@ -1,0 +1,40 @@
+# Instagram takvimine tarif eklenince (ya da tarif güncellenince) carousel görsellerini üretip siteye ekler.
+name: Instagram görselleri
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/instagram/**'
+      - 'src/tarifler/**'
+      - 'src/img/tarifler/**'
+      - 'scripts/ig/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: instagram-gorselleri
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Araçları kur
+        run: |
+          npm install --no-save --no-package-lock playwright@1.48.2 js-yaml@4.1.0
+          npx playwright install --with-deps chromium
+      - name: Görselleri üret
+        run: node scripts/ig/render.mjs
+      - name: Değişiklik varsa kaydet
+        run: |
+          git config user.name "mesaimutfak-bot"
+          git config user.email "hello@mesaimutfak.com"
+          git add src/img/ig
+          if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
+          git commit -m "Instagram carousel görselleri güncellendi"
+          git pull --rebase origin main
+          git push

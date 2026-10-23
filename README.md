@@ -87,3 +87,14 @@ Hedefleme anahtarları: `sayfa` (home/tarif/kategori/diger), `kategori`, `tarif`
 
 ### Video ve preroll
 Tarife **Video dosyası linki** (MP4 ya da HLS .m3u8) girilirse YouTube yerine kendi player'ımız (video.js + Google IMA) açılır; **Preroll VAST etiketi** doluysa video başında reklam oynar. Reklam engelleyicide video yine oynar. YouTube ID'si olan tarifler eskisi gibi YouTube'dan oynar.
+
+## Instagram otomatik paylaşım
+
+1. **Panel → Instagram takvimi**: tarif + Türkiye saatiyle yayın zamanı seç (ör. `2026-10-26 18:30`). Sadece fotoğrafı olan tarifler paylaşılabilir.
+2. Kayıt edilince GitHub Action (`.github/workflows/instagram-gorselleri.yml`) carousel görsellerini üretip `src/img/ig/<tarif>/` altına ekler (birkaç dakika).
+3. Netlify zamanlanmış fonksiyonu `ig-publish` her 15 dakikada `/instagram-takvim.json`'u okur, saati gelen postu Instagram'a carousel olarak atar. Saati 12 saatten fazla geçmiş postlar atlanır; aynı post iki kez atılmaz.
+4. Durum: `/.netlify/functions/ig-status` (yayınlananlar, sıradakiler, hatalar).
+
+Netlify ortam değişkenleri: `IG_USER_ID`, `IG_ACCESS_TOKEN` (gizli), isteğe bağlı `IG_API_HOST` (`graph.instagram.com` varsayılan; Facebook sayfası üzerinden bağlanırsa `graph.facebook.com`), `IG_API_VERSION` (varsayılan `v23.0`), `IG_PAUSED=1` (duraklat). Instagram ile giriş anahtarı haftada bir otomatik tazelenir.
+
+Yerelde görsel üretmek: `npm i --no-save playwright js-yaml && npx playwright install chromium && node scripts/ig/render.mjs`.

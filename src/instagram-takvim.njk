@@ -1,0 +1,5 @@
+---
+permalink: /instagram-takvim.json
+eleventyExcludeFromCollections: true
+---
+{{ collections.igposts | igFeed(collections.tarifler, site.url, build.time) | safe }}
