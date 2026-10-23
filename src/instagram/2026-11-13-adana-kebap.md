@@ -1,0 +1,6 @@
+---
+recipe: adana-kebap
+zaman: '2026-11-13 18:30'
+yayinla: true
+aciklama: ''
+---
