@@ -1,6 +1,6 @@
 <!doctype html>
 {%- set pageType = 'home' if isHome else ('tarif' if layout == 'recipe.njk' else ('kategori' if cat else 'diger')) -%}
-<html lang="tr"{% if site.ga4 %} data-ga4="{{ site.ga4 }}"{% endif %} data-ads="{{ {enabled: site.ads.enabled, network: site.ads.network, prefix: site.ads.prefix, interstitial: site.ads.interstitial, anchor: site.ads.anchor, vastTag: site.ads.vastTag} | dump }}" data-page-type="{{ pageType }}" data-cat="{{ (cats[0] if cats else (cat.k if cat else '')) }}" data-slug="{{ page.fileSlug if layout == 'recipe.njk' else '' }}">
+<html lang="tr"{% if site.ga4 %} data-ga4="{{ site.ga4 }}"{% endif %} data-ads="{{ {enabled: site.ads.enabled, network: site.ads.network, prefix: site.ads.prefix, interstitial: site.ads.interstitial, anchor: site.ads.anchor, vastTag: site.ads.vastTag, mode: site.ads.mode, adsense: site.ads.adsense, client: site.adsenseClient} | dump }}" data-page-type="{{ pageType }}" data-cat="{{ (cats[0] if cats else (cat.k if cat else '')) }}" data-slug="{{ page.fileSlug if layout == 'recipe.njk' else '' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">

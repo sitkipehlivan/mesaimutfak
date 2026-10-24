@@ -23,7 +23,7 @@ eleventyComputed:
     </div>
   </header>
   <div class="grid" style="margin-block:28px 64px">
-    {% for r in list %}{% include "card.njk" %}{% if loop.index == 6 or (loop.last and loop.length < 6) %}<div class="grid-ad">{% set slot = 'incontent' %}{% include "ad.njk" %}</div>{% endif %}{% else %}<div class="empty">Bu kategoride henüz tarif yok.</div>{% endfor %}
+    {% for r in list %}{% include "card.njk" %}{% if loop.index % 5 == 0 and not loop.last %}<div class="grid-ad grid-ad-feed">{% set slot = 'infeed' %}{% include "ad.njk" %}</div>{% endif %}{% else %}<div class="empty">Bu kategoride henüz tarif yok.</div>{% endfor %}
   </div>
 </div>
 

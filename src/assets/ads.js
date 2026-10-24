@@ -12,14 +12,15 @@
   } catch (e) {}
   let preview = q === 'onizleme';
   try { preview = preview || sessionStorage.getItem('mm-ad-preview') === '1'; } catch (e) {}
-  const live = !!(cfg.enabled && cfg.network);
+  const adsense = cfg.mode === 'adsense' && !!cfg.client && !!cfg.adsense;
+  const live = !!(cfg.enabled && (cfg.network || adsense));
   const SAMPLE_VAST = 'https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=';
   const SAMPLE_MP4 = 'https://storage.googleapis.com/gvabox/media/samples/stock.mp4';
 
   initPlayer();
   if (!live && !preview) return;
   html.classList.add('ads-on');
-  if (preview && !live) html.classList.add('ads-preview');
+  if (preview) html.classList.add('ads-preview');
 
   const W = () => window.innerWidth;
   const tier = () => (W() >= 1000 ? 'desktop' : W() >= 768 ? 'tablet' : 'mobile');
@@ -42,7 +43,8 @@
     if (!anchor.classList.contains('ad-off')) html.classList.add('has-anchor');
   }
 
-  if (!live) return previewMode();
+  if (!live || preview) return previewMode();
+  if (adsense) return adsenseMode();
 
   /* ---------- gerçek reklamlar: GPT ---------- */
   const consent = () => { try { return localStorage.getItem('mm-consent') === 'yes'; } catch (e) { return false; } };
@@ -79,6 +81,46 @@
   document.addEventListener('mm-consent', e => {
     googletag.cmd.push(() => { googletag.pubads().setPrivacySettings({ nonPersonalizedAds: e.detail !== 'yes' }); });
   });
+
+
+  /* ---------- gerçek reklamlar: AdSense (Ad Manager açılana kadar) ---------- */
+  function adsenseMode() {
+    const A = cfg.adsense, map = A.sizes || {};
+    // AdSense'te sabit alt şerit ve geçiş reklamı yok: onları AdSense "Otomatik reklamlar" (Sabit + Vignette) yapar
+    slots.forEach(el => { if (el.dataset.unit === 'anchor_mobile') el.classList.add('ad-off'); });
+    html.classList.remove('has-anchor');
+    const ins = (box, attrs, style) => {
+      const i = document.createElement('ins');
+      i.className = 'adsbygoogle'; i.setAttribute('style', style);
+      i.setAttribute('data-ad-client', cfg.client);
+      Object.entries(attrs).forEach(([k, v]) => i.setAttribute(k, v));
+      box.appendChild(i);
+      try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+    };
+    const fill = el => {
+      const box = el.querySelector('.ad-slot'); if (!box || box.childElementCount) return;
+      const u = el.dataset.unit;
+      if (u === 'infeed' && A.infeed) {
+        el.style.removeProperty('--ad-h'); el.style.setProperty('--ad-w', '100%');
+        return ins(box, { 'data-ad-format': 'fluid', 'data-ad-layout-key': A.infeed.layoutKey, 'data-ad-slot': A.infeed.slot }, 'display:block;width:100%');
+      }
+      if (u === 'multiplex' && A.multiplex) {
+        return ins(box, { 'data-ad-slot': A.multiplex.slot }, 'display:inline-block;width:' + A.multiplex.w + 'px;height:' + A.multiplex.h + 'px');
+      }
+      // alanın genişliğine sığan ve AdSense'te karşılığı olan ilk boyut
+      const room = Math.max(el.parentElement ? el.parentElement.clientWidth : W(), 0) || W();
+      const pick = sizesFor(el).find(([w, h]) => map[w + 'x' + h] && w <= room + 1);
+      if (!pick) { el.classList.add('ad-off'); return; }
+      el.style.setProperty('--ad-h', pick[1] + 'px'); el.style.setProperty('--ad-w', pick[0] + 'px');
+      ins(box, { 'data-ad-slot': map[pick[0] + 'x' + pick[1]] }, 'display:inline-block;width:' + pick[0] + 'px;height:' + pick[1] + 'px');
+    };
+    const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { io.unobserve(e.target); fill(e.target); } }), { rootMargin: '600px 0px' }) : null;
+    slots.forEach(el => { if (el.classList.contains('ad-off')) return; io ? io.observe(el) : fill(el); });
+    // dolmayan alanları kapat
+    new MutationObserver(ms => ms.forEach(m => {
+      const t = m.target; if (t.getAttribute && t.getAttribute('data-ad-status') === 'unfilled') { const a = t.closest('.ad'); if (a) a.classList.add('ad-empty', 'ad-unfilled'); }
+    })).observe(document.body, { subtree: true, attributes: true, attributeFilter: ['data-ad-status'] });
+  }
 
   /* ---------- önizleme: etiketli kutular ---------- */
   function previewMode() {

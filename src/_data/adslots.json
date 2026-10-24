@@ -110,5 +110,50 @@
         50
       ]
     ]
+  },
+  "infeed": {
+    "unit": "infeed",
+    "label": "In-feed",
+    "desktop": [
+      [
+        300,
+        250
+      ]
+    ],
+    "tablet": [
+      [
+        300,
+        250
+      ]
+    ],
+    "mobile": [
+      [
+        300,
+        250
+      ]
+    ]
+  },
+  "multiplex": {
+    "unit": "multiplex",
+    "label": "Multiplex",
+    "desktop": [
+      [
+        360,
+        800
+      ]
+    ],
+    "tablet": [
+      [
+        360,
+        800
+      ]
+    ],
+    "mobile": [
+      [
+        360,
+        800
+      ]
+    ],
+    "minWidth": 360
   }
 }

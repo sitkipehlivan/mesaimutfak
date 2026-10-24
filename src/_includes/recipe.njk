@@ -154,6 +154,7 @@ layout: base.njk
   </div>
 </section>
 {% endif %}
+<div class="wrap ad-row ad-row-mx">{% set slot = 'multiplex' %}{% include "ad.njk" %}</div>
 
 <script>(function(){var h=location.hostname;if(!/mesaimutfak\.com$/.test(h))return;try{var u='/.netlify/functions/goruntulenme',b='{{ page.fileSlug }}';if(navigator.sendBeacon)navigator.sendBeacon(u,new Blob([b],{type:'text/plain'}));else fetch(u,{method:'POST',body:b,keepalive:true})}catch(e){}})();</script>
 <script type="application/ld+json">

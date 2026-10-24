@@ -30,13 +30,33 @@
   ],
   "contactEmail": "hello@mesaimutfak.com",
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "network": "",
     "prefix": "mesaimutfak",
-    "interstitial": true,
-    "anchor": true,
+    "interstitial": false,
+    "anchor": false,
     "vastTag": "",
-    "adsTxt": "google.com, pub-5841017945537557, DIRECT, f08c47fec0942fa0"
+    "adsTxt": "google.com, pub-5841017945537557, DIRECT, f08c47fec0942fa0",
+    "mode": "adsense",
+    "adsense": {
+      "sizes": {
+        "970x250": "2863743075",
+        "728x90": "1387009872",
+        "320x100": "6802239651",
+        "300x250": "7924498067",
+        "160x600": "2427880373"
+      },
+      "infeed": {
+        "slot": "5134683197",
+        "layoutKey": "-fb+5w+4e-db+86"
+      },
+      "multiplex": {
+        "slot": "6771072183",
+        "w": 360,
+        "h": 800
+      },
+      "interstitial320x480": "1167518024"
+    }
   },
   "adsenseClient": "ca-pub-5841017945537557"
 }

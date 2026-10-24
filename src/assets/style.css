@@ -664,3 +664,11 @@ body.ck-open{overflow:hidden}
 /* v14 · slider okları ve kategori okları dokunmatikte de görünsün */
 @media (max-width:700px){.hs-btn{display:grid;width:34px;height:34px;font-size:22px;top:38%}.hs-prev{left:8px}.hs-next{right:8px}}
 @media (pointer:coarse){.tc-arrow{display:grid!important;width:28px;height:28px;font-size:18px}.tc-arrow[hidden]{display:none!important}}
+
+/* v15 · AdSense yerleşimleri */
+.ad-unfilled{display:none!important}
+.grid-ad-feed{grid-column:auto;display:block}
+.grid-ad-feed .ad{height:100%;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:10px;justify-content:center}
+.grid-ad-feed .ad-slot{width:100%;min-width:0}
+.ad-row-mx{margin-block:8px 40px}
+@media (max-width:400px){.ad-row-mx{padding-inline:0}}
