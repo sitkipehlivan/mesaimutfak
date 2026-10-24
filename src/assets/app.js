@@ -14,6 +14,11 @@
   const swReady = ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost'))
     ? navigator.serviceWorker.register('/sw.js').then(() => navigator.serviceWorker.ready).catch(() => null)
     : Promise.resolve(null);
+  // Yeni sürüm yayınlanınca (yeni service worker kontrolü alınca) sayfayı bir kez tazele: eski CSS ile yeni sayfa karışmasın
+  if ('serviceWorker' in navigator && navigator.serviceWorker.controller) {
+    let reloaded = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (reloaded) return; reloaded = true; location.reload(); });
+  }
   const swSend = msg => swReady.then(r => r && r.active && r.active.postMessage(msg));
 
   /* ---------- kaydettiklerim ---------- */

@@ -46,7 +46,7 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="{{ '/assets/style.css' | link }}">
+<link rel="stylesheet" href="{{ '/assets/style.css' | link }}?v={{ build.time }}">
 {% block head %}{% endblock %}
 {% if site.adsenseClient %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsenseClient }}" crossorigin="anonymous"></script>{% endif %}
 </head>
@@ -77,6 +77,8 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
       <a href="{{ '/yeni-tarifler/' | link }}"{% if page.url == '/yeni-tarifler/' %} aria-current="page"{% endif %}>Yeni eklenenler</a>
       {% for c in allcats %}<a href="{{ ('/kategori/' + c.k + '/') | link }}"{% if page.url == '/kategori/' + c.k + '/' %} aria-current="page"{% endif %}{% if c.wc %} class="wc"{% endif %}>{{ c.l }}</a>{% endfor %}
     </div>
+    <button type="button" class="tc-arrow tc-prev" aria-label="Kategorileri sola kaydır" hidden>‹</button>
+    <button type="button" class="tc-arrow tc-next" aria-label="Kategorileri sağa kaydır" hidden>›</button>
   </nav>
 </header>
 {% set slot = 'masthead' %}<div class="wrap ad-row">{% include "ad.njk" %}</div>
@@ -118,9 +120,9 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
   <a href="/kaydettiklerim/"{% if page.url == '/kaydettiklerim/' %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg>Kaydettiklerim</a>
   <a href="/listem/"{% if page.url == '/listem/' %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></svg>Listem</a>
 </nav>
-<script src="{{ '/assets/site.js' | link }}"></script>
-<script src="{{ '/assets/ads.js' | link }}" defer></script>
-<script src="{{ '/assets/app.js' | link }}" defer></script>
+<script src="{{ '/assets/site.js' | link }}?v={{ build.time }}"></script>
+<script src="{{ '/assets/ads.js' | link }}?v={{ build.time }}" defer></script>
+<script src="{{ '/assets/app.js' | link }}?v={{ build.time }}" defer></script>
 {% block scripts %}{% endblock %}
 </body>
 </html>

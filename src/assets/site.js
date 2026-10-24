@@ -277,3 +277,16 @@
     suggest();
   }
 })();
+
+/* Kategori şeridi: oklar + fare tekerleğiyle yatay kaydırma */
+(function () {
+  var nav = document.querySelector('.topcats'); if (!nav) return;
+  var w = nav.querySelector('.wrap'), pv = nav.querySelector('.tc-prev'), nx = nav.querySelector('.tc-next');
+  function upd() { var max = w.scrollWidth - w.clientWidth - 2; pv.hidden = w.scrollLeft <= 2; nx.hidden = w.scrollLeft >= max; if (max <= 0) { pv.hidden = nx.hidden = true; } }
+  pv.addEventListener('click', function () { w.scrollBy({ left: -w.clientWidth * 0.7, behavior: 'smooth' }); });
+  nx.addEventListener('click', function () { w.scrollBy({ left: w.clientWidth * 0.7, behavior: 'smooth' }); });
+  w.addEventListener('wheel', function (e) { if (Math.abs(e.deltaY) > Math.abs(e.deltaX) && w.scrollWidth > w.clientWidth) { w.scrollLeft += e.deltaY; e.preventDefault(); } }, { passive: false });
+  w.addEventListener('scroll', upd, { passive: true }); addEventListener('resize', upd);
+  var cur = w.querySelector('[aria-current]'); if (cur) w.scrollLeft = cur.offsetLeft - 40;
+  upd();
+})();

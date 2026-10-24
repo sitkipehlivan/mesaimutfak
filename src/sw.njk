@@ -53,9 +53,11 @@ self.addEventListener('fetch', e => {
     return;
   }
   // css, js, json: önbellekten hemen ver, arkada tazele
-  e.respondWith(caches.match(req, { ignoreSearch: url.pathname.startsWith('/assets/') }).then(r => {
-    const net = fetch(req).then(res => { if (url.pathname.startsWith('/assets/') || url.pathname.endsWith('.json')) put(SHELL, req, res.clone()); return res; }).catch(() => r);
-    return r || net;
+  // css/js sürüm numaralı (?v=): aynı sürüm önbellekten, yeni sürüm ağdan; çevrimdışıysa eldeki son sürüm
+  e.respondWith(caches.match(req).then(r => {
+    if (r) return r;
+    return fetch(req).then(res => { if (res.ok && (url.pathname.startsWith('/assets/') || url.pathname.endsWith('.json'))) put(SHELL, req, res.clone()); return res; })
+      .catch(() => caches.match(req, { ignoreSearch: true }));
   }));
 });
 

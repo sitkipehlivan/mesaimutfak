@@ -653,3 +653,10 @@ body.ck-open{overflow:hidden}
 .hs-dots button{width:9px;height:9px;border-radius:99px;border:0;padding:0;background:rgba(255,255,255,.5);cursor:pointer;transition:width .2s}
 .hs-dots button[aria-current]{width:24px;background:#fff}
 @media (max-width:700px){.hs-btn{display:none}.hs-dots{left:50%;right:auto;transform:translateX(-50%);bottom:10px}.hs-slide .over{padding-bottom:30px}}
+
+/* v13 · kategori şeridi okları */
+.topcats{position:relative}
+.tc-arrow{position:absolute;top:50%;transform:translateY(-50%);width:34px;height:34px;border-radius:50%;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:22px;line-height:1;cursor:pointer;display:grid;place-items:center;padding:0 0 3px;box-shadow:0 0 0 10px color-mix(in srgb,var(--paper) 85%,transparent);z-index:2}
+.tc-prev{left:max(8px,env(safe-area-inset-left,0px))}.tc-next{right:max(8px,env(safe-area-inset-right,0px))}
+.tc-arrow:hover{border-color:var(--ink)}
+@media (pointer:coarse){.tc-arrow{display:none!important}}
