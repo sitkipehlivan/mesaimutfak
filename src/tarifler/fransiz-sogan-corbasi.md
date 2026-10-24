@@ -6,6 +6,7 @@ cats:
 - dunya
 - corba
 - firin
+- kis-yemekleri
 lvl: Orta
 prep: 15
 cook: 60
@@ -54,6 +55,17 @@ ingredients:
   - a: 150
     u: g
     n: rendelenmiş kaşar ya da gravyer
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Taze kekik
+  y: Üçte bir ölçü kuru kekik.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
 steps:
 - t: Soğanı karamelize et
   d: Soğanları ince yarım ay doğra. Tereyağında kısık ateşte, ara ara karıştırarak koyu altın rengi olana kadar pişir; şekeri ortalarda ekle.

@@ -5,9 +5,9 @@ desc: Siyah zeytin, ceviz ve kekikle beş dakikada kahvaltı ezmesi.
 cats:
 - kahvalti
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
 lvl: Kolay
 prep: 5
 cook: 0
@@ -46,6 +46,9 @@ ingredients:
   - a: 0.5
     u: adet
     n: portakal kabuğu rendesi (isteğe bağlı)
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
 steps:
 - t: Çek
   d: Zeytin ve cevizi rondoda kısa aralıklarla çek, tamamen püre olmasın.

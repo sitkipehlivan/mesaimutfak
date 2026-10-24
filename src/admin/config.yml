@@ -48,7 +48,7 @@ collections:
         widget: select
         multiple: true
         min: 1
-        hint: "Önce bir yemek türü seç (ilk tür ana kategori olur), sonra varsa Hızlı / Vegan / Glutensiz / Sağlıklı Tatlılar ekle."
+        hint: "Önce bir yemek türü seç (ilk tür ana kategori olur), sonra varsa Hızlı / Vegan / Glutensiz / Sağlıklı Tatlılar / Kış / Yaz ekle."
         options:
           - { label: Ana Yemekler, value: ana }
           - { label: Zeytinyağlılar, value: zeytinyagli }
@@ -65,6 +65,8 @@ collections:
           - { label: Vegan, value: vegan }
           - { label: Glutensiz, value: glutensiz }
           - { label: Sağlıklı Tatlılar, value: saglikli }
+          - { label: Kış Yemekleri, value: kis-yemekleri }
+          - { label: Yaz Yemekleri, value: yaz-yemekleri }
       - { name: lvl, label: Zorluk, widget: select, options: [Kolay, Orta, Zor], default: Kolay }
       - { name: prep, label: Hazırlık süresi (dk), widget: number, value_type: int, min: 0, default: 10 }
       - { name: cook, label: Pişirme süresi (dk), widget: number, value_type: int, min: 0, default: 20, hint: "Ocak/fırın yoksa 0 yaz." }
@@ -107,6 +109,7 @@ collections:
           - { name: d, label: Açıklama, widget: text }
           - { name: time, label: Süre (ör. 15 dk), widget: string, required: false }
       - { name: tips, label: Püf noktaları, widget: list, required: false, field: { name: tip, label: Püf noktası, widget: string } }
+      - { name: subs, label: "Elinde yoksa ne kullanırsın? (ikame malzemeler)", widget: list, required: false, summary: "{{fields.n}}", fields: [ { name: n, label: Malzeme, widget: string }, { name: y, label: Yerine ne kullanılır, widget: text } ] }
       - { name: videoUrl, label: Video dosyası linki (kendi player + preroll), widget: string, required: false, hint: "MP4 ya da HLS (.m3u8) linki. Doluysa YouTube yerine kendi player'ımız açılır ve video başında reklam (preroll) gösterilebilir." }
       - { name: youtube, label: YouTube video ID, widget: string, required: false, hint: "youtube.com/watch?v= sonrasındaki kısım (ör. dQw4w9WgXcQ). Doldurulunca tarif sayfasında video görünür." }
       - { name: videoLen, label: Video süresi (ör. 0:58), widget: string, required: false }

@@ -44,6 +44,9 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Sirke
+  y: Yarı ölçü limon suyu.
 steps:
 - t: Haşla
   d: Pancarları kabuğuyla yumuşayana kadar haşla ya da folyoya sarıp fırında pişir.

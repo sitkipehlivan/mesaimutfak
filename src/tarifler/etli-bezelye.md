@@ -58,6 +58,17 @@ ingredients:
   - a: 0.25
     u: demet
     n: dereotu
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Eti pişir
   d: Zeytinyağında eti kavur, üzerini geçecek kadar su ekleyip yarı yumuşayana kadar pişir.

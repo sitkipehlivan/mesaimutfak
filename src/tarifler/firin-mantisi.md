@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - ana
 - firin
+- kis-yemekleri
 lvl: Zor
 prep: 60
 cook: 40
@@ -70,6 +71,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
 steps:
 - t: Hamur ve harç
   d: Hamuru yoğur, 20 dakika dinlendir. Kıyma harcını hazırla.

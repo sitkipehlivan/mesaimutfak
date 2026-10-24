@@ -5,6 +5,7 @@ desc: Sefarad mutfağından, haşlanmış pırasa ve kıymayla yapılan limonlu 
 cats:
 - arasicak
 - ana
+- kis-yemekleri
 lvl: Orta
 prep: 30
 cook: 20
@@ -55,6 +56,17 @@ ingredients:
   - a: 1
     u: adet
     n: limon
+subs:
+- n: Galeta unu
+  y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Pırasayı haşla
   d: Pırasaları doğrayıp yumuşayana kadar haşla. Süzüp iyice sık, ince kıy.

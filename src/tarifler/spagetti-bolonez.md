@@ -65,6 +65,17 @@ ingredients:
   - a: 40
     u: g
     n: parmesan
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Makarna
+  y: Tam buğday ya da glutensiz makarna; haşlama süresine paketten bak.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Sebzeleri kavur
   d: Zeytinyağında çok ince doğranmış soğan, havuç ve kereviz sapını yumuşayana kadar kavur.

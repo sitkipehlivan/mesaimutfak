@@ -5,6 +5,7 @@ desc: Bulgur, pirinç, mercimek ve nane; kış klasiği.
 cats:
 - corba
 - vegan
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 30
@@ -58,6 +59,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Köftelik bulgur
+  y: Glutensiz için ince kinoa.
+- n: Kırmızı mercimek
+  y: Sarı mercimek.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Soğanı kavur
   d: Zeytinyağında soğanı kavur, salçaları ekleyip 2 dakika çevir.

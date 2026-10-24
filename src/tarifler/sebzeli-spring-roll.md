@@ -57,6 +57,13 @@ ingredients:
   - a: 3
     u: su bardağı
     n: kızartma yağı
+subs:
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Erişte
+  y: Fettuccine ya da tagliatelle; glutensiz için pirinç eriştesi.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: İç
   d: Yağda sarımsak ve sebzeleri 3 dakika çevir, erişte ve soya sosunu ekle. Süzüp soğut.

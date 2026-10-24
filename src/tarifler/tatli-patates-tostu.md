@@ -63,6 +63,11 @@ ingredients:
   - a: 1
     u: tutam
     n: tarçın
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Dilimle
   d: Tatlı patatesi kabuğuyla, uzunlamasına yaklaşık 1 cm kalınlığında 4-6 dilime kes.

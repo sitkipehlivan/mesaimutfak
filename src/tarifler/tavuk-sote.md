@@ -59,6 +59,17 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: karabiber
+subs:
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Tavuğu mühürle
   d: Zeytinyağını geniş tavada iyice ısıt, tavukları yüksek ateşte suyunu salıp çekene kadar sotele.

@@ -70,6 +70,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: çörek otu
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Hamuru yoğur
   d: Süt, maya ve şekeri karıştır; yağ, yoğurt, yumurta beyazı ve tuzu ekle. Unu azar azar ekleyerek yumuşak bir hamur yoğur.

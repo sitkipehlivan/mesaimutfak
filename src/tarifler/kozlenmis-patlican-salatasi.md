@@ -5,6 +5,7 @@ desc: Ocakta közle, sarımsak ve yoğurtla karıştır.
 cats:
 - salata
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 20
@@ -44,6 +45,11 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: ceviz içi
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Ceviz
+  y: Fındık ya da badem.
 steps:
 - t: Közle
   d: Patlıcanları ocağın üzerinde ya da fırın ızgarasında, kabukları kararıp içi yumuşayana kadar çevirerek közle.

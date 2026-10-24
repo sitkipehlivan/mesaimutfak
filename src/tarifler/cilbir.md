@@ -51,6 +51,15 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: doğranmış dereotu
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Yoğurdu hazırla
   d: Yoğurdu ezilmiş sarımsak ve tuzla çırp, oda sıcaklığında servis tabaklarına yay.

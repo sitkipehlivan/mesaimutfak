@@ -73,6 +73,17 @@ ingredients:
   - a: 4
     u: yemek kaşığı
     n: mayonezli sarımsaklı sos
+subs:
+- n: Mayonez
+  y: Süzme yoğurt; daha hafif olur.
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Marine et
   d: Tavuğu tüm marine malzemeleriyle bula, en az 1 saat buzdolabında beklet.

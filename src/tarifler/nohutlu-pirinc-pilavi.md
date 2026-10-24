@@ -40,6 +40,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
 steps:
 - t: Pirinci ıslat
   d: Pirinci ılık tuzlu suda 30 dakika beklet, suyu duru akana kadar yıka ve süz.

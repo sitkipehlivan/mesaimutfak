@@ -46,6 +46,13 @@ ingredients:
   - a: 1
     u: paket
     n: vanilin
+subs:
+- n: Fındık
+  y: Ceviz ya da badem.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Şerbet
   d: Süt ve şekeri şeker eriyene kadar ısıt, kaynatma; vanilini ekleyip tamamen soğut.

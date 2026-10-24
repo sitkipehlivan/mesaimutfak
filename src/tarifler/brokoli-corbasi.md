@@ -6,6 +6,7 @@ cats:
 - corba
 - hizli
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 20
@@ -53,6 +54,17 @@ ingredients:
   - a: 30
     u: g
     n: kaşar ya da cheddar rendesi
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Zeytinyağında soğanı yumuşat, küp patatesi ekle.

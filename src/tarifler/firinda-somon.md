@@ -5,8 +5,8 @@ desc: Bal-hardal sosuyla fırında 15 dakikada pişen sulu somon.
 cats:
 - ana
 - firin
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 5
 cook: 15
@@ -55,6 +55,13 @@ ingredients:
   - a: 0.5
     u: demet
     n: dereotu
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Sosu hazırla
   d: Bal, hardal, zeytinyağı, limon suyu ve rendelenmiş sarımsağı karıştır.

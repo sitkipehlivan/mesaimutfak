@@ -44,6 +44,9 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: zeytinyağı
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
 steps:
 - t: Yoğur
   d: Tüm malzemeleri 10 dakika, hamur esneyip pürüzsüzleşene kadar yoğur.

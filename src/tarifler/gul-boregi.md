@@ -60,6 +60,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: susam
+subs:
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Harç
   d: Soğanı kavur, kıymayı ekleyip pişir, tuz-karabiberle tatlandırıp soğut.

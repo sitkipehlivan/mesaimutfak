@@ -43,6 +43,13 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: karbonat
+subs:
+- n: Galeta unu
+  y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Yoğur
   d: Tüm malzemeleri geniş bir kapta 5-6 dakika, harç yapış yapış olana kadar yoğur.

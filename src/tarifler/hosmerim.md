@@ -47,6 +47,13 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: ceviz ya da fıstık
+subs:
+- n: Lor peyniri
+  y: Ricotta ya da ezilmiş tuzsuz beyaz peynir.
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Peyniri erit
   d: Tereyağını erit, peyniri ezerek ekle ve kısık ateşte suyunu salıp eriyene kadar karıştır.

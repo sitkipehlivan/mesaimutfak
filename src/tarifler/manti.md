@@ -5,6 +5,7 @@ desc: 'Minicik bohçalar, sarımsaklı yoğurt ve kızgın tereyağı sos: Kayse
 cats:
 - ana
 - hamurisi
+- kis-yemekleri
 lvl: Zor
 prep: 75
 cook: 15
@@ -73,6 +74,17 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: kuru nane
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Hamuru yoğur
   d: Un, yumurta, su ve tuzla sert bir hamur yoğur, üzerini örtüp dinlendir.

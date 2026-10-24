@@ -5,6 +5,7 @@ desc: Mısır unu, tereyağı ve uzayan peynirle Karadeniz’in sıcak kahvaltı
 cats:
 - kahvalti
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 2
 cook: 15
@@ -41,6 +42,11 @@ ingredients:
   - a: 1
     u: tutam
     n: tuz
+subs:
+- n: Mısır unu
+  y: İnce irmik ya da un; glutensiz olması gerekiyorsa pirinç unu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Unu kavur
   d: Tereyağını sahanda erit, mısır ununu ekleyip kokusu çıkana kadar kavur.

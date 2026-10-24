@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Tereyağında kavrulan unun sütlü şerbetle buluştuğu, kaşıkla şekillenen helva.
 cats:
 - tatli
+- kis-yemekleri
 lvl: Kolay
 prep: 5
 cook: 25
@@ -43,6 +44,15 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: çam fıstığı (isteğe bağlı)
+subs:
+- n: Dolmalık fıstık
+  y: İri kıyılmış badem ya da kaju.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Şerbet
   d: Süt, su ve şekeri şeker eriyene kadar ısıt.

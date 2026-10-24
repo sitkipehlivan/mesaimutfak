@@ -7,6 +7,7 @@ cats:
 - hizli
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 5
 cook: 25
@@ -69,6 +70,15 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Sebzeleri kavur
   d: Zeytinyağında doğranmış soğanı, havucu ve patatesi 5 dakika kavur. Salçayı ekle.

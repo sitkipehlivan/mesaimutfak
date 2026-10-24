@@ -6,6 +6,7 @@ cats:
 - dunya
 - ana
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 45
@@ -66,6 +67,17 @@ ingredients:
   - a: 1
     u: su bardağı
     n: sıcak su
+subs:
+- n: Kuru fasulye
+  y: Konserve haşlanmış fasulye; pişirme süresini yarıya indir.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Kıyma
   d: Yağda soğan, sarımsak ve biberi yumuşat, kıymayı ekleyip kavur.

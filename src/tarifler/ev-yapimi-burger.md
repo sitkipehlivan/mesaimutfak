@@ -72,6 +72,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: turşu, ince kıyılmış
+subs:
+- n: Ketçap
+  y: Domates salçası, bir tutam şeker ve birkaç damla sirke.
+- n: Mayonez
+  y: Süzme yoğurt; daha hafif olur.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Soğan
   d: Soğanı ince dilimle, tereyağında kısık ateşte karamelize et.

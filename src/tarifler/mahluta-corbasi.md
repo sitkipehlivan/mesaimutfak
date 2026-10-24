@@ -5,6 +5,7 @@ desc: Kırmızı mercimek, bulgur ve kimyonla; Hatay usulü, limonlu ve kıtırl
 cats:
 - corba
 - vegan
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 30
@@ -61,6 +62,17 @@ ingredients:
   - a: 1
     u: dilim
     n: kızarmış ekmek ya da lavaş cipsi (isteğe bağlı)
+subs:
+- n: Bulgur
+  y: Glutensiz için kinoa; suyu aynı oranda.
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Kırmızı mercimek
+  y: Sarı mercimek.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Zeytinyağında küp soğan ve havucu yumuşat.

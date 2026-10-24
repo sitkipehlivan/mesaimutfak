@@ -62,6 +62,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: susam
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Harcı pişir
   d: Tereyağında eti kavur, soğanı ekle, salçayı koy. Yarım su bardağı suyla 20 dakika pişir; havuç, patates ve bezelyeyi ekleyip sebzeler yumuşayıp su çekilene kadar pişir. Soğut.

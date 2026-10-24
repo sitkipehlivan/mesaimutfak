@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Bezelye ve havuçla renklenen, tereyağlı pirinç pilavı.
 cats:
 - pilav
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 5
 cook: 25
@@ -45,6 +45,11 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Sebzeleri çevir
   d: Tereyağında havucu 3 dakika çevir, bezelyeyi ekle.

@@ -46,6 +46,11 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: tereyağı
+subs:
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Çırp
   d: Yumurta, un, süt ve tuzu pürüzsüz olana kadar çırp, ince doğranmış maydanoz ve taze soğanı ekle.

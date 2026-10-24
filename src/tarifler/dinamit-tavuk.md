@@ -4,8 +4,8 @@ date: '2026-10-17'
 desc: 'Dinamit karidesin tavuk göğsüyle yapılan hali: çıtır kaplama, aynı acı-tatlı sos.'
 cats:
 - ana
-- hizli
 - dunya
+- hizli
 lvl: Kolay
 prep: 10
 cook: 15
@@ -83,6 +83,17 @@ ingredients:
   - a: 2
     u: su bardağı
     n: haşlanmış pirinç (isteğe bağlı)
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Mayonez
+  y: Süzme yoğurt; daha hafif olur.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
 steps:
 - t: Tavuğu marine et
   d: Kuşbaşı tavuğu yumurta, soya sosu, karabiber ve toz sarımsakla karıştır. Vaktin varsa 10 dakika beklet.

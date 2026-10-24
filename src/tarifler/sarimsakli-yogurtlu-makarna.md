@@ -46,6 +46,9 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: tuz
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Makarnayı haşla
   d: Bol tuzlu kaynar suda paketteki süre kadar haşla.

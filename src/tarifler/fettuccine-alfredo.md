@@ -51,6 +51,15 @@ ingredients:
   - a: 1
     u: tutam
     n: muskat
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Erişte
+  y: Fettuccine ya da tagliatelle; glutensiz için pirinç eriştesi.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Haşla
   d: Makarnayı tuzlu suda haşla, bir kupa suyunu ayır.

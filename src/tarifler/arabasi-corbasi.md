@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Acılı tavuk çorbası ve yanında soğuk hamur parçalarıyla, Konya ve Kayseri’nin kış sofrası.
 cats:
 - corba
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 60
@@ -63,6 +64,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Tavuk but
+  y: Tavuk göğsü; pişirme süresini biraz kısalt ki kurumasın.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
 steps:
 - t: Hamuru pişir
   d: Unu ve suyu çırparak tencereye al, sürekli karıştırarak koyu bir muhallebi kıvamına gelene kadar pişir. Islatılmış bir tepsiye döküp soğut ve buzdolabında sertleşmeye bırak.

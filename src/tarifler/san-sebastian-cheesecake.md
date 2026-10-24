@@ -5,8 +5,8 @@ desc: Yüksek ısıda pişen, üstü yanık, içi kremamsı cheesecake.
 cats:
 - tatli
 - firin
-- glutensiz
 - dunya
+- glutensiz
 lvl: Orta
 prep: 15
 cook: 50
@@ -49,6 +49,17 @@ ingredients:
   - a: 1
     u: tutam
     n: tuz
+subs:
+- n: Krem peynir
+  y: Labne birebir olur. Cheesecake’te yarısı yerine süzme yoğurt kullanabilirsin; doku biraz daha hafif çıkar.
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Kalıbı hazırla
   d: 22 cm kelepçeli kalıbı iki kat buruşturulmuş pişirme kâğıdıyla, kâğıt kenarlardan taşacak şekilde kapla.

@@ -65,6 +65,17 @@ ingredients:
   - a: 1
     u: adet
     n: yumurta sarısı
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
 steps:
 - t: Hamur
   d: Malzemeleri yoğur, 45 dakika mayalandır.

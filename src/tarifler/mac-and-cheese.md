@@ -57,6 +57,17 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: galeta unu
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Makarna
+  y: Tam buğday ya da glutensiz makarna; haşlama süresine paketten bak.
+- n: Galeta unu
+  y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Makarna
   d: Makarnayı al dente haşla, süz.

@@ -82,6 +82,17 @@ ingredients:
   - a: 30
     u: g
     n: parmesan
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Mozzarella
+  y: Taze kaşar ya da dil peyniri; ikisi de güzel uzar.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Kıymalı sos
   d: Zeytinyağında soğan, havuç ve sarımsağı yumuşat, kıymayı kavur. Domates, salça ve baharatlarla 20 dakika pişir.

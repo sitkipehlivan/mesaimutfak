@@ -59,6 +59,17 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: eritilmiş çikolata ya da bal
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
 steps:
 - t: Islakları karıştır
   d: Yumurta, süt, tereyağı ve şekeri çırp.

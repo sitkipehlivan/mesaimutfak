@@ -55,6 +55,17 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon suyu
+subs:
+- n: Fındık
+  y: Ceviz ya da badem.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Kabartma tozu
+  y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Şerbet
   d: Şeker ve suyu 15 dakika kaynat, limonu ekle, soğut.

@@ -79,6 +79,17 @@ ingredients:
   - a: 6
     u: yaprak
     n: fesleğen
+subs:
+- n: Mozzarella
+  y: Taze kaşar ya da dil peyniri; ikisi de güzel uzar.
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Taze fesleğen
+  y: Üçte bir ölçü kuru fesleğen; pişirmenin sonuna doğru ekle.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
 steps:
 - t: Hamuru mayala
   d: Hamur malzemelerini 8-10 dakika yoğur, üzerini örtüp iki katına çıkana kadar beklet.

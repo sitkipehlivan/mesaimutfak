@@ -68,6 +68,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: badem ya da çam fıstığı
+subs:
+- n: Badem
+  y: Fındık ya da ceviz.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
 steps:
 - t: Eti pişir
   d: Eti soğan ve az suyla yumuşayana kadar pişir, suyunu ayır.

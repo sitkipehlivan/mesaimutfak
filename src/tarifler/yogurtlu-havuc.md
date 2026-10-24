@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Sotelenmiş havuç, sarımsaklı yoğurt ve cevizle tatlımsı meze.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 10
 cook: 8
@@ -44,6 +44,11 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: ceviz, kırılmış
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Ceviz
+  y: Fındık ya da badem.
 steps:
 - t: Sotele
   d: Havuçları zeytinyağında yumuşayana kadar 6-8 dakika çevir, soğut.

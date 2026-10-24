@@ -50,6 +50,15 @@ ingredients:
   - a: 1
     u: tutam
     n: karabiber
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Ispanak
+  y: Pazı.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
 steps:
 - t: Çırp
   d: Yumurta, süt, tuz ve karabiberi çırp.

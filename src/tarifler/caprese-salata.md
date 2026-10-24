@@ -5,8 +5,9 @@ desc: Domates, mozzarella ve fesleğen; İtalyan bayrağı renklerinde salata.
 cats:
 - dunya
 - salata
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -48,6 +49,13 @@ ingredients:
   - a: 1
     u: tutam
     n: karabiber
+subs:
+- n: Mozzarella
+  y: Taze kaşar ya da dil peyniri; ikisi de güzel uzar.
+- n: Balzamik sirke
+  y: Nar ekşisi.
+- n: Taze fesleğen
+  y: Üçte bir ölçü kuru fesleğen; pişirmenin sonuna doğru ekle.
 steps:
 - t: Dilimle
   d: Domates ve mozzarellayı 1 cm kalınlığında dilimle.

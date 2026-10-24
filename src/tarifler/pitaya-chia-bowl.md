@@ -4,10 +4,11 @@ date: '2026-10-17'
 desc: 'Bali kafelerinin pembe yıldızı: ejder meyveli smoothie, altında chia puding, üstünde granola ve tropik meyve.'
 cats:
 - tatli
-- saglikli
 - kahvalti
 - vegan
 - glutensiz
+- saglikli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -73,6 +74,13 @@ ingredients:
   - a: 4
     u: yaprak
     n: nane
+subs:
+- n: Hindistan cevizi sütü
+  y: Vegan değilse krema; vegan için bir avuç kajuyu bir su bardağı suyla blenderdan geçir.
+- n: Hurma
+  y: Kuru incir ya da kuru kayısı.
+- n: Açai / pitaya
+  y: Dondurulmuş böğürtlen ya da frambuaz.
 steps:
 - t: Chia pudingi hazırla
   d: Chia tohumu, hindistan cevizi sütü, şurup ve vanilyayı bir kavanozda karıştır. 5 dakika sonra bir kez daha karıştır ki topaklanmasın, sonra buzdolabına koy. En iyisi bir gece önceden hazırlamak.

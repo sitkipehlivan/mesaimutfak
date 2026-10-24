@@ -5,6 +5,7 @@ desc: Sebzeli, terbiyeli suda pişen minik köfteler; limonlu ve hafif.
 cats:
 - ana
 - corba
+- kis-yemekleri
 lvl: Orta
 prep: 25
 cook: 30
@@ -78,6 +79,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: un
+subs:
+- n: Yumurta sarısı
+  y: 'Terbiyede yumurtasız da olur: bir yemek kaşığı daha un ya da nişasta ekle.'
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
 steps:
 - t: Köfteleri hazırla
   d: Kıyma, yıkanmış pirinç, soğan ve baharatları yoğur. Nohut büyüklüğünde köfteler yapıp una bula.

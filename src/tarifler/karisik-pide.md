@@ -87,6 +87,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: eritilmiş tereyağı
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Sucuk
+  y: Pastırma ya da kavurma.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Hamuru yoğur
   d: Ilık su, süt, maya ve şekeri karıştır. Un ve tuzu ekleyip yoğurmaya başla, zeytinyağını en son ekle. Kulak memesi yumuşaklığında, ele yapışmayan bir hamur olana kadar 8 dakika yoğur.

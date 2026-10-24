@@ -59,6 +59,15 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: zeytinyağı
+subs:
+- n: Kuru bakla
+  y: Kabuksuz sarı bezelye (yarım bezelye); pişirme süresi biraz kısalır.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Baklayı ıslat
   d: Baklayı yıkayıp birkaç saat ıslat ve süz.

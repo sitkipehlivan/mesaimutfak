@@ -72,6 +72,17 @@ ingredients:
   - a: 2
     u: su bardağı
     n: sarımsaklı yoğurt
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
 steps:
 - t: Yufkaları yap
   d: Un, su ve tuzla hamur yoğur, 10 parçaya böl. Her birini tabak büyüklüğünde ince aç, kuru tavada iki yüzünü 30 saniye pişir.

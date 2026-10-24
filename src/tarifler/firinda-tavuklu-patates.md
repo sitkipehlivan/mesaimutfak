@@ -63,6 +63,15 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Doğra
   d: Patatesleri elma dilim, soğanı iri, biberleri halka, domatesleri dilim doğra.

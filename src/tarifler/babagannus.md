@@ -6,6 +6,7 @@ cats:
 - salata
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -51,6 +52,13 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Tahin
+  y: Sade fıstık ezmesi.
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Közle
   d: Patlıcanları ocak ateşinde ya da fırın ızgarasında kabukları kömürleşene kadar közle.

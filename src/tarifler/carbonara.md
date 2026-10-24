@@ -48,6 +48,15 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: zeytinyağı
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Makarna
+  y: Tam buğday ya da glutensiz makarna; haşlama süresine paketten bak.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
 steps:
 - t: Sosu hazırla
   d: Yumurta sarıları, bütün yumurta, peynir ve karabiberi bir kasede çırp.

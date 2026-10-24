@@ -5,6 +5,7 @@ desc: Kıymalı pirinçli harçla doldurulan kabaklar, limonlu yoğurtla.
 cats:
 - ana
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 35
 cook: 45
@@ -73,6 +74,17 @@ ingredients:
   - a: 1
     u: diş
     n: sarımsak
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Kabakları oy
   d: Kabakların sap tarafını kes, oyacakla içlerini ince bir duvar kalacak şekilde oy.

@@ -69,6 +69,17 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: su
+subs:
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Ketçap
+  y: Domates salçası, bir tutam şeker ve birkaç damla sirke.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
 steps:
 - t: Tavuğu kapla
   d: Tavukları yumurta ve nişastayla kapla.

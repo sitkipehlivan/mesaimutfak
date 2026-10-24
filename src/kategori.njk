@@ -11,7 +11,7 @@ eleventyComputed:
   seoTitle: "{{ cat.seoTitle }}: Pratik ve kolay tarifler"
   desc: "{{ cat.intro }}"
 ---
-{%- set list = collections.tarifler | inCat(cat.k) -%}
+{%- set list = collections.tarifler | inCat(cat.k) | photoFirst -%}
 <div class="wrap">
   <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><a href="{{ '/#kategoriler' | link }}">Kategoriler</a><span>/</span><span aria-current="page">{{ cat.l }}</span></nav>
   <header class="cat-hero{% if cat.wc %} wc{% endif %}">

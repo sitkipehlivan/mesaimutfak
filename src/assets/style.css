@@ -622,3 +622,14 @@ body.ck-open{overflow:hidden}
 .is-app body{padding-bottom:calc(68px + env(safe-area-inset-bottom,0px))}
 .is-app .ad-anchor{bottom:calc(62px + env(safe-area-inset-bottom,0px))}
 .is-app .consent{bottom:calc(80px + env(safe-area-inset-bottom,0px))}
+
+/* v10 · ikame malzemeler */
+.subs{margin-top:16px;background:var(--card);border:1.5px solid var(--line);border-radius:20px;padding:4px 22px 16px}
+.subs h2{margin:18px 0 10px;font-size:24px}
+.subs dl{margin:0;display:flex;flex-direction:column}
+.subs dl>div{display:grid;grid-template-columns:minmax(110px,30%) 1fr;gap:4px 16px;padding:10px 0;border-top:1px solid var(--line)}
+.subs dl>div:first-child{border-top:0}
+.subs dt{font-weight:700}
+.subs dd{margin:0;color:var(--ink-2)}
+.subs dt::after{content:" yerine";font-weight:400;color:var(--ink-2)}
+@media (max-width:560px){.subs dl>div{grid-template-columns:1fr}}

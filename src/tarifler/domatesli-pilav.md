@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Taze domates ve tereyağıyla kırmızı, tane tane pirinç pilavı.
 cats:
 - pilav
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 10
 cook: 20
@@ -47,6 +47,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Pirinci yıka
   d: Pirinci suyu berraklaşana kadar yıkayıp süz.

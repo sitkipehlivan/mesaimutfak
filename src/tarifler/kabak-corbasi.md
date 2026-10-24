@@ -5,6 +5,7 @@ desc: Kabak, patates ve dereotuyla, üzerine sarımsaklı yoğurt.
 cats:
 - corba
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -54,6 +55,13 @@ ingredients:
   - a: 1
     u: diş
     n: sarımsak
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Soldur
   d: Zeytinyağında soğanı yumuşat, küp kabak ve patatesi ekleyip 5 dakika çevir.

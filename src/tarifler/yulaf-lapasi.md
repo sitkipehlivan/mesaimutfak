@@ -47,6 +47,15 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: chia tohumu
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Chia tohumu
+  y: Öğütülmüş keten tohumu; biraz daha az sıvı kullan.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
 steps:
 - t: Pişir
   d: Yulaf ve sütü küçük tencereye al, kısık ateşte karıştırarak koyulaşana kadar pişir.

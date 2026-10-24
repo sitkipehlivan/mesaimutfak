@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Sütlü, tereyağlı, kremamsı patates çorbası.
 cats:
 - corba
-- glutensiz
 - hizli
+- glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -54,6 +55,15 @@ ingredients:
   - a: 50
     u: g
     n: rendelenmiş kaşar (isteğe bağlı)
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Tereyağında soğan ve havucu yumuşat.

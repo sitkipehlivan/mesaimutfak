@@ -5,6 +5,7 @@ desc: Kuşbaşı etle tencerede pişen, sulu ve doyurucu taze fasulye.
 cats:
 - ana
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 20
 cook: 50
@@ -52,6 +53,17 @@ ingredients:
   - a: 1.5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Fasulyeyi ayıkla
   d: Fasulyelerin uçlarını ve kenar liflerini al, 3-4 cm boyunda doğra.

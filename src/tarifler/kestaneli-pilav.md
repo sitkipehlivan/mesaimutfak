@@ -5,6 +5,7 @@ desc: Kavrulmuş kestane ve iç baharatlarla, yılbaşı ve hindi sofralarının
 cats:
 - pilav
 - glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 30
@@ -56,6 +57,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: kuş üzümü
+subs:
+- n: Kuş üzümü
+  y: Kıyılmış kuru üzüm ya da kuru kızılcık.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
 steps:
 - t: Kestaneyi hazırla
   d: Kestanelerin kabuğunu çizip fırında 15 dakika kavur, sıcakken soy ve dörde böl. Hazır soyulmuş kestane de olur.

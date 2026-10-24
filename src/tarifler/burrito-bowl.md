@@ -63,6 +63,17 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: yoğurt
+subs:
+- n: Misket limonu
+  y: Limon.
+- n: Tavuk göğsü
+  y: Tavuk but; daha sulu kalır.
+- n: Konserve mısır
+  y: Haşlanıp tanelenmiş taze mısır.
+- n: Kuru fasulye
+  y: Konserve haşlanmış fasulye; pişirme süresini yarıya indir.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
 steps:
 - t: Pirinç
   d: Pirinci haşla, misket limonu suyu ve kabuğu rendesiyle karıştır.

@@ -70,6 +70,17 @@ ingredients:
   - a: 2
     u: adet
     n: limon
+subs:
+- n: Kuş üzümü
+  y: Kıyılmış kuru üzüm ya da kuru kızılcık.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Midyeleri temizle
   d: Midyelerin kabuklarını tel fırçayla kazı, sakallarını çek. Bıçakla düz kenarından açıp kabuğu tam ayırmadan menteşe gibi bırak. Tuzlu suda beklet.

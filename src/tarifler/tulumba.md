@@ -62,6 +62,17 @@ ingredients:
   - a: 4
     u: su bardağı
     n: ayçiçek yağı
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Şerbet
   d: Şeker ve suyu 15 dakika kaynat, limonu ekle ve soğut.

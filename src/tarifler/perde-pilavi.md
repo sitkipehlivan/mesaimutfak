@@ -81,6 +81,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: çiğ badem, ince dilim
+subs:
+- n: Badem
+  y: Fındık ya da ceviz.
+- n: Kuş üzümü
+  y: Kıyılmış kuru üzüm ya da kuru kızılcık.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Tavuk but
+  y: Tavuk göğsü; pişirme süresini biraz kısalt ki kurumasın.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
 steps:
 - t: Tavuğu haşla
   d: Tavukları haşlayıp didikle, suyunu sakla.

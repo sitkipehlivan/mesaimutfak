@@ -4,7 +4,7 @@ date: '2026-10-22'
 desc: Rendelenmiş kabak, peynir ve dereotuyla tavada kızaran mücver.
 cats:
 - arasicak
-- kahvalti
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 15
@@ -53,6 +53,15 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: sıvı yağ
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Kabağı hazırla
   d: Kabakları rendele, tuzlayıp 10 dakika beklet ve suyunu iyice sık.

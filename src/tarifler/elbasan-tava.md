@@ -61,6 +61,15 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
 steps:
 - t: Eti pişir
   d: Tereyağında eti mühürle, baharatlar ve sıcak suyla kapağı kapalı yumuşayana kadar pişir.

@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Terbiyeli, sarımsaklı sirkesiyle; gece yarısı lokantalarının meşhur çorbası.
 cats:
 - corba
+- kis-yemekleri
 lvl: Zor
 prep: 20
 cook: 150
@@ -66,6 +67,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Yumurta sarısı
+  y: 'Terbiyede yumurtasız da olur: bir yemek kaşığı daha un ya da nişasta ekle.'
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
 steps:
 - t: İşkembeyi haşla
   d: İşkembeyi birkaç kez sirkeli suyla yıka. Düdüklü tencerede bol suyla 1 saat, normal tencerede 2,5 saat, köpüğünü alarak haşla.

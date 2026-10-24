@@ -50,6 +50,17 @@ ingredients:
   - a: 1
     u: paket
     n: vanilin
+subs:
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Kabartma tozu
+  y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Yumurtayı çırp
   d: Yumurta ve şekeri rengi açılıp köpürene kadar 5 dakika çırp.

@@ -81,6 +81,17 @@ ingredients:
   - a: 1
     u: su bardağı
     n: çilek
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
 steps:
 - t: Pandispanya
   d: Yumurta ve şekeri mikserle rengi açılıp üç katına çıkana kadar 8-10 dakika çırp. Elenmiş un, kabartma tozu ve vanilini spatula ile alttan üste karıştır.

@@ -4,8 +4,8 @@ date: '2026-10-17'
 desc: Tek kasede çırpılan, kabarık ve yumuşak pankek; 20 dakikada kahvaltı hazır.
 cats:
 - kahvalti
-- hizli
 - dunya
+- hizli
 lvl: Kolay
 prep: 5
 cook: 15
@@ -63,6 +63,17 @@ ingredients:
   - a: 1
     u: su bardağı
     n: taze meyve (çilek, yaban mersini, muz)
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kabartma tozu
+  y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Islak malzemeleri çırp
   d: Yumurta, süt, şeker ve eritilmiş tereyağını bir kasede iyice çırp.

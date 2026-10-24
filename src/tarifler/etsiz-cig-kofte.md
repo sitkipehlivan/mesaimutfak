@@ -73,6 +73,17 @@ ingredients:
   - a: 1
     u: adet
     n: limon
+subs:
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: İsot
+  y: Pul biber ve bir tutam füme paprika.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Bulguru ıslat
   d: Bulguru sıcak suyla karıştırıp üzerini kapat, 10 dakika beklet.

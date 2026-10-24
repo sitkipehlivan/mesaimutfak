@@ -78,6 +78,17 @@ ingredients:
   - a: 1
     u: adet
     n: yumurta (isteğe bağlı)
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
 steps:
 - t: Hamuru mayala
   d: Hamur malzemelerini yoğurup üzerini ört, iki katına çıkana kadar beklet.

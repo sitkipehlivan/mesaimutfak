@@ -4,10 +4,11 @@ date: '2026-10-17'
 desc: Koyu mor açai, muz ve chia puding; üstünde granola, muz dilimleri ve hindistan cevizi pulu. Canggu klasiği.
 cats:
 - tatli
-- saglikli
 - kahvalti
 - vegan
 - glutensiz
+- saglikli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -75,6 +76,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: kakao çekirdeği (cacao nibs, isteğe bağlı)
+subs:
+- n: Kakao
+  y: Aynı ölçü keçiboynuzu (harnup) tozu; tadı daha tatlı ve hafif karamelli olur.
+- n: Badem
+  y: Fındık ya da ceviz.
+- n: Hurma
+  y: Kuru incir ya da kuru kayısı.
 steps:
 - t: Chia pudingi hazırla
   d: Chia tohumu, badem sütü, şurup ve vanilyayı karıştır, 5 dakika sonra tekrar karıştırıp buzdolabına koy.

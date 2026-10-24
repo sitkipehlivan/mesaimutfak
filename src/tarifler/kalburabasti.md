@@ -63,6 +63,17 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon suyu
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Kabartma tozu
+  y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
 steps:
 - t: Şerbet
   d: Şeker ve suyu 15 dakika kaynat, limonu ekleyip soğut.

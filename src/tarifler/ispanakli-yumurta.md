@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Soğanlı ıspanak yatağında pişen yumurtalar; hafif ve doyurucu kahvaltı.
 cats:
 - kahvalti
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 5
 cook: 12
@@ -47,6 +47,11 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: yoğurt (servis için)
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Ispanağı soldur
   d: Zeytinyağında soğanı yumuşat, doğranmış ıspanağı ekleyip suyunu çekene kadar soldur, tuzla.

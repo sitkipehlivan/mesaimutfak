@@ -6,6 +6,7 @@ cats:
 - tatli
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 60
@@ -43,6 +44,11 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: limon suyu
+subs:
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Ayvaları hazırla
   d: Ayvaları soy, ikiye kes, çekirdek yatağını kaşıkla oy. Çekirdekleri ve kabukları atma.

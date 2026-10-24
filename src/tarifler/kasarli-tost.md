@@ -37,6 +37,9 @@ ingredients:
   - a: 1
     u: tutam
     n: kekik (isteğe bağlı)
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Hazırla
   d: Ekmeklerin dış yüzlerine ince tereyağı sür.

@@ -4,7 +4,6 @@ date: '2026-10-22'
 desc: Didiklenmiş tavuk, cevizli ekmek sosu ve kırmızı biber yağıyla.
 cats:
 - salata
-- ana
 lvl: Orta
 prep: 20
 cook: 35
@@ -51,6 +50,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: toz kırmızı biber
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Tavuk göğsü
+  y: Tavuk but; daha sulu kalır.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
 steps:
 - t: Tavuğu haşla
   d: Tavukları tuzlu suda haşla, didikle; suyunu sakla.

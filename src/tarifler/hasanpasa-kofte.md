@@ -71,6 +71,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: tereyağı
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Püreyi hazırla
   d: Patatesleri haşlayıp ez, tereyağı, süt ve tuzla pürüzsüz püre yap.

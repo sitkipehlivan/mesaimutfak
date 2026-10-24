@@ -52,6 +52,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: tereyağı, eritilmiş
+subs:
+- n: Kaymak
+  y: Mascarpone ya da kıvamında çırpılmış krema.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Hamur
   d: Malzemeleri yoğur, iki beze yap, yağlayıp 30 dakika dinlendir.

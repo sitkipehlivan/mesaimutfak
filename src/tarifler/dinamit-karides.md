@@ -4,8 +4,8 @@ date: '2026-10-17'
 desc: Çıtır kaplanmış karidesler, acı-tatlı kremamsı sosa bulanıyor. Sofraya en hızlı biten tabak.
 cats:
 - arasicak
-- hizli
 - dunya
+- hizli
 lvl: Kolay
 prep: 10
 cook: 10
@@ -79,6 +79,17 @@ ingredients:
   - a: 4
     u: yaprak
     n: marul
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Mayonez
+  y: Süzme yoğurt; daha hafif olur.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Sosu hazırla
   d: Mayonez, tatlı acı biber sosu, sriracha, bal ve limon suyunu geniş bir kasede çırp. Kızaran karidesleri doğrudan bu kaseye alacaksın.

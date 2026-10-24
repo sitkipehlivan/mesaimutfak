@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 25
 cook: 45
@@ -57,6 +58,11 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Patlıcanları hazırla
   d: Patlıcanları alacalı soy, tuzlu suda 15 dakika beklet, kurula.

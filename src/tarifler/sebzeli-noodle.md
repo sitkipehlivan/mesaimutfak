@@ -57,6 +57,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: susam yağı (isteğe bağlı)
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Erişte
   d: Erişteyi haşla, soğuk sudan geçirip süz.

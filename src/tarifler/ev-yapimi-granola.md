@@ -50,6 +50,13 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: kuru üzüm ya da kuru kayısı
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Yulaf ezmesi
+  y: Glutensiz yulaf; ya da kinoa gevreği.
 steps:
 - t: Karıştır
   d: Yulaf, kuruyemiş, çekirdek, tarçın ve tuzu karıştır. Bal ve yağı ılıtıp üzerine dök, iyice harmanla.

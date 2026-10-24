@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Zor
 prep: 50
 cook: 45
@@ -68,6 +69,17 @@ ingredients:
   - a: 2
     u: su bardağı
     n: sıcak su
+subs:
+- n: Dolmalık fıstık
+  y: İri kıyılmış badem ya da kaju.
+- n: Kuş üzümü
+  y: Kıyılmış kuru üzüm ya da kuru kızılcık.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Lahanayı haşla
   d: Lahananın sapını oy, kaynar suda yaprakları yumuşadıkça ayır.

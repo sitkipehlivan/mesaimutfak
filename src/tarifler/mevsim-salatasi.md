@@ -4,9 +4,9 @@ date: '2026-10-22'
 desc: Marul, roka, havuç, kırmızı lahana ve limonlu sosla.
 cats:
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
 lvl: Kolay
 prep: 10
 cook: 0
@@ -59,6 +59,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: Roka
+  y: Tere ya da semizotu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Doğra
   d: Marul ve rokayı iri, salatalığı yarım ay doğra.

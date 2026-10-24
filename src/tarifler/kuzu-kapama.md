@@ -50,6 +50,11 @@ ingredients:
   - a: 1
     u: su bardağı
     n: sıcak su
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Eti mühürle
   d: Tencerede tereyağını erit, kuzu parçalarını her yüzü kızarana kadar mühürle.

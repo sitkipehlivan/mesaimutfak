@@ -47,6 +47,15 @@ ingredients:
   - a: 1
     u: su bardağı
     n: kızartmalık yağ
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Pastırma
+  y: Sucuk ya da füme hindi.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: İç harcı hazırla
   d: Kaşarı rendele. Domatesin çekirdeklerini çıkarıp küp doğra, biberi ince doğra.

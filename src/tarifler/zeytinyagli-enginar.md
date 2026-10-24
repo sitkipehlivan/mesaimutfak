@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 20
 cook: 35
@@ -60,6 +61,17 @@ ingredients:
   - a: 0.5
     u: demet
     n: dereotu
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Enginarları hazırla
   d: Enginarları kararmasın diye limonlu suda beklet.

@@ -63,6 +63,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Köfteleri pişir
   d: Köfte harcını yoğur, parmak köfte şekli ver. Tavada ya da ızgarada pişir.

@@ -6,6 +6,7 @@ cats:
 - corba
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -57,6 +58,13 @@ ingredients:
   - a: 1
     u: adet
     n: limon
+subs:
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Zeytinyağında soğan, havuç ve sarımsağı yumuşat, salçayı ekle.

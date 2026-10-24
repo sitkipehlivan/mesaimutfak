@@ -64,6 +64,17 @@ ingredients:
   - a: 1
     u: adet
     n: limon
+subs:
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Eti doğra
   d: Eti yarı donmuşken çok ince, kibrit çöpü gibi şeritler hâlinde doğra.

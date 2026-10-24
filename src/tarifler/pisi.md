@@ -46,6 +46,15 @@ ingredients:
   - a: 2
     u: su bardağı
     n: kızartmalık sıvı yağ
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Hamuru yoğur
   d: Süt, su, maya ve şekeri karıştır, un ve tuzu ekleyip yumuşak bir hamur yoğur.

@@ -4,6 +4,7 @@ date: '2026-10-24'
 desc: Adana kebap, tavuk şiş ve kuzu pirzolayla tek tavada ya da fırın ızgarasında karışık kebap tabağı.
 cats:
 - ana
+- yaz-yemekleri
 lvl: Orta
 prep: 40
 cook: 25
@@ -94,6 +95,17 @@ ingredients:
   - a: 1
     u: su bardağı
     n: bulgur pilavı (isteğe bağlı)
+subs:
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Tavuk but
+  y: Tavuk göğsü; pişirme süresini biraz kısalt ki kurumasın.
+- n: Bulgur
+  y: Glutensiz için kinoa; suyu aynı oranda.
+- n: Lavaş
+  y: Tortilla ya da yufka.
 steps:
 - t: Marine et
   d: Tavuğu yoğurt, salça, zeytinyağı ve baharatlarla, pirzolaları zeytinyağı, tuz ve kekikle ayrı ayrı ov; en az 30 dakika buzdolabında beklet.

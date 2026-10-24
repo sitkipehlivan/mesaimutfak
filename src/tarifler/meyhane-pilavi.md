@@ -55,6 +55,15 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: kuru nane
+subs:
+- n: Bulgur
+  y: Glutensiz için kinoa; suyu aynı oranda.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Sebzeleri kavur
   d: Zeytinyağında doğranmış soğan ve biberleri kavur, salçayı ekle.

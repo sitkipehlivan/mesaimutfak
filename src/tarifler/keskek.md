@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Döğme buğday ve tavuk ya da etle saatlerce pişip dövülen, tereyağlı geleneksel yemek.
 cats:
 - ana
+- kis-yemekleri
 lvl: Zor
 prep: 20
 cook: 180
@@ -45,6 +46,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Dövme buğday
+  y: Aşurelik buğday ya da iri bulgur (ıslatmaya gerek yok).
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Eti haşla
   d: Eti tuzlu suda köpüğünü alarak yumuşayana kadar haşla. Eti çıkar, suyunu sakla.

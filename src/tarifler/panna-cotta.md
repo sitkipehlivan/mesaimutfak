@@ -6,6 +6,7 @@ cats:
 - dunya
 - tatli
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 5
@@ -53,6 +54,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: limon suyu
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Jelatin
+  y: Agar agar (1 tatlı kaşığı agar, yaklaşık 3 yaprak jelatine denk); vegan olur.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Jelatin
   d: Jelatini 3 yemek kaşığı soğuk suda 5 dakika şişir.

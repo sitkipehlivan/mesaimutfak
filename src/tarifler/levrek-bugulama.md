@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Domates, biber ve soğanla kendi buharında pişen hafif balık yemeği.
 cats:
 - ana
-- glutensiz
 - hizli
+- glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 20
@@ -56,6 +57,13 @@ ingredients:
   - a: 4
     u: adet
     n: defne yaprağı (isteğe bağlı)
+subs:
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Sebzeleri yay
   d: Geniş tavanın dibine zeytinyağı gezdir, yarım ay soğan, sarımsak ve biberleri yay.

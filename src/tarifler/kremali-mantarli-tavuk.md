@@ -63,6 +63,17 @@ ingredients:
   - a: 30
     u: g
     n: rendelenmiş parmesan ya da kaşar
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Tavuğu pişir
   d: Zeytinyağında tavukları yüksek ateşte renk alana kadar sotele, tabağa al.

@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Yoğurt, salatalık, sarımsak ve nane; serinleten klasik.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -47,6 +48,9 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: zeytinyağı
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
 steps:
 - t: Salatalığı hazırla
   d: Salatalıkları rendeleyin ya da çok küçük doğrayın.

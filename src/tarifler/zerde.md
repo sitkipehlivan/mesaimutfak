@@ -56,6 +56,17 @@ ingredients:
   - a: 0.5
     u: adet
     n: nar (taneleri)
+subs:
+- n: Dolmalık fıstık
+  y: İri kıyılmış badem ya da kaju.
+- n: Kuş üzümü
+  y: Kıyılmış kuru üzüm ya da kuru kızılcık.
+- n: Safran
+  y: Renk için bir tutam zerdeçal; aroma aynı olmaz ama göze güzel görünür.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Safranı demle
   d: Safranı yarım çay bardağı sıcak suda 15 dakika beklet.

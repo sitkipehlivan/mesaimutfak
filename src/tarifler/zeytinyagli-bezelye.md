@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 30
@@ -54,6 +55,13 @@ ingredients:
   - a: 0.5
     u: demet
     n: dereotu
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Zeytinyağında soğanı yumuşat, küp havuç ve patatesi ekleyip 3 dakika çevir.

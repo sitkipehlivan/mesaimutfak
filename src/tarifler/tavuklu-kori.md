@@ -60,6 +60,17 @@ ingredients:
   - a: 0.25
     u: demet
     n: kişniş ya da maydanoz
+subs:
+- n: Hindistan cevizi sütü
+  y: Vegan değilse krema; vegan için bir avuç kajuyu bir su bardağı suyla blenderdan geçir.
+- n: Taze kişniş
+  y: Maydanoz ve biraz limon kabuğu rendesi.
+- n: Taze zencefil
+  y: Dörtte bir ölçü toz zencefil.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Kavur
   d: Yağda soğanı yumuşat, sarımsak, zencefil, köri ve zerdeçalı ekleyip 1 dakika kokusu çıkana kadar çevir.

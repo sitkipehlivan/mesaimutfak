@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Süzme yoğurt, kurutulmuş acı biber ve kızgın tereyağıyla acılı meze.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 5
 cook: 3
@@ -41,6 +41,11 @@ ingredients:
   - a: 4
     u: adet
     n: kuru acı biber (ya da 1 yemek kaşığı pul biber)
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Yoğurt
   d: Süzme yoğurdu sarımsak ve tuzla çırpıp tabağa yay, ortasını kaşıkla çukurlaştır.

@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Buğday, nohut ve yeşilliklerle soğuk servis edilen yaz çorbası.
 cats:
 - corba
+- yaz-yemekleri
 lvl: Kolay
 prep: 20
 cook: 40
@@ -51,6 +52,15 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Dövme buğday
+  y: Aşurelik buğday ya da iri bulgur (ıslatmaya gerek yok).
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Buğdayı haşla
   d: Buğdayı yumuşayana kadar haşla ve soğut.

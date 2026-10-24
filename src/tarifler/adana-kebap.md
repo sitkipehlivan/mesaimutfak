@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: 'Bol pul biberli, elde yoğrulan kıymayla evde Adana kebap; mangal yoksa döküm tava ya da fırın ızgarası yeter.'
 cats:
 - ana
+- yaz-yemekleri
 lvl: Orta
 prep: 25
 cook: 12
@@ -66,6 +67,17 @@ ingredients:
   - a: 0.5
     u: demet
     n: maydanoz
+subs:
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: İsot
+  y: Pul biber ve bir tutam füme paprika.
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 steps:
 - t: Sebzelerin suyunu al
   d: Kapya biberi bıçakla olabildiğince ince kıy, soğanı rendele. İkisini de bir tülbent ya da süzgeçte iyice sık; fazla su kebabın şişte durmasını zorlaştırır.

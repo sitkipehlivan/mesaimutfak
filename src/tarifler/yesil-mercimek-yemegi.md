@@ -5,6 +5,7 @@ desc: Bulgurlu, salçalı ve doyurucu; etsiz bir tencere yemeği.
 cats:
 - ana
 - vegan
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 40
@@ -59,6 +60,15 @@ ingredients:
   - a: 5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Bulgur
+  y: Glutensiz için kinoa; suyu aynı oranda.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Mercimeği hazırla
   d: Mercimeği yıka, 10 dakika ön haşla ve süz.

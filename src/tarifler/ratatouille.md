@@ -5,9 +5,10 @@ desc: Patlıcan, kabak, biber ve domatesle Fransız sebze güveci.
 cats:
 - dunya
 - ana
+- firin
 - vegan
 - glutensiz
-- firin
+- yaz-yemekleri
 lvl: Orta
 prep: 25
 cook: 45
@@ -59,6 +60,13 @@ ingredients:
   - a: 1
     u: dal
     n: taze biberiye
+subs:
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Taban sos
   d: Zeytinyağında soğan, biber ve sarımsağı yumuşat, iki domatesin rendesini ekleyip 10 dakika pişir; fırın kabının dibine yay.

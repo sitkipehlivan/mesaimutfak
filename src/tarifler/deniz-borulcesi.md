@@ -4,9 +4,10 @@ date: '2026-10-22'
 desc: Haşlanmış deniz börülcesi, sarımsaklı zeytinyağı ve limonla.
 cats:
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 5
@@ -39,6 +40,9 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon suyu
+subs:
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Haşla
   d: Deniz börülcesini yıka, kaynar suda 3-4 dakika haşla, soğuk sudan geçir.

@@ -5,6 +5,7 @@ desc: 'Gaziantep’in sabah çorbası: pirinç, didiklenmiş kuzu eti ve sarıms
 cats:
 - corba
 - glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 15
 cook: 120
@@ -52,6 +53,13 @@ ingredients:
   - a: 1
     u: adet
     n: limon
+subs:
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Eti haşla
   d: Eti tuzlu suda köpüğünü alarak kemikten ayrılana kadar haşla.

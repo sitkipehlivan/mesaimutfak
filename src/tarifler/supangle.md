@@ -53,6 +53,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: hindistan cevizi ya da fındık
+subs:
+- n: Kakao
+  y: Aynı ölçü keçiboynuzu (harnup) tozu; tadı daha tatlı ve hafif karamelli olur.
+- n: Bitter çikolata
+  y: Sütlü çikolata (tatlılığı artar) ya da her 30 g için 3 yemek kaşığı kakao ve 1 yemek kaşığı tereyağı.
+- n: Fındık
+  y: Ceviz ya da badem.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Karıştır
   d: Süt, şeker, un, nişasta ve kakaoyu topaksız çırp.

@@ -77,6 +77,17 @@ ingredients:
   - a: 4
     u: bardak
     n: demli çay
+subs:
+- n: Tulum peyniri
+  y: Beyaz peynir ve biraz eski kaşar karışımı.
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Pekmez
+  y: Bal ya da hurma şurubu.
 steps:
 - t: Planla
   d: Önce çayı demle; sıcaklar en sona kalır, soğuk tabaklar önce hazırlanır.

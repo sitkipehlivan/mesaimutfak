@@ -6,6 +6,7 @@ cats:
 - tatli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 5
 cook: 15
@@ -44,6 +45,13 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: pudra şekeri
+subs:
+- n: Pudra şekeri
+  y: Toz şekeri blenderda 1 dakika çekerek kendin yapabilirsin.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Pişir
   d: Su, nişasta ve şekeri soğukken çırp. Sürekli karıştırarak koyulaşıp şeffaflaşana kadar pişir.

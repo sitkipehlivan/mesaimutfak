@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -53,6 +54,11 @@ ingredients:
   - a: 0.5
     u: demet
     n: maydanoz
+subs:
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Zeytinyağında soğan ve havuç halkalarını 5 dakika çevir.

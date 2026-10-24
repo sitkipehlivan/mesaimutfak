@@ -5,8 +5,9 @@ desc: Kızarmış lavaş parçaları, sebzeler ve sumaklı nar ekşili sosla Lev
 cats:
 - dunya
 - salata
-- vegan
 - hizli
+- vegan
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 5
@@ -71,6 +72,15 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Ekmeği kızart
   d: Lavaşı parçala, az zeytinyağıyla fırında ya da tavada çıtırlaşana kadar kızart.

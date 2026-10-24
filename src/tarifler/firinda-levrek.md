@@ -6,6 +6,7 @@ cats:
 - ana
 - firin
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 25
@@ -54,6 +55,11 @@ ingredients:
   - a: 1
     u: adet
     n: kırmızı soğan
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Sebzeleri yay
   d: Patates ve soğanı tepsiye yay, bir kaşık zeytinyağı ve tuzla karıştır. 200°C’de 10 dakika ön pişir.

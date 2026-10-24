@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Kızarmış patlıcan küpleri ve domatesle demlenen yazlık pirinç pilavı.
 cats:
 - pilav
-- glutensiz
 - vegan
+- glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 25
 cook: 30
@@ -57,6 +58,17 @@ ingredients:
   - a: 0.5
     u: demet
     n: dereotu
+subs:
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Patlıcanları hazırla
   d: Patlıcanları küp doğra, tuzlu suda 15 dakika bekletip kurula. Fırında ya da az yağda kızart.

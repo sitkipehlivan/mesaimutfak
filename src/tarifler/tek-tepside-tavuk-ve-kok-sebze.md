@@ -5,7 +5,6 @@ desc: Fırına at, 40 dakika sonra akşam yemeği hazır.
 cats:
 - ana
 - firin
-- hizli
 - glutensiz
 lvl: Kolay
 prep: 10
@@ -69,6 +68,13 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Fırını ısıt
   d: Fırını 200°C’ye ayarla.

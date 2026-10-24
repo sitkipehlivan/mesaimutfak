@@ -53,6 +53,15 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: kekik
+subs:
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Mantarı kavur
   d: Zeytinyağında dilimlenmiş mantarları yüksek ateşte suyunu salıp çekene kadar kavur, ayır.

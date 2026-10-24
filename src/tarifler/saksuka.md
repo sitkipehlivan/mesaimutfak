@@ -7,6 +7,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 20
 cook: 25
@@ -63,6 +64,11 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: toz şeker
+subs:
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
 steps:
 - t: Sebzeleri kızart
   d: Patlıcan ve kabağı küp, biberleri iri doğra. Patlıcanı tuzlu suda 15 dakika bekletip kurula. Sebzeleri kızgın yağda parti parti kızartıp kâğıt havluya al.

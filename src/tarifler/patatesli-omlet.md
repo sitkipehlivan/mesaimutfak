@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Patates ve soğanla kalın, dilimlenerek yenen tortilla española.
 cats:
 - kahvalti
-- glutensiz
 - dunya
+- glutensiz
 lvl: Orta
 prep: 10
 cook: 30
@@ -42,6 +42,11 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Patatesi pişir
   d: Zeytinyağında patates ve soğanı kısık ateşte, kızartmadan yumuşayana kadar pişir; süzgece al.

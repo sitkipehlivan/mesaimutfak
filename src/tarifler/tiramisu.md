@@ -50,6 +50,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: kakao
+subs:
+- n: Mascarpone
+  y: Labne; daha hafif olsun istersen yarı yarıya krem peynir ve çırpılmış krema.
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Kakao
+  y: Aynı ölçü keçiboynuzu (harnup) tozu; tadı daha tatlı ve hafif karamelli olur.
+- n: Kedi dili
+  y: Pandispanya dilimleri ya da petibör bisküvi.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Sarıları çırp
   d: Yumurta sarısı ve şekeri benmari üzerinde koyulaşıp rengi açılana kadar çırp, soğut.

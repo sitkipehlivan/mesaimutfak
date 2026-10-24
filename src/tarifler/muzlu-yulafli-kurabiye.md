@@ -4,9 +4,9 @@ date: '2026-10-22'
 desc: Sadece muz ve yulafla, şekersiz yumuşak kurabiye.
 cats:
 - tatli
-- saglikli
-- vegan
 - hizli
+- vegan
+- saglikli
 lvl: Kolay
 prep: 5
 cook: 15
@@ -40,6 +40,9 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tarçın
+subs:
+- n: Bitter çikolata
+  y: Sütlü çikolata (tatlılığı artar) ya da her 30 g için 3 yemek kaşığı kakao ve 1 yemek kaşığı tereyağı.
 steps:
 - t: Ez
   d: Muzları çatalla püre kıvamına getir.

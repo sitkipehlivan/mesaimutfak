@@ -4,6 +4,7 @@ date: '2026-10-06'
 desc: Toprak kapta tereyağlı mantar, üstü erimiş kaşar.
 cats:
 - arasicak
+- firin
 - hizli
 - glutensiz
 lvl: Kolay
@@ -51,6 +52,11 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: kekik
+subs:
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Mantarı sotele
   d: Mantarları dilimle, tereyağında suyunu salıp çekene kadar yüksek ateşte sotele.

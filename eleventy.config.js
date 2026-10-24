@@ -39,6 +39,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('byAuthor', (list, slug) => (list || []).filter(r => r.data.author === slug || r.data.editor === slug));
   eleventyConfig.addFilter('person', (slug, authors) => ((authors && authors.list) || []).find(a => a.slug === slug));
   // kategori küçük görseli: panelde seçilen tarif, yoksa kategorideki ilk fotoğraflı tarif
+  eleventyConfig.addFilter('photoFirst', list => (list || []).slice().sort((x, y) => (y.data.image ? 1 : 0) - (x.data.image ? 1 : 0)));
   eleventyConfig.addFilter('catImg', (k, thumbs, list) => {
     const inCat = (list || []).filter(r => (r.data.cats || []).includes(k) && r.data.image);
     const pick = inCat.find(r => r.page.fileSlug === (thumbs || {})[k]) || inCat[0];

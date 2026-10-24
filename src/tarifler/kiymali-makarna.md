@@ -58,6 +58,15 @@ ingredients:
   - a: 50
     u: g
     n: rendelenmiş kaşar (servis için)
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Makarnayı haşla
   d: Bol tuzlu suda paketteki süreden 1 dakika az haşla; bir kupa haşlama suyunu ayırıp süz.

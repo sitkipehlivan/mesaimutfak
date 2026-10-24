@@ -66,6 +66,17 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: pudra şekeri
+subs:
+- n: Pudra şekeri
+  y: Toz şekeri blenderda 1 dakika çekerek kendin yapabilirsin.
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
 steps:
 - t: İçi pişir
   d: Rendelenmiş elmaları şekerle suyunu çekene kadar pişir, tarçın ve cevizi ekleyip soğut.

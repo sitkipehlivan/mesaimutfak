@@ -69,6 +69,17 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: hindistan cevizi ya da fındık
+subs:
+- n: Kakao
+  y: Aynı ölçü keçiboynuzu (harnup) tozu; tadı daha tatlı ve hafif karamelli olur.
+- n: Bitter çikolata
+  y: Sütlü çikolata (tatlılığı artar) ya da her 30 g için 3 yemek kaşığı kakao ve 1 yemek kaşığı tereyağı.
+- n: Fındık
+  y: Ceviz ya da badem.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 steps:
 - t: Keki hazırla
   d: Yumurta ve şekeri çırp, süt ve yağı ekle. Kuru malzemeleri eleyerek ekle.

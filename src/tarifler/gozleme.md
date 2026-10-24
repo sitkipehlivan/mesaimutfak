@@ -57,6 +57,17 @@ ingredients:
   - a: 50
     u: g
     n: eritilmiş tereyağı
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Hamuru yoğur
   d: Un, su, tuz ve yağı yumuşak bir hamur olana kadar yoğur, üzerini örtüp dinlendir.

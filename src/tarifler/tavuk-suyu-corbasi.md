@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Didiklenmiş tavuk, şehriye ve limonlu yumurta terbiyesiyle.
 cats:
 - corba
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 50
@@ -57,6 +58,15 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: un
+subs:
+- n: Yumurta sarısı
+  y: 'Terbiyede yumurtasız da olur: bir yemek kaşığı daha un ya da nişasta ekle.'
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Tavuğu haşla
   d: Tavuğu soğan ve havuçla birlikte suda haşla, köpüğünü al.

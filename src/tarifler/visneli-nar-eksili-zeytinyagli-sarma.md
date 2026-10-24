@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 40
 cook: 45
@@ -101,6 +102,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: nar ekşisi
+subs:
+- n: Dolmalık fıstık
+  y: İri kıyılmış badem ya da kaju.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Yaprakları haşla
   d: Yaprakları sıcak suda 5 dakika bekletip süz. Salamuranın tuzu çıkar, yapraklar yumuşar.

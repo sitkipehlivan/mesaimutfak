@@ -6,6 +6,7 @@ cats:
 - dunya
 - corba
 - vegan
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 0
@@ -56,6 +57,13 @@ ingredients:
   - a: 1
     u: su bardağı
     n: soğuk su
+subs:
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Doğra
   d: Sebzeleri iri doğra, ekmeği suda ıslatıp sık.

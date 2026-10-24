@@ -51,6 +51,11 @@ ingredients:
   - a: 1
     u: su bardağı
     n: sıcak su
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Marine et
   d: Eti tuz, karabiber ve kekikle ov. Sarımsakları ikiye kes, bıçakla açtığın küçük yarıklara yerleştir.

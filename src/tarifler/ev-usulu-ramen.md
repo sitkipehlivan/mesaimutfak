@@ -6,6 +6,7 @@ cats:
 - dunya
 - corba
 - ana
+- kis-yemekleri
 lvl: Orta
 prep: 15
 cook: 25
@@ -63,6 +64,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: susam
+subs:
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Taze zencefil
+  y: Dörtte bir ölçü toz zencefil.
+- n: Tavuk göğsü
+  y: Tavuk but; daha sulu kalır.
+- n: Erişte
+  y: Fettuccine ya da tagliatelle; glutensiz için pirinç eriştesi.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
 steps:
 - t: Yumurta
   d: Yumurtaları kaynar suda 6,5 dakika haşla, buzlu suya al ve soy. Sarısı jöle gibi kalmalı.

@@ -56,6 +56,17 @@ ingredients:
   - a: 100
     u: g
     n: kaymak
+subs:
+- n: Lor peyniri
+  y: Ricotta ya da ezilmiş tuzsuz beyaz peynir.
+- n: Kaymak
+  y: Mascarpone ya da kıvamında çırpılmış krema.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Kabartma tozu
+  y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
 steps:
 - t: Şerbeti hazırla
   d: Şeker ve suyu 15 dakika kaynat, limonu ekleyip soğumaya bırak.

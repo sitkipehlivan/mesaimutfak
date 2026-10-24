@@ -4,9 +4,10 @@ date: '2026-10-22'
 desc: Süzme yoğurt, granola ve mevsim meyvesiyle kat kat bardak tatlısı.
 cats:
 - tatli
-- saglikli
-- hizli
 - kahvalti
+- hizli
+- saglikli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -43,6 +44,13 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: ceviz
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Ceviz
+  y: Fındık ya da badem.
 steps:
 - t: Yoğurt
   d: Süzme yoğurdu balla karıştır.

@@ -6,6 +6,7 @@ cats:
 - ana
 - firin
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 20
 cook: 120
@@ -66,6 +67,15 @@ ingredients:
   - a: 1
     u: su bardağı
     n: sıcak su
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Sebzeleri doğra
   d: Tüm sebzeleri iri küp doğra, sarımsağı bütün bırak.

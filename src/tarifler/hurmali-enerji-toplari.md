@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Hurma, yulaf ve kuruyemişle şekersiz, pişmeyen atıştırmalık.
 cats:
 - tatli
-- saglikli
 - vegan
+- saglikli
 lvl: Kolay
 prep: 15
 cook: 0
@@ -48,6 +48,15 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: hindistan cevizi (kaplama için)
+subs:
+- n: Kakao
+  y: Aynı ölçü keçiboynuzu (harnup) tozu; tadı daha tatlı ve hafif karamelli olur.
+- n: Fındık
+  y: Ceviz ya da badem.
+- n: Tahin
+  y: Sade fıstık ezmesi.
+- n: Yulaf ezmesi
+  y: Glutensiz yulaf; ya da kinoa gevreği.
 steps:
 - t: Hurmayı yumuşat
   d: Hurmalar sertse 10 dakika ılık suda beklet, süz.

@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Şekerle kendi suyunda pişen bal kabağı, tahin ve cevizle.
 cats:
 - tatli
-- glutensiz
 - vegan
+- glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 45
@@ -41,6 +42,13 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: ceviz içi
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Tahin
+  y: Sade fıstık ezmesi.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Kabağı hazırla
   d: Kabağı soy, çekirdeklerini al, 3 cm kalınlığında dilimle.

@@ -5,6 +5,7 @@ desc: Tel şehriye, domates ve tereyağıyla dakikalar içinde ev çorbası.
 cats:
 - corba
 - hizli
+- kis-yemekleri
 lvl: Kolay
 prep: 5
 cook: 15
@@ -50,6 +51,17 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Şehriyeyi kavur
   d: Tereyağında şehriyeyi hafif renk alana kadar kavur.

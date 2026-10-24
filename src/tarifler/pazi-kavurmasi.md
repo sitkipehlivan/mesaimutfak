@@ -4,8 +4,9 @@ date: '2026-10-24'
 desc: Karadeniz usulü, soğanlı ve tereyağlı pazı kavurması; yoğurt ve mısır ekmeğiyle.
 cats:
 - zeytinyagli
-- glutensiz
 - hizli
+- glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 15
@@ -58,6 +59,17 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon
+subs:
+- n: Mısır unu
+  y: İnce irmik ya da un; glutensiz olması gerekiyorsa pirinç unu.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Pazıyı hazırla
   d: Pazıyı bol suda yıka. Saplarını ince, yapraklarını iri doğra.

@@ -80,6 +80,11 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Ispanak
+  y: Pazı.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Fırını ısıt
   d: Fırını 210°C’ye ayarla.

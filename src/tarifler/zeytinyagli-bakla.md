@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 20
 cook: 40
@@ -50,6 +51,13 @@ ingredients:
   - a: 1.5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Baklayı ayıkla
   d: Baklaların uçlarını ve kenar liflerini çekerek al, 3-4 cm doğra. Kararmasın diye limonlu suya at.

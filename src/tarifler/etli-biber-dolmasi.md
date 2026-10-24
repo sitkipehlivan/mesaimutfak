@@ -5,6 +5,7 @@ desc: Kıymalı pirinçli harçla doldurulmuş dolmalık biberler, salçalı suy
 cats:
 - ana
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 30
 cook: 45
@@ -62,6 +63,15 @@ ingredients:
   - a: 2
     u: su bardağı
     n: sıcak su
+subs:
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Biberleri hazırla
   d: Biberlerin sap kısmını kapak gibi kes, çekirdeklerini temizle.

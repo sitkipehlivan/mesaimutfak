@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Ton balığı, mısır ve yeşilliklerle hızlı akşam salatası.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -62,6 +63,11 @@ ingredients:
   - a: 1
     u: tutam
     n: tuz
+subs:
+- n: Konserve mısır
+  y: Haşlanıp tanelenmiş taze mısır.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Doğra
   d: Marulu şerit, domates ve salatalığı küp, soğanı ince doğra.

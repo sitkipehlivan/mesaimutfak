@@ -38,6 +38,9 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
 steps:
 - t: Yoğur
   d: Malzemeleri yumuşak bir hamur olana kadar yoğur, 10 dakika dinlendir.

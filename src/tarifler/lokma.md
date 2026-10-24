@@ -56,6 +56,15 @@ ingredients:
   - a: 3
     u: su bardağı
     n: ayçiçek yağı
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Ayçiçek yağı
+  y: Mısırözü ya da kanola yağı. Keklerde eritilmiş tereyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Şerbet
   d: Şeker ve suyu 10 dakika kaynat, limonu ekle ve soğut.

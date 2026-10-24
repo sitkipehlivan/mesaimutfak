@@ -5,6 +5,7 @@ desc: Beyaz balık, sebzeler ve limonla, terbiyeli hafif bir çorba.
 cats:
 - corba
 - glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 35
@@ -66,6 +67,17 @@ ingredients:
   - a: 0.5
     u: demet
     n: maydanoz
+subs:
+- n: Yumurta sarısı
+  y: 'Terbiyede yumurtasız da olur: bir yemek kaşığı daha un ya da nişasta ekle.'
+- n: Levrek
+  y: Çipura.
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Balığı haşla
   d: Balığı defne ve tuzla suda 10 dakika haşla. Balığı çıkar, kılçıklarını ayıklayıp didikle; suyunu süz.

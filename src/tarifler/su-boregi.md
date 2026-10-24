@@ -55,6 +55,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: sıvı yağ
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
 steps:
 - t: Hamuru yoğur
   d: Yumurta, su ve tuzu çırp, unu azar azar ekleyerek ele yapışmayan, kulak memesi kıvamında sert bir hamur yoğur. Üzerini örtüp dinlendir.

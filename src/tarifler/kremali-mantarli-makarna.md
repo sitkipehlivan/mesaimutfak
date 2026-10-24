@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Sarımsaklı mantar, krema ve parmesanla kadifemsi bir makarna.
 cats:
 - ana
-- hizli
 - dunya
+- hizli
 lvl: Kolay
 prep: 5
 cook: 15
@@ -54,6 +54,15 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Erişte
+  y: Fettuccine ya da tagliatelle; glutensiz için pirinç eriştesi.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Makarnayı haşla
   d: Bol tuzlu suda haşla, yarım bardak suyunu ayır.

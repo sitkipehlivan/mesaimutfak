@@ -5,6 +5,7 @@ desc: Yoğurtlu-salçalı marinede bekleyen, ızgarada ya da fırında pişen ta
 cats:
 - ana
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 15
@@ -59,6 +60,15 @@ ingredients:
   - a: 1
     u: adet
     n: kırmızı soğan
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Marine et
   d: Yoğurt, salça, zeytinyağı, ezilmiş sarımsak, baharatlar ve limon suyunu karıştır. Tavukları bula, en az 2 saat buzdolabında beklet.

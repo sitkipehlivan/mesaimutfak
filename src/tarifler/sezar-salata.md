@@ -64,6 +64,17 @@ ingredients:
   - a: 1
     u: tutam
     n: karabiber
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Mayonez
+  y: Süzme yoğurt; daha hafif olur.
+- n: Tavuk göğsü
+  y: Tavuk but; daha sulu kalır.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Tavuk
   d: Tavuğu tuz ve karabiberle ov, tavada her yüzü 5-6 dakika pişir, dilimle.

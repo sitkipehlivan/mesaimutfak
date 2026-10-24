@@ -57,6 +57,13 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Feta
+  y: Tam yağlı beyaz peynir.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Doğra
   d: Tatlı patatesi kabuğuyla 1 cm’lik küpler halinde, biberi ve soğanı ince doğra.

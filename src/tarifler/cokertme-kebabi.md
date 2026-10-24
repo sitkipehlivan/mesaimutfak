@@ -5,6 +5,7 @@ desc: 'Çıtır kibrit patates, sarımsaklı yoğurt, tereyağında sotelenmiş 
 cats:
 - ana
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 25
 cook: 25
@@ -80,6 +81,17 @@ ingredients:
   - a: 1
     u: adet
     n: domates
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Patatesi kibrit kesimle doğra
   d: Patatesleri soyup ince dilimle, sonra kibrit çöpü inceliğinde şeritler hâlinde kes. Soğuk suda 10 dakika bekletip nişastasını al, kâğıt havluyla iyice kurula.

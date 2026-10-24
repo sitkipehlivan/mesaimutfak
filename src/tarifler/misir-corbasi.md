@@ -5,6 +5,7 @@ desc: Karadeniz usulü, mısır unu ve karalahanayla kalın bir kış çorbası.
 cats:
 - corba
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 35
@@ -52,6 +53,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Karalahana
+  y: Pazı ya da kıvırcık lahana.
+- n: Kuru fasulye
+  y: Konserve haşlanmış fasulye; pişirme süresini yarıya indir.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Lahanayı hazırla
   d: Karalahananın kalın saplarını ayıkla, ince doğra.

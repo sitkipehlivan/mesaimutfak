@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Muhallebi kreması, bisküvi kırıntısı ve çilekle kupada katmanlı tatlı.
 cats:
 - tatli
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 10
@@ -54,6 +55,17 @@ ingredients:
   - a: 250
     u: g
     n: çilek
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Yulaf ezmesi
+  y: Glutensiz yulaf; ya da kinoa gevreği.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
 steps:
 - t: Muhallebi pişir
   d: Süt, şeker, un, nişasta ve yumurta sarılarını çırparak orta ateşte koyulaşana kadar pişir. Vanilini ekle, üzerini streç filmle kapatıp soğut.

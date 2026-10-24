@@ -4,9 +4,10 @@ date: '2026-10-22'
 desc: İnce kıyılmış domates, biber ve nar ekşisiyle kebapçı ezmesi.
 cats:
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 0
@@ -61,6 +62,17 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: tuz
+subs:
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: İsot
+  y: Pul biber ve bir tutam füme paprika.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kıy
   d: Domatesin çekirdeklerini çıkar. Tüm sebzeleri ve maydanozu bıçakla çok ince kıy.

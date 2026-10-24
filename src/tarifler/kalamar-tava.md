@@ -63,6 +63,13 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: yoğurt
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Kalamarı hazırla
   d: Kalamar halkalarını yıka, kâğıt havluyla çok iyi kurula.

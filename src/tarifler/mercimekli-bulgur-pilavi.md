@@ -50,6 +50,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Yeşil mercimek
+  y: Kahverengi ya da beluga mercimek.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Mercimeği haşla
   d: Mercimeği yumuşamaya yakın olana kadar 15 dakika haşla, süz.

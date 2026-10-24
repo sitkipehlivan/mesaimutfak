@@ -6,8 +6,9 @@ cats:
 - dunya
 - salata
 - arasicak
-- vegan
 - hizli
+- vegan
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 5
@@ -50,6 +51,11 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: balzamik sirke
+subs:
+- n: Balzamik sirke
+  y: Nar ekşisi.
+- n: Taze fesleğen
+  y: Üçte bir ölçü kuru fesleğen; pişirmenin sonuna doğru ekle.
 steps:
 - t: Domates
   d: Domatesleri çekirdeklerini alıp küçük küp doğra, kıyılmış fesleğen, zeytinyağı, tuz ve balzamikle karıştır.

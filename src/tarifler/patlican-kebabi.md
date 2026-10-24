@@ -6,6 +6,7 @@ cats:
 - ana
 - firin
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 30
 cook: 40
@@ -67,6 +68,15 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Köfteyi hazırla
   d: Köfte malzemelerini yoğurup yassı köfteler yap.

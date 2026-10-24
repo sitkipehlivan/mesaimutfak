@@ -59,6 +59,17 @@ ingredients:
   - a: 4
     u: yemek kaşığı
     n: tereyağı
+subs:
+- n: Lor peyniri
+  y: Ricotta ya da ezilmiş tuzsuz beyaz peynir.
+- n: Mozzarella
+  y: Taze kaşar ya da dil peyniri; ikisi de güzel uzar.
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Hamur
   d: Hamur malzemelerini yoğur, 45 dakika mayalandır.

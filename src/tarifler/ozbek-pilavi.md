@@ -5,8 +5,9 @@ desc: Havuç, kuzu eti ve kimyonla; Orta Asya’nın meşhur pilavı.
 cats:
 - pilav
 - ana
-- glutensiz
 - dunya
+- glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 25
 cook: 60
@@ -64,6 +65,17 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: karabiber
+subs:
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Eti kızart
   d: Döküm tencerede yağı iyice ısıt, eti kızarana kadar mühürle.

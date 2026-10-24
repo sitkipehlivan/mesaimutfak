@@ -5,6 +5,7 @@ desc: Haşlanmış lahana yaprağına sarılan kıymalı pirinçli harç, kış 
 cats:
 - ana
 - glutensiz
+- kis-yemekleri
 lvl: Zor
 prep: 50
 cook: 50
@@ -65,6 +66,17 @@ ingredients:
   - a: 1
     u: adet
     n: limon suyu
+subs:
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Lahanayı haşla
   d: Lahananın sapını derince oy. Bütün lahanayı kaynar tuzlu suya at, yumuşayan dış yaprakları tek tek ayırarak çıkar.

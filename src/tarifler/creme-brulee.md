@@ -5,8 +5,8 @@ desc: Vanilyalı krema tatlısı, üzerinde çıtır yakılmış şeker.
 cats:
 - dunya
 - tatli
-- glutensiz
 - firin
+- glutensiz
 lvl: Orta
 prep: 15
 cook: 40
@@ -43,6 +43,13 @@ ingredients:
   - a: 4
     u: yemek kaşığı
     n: esmer şeker (üzeri için)
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Kremayı ısıt
   d: Kremayı vanilyayla kaynatmadan ısıt.

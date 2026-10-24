@@ -4,6 +4,7 @@ date: '2026-09-26'
 desc: Közlenmiş patlıcanlı beğendi üstünde ağır pişmiş et.
 cats:
 - ana
+- kis-yemekleri
 lvl: Zor
 prep: 30
 cook: 90
@@ -76,6 +77,17 @@ ingredients:
   - a: 1
     u: tutam
     n: muskat
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Eti mühürle
   d: Tereyağında eti yüksek ateşte suyunu salıp çekene kadar kavur.

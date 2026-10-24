@@ -54,6 +54,17 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: yenibahar
+subs:
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Tavuğu kızart
   d: Tencerede yağı ısıt, tavukları tuz-karabiberle ov ve derili tarafları kızarana kadar mühürle.

@@ -57,6 +57,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: sıvı yağ
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Tortilla
+  y: Lavaş.
+- n: Konserve mısır
+  y: Haşlanıp tanelenmiş taze mısır.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: İç
   d: Yağda tavuğu baharatlarla pişir, biber, soğan ve mısırı ekleyip 4 dakika çevir.

@@ -5,6 +5,7 @@ desc: Kuşbaşı etle ağır pişen, salçalı, kıvamlı nohut yemeği.
 cats:
 - ana
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 75
@@ -52,6 +53,17 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Nohudu hazırla
   d: Bir gece ıslatılmış nohudu süzüp 10 dakika haşla ve süz.

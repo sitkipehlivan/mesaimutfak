@@ -62,6 +62,13 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: tuz
+subs:
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Pirinci ıslat
   d: Vaktin varsa pirinci ılık tuzlu suda 20 dakika beklet. Nişastası azalır, taneler yapışmaz. Sonra suyu berraklaşana kadar yıkayıp süz.

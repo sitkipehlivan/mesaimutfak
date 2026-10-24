@@ -6,6 +6,7 @@ cats:
 - corba
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 30
@@ -51,6 +52,15 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon suyu
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Hazırla
   d: Pırasaları ikiye yarıp aralarındaki kumu iyice yıka, halka doğra. Patatesi ve soğanı küp doğra.

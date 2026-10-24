@@ -5,6 +5,7 @@ desc: Yumurtalı hamurdan açılıp kurutulan, tereyağı ve cevizle sunulan eri
 cats:
 - hamurisi
 - ana
+- kis-yemekleri
 lvl: Orta
 prep: 60
 cook: 15
@@ -49,6 +50,17 @@ ingredients:
   - a: 100
     u: g
     n: rendelenmiş tulum ya da beyaz peynir
+subs:
+- n: Tulum peyniri
+  y: Beyaz peynir ve biraz eski kaşar karışımı.
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 steps:
 - t: Hamuru yoğur
   d: Un, yumurta, süt ve tuzla sert bir hamur yoğur, 20 dakika dinlendir.

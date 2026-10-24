@@ -6,7 +6,6 @@ cats:
 - kahvalti
 - tatli
 - hizli
-- dunya
 lvl: Kolay
 prep: 10
 cook: 20
@@ -57,6 +56,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: pudra şekeri
+subs:
+- n: Pudra şekeri
+  y: Toz şekeri blenderda 1 dakika çekerek kendin yapabilirsin.
+- n: Reçel
+  y: Herhangi bir meyve reçeli ya da fındık kreması.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 steps:
 - t: Hamuru çırp
   d: Yumurta, süt, şeker ve tuzu çırp. Unu ekleyip topaksız olana kadar çırp, eritilmiş tereyağını ekle. Hamur sulu olmalı.

@@ -5,8 +5,9 @@ desc: Domates, salatalık, biber, zeytin ve kalın dilim beyaz peynir.
 cats:
 - dunya
 - salata
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -54,6 +55,9 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: kekik
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
 steps:
 - t: Doğra
   d: Domatesleri iri, salatalığı yarım ay, biber ve soğanı halka doğra.

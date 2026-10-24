@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Sarımsaklı yoğurt ve cevizle ferah semizotu salatası.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -44,6 +45,11 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: ceviz içi
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Ceviz
+  y: Fındık ya da badem.
 steps:
 - t: Semizotunu hazırla
   d: Kalın saplarını ayıkla, birkaç kez yıka, iyice süz ve iri doğra.

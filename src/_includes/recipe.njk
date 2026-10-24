@@ -98,6 +98,12 @@ layout: base.njk
           <ul>{% for t in tips %}<li>{{ t }}</li>{% endfor %}</ul>
         </div>
         {% endif %}
+        {% if subs and subs.length %}
+        <div class="subs" id="yerine">
+          <h2>Elinde yoksa ne kullanırsın?</h2>
+          <dl>{% for x in subs %}<div><dt>{{ x.n }}</dt><dd>{{ x.y }}</dd></div>{% endfor %}</dl>
+        </div>
+        {% endif %}
       </div>
     </div>
   </article>

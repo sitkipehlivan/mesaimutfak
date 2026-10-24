@@ -4,10 +4,11 @@ date: '2026-10-17'
 desc: Hindistan cevizi sütlü chia puding ve ipeksi mango püresi; üstünde tropik meyve ve kavrulmuş hindistan cevizi.
 cats:
 - tatli
-- saglikli
 - kahvalti
 - vegan
 - glutensiz
+- saglikli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -66,6 +67,13 @@ ingredients:
   - a: 4
     u: yaprak
     n: nane
+subs:
+- n: Badem
+  y: Fındık ya da ceviz.
+- n: Hurma
+  y: Kuru incir ya da kuru kayısı.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Chia pudingi hazırla
   d: Chia tohumu, hindistan cevizi sütü, şurup ve vanilyayı karıştır, 5 dakika sonra tekrar karıştırıp buzdolabına koy.

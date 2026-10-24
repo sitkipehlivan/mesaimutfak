@@ -4,9 +4,10 @@ date: '2026-10-22'
 desc: Cevizli, nar ekşili, ince kıyılmış domates-biber salatası.
 cats:
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 0
@@ -60,6 +61,15 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: tuz
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: İsot
+  y: Pul biber ve bir tutam füme paprika.
 steps:
 - t: Kıy
   d: Domatesin çekirdeklerini çıkar, tüm sebzeleri ve maydanozu ince kıy.

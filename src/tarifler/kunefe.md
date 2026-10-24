@@ -48,6 +48,15 @@ ingredients:
   - a: 1
     u: dilim
     n: limon
+subs:
+- n: Tel kadayıf
+  y: Tereyağında kavrulmuş tel şehriye ya da ezilmiş kadayıf yufkası.
+- n: Antep fıstığı
+  y: Ceviz ya da fındık.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Şerbet
   d: Şeker, su ve limonu 10 dakika kaynat, ılık kalsın.

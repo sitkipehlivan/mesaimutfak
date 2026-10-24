@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Tereyağında çıtırlaşan pastırma ve göz yumurta; Kayseri kahvaltısı.
 cats:
 - kahvalti
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 2
 cook: 6
@@ -39,6 +39,9 @@ ingredients:
   - a: 1
     u: tutam
     n: pul biber
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Pastırmayı çevir
   d: Tereyağını sahanda erit, pastırma dilimlerini diz ve 30 saniye çevir.

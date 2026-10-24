@@ -55,6 +55,15 @@ ingredients:
   - a: 1.5
     u: su bardağı
     n: susam
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: Pekmez
+  y: Bal ya da hurma şurubu.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Hamuru yoğur
   d: Un, maya, şeker ve tuzu karıştır, ılık su ve yağla 8 dakika yoğur. Hamur ele yapışmayan, sıkıca bir kıvamda olmalı.

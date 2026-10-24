@@ -66,6 +66,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: çörek otu
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Harcı hazırla
   d: Ispanağı yıka, ince doğra. Soğanı zeytinyağında kavur, ıspanağı ekleyip suyunu salıp çekene kadar pişir. Soğuyunca ezilmiş peynir ve karabiberle karıştır.

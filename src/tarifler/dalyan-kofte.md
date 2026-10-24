@@ -68,6 +68,17 @@ ingredients:
   - a: 1
     u: su bardağı
     n: sıcak su
+subs:
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Köfte harcını yoğur
   d: Kıyma, soğan, ıslatıp sıktığın ekmek içi, yumurta, maydanoz ve baharatları iyice yoğur.

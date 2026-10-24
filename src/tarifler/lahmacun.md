@@ -87,6 +87,17 @@ ingredients:
   - a: 1
     u: adet
     n: kırmızı soğan
+subs:
+- n: Kuru maya
+  y: 1 paket (10 g) kuru maya yerine yaklaşık 25-30 g yaş maya.
+- n: İsot
+  y: Pul biber ve bir tutam füme paprika.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 steps:
 - t: Hamuru hazırla
   d: Malzemeleri yumuşak bir hamur olana kadar yoğur, üzerini örtüp 30 dakika mayalandır.

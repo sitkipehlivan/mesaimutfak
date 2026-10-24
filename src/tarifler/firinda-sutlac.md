@@ -4,6 +4,7 @@ date: '2026-10-01'
 desc: Üstü kızarık, kenarı karamelize. Bir gün önceden yap.
 cats:
 - tatli
+- firin
 - glutensiz
 lvl: Orta
 prep: 10
@@ -47,6 +48,11 @@ ingredients:
   - a: 1
     u: paket
     n: vanilin
+subs:
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Pirinci haşla
   d: Pirinci bir su bardağı suyla suyunu çekene kadar haşla.

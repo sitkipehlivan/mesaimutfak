@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 30
 cook: 40
@@ -72,6 +73,17 @@ ingredients:
   - a: 1.5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Kuş üzümü
+  y: Kıyılmış kuru üzüm ya da kuru kızılcık.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: İç harcı kavur
   d: Soğanı zeytinyağında kavur, fıstıkları ekle, yıkanmış pirinci şeffaflaşana kadar çevir.

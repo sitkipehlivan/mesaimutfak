@@ -5,6 +5,7 @@ desc: Tavada ya da ızgarada pişen, sulu, baharatlı ev köftesi.
 cats:
 - ana
 - hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 10
@@ -64,6 +65,17 @@ ingredients:
   - a: 2
     u: adet
     n: domates
+subs:
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: Galeta unu
+  y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Yoğur
   d: Tüm malzemeleri en az 5 dakika, harç bir bütün olana kadar yoğur.

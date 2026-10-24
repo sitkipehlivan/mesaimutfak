@@ -5,8 +5,8 @@ desc: Sarımsaklı, acılı domates soslu penne.
 cats:
 - dunya
 - ana
-- vegan
 - hizli
+- vegan
 lvl: Kolay
 prep: 5
 cook: 20
@@ -49,6 +49,11 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Makarna
+  y: Tam buğday ya da glutensiz makarna; haşlama süresine paketten bak.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Sos
   d: Zeytinyağında ince doğranmış sarımsak ve pul biberi 1 dakika çevir, domatesi ekle. Tuzla, 15 dakika koyulaşana kadar pişir.

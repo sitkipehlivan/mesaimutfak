@@ -51,6 +51,13 @@ ingredients:
   - a: 0.5
     u: demet
     n: maydanoz
+subs:
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Ciğeri hazırla
   d: Ciğerin zarını soy, küçük küpler hâlinde doğra. Süzgeçte kanını akıt.

@@ -53,6 +53,11 @@ ingredients:
   - a: 2
     u: su bardağı
     n: kızartma yağı
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
 steps:
 - t: Marine et
   d: Tavukları yoğurt, tuz ve baharatlarla 15 dakika beklet.

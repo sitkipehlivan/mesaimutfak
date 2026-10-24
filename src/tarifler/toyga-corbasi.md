@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Buğdaylı, nohutlu, yoğurtlu ve naneli; Orta Anadolu’nun yayla çorbası kuzeni.
 cats:
 - corba
+- kis-yemekleri
 lvl: Orta
 prep: 15
 cook: 50
@@ -58,6 +59,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Dövme buğday
+  y: Aşurelik buğday ya da iri bulgur (ıslatmaya gerek yok).
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
 steps:
 - t: Buğdayı haşla
   d: Islattığın buğdayı suda yumuşayana kadar haşla.

@@ -5,6 +5,7 @@ desc: Yoğurtlu, pirinçli, naneli tereyağıyla sıcacık yayla çorbası.
 cats:
 - corba
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 5
 cook: 25
@@ -57,6 +58,15 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Yumurta sarısı
+  y: 'Terbiyede yumurtasız da olur: bir yemek kaşığı daha un ya da nişasta ekle.'
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
 steps:
 - t: Pirinci pişir
   d: Pirinci suyla yumuşayana kadar pişir.

@@ -6,6 +6,7 @@ cats:
 - ana
 - firin
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 30
@@ -62,6 +63,15 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: nar ekşisi
+subs:
+- n: Tahin
+  y: Sade fıstık ezmesi.
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Hazırla
   d: Karnabaharı küçük çiçeklere ayır, yıka ve iyice kurula.

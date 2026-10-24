@@ -6,6 +6,7 @@ cats:
 - dunya
 - tatli
 - firin
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 35
@@ -53,6 +54,17 @@ ingredients:
   - a: 100
     u: g
     n: soğuk tereyağı
+subs:
+- n: Yulaf ezmesi
+  y: Glutensiz yulaf; ya da kinoa gevreği.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Elmalar
   d: Elmaları küp doğra, şeker, tarçın ve limonla karıştırıp fırın kabına yay.

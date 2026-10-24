@@ -5,8 +5,8 @@ desc: Kaşarlı ve sarımsaklı iç harçla doldurulup fırınlanan mantarlar.
 cats:
 - arasicak
 - firin
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 15
 cook: 15
@@ -52,6 +52,15 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: kekik
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
 steps:
 - t: Mantarları hazırla
   d: Mantar saplarını çıkar ve ince doğra; şapkaları sil.

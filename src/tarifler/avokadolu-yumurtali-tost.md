@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Ekşi maya ekmek, ezilmiş avokado ve poşe yumurta.
 cats:
 - kahvalti
-- hizli
 - dunya
+- hizli
 lvl: Kolay
 prep: 5
 cook: 6
@@ -48,6 +48,11 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: sirke (poşe için)
+subs:
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Ekmeği kızart
   d: Ekmekleri tost makinesinde ya da tavada kızart.

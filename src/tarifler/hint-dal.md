@@ -7,6 +7,7 @@ cats:
 - ana
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -66,6 +67,17 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Taze zencefil
+  y: Dörtte bir ölçü toz zencefil.
+- n: Garam masala
+  y: Eşit ölçü kimyon ve kişniş tohumu, birer tutam tarçın, karanfil ve karabiber.
+- n: Kırmızı mercimek
+  y: Sarı mercimek.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Mercimeği pişir
   d: Mercimeği su, zerdeçal ve doğranmış domatesle dağılıp kremamsı olana kadar pişir, tuzla.

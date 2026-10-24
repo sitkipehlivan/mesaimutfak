@@ -53,6 +53,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: susam yağı (isteğe bağlı)
+subs:
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Sebzeler
   d: Wok’ta yağı kızdır, sarımsak, havuç ve bezelyeyi 3 dakika çevir.

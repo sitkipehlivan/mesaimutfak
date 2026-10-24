@@ -6,6 +6,7 @@ cats:
 - kahvalti
 - hizli
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 4
 cook: 8
@@ -47,6 +48,11 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Biberi pişir
   d: Yağları tavada ısıt, doğranmış biberleri yumuşayana kadar çevir.

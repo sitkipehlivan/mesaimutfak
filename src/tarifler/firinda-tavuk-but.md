@@ -57,6 +57,11 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: karabiber
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
 steps:
 - t: Marine et
   d: Yoğurt, salça, zeytinyağı, ezilmiş sarımsak ve baharatları karıştır. Butların derisini çatalla delip sosla ov, en az 30 dakika buzdolabında beklet.

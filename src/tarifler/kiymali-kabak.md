@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Kıyma, kabak ve domatesle hafif, yazlık tencere yemeği.
 cats:
 - ana
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 25
@@ -57,6 +58,13 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Kıymayı kavur
   d: Zeytinyağında soğanı ve biberi yumuşat, kıymayı ekleyip kavur.

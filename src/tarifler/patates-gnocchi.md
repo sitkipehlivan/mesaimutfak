@@ -48,6 +48,11 @@ ingredients:
   - a: 30
     u: g
     n: parmesan
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Patatesi pişir
   d: Patatesleri kabuğuyla haşla ya da fırınla, sıcakken soy ve rendeden geçir ya da ez.

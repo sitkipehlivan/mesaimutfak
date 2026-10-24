@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Kıymalı, pirinçli ıspanak yemeği; üzerine sarımsaklı yoğurtla.
 cats:
 - ana
-- glutensiz
 - hizli
+- glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 25
@@ -62,6 +63,13 @@ ingredients:
   - a: 1
     u: diş
     n: sarımsak
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Ispanağı hazırla
   d: Ispanağı bol suda birkaç kez yıka, kalın saplarını ayır ve iri doğra.

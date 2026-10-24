@@ -57,6 +57,13 @@ ingredients:
   - a: 0.5
     u: adet
     n: limonun suyu
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Sosu hazırla
   d: Zeytinyağı, salça, bal, ezilmiş sarımsak, baharatlar ve limon suyunu karıştır.

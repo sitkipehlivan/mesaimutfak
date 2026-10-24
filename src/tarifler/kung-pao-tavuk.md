@@ -67,6 +67,17 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: su
+subs:
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Taze zencefil
+  y: Dörtte bir ölçü toz zencefil.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Hazırla
   d: Tavukları nişasta ve bir kaşık soyayla karıştır. Sos malzemelerini çırp.

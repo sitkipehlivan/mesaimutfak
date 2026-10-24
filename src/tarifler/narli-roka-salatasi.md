@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Roka, nar, ceviz ve beyaz peynir; nar ekşili sosla.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 10
 cook: 0
@@ -52,6 +52,13 @@ ingredients:
   - a: 1
     u: tutam
     n: tuz
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Hazırla
   d: Rokayı yıka, kurula ve iri doğra.

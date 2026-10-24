@@ -5,6 +5,7 @@ desc: Buğday, nohut, fasulye, kuru meyveler ve cevizle bereket tatlısı.
 cats:
 - tatli
 - vegan
+- kis-yemekleri
 lvl: Orta
 prep: 30
 cook: 90
@@ -67,6 +68,17 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: fındık
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Fındık
+  y: Ceviz ya da badem.
+- n: Dövme buğday
+  y: Aşurelik buğday ya da iri bulgur (ıslatmaya gerek yok).
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Kuru fasulye
+  y: Konserve haşlanmış fasulye; pişirme süresini yarıya indir.
 steps:
 - t: Buğdayı pişir
   d: Islanmış buğdayı suyla yumuşayıp nişastasını salana kadar pişir.

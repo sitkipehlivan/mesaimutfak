@@ -6,6 +6,7 @@ cats:
 - salata
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 20
@@ -53,6 +54,11 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: kimyon
+subs:
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Patatesleri haşla
   d: Patatesleri kabuklarıyla yumuşayana kadar haşla.

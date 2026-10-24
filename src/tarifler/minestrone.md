@@ -6,6 +6,7 @@ cats:
 - dunya
 - corba
 - vegan
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 35
@@ -66,6 +67,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: kekik
+subs:
+- n: Makarna
+  y: Tam buğday ya da glutensiz makarna; haşlama süresine paketten bak.
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Kuru fasulye
+  y: Konserve haşlanmış fasulye; pişirme süresini yarıya indir.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Sebzeleri soldur
   d: Zeytinyağında soğan, havuç, kereviz ve sarımsağı 5 dakika çevir.

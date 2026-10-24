@@ -4,10 +4,10 @@ date: '2026-10-22'
 desc: Nohut, tahin, limon ve sarımsakla pürüzsüz humus.
 cats:
 - salata
+- dunya
+- hizli
 - vegan
 - glutensiz
-- hizli
-- dunya
 lvl: Kolay
 prep: 10
 cook: 0
@@ -56,6 +56,13 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: tatlı toz biber
+subs:
+- n: Tahin
+  y: Sade fıstık ezmesi.
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Nohutu hazırla
   d: Haşlanmış nohutları ılıkken kullan; zamanın varsa kabuklarını soy.

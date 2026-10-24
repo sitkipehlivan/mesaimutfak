@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 30
@@ -51,6 +52,9 @@ ingredients:
   - a: 0.5
     u: adet
     n: limonun suyu
+subs:
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Pırasayı doğra
   d: Pırasaları yıkayıp 2 cm’lik halkalar halinde, havuçları halka doğra.

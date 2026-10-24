@@ -74,6 +74,17 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Taze zencefil
+  y: Dörtte bir ölçü toz zencefil.
+- n: Garam masala
+  y: Eşit ölçü kimyon ve kişniş tohumu, birer tutam tarçın, karanfil ve karabiber.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Marine et
   d: Tavuğu marinasyon malzemeleriyle karıştırıp en az 30 dakika beklet.

@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Didiklenmiş etli, yoğurt ve yumurtayla terbiye edilen, tereyağlı nane soslu çorba.
 cats:
 - corba
+- kis-yemekleri
 lvl: Orta
 prep: 15
 cook: 90
@@ -59,6 +60,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: kuru nane
+subs:
+- n: Yumurta sarısı
+  y: 'Terbiyede yumurtasız da olur: bir yemek kaşığı daha un ya da nişasta ekle.'
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
 steps:
 - t: Eti haşla
   d: Eti tuzlu suda köpüğünü alarak yumuşayana kadar haşla. Eti çıkarıp didikle, suyunu süz.

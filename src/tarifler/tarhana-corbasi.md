@@ -5,6 +5,7 @@ desc: Ev tarhanasıyla, tereyağlı salçalı ekşi-tatlı çorba.
 cats:
 - corba
 - vegan
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 15
@@ -46,6 +47,9 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Tarhanayı ıslat
   d: Tarhanayı 1 su bardağı ılık suda 10 dakika beklet.

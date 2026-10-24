@@ -6,6 +6,7 @@ cats:
 - ana
 - firin
 - glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 180
@@ -66,6 +67,15 @@ ingredients:
   - a: 2
     u: su bardağı
     n: sıcak su
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: İncikleri mühürle
   d: İncikleri tuz-karabiberle ov, yağda her yüzü kızarana kadar mühürle.

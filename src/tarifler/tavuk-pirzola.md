@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Yoğurtlu marinasyonla yumuşayan, döküm tavada kızaran tavuk pirzola.
 cats:
 - ana
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 15
@@ -54,6 +55,11 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: kekik
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
 steps:
 - t: Marine et
   d: Tüm sos malzemelerini karıştır, tavukları sosla ov. En az 15 dakika, mümkünse 2 saat buzdolabında beklet.

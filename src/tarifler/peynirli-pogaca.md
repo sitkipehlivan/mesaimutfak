@@ -67,6 +67,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: çörek otu
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Un
+  y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+- n: Kabartma tozu
+  y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
 steps:
 - t: Hamuru yoğur
   d: Süt, yağ, yoğurt, yumurta beyazı, tuz, şeker ve kabartma tozunu karıştır. Unu azar azar ekleyip ele yapışmayan yumuşak bir hamur yoğur.

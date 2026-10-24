@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 45
@@ -47,6 +48,11 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Fasulyeyi ayıkla
   d: Fasulyelerin uçlarını ve kenar liflerini al, ikiye ya da üçe kır.

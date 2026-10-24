@@ -5,8 +5,8 @@ desc: Domates, biber ve kaşarla küçük güveçlerde fırınlanan karides.
 cats:
 - arasicak
 - firin
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 10
 cook: 20
@@ -61,6 +61,15 @@ ingredients:
   - a: 100
     u: g
     n: rendelenmiş kaşar
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Sotele
   d: Tereyağı ve zeytinyağında sarımsak ve biberleri 3 dakika çevir, domatesi ekle.

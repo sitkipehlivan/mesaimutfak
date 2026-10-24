@@ -72,6 +72,17 @@ ingredients:
   - a: 200
     u: ml
     n: sıvı krema
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Bitter çikolata
+  y: Sütlü çikolata (tatlılığı artar) ya da her 30 g için 3 yemek kaşığı kakao ve 1 yemek kaşığı tereyağı.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 steps:
 - t: Hamuru pişir
   d: Su, tereyağı ve tuzu kaynat. Unu bir anda ekleyip hamur tencerenin kenarından ayrılana kadar karıştır, soğut.

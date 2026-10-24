@@ -45,6 +45,11 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: çörek otu
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 steps:
 - t: Harç
   d: Peyniri ez, maydanoz ve yumurta beyazıyla karıştır; sarıyı ayır.

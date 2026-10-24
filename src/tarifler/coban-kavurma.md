@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Kuşbaşı et, biber, domates ve soğanla yüksek ateşte tavada kavurma.
 cats:
 - ana
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 15
 cook: 25
@@ -57,6 +57,17 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: kekik
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Eti mühürle
   d: Geniş tavayı çok iyi ısıt, zeytinyağında eti iki parti hâlinde, suyunu çekip kızarana kadar kavur.

@@ -43,6 +43,13 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: Antep fıstığı, toz
+subs:
+- n: Antep fıstığı
+  y: Ceviz ya da fındık.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Şerbet
   d: Şeker ve suyu 10 dakika kaynat, limonu ekle.

@@ -182,6 +182,30 @@
       ],
       "seoTitle": "Sağlıklı Tatlı Tarifleri",
       "intro": "Sağlıklı tatlı tarifleri: rafine şekersiz chia bowl’lar, meyveli kaseler ve hafif tatlılar. Bali kafelerinden ilham alan tarifler."
+    },
+    {
+      "k": "kis-yemekleri",
+      "l": "Kış Yemekleri",
+      "s": "Havalar soğuyor: şifa niyetine tarifler",
+      "art": [
+        "tomato",
+        "sun",
+        "onion"
+      ],
+      "seoTitle": "Kış Yemekleri Tarifleri",
+      "intro": "Havalar soğuyor, şifa niyetine tarifler sırada. İçi ısıtan çorbalar, tencerede ağır ağır pişen kuru baklagiller, güveçler, mevsim sebzeleri ve hamsiden palamuta kış balıkları. Ayva, kabak ve portakalla da kışın tatlı hali."
+    },
+    {
+      "k": "yaz-yemekleri",
+      "l": "Yaz Yemekleri",
+      "s": "Sıcakta hafif, serin ve ferah tarifler",
+      "art": [
+        "leaf",
+        "tomato",
+        "sun"
+      ],
+      "seoTitle": "Yaz Yemekleri Tarifleri",
+      "intro": "Sıcak günlerin hafif sofrası: soğuk servis zeytinyağlılar, patlıcan ve kabakla yaz sebzeleri, ızgaralar, ferah salatalar ve soğuk çorbalar. Tatlı tarafında sütlüler, meyveliler ve ev yapımı dondurma."
     }
   ]
 }

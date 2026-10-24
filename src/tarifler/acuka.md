@@ -57,6 +57,17 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Nar ekşisi
+  y: Limon suyu ve bir tatlı kaşığı bal ya da pekmez.
+- n: Galeta unu
+  y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
 steps:
 - t: Karıştır
   d: Tüm malzemeleri bir kapta kaşıkla iyice karıştır; kıvamı sürülebilir olmalı.

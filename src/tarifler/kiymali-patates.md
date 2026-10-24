@@ -56,6 +56,13 @@ ingredients:
   - a: 2
     u: su bardağı
     n: sıcak su
+subs:
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Yağda soğanı ve biberi yumuşat, kıymayı ekleyip suyunu çekene kadar kavur. Salçayı ekle.

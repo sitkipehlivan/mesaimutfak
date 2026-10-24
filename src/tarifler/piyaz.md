@@ -4,9 +4,9 @@ date: '2026-10-22'
 desc: Kuru fasulye, soğan, maydanoz ve tahinli ya da sirkeli sosla.
 cats:
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
 lvl: Kolay
 prep: 15
 cook: 0
@@ -62,6 +62,15 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Tahin
+  y: Sade fıstık ezmesi.
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Kuru fasulye
+  y: Konserve haşlanmış fasulye; pişirme süresini yarıya indir.
 steps:
 - t: Fasulyeyi hazırla
   d: Haşlanmış fasulyeyi süzüp kurula.

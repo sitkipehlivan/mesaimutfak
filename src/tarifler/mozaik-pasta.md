@@ -46,6 +46,17 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: fındık (isteğe bağlı)
+subs:
+- n: Kakao
+  y: Aynı ölçü keçiboynuzu (harnup) tozu; tadı daha tatlı ve hafif karamelli olur.
+- n: Bisküvi
+  y: Petibör, yulaflı ya da bebe bisküvisi birbirinin yerine geçer.
+- n: Fındık
+  y: Ceviz ya da badem.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Sosu pişir
   d: Tereyağı, şeker, süt ve kakaoyu kısık ateşte şeker eriyene kadar karıştır, kaynatma. Vanilini ekle, ılıt.

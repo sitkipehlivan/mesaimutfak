@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Ev eriştesi, yeşil mercimek ve naneyle; ninelerin kesme aşı.
 cats:
 - corba
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 40
@@ -63,6 +64,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: kuru nane
+subs:
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Yeşil mercimek
+  y: Kahverengi ya da beluga mercimek.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Kesmeyi yap
   d: Un, yumurta, tuz ve suyla sert bir hamur yoğur, ince açıp 20 dakika kurumaya bırak. Rulo yapıp kibrit çöpü inceliğinde kes.

@@ -5,6 +5,7 @@ desc: Bol soğan, sirke ve baharatla pişen, sulu ve ekşimtırak bir İstanbul 
 cats:
 - ana
 - glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 90
@@ -62,6 +63,17 @@ ingredients:
   - a: 2
     u: su bardağı
     n: sıcak su
+subs:
+- n: Sirke
+  y: Yarı ölçü limon suyu.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Eti kavur
   d: Tereyağında eti suyunu çekene kadar kavur.

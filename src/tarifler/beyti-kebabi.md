@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Lavaşa sarılıp dilimlenen köfte, üzerinde domates sosu, tereyağı ve yoğurt.
 cats:
 - ana
+- yaz-yemekleri
 lvl: Orta
 prep: 30
 cook: 25
@@ -66,6 +67,17 @@ ingredients:
   - a: 1
     u: diş
     n: sarımsak
+subs:
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 steps:
 - t: Kıymayı yoğur
   d: Soğanın suyunu sık, kıymayı soğan, ezilmiş sarımsak ve baharatlarla 5 dakika yoğur, 30 dakika buzdolabında dinlendir.

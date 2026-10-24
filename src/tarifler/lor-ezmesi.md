@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Lor peyniri, yeşillik ve zeytinyağıyla hafif kahvaltılık.
 cats:
 - kahvalti
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 10
 cook: 0
@@ -50,6 +50,11 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Karıştır
   d: Loru yoğurtla ez, ince doğranmış yeşillikleri ekle.

@@ -47,6 +47,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Kavur
   d: Tereyağında havucu çevir, kuskusu ekleyip 3-4 dakika kavur.

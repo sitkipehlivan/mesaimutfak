@@ -5,6 +5,7 @@ desc: Tereyağında kavrulan unla, beş dakikada hazırlanan eski usul çorba.
 cats:
 - corba
 - hizli
+- kis-yemekleri
 lvl: Kolay
 prep: 5
 cook: 15
@@ -47,6 +48,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Unu kavur
   d: Tereyağını erit, unu ekleyip sürekli karıştırarak hafif kızarana ve fındık gibi kokana kadar kavur.

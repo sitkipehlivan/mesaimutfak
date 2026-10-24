@@ -4,8 +4,10 @@ date: '2026-10-22'
 desc: Ceviz ve balla doldurulup fırınlanan, mis kokulu elmalar.
 cats:
 - tatli
-- saglikli
+- firin
 - glutensiz
+- saglikli
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 30
@@ -45,6 +47,11 @@ ingredients:
   - a: 0.5
     u: su bardağı
     n: su
+subs:
+- n: Bal
+  y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
+- n: Ceviz
+  y: Fındık ya da badem.
 steps:
 - t: Elmaları oy
   d: Elmaların çekirdek yuvalarını üstten oy, altını delmeden bırak.

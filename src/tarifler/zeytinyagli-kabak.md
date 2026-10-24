@@ -4,9 +4,10 @@ date: '2026-10-22'
 desc: Kabak, soğan ve az pirinçle pişen, dereotlu zeytinyağlı.
 cats:
 - zeytinyagli
+- hizli
 - vegan
 - glutensiz
-- hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -55,6 +56,13 @@ ingredients:
   - a: 0.5
     u: demet
     n: dereotu
+subs:
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Kavur
   d: Zeytinyağında soğanı yumuşat, rendelenmiş domatesi ekle.

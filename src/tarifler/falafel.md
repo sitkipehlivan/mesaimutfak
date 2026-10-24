@@ -4,9 +4,9 @@ date: '2026-10-22'
 desc: Kuru nohut, maydanoz ve baharatlarla çıtır falafel.
 cats:
 - arasicak
+- dunya
 - vegan
 - glutensiz
-- dunya
 lvl: Orta
 prep: 20
 cook: 15
@@ -72,6 +72,17 @@ ingredients:
   - a: 1
     u: tutam
     n: tuz
+subs:
+- n: Tahin
+  y: Sade fıstık ezmesi.
+- n: Taze kişniş
+  y: Maydanoz ve biraz limon kabuğu rendesi.
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Çek
   d: Islanmış ama pişmemiş nohutları süz. Soğan, sarımsak, yeşillikler ve baharatlarla robotta iri kum kıvamına gelene kadar çek.

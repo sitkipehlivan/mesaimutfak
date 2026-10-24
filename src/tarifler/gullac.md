@@ -48,6 +48,15 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: antep fıstığı
+subs:
+- n: Antep fıstığı
+  y: Ceviz ya da fındık.
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Sütü hazırla
   d: Süt ve şekeri şeker eriyene kadar ılıt; kaynatma. Gül suyunu ekle.

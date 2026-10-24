@@ -39,6 +39,9 @@ ingredients:
   - a: 1
     u: tutam
     n: pul biber
+subs:
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Sucuğu dilimle
   d: Sucuğun zarını soy, ince dilimle.

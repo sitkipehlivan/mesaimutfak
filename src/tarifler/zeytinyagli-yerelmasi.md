@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 20
 cook: 30
@@ -56,6 +57,15 @@ ingredients:
   - a: 0.5
     u: demet
     n: dereotu
+subs:
+- n: Portakal suyu
+  y: Mandalina suyu.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Soy
   d: Yer elmalarını soyup iri doğra, limonlu suya at.

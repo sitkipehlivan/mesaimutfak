@@ -6,6 +6,7 @@ cats:
 - dunya
 - ana
 - glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 90
@@ -66,6 +67,17 @@ ingredients:
   - a: 2
     u: adet
     n: defne yaprağı
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
 steps:
 - t: Soğan
   d: Yağda doğranmış soğanları altın rengi olana kadar kavur.

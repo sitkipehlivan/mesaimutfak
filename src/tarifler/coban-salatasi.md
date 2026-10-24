@@ -4,9 +4,10 @@ date: '2026-10-22'
 desc: Domates, salatalık, biber, soğan; limon ve zeytinyağıyla.
 cats:
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -54,6 +55,11 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: sumak
+subs:
+- n: Sumak
+  y: Biraz limon kabuğu rendesi ve limon suyu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Doğra
   d: Domates, salatalık ve biberi küçük küp doğra.

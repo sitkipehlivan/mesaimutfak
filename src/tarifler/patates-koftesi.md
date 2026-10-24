@@ -55,6 +55,13 @@ ingredients:
   - a: 2
     u: su bardağı
     n: kızartma yağı
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Galeta unu
+  y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
 steps:
 - t: Harcı hazırla
   d: Patatesi ez, yumurta, kaşar, yeşillikler ve baharatlarla yoğur.

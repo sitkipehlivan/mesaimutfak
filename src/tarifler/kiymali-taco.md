@@ -71,6 +71,17 @@ ingredients:
   - a: 1
     u: adet
     n: misket limonu
+subs:
+- n: Ekşi krema
+  y: Süzme yoğurt ve bir tatlı kaşığı limon suyu.
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Misket limonu
+  y: Limon.
+- n: Tortilla
+  y: Lavaş.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
 steps:
 - t: Kıyma
   d: Soğan ve sarımsağı kavur, kıymayı ekle, baharat ve salçayla suyunu çekene kadar pişir.

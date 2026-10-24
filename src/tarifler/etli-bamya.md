@@ -5,6 +5,7 @@ desc: Limonla ekşitilen, domatesli ve kuşbaşı etli bamya yemeği.
 cats:
 - ana
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 25
 cook: 50
@@ -52,6 +53,17 @@ ingredients:
   - a: 2
     u: su bardağı
     n: sıcak su
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Bamyayı ayıkla
   d: Bamyaların başlarını bir külah gibi, içini açmadan ince ince yontarak temizle. Limonlu sirkeli suda 15 dakika beklet.

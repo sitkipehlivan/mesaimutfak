@@ -5,6 +5,7 @@ desc: Erişte ya da bulgurla zenginleşen, naneli ve doyurucu köy çorbası.
 cats:
 - corba
 - vegan
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 40
@@ -56,6 +57,13 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: pul biber
+subs:
+- n: Bulgur
+  y: Glutensiz için kinoa; suyu aynı oranda.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Mercimeği ön haşla
   d: Mercimeği yıkayıp 10 dakika kaynat, süz.

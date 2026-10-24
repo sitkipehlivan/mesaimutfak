@@ -5,7 +5,6 @@ desc: Tepside köfteler ve baharatlı patatesler; hazırlaması 15 dakika.
 cats:
 - ana
 - firin
-- hizli
 lvl: Kolay
 prep: 15
 cook: 35
@@ -59,6 +58,13 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: tuz (patates için)
+subs:
+- n: Galeta unu
+  y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Köfteyi yoğur
   d: Kıyma, soğan, galeta unu ve baharatları yoğur, ceviz büyüklüğünde köfteler yap.

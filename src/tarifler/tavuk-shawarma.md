@@ -78,6 +78,15 @@ ingredients:
   - a: 2
     u: adet
     n: domates
+subs:
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Marine et
   d: Tavukları marinasyon malzemeleriyle en az 1 saat beklet.

@@ -68,6 +68,17 @@ ingredients:
   - a: 0.5
     u: demet
     n: dereotu
+subs:
+- n: Dolmalık fıstık
+  y: İri kıyılmış badem ya da kaju.
+- n: Kuş üzümü
+  y: Kıyılmış kuru üzüm ya da kuru kızılcık.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Kuzu eti
+  y: Dana eti; pişirme süresi benzer.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
 steps:
 - t: Pirinci ıslat
   d: Pirinci ılık tuzlu suda 20 dakika beklet, yıkayıp süz.

@@ -5,6 +5,7 @@ desc: Şerbette yumuşayan kuru kayısının içinde kaymak, üzerinde fıstık.
 cats:
 - tatli
 - glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 20
 cook: 25
@@ -44,6 +45,13 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: Antep fıstığı, toz
+subs:
+- n: Antep fıstığı
+  y: Ceviz ya da fındık.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Kayısıyı ıslat
   d: Kayısıları birkaç saat ya da bir gece suda beklet.

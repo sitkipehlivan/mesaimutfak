@@ -75,6 +75,17 @@ ingredients:
   - a: 0.5
     u: demet
     n: maydanoz
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Yenibahar
+  y: Bir tutam tarçın ve bir tutam karanfil.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kıyma
+  y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 steps:
 - t: Bulguru ıslat
   d: Bulgur ve irmiği sıcak suyla karıştır, kapağı kapalı beklet.

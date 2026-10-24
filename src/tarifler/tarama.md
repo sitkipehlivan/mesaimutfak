@@ -43,6 +43,13 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: zeytinyağı
+subs:
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Ekmeği ıslat
   d: Ekmek içini suda ıslatıp iyice sık.

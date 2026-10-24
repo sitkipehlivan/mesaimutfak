@@ -74,6 +74,17 @@ ingredients:
   - a: 4
     u: adet
     n: lavaş (glutensiz tüketeceksen pilav ya da közlenmiş sebzeyle)
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Lavaş
+  y: Tortilla ya da yufka.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
 steps:
 - t: Eti kavur
   d: Saç, döküm tava ya da geniş bir wok’u yüksek ateşte iyice ısıt. Zeytinyağını ekleyip eti koy, karıştırmadan 2 dakika mühürle. Sonra salıp çektiği suyu tamamen buharlaşana kadar kavur.

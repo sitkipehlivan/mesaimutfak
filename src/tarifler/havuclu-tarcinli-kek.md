@@ -5,6 +5,7 @@ desc: Havuç, ceviz ve tarçınla nemli, kokulu kek.
 cats:
 - tatli
 - firin
+- kis-yemekleri
 lvl: Kolay
 prep: 20
 cook: 45
@@ -57,6 +58,17 @@ ingredients:
   - a: 1
     u: tutam
     n: tuz
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+- n: Un
+  y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+- n: Kabartma tozu
+  y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: Çırp
   d: Yumurta ve şekeri köpürene kadar çırp, yağı ekle.

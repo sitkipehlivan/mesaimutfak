@@ -6,6 +6,7 @@ cats:
 - zeytinyagli
 - vegan
 - glutensiz
+- yaz-yemekleri
 lvl: Zor
 prep: 40
 cook: 30
@@ -63,6 +64,17 @@ ingredients:
   - a: 0.5
     u: adet
     n: limon suyu
+subs:
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Çiçekleri hazırla
   d: Çiçeklerin içindeki erkek organı ve dıştaki yeşil yaprakçıkları nazikçe ayıkla. Yıkama, nemli bezle sil.

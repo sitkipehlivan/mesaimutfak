@@ -5,9 +5,10 @@ desc: Avokado, misket limonu, domates ve kişnişle Meksika sosu.
 cats:
 - dunya
 - salata
+- hizli
 - vegan
 - glutensiz
-- hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -50,6 +51,11 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Misket limonu
+  y: Limon.
+- n: Taze kişniş
+  y: Maydanoz ve biraz limon kabuğu rendesi.
 steps:
 - t: Ez
   d: Avokadoları çatalla iri parçalı olacak şekilde ez, limonu hemen ekle.

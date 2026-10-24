@@ -68,6 +68,17 @@ ingredients:
   - a: 1
     u: tutam
     n: muskat
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Ispanak
+  y: Pazı.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
 steps:
 - t: Hamur
   d: Unu ve soğuk tereyağını kum gibi ufala, yumurta, tuz ve suyla topla. 30 dakika buzdolabında dinlendir.

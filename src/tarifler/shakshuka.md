@@ -5,8 +5,8 @@ desc: Baharatlı domates ve biber sosunda pişen yumurtalar; Kuzey Afrika kahval
 cats:
 - dunya
 - kahvalti
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 10
 cook: 20
@@ -63,6 +63,15 @@ ingredients:
   - a: 0.25
     u: demet
     n: maydanoz
+subs:
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
+- n: Domates
+  y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
 steps:
 - t: Sos
   d: Zeytinyağında soğan ve biberi yumuşat, sarımsak ve baharatları 1 dakika çevir. Domatesi ekleyip koyulaşana kadar 10 dakika pişir.

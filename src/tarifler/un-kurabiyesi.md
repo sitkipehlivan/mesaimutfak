@@ -46,6 +46,15 @@ ingredients:
   - a: 3
     u: yemek kaşığı
     n: pudra şekeri
+subs:
+- n: Pudra şekeri
+  y: Toz şekeri blenderda 1 dakika çekerek kendin yapabilirsin.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Çırp
   d: Tereyağı ve pudra şekerini krema kıvamına gelene kadar çırp.

@@ -4,9 +4,10 @@ date: '2026-10-22'
 desc: Sarımsaklı domates sosu, taze fesleğen ve parmesan; 20 dakikada.
 cats:
 - ana
+- dunya
 - hizli
 - vegan
-- dunya
+- yaz-yemekleri
 lvl: Kolay
 prep: 5
 cook: 15
@@ -55,6 +56,9 @@ ingredients:
   - a: 30
     u: g
     n: parmesan (vegan için atla)
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
 steps:
 - t: Makarnayı haşla
   d: Bol tuzlu suda makarnayı haşla, yarım bardak suyunu ayır.

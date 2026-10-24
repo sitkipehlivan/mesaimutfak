@@ -57,6 +57,17 @@ ingredients:
   - a: 0.25
     u: demet
     n: dereotu
+subs:
+- n: Mayonez
+  y: Süzme yoğurt; daha hafif olur.
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Haşla
   d: Patates ve havucu küp doğrayıp haşla, son 3 dakikada bezelyeyi ekle. Süzüp soğut.

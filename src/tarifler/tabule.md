@@ -5,8 +5,9 @@ desc: Bol maydanoz, az bulgur, limon ve naneyle Lübnan salatası.
 cats:
 - dunya
 - salata
-- vegan
 - hizli
+- vegan
+- yaz-yemekleri
 lvl: Kolay
 prep: 20
 cook: 0
@@ -51,6 +52,11 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Köftelik bulgur
+  y: Glutensiz için ince kinoa.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Bulguru ıslat
   d: Bulguru limon suyu ve doğranmış domatesin suyuyla 10 dakika ıslat.

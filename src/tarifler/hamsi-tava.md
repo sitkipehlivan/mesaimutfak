@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Mısır ununa bulanıp tavada çıtır çıtır kızartılan Karadeniz hamsisi.
 cats:
 - ana
-- glutensiz
 - hizli
+- glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 20
 cook: 10
@@ -50,6 +51,15 @@ ingredients:
   - a: 0.5
     u: demet
     n: roka
+subs:
+- n: Mısır unu
+  y: İnce irmik ya da un; glutensiz olması gerekiyorsa pirinç unu.
+- n: Roka
+  y: Tere ya da semizotu.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Hamsiyi temizle
   d: Hamsilerin başını kopar, karnından açıp kılçığı çıkararak kelebek gibi aç ya da bütün bırak. Yıkayıp süzgece al.

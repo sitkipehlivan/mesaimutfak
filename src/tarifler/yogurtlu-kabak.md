@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Rendelenmiş ve sotelenmiş kabak, sarımsaklı yoğurt ve dereotuyla.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 8
@@ -44,6 +45,11 @@ ingredients:
   - a: 0.25
     u: demet
     n: dereotu
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Kabakları sotele
   d: Kabakları rendele, suyunu sık. Zeytinyağında suyunu çekene kadar 6-8 dakika sotele, soğut.

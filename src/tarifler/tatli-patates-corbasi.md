@@ -6,6 +6,7 @@ cats:
 - corba
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -68,6 +69,15 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Hindistan cevizi sütü
+  y: Vegan değilse krema; vegan için bir avuç kajuyu bir su bardağı suyla blenderdan geçir.
+- n: Taze zencefil
+  y: Dörtte bir ölçü toz zencefil.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Soğanı kavur
   d: Zeytinyağında doğranmış soğanı yumuşayana kadar kavur, sarımsak, zencefil ve kimyonu ekleyip 1 dakika çevir.

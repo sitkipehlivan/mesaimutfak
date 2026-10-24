@@ -6,6 +6,7 @@ cats:
 - corba
 - hizli
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 20
@@ -54,6 +55,13 @@ ingredients:
   - a: 50
     u: g
     n: kaşar rendesi
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 steps:
 - t: Domatesleri hazırla
   d: Domatesleri kabuklarını soyup rendele.

@@ -3,9 +3,11 @@ title: Zeytinyağlı kuru fasulye
 date: '2026-10-10'
 desc: Etsiz, bol soğanlı, ertesi gün daha güzel.
 cats:
+- zeytinyagli
 - ana
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 60
@@ -54,6 +56,13 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Fasulyeyi ıslat
   d: Fasulyeleri bir gece önceden bol suda ıslat.

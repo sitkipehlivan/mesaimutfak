@@ -5,6 +5,7 @@ desc: Kuru incirin sütle kendi kendine pıhtılaştığı, cevizli eski usul ta
 cats:
 - tatli
 - glutensiz
+- yaz-yemekleri
 lvl: Orta
 prep: 20
 cook: 40
@@ -41,6 +42,13 @@ ingredients:
   - a: 2
     u: su bardağı
     n: süt (servis için, isteğe bağlı)
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Toz şeker
+  y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 steps:
 - t: İncirleri haşla
   d: İncirlerin saplarını kes, sıcak suda 10 dakika beklet.

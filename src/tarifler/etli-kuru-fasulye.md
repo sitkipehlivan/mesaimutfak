@@ -5,6 +5,7 @@ desc: 'Bir gece ıslatılan fasulye, kuşbaşı et ve tereyağlı salça: pilav�
 cats:
 - ana
 - glutensiz
+- kis-yemekleri
 lvl: Orta
 prep: 20
 cook: 90
@@ -59,6 +60,17 @@ ingredients:
   - a: 5
     u: su bardağı
     n: sıcak su
+subs:
+- n: Dana eti
+  y: Kuzu eti ya da tavuk but (tavukta süreyi yarıya indir).
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Domates salçası
+  y: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates; pişirme süresini 5 dakika uzat.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 steps:
 - t: Fasulyeyi haşla
   d: Islattığın fasulyenin suyunu dök, bol suda 10 dakika kaynatıp süz. Bu ilk haşlama hem pişmeyi hızlandırır hem de şişkinlik yapmasını azaltır.

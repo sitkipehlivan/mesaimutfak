@@ -6,6 +6,7 @@ cats:
 - dunya
 - ana
 - hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 10
@@ -48,6 +49,11 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: tuz
+subs:
+- n: Parmesan
+  y: Eski kaşar ya da kuru tulum peyniri; ince rendele.
+- n: Ceviz
+  y: Fındık ya da badem.
 steps:
 - t: Pesto
   d: Fesleğen, fıstık, sarımsak, peynir ve tuzu rondoda çek, zeytinyağını yavaş yavaş ekleyerek koyu bir sos yap.

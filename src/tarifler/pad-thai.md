@@ -67,6 +67,17 @@ ingredients:
   - a: 1
     u: tatlı kaşığı
     n: acı sos (sriracha)
+subs:
+- n: Misket limonu
+  y: Limon.
+- n: Soya sosu
+  y: Glutensiz tüketiyorsan tamari; yoksa biraz tuz ve bir kaşık pekmez.
+- n: Tavuk göğsü
+  y: Tavuk but; daha sulu kalır.
+- n: Erişte
+  y: Fettuccine ya da tagliatelle; glutensiz için pirinç eriştesi.
+- n: Yumurta
+  y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
 steps:
 - t: Erişte
   d: Erişteyi paketteki gibi sıcak suda yumuşayana kadar beklet, süz.

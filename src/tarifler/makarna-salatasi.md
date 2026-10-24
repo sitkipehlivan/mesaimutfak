@@ -5,6 +5,7 @@ desc: Burgu makarna, mısır, turşu ve yoğurtlu mayonezli sosla.
 cats:
 - salata
 - hizli
+- yaz-yemekleri
 lvl: Kolay
 prep: 15
 cook: 10
@@ -54,6 +55,13 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: tuz
+subs:
+- n: Mayonez
+  y: Süzme yoğurt; daha hafif olur.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Makarnayı haşla
   d: Makarnayı haşla, soğuk sudan geçirip süz.

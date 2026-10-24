@@ -5,9 +5,9 @@ desc: Elma dilim patatesler, toz biber ve kekikle fırında çıtır.
 cats:
 - arasicak
 - firin
+- hizli
 - vegan
 - glutensiz
-- hizli
 lvl: Kolay
 prep: 10
 cook: 30
@@ -50,6 +50,11 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: karabiber
+subs:
+- n: Patates
+  y: Tatlı patates ya da kereviz kökü; dilimleri aynı kalınlıkta kes, süre benzer.
+- n: Zeytinyağı
+  y: Ayçiçek ya da mısırözü yağı; fırında daha çıtır yapar.
 steps:
 - t: Kes
   d: Patatesleri kabuklarıyla elma dilimi kes, soğuk suda 10 dakika bekletip kurula.

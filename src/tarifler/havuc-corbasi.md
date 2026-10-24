@@ -6,6 +6,7 @@ cats:
 - corba
 - vegan
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 25
@@ -54,6 +55,13 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: kimyon
+subs:
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Portakal suyu
+  y: Mandalina suyu.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Zeytinyağında soğan ve rendelenmiş zencefili 3 dakika çevir.

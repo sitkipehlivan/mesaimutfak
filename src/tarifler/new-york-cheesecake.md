@@ -61,6 +61,17 @@ ingredients:
   - a: 1
     u: su bardağı
     n: frambuaz ya da vişne sosu
+subs:
+- n: Krem peynir
+  y: Labne birebir olur. Cheesecake’te yarısı yerine süzme yoğurt kullanabilirsin; doku biraz daha hafif çıkar.
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Yulaf ezmesi
+  y: Glutensiz yulaf; ya da kinoa gevreği.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 steps:
 - t: Taban
   d: Bisküviyi ufala, tereyağıyla karıştırıp 24 cm kelepçeli kalıbın dibine bastır. 10 dakika buzdolabında beklet.

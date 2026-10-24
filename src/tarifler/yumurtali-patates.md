@@ -4,8 +4,8 @@ date: '2026-10-22'
 desc: Küp patates tavada kızarıp üzerine yumurta kırılarak pişer.
 cats:
 - kahvalti
-- glutensiz
 - hizli
+- glutensiz
 lvl: Kolay
 prep: 5
 cook: 20
@@ -48,6 +48,9 @@ ingredients:
   - a: 0.5
     u: tatlı kaşığı
     n: kekik
+subs:
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Patatesi kızart
   d: Zeytinyağında patatesleri kapağı kapalı, ara ara çevirerek yumuşayıp kızarana kadar pişir.

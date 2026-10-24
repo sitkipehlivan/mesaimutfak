@@ -5,6 +5,7 @@ desc: Zencefil ve kremayla kadifemsi, turuncu balkabağı çorbası.
 cats:
 - corba
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 15
 cook: 25
@@ -56,6 +57,15 @@ ingredients:
   - a: 2
     u: yemek kaşığı
     n: kabak çekirdeği
+subs:
+- n: Krema
+  y: Tuzlu yemeklerde süzme yoğurt (ocaktan alınca ekle, kaynatma) ya da bir su bardağı süte 2 yemek kaşığı tereyağı. Çırpılacaksa yerine geçecek bir şey yok; bitkisel krema kullanabilirsin.
+- n: Taze zencefil
+  y: Dörtte bir ölçü toz zencefil.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Tereyağında soğan, havuç ve zencefili kavur.

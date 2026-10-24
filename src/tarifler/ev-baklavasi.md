@@ -52,6 +52,17 @@ ingredients:
   - a: 1
     u: su bardağı
     n: nişasta (yufka aralarına)
+subs:
+- n: Ceviz
+  y: Fındık ya da badem.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Ayçiçek yağı
+  y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+- n: Limon
+  y: Misket limonu ya da yarı ölçü elma sirkesi.
 steps:
 - t: Şerbeti hazırla
   d: Su ve şekeri kaynat, limon ekleyip 15 dakika kaynat ve tamamen soğut.

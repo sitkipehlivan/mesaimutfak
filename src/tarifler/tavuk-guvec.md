@@ -6,6 +6,7 @@ cats:
 - ana
 - firin
 - glutensiz
+- kis-yemekleri
 lvl: Kolay
 prep: 20
 cook: 50
@@ -66,6 +67,17 @@ ingredients:
   - a: 100
     u: g
     n: rendelenmiş kaşar
+subs:
+- n: Kaşar
+  y: Mozzarella ya da tost peyniri; eriyen herhangi bir peynir olur.
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Biber salçası
+  y: Domates salçası ve bir tatlı kaşığı pul biber.
+- n: Kapya biber
+  y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Malzemeleri hazırla
   d: Sebzeleri küp, mantarları dörde doğra.

@@ -4,9 +4,9 @@ date: '2026-10-22'
 desc: Havuç, bezelye ve mısırla renkli pirinç pilavı.
 cats:
 - pilav
+- hizli
 - vegan
 - glutensiz
-- hizli
 lvl: Kolay
 prep: 10
 cook: 20
@@ -51,6 +51,11 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: zerdeçal (isteğe bağlı)
+subs:
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
 steps:
 - t: Pirinci yıka
   d: Pirinci yıkayıp süz.

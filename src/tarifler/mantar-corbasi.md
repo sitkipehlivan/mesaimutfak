@@ -5,6 +5,7 @@ desc: Kültür mantarı, sarımsak ve kremayla kadife kıvamında.
 cats:
 - corba
 - hizli
+- kis-yemekleri
 lvl: Kolay
 prep: 10
 cook: 20
@@ -56,6 +57,17 @@ ingredients:
   - a: 0.5
     u: çay kaşığı
     n: kekik
+subs:
+- n: Kültür mantarı
+  y: İstiridye ya da kestane mantarı.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Un
+  y: Glutensiz için aynı ölçü pirinç unu ya da mısır nişastası; çorba kıvamı aynı olur.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
+- n: Kuru soğan
+  y: Arpacık ya da mor soğan; daha tatlı olur.
 steps:
 - t: Kavur
   d: Tereyağında soğan, sarımsak ve dilimlenmiş mantarı suyunu çekene kadar kavur.

@@ -5,6 +5,7 @@ desc: Patatesli, peynirli hamur bohçaları; üzerine kızgın tereyağında so�
 cats:
 - hamurisi
 - ana
+- kis-yemekleri
 lvl: Orta
 prep: 45
 cook: 15
@@ -63,6 +64,17 @@ ingredients:
   - a: 1.5
     u: su bardağı
     n: sarımsaklı yoğurt
+subs:
+- n: Lor peyniri
+  y: Ricotta ya da ezilmiş tuzsuz beyaz peynir.
+- n: Patates
+  y: Tatlı patates; pişirme süresi biraz kısalır.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Yumurta
+  y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 steps:
 - t: Hamur
   d: Un, yumurta, su ve tuzla yumuşak bir hamur yoğur, 20 dakika dinlendir.

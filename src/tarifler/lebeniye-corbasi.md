@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Minik köfteler, nohut ve yoğurtla yapılan Antep usulü sıcak yoğurt çorbası.
 cats:
 - corba
+- kis-yemekleri
 lvl: Orta
 prep: 30
 cook: 30
@@ -68,6 +69,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: kuru nane
+subs:
+- n: Köftelik bulgur
+  y: Glutensiz için ince kinoa.
+- n: Kuru nohut
+  y: Konserve haşlanmış nohut; ıslatma ve haşlama adımını atla.
+- n: Yoğurt
+  y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Et/tavuk suyu
+  y: Sıcak su, bir tatlı kaşığı tereyağı ve bir tutam tuz; ya da yarım bulyon.
 steps:
 - t: Köfteleri yap
   d: Köfte malzemelerini yoğur, nohut büyüklüğünde minik köfteler yuvarla.

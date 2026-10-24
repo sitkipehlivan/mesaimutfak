@@ -4,8 +4,9 @@ date: '2026-10-22'
 desc: Süzme yoğurt, beyaz peynir, sarımsak ve dereotuyla koyu meze.
 cats:
 - salata
-- glutensiz
 - hizli
+- glutensiz
+- yaz-yemekleri
 lvl: Kolay
 prep: 10
 cook: 0
@@ -48,6 +49,13 @@ ingredients:
   - a: 1
     u: çay kaşığı
     n: pul biber
+subs:
+- n: Süzme yoğurt
+  y: Normal yoğurdu tülbentte 2 saat süzerek kendin yapabilirsin; ya da labne.
+- n: Beyaz peynir
+  y: Tuzlanmış lor ya da tulum peyniri.
+- n: Dereotu
+  y: Maydanoz ve biraz taze nane.
 steps:
 - t: Peyniri ez
   d: Peyniri çatalla ince ez.

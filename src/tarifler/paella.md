@@ -73,6 +73,17 @@ ingredients:
   - a: 1
     u: adet
     n: limon
+subs:
+- n: Safran
+  y: Renk için bir tutam zerdeçal; aroma aynı olmaz ama göze güzel görünür.
+- n: Tavuk but
+  y: Tavuk göğsü; pişirme süresini biraz kısalt ki kurumasın.
+- n: Karides
+  y: Kalamar halkası ya da kuşbaşı tavuk göğsü.
+- n: Baldo pirinç
+  y: Osmancık pirinç; suyu bir parmak azalt.
+- n: Taze bezelye
+  y: Dondurulmuş bezelye; pişirmenin son 10 dakikasında ekle.
 steps:
 - t: Safran
   d: Safranı sıcak tavuk suyunda demle.

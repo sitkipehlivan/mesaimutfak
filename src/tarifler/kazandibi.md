@@ -51,6 +51,17 @@ ingredients:
   - a: 1
     u: yemek kaşığı
     n: tereyağı
+subs:
+- n: Pudra şekeri
+  y: Toz şekeri blenderda 1 dakika çekerek kendin yapabilirsin.
+- n: Süt
+  y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
+- n: Tereyağı
+  y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+- n: Nişasta
+  y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+- n: Vanilin
+  y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
 steps:
 - t: Muhallebiyi pişir
   d: Süt, şeker, pirinç unu ve nişastayı soğukken çırp. Orta ateşte sürekli karıştırarak koyulaşana kadar pişir. Tereyağı ve vanilini ekle.

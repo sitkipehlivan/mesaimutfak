@@ -42,6 +42,9 @@ ingredients:
   - a: 20
     u: adet
     n: bütün badem (süs için)
+subs:
+- n: Pudra şekeri
+  y: Toz şekeri blenderda 1 dakika çekerek kendin yapabilirsin.
 steps:
 - t: Karıştır
   d: Badem unu ve pudra şekerini karıştır.
