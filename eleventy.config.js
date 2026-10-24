@@ -39,6 +39,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('byAuthor', (list, slug) => (list || []).filter(r => r.data.author === slug || r.data.editor === slug));
   eleventyConfig.addFilter('person', (slug, authors) => ((authors && authors.list) || []).find(a => a.slug === slug));
   // kategori küçük görseli: panelde seçilen tarif, yoksa kategorideki ilk fotoğraflı tarif
+  eleventyConfig.addFilter('catByKey', (k, list) => (list || []).find(c => c.k === k) || {});
   eleventyConfig.addFilter('photoFirst', list => (list || []).slice().sort((x, y) => (y.data.image ? 1 : 0) - (x.data.image ? 1 : 0)));
   eleventyConfig.addFilter('catImg', (k, thumbs, list) => {
     const inCat = (list || []).filter(r => (r.data.cats || []).includes(k) && r.data.image);
@@ -100,6 +101,8 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addGlobalData('preview', PREVIEW);
   const cats = JSON.parse(fs.readFileSync('src/_data/categories.json', 'utf8'));
+  // Ana sayfa "Sana göre": mevsime göre kış/yaz + 3 sabit öneri (site her pazartesi yeniden derlenir)
+  { const m = new Date(Date.now() + 3 * 3600e3).getUTCMonth() + 1; eleventyConfig.addGlobalData('homeDiets', [(m >= 10 || m <= 3) ? 'kis-yemekleri' : 'yaz-yemekleri', 'hizli', 'airfryer', 'vegan']); }
   eleventyConfig.addGlobalData('allcats', [...cats.types, ...cats.diets]);
   eleventyConfig.addWatchTarget('src/_data/');
 
