@@ -16,8 +16,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/yumurtali-ekmek.jpg
+imageAlt: 'Tabakta kızarmış yumurtalı ekmek dilimleri, peynir, domates ve çay'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

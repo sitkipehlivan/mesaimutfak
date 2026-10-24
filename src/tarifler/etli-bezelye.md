@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-bezelye.jpg
+imageAlt: 'Havuç ve patatesli etli bezelye yemeği, yanında pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

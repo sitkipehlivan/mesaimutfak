@@ -15,8 +15,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/sehriyeli-bulgur-pilavi.jpg
+imageAlt: 'Tabakta biberli, şehriyeli bulgur pilavı ve yoğurt'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

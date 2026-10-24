@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-kuru-fasulye.jpg
+imageAlt: 'Güveçte etli kuru fasulye, yanında pirinç pilavı ve turşu'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

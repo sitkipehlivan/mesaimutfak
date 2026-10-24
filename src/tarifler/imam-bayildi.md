@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/imam-bayildi.jpg
+imageAlt: 'Domatesli soğanlı harçla doldurulmuş imam bayıldı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

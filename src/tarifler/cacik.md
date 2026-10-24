@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/cacik.jpg
+imageAlt: 'Kasede zeytinyağı ve naneli cacık'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/mucver.jpg
+imageAlt: 'Tabakta kabak mücveri, yoğurt ve dereotu'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

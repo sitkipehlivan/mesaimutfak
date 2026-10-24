@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-enginar.jpg
+imageAlt: 'Havuç ve bezelyeli zeytinyağlı enginar kalpleri, dereotu ve limon'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

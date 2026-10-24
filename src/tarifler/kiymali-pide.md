@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kiymali-pide.jpg
+imageAlt: 'Ahşap tahtada dilimlenmiş kıymalı pide ve ayran'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

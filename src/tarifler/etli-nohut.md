@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-nohut.jpg
+imageAlt: 'Güveçte etli nohut yemeği, yanında pilav ve turşu'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

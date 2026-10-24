@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-biber-dolmasi.jpg
+imageAlt: 'Domates kapaklı zeytinyağlı biber dolmaları ve limon'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

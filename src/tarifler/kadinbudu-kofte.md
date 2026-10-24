@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kadinbudu-kofte.jpg
+imageAlt: 'Tabakta kızarmış kadınbudu köfteler, biri kesik, yanında patates salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
