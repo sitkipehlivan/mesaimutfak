@@ -638,3 +638,18 @@ body.ck-open{overflow:hidden}
 .af-note{margin:8px 0 16px;background:color-mix(in srgb,var(--sun) 16%,var(--card));border:1.5px solid var(--sun);border-radius:20px;padding:4px 22px 14px}
 .af-note h2{margin:16px 0 6px;font-size:22px}
 .af-note p{margin:0}
+
+/* v12 · haftanın tarifleri slider */
+.hslider{position:relative;min-width:0}
+.hs-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;border-radius:26px;overscroll-behavior-x:contain}
+.hs-track::-webkit-scrollbar{display:none}
+.hs-track:focus-visible{outline:3px solid var(--sun);outline-offset:3px}
+.hs-slide{flex:0 0 100%;scroll-snap-align:start;border-radius:0}
+.feature .h1{display:block;font-family:var(--f-display);font-size:clamp(32px,5vw,64px);line-height:.95;font-weight:800;max-width:16ch}
+.hs-btn{position:absolute;top:40%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;border:0;background:rgba(255,255,255,.9);color:#18201C;font-size:28px;line-height:1;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.18);display:grid;place-items:center;padding:0 0 3px}
+.hs-prev{left:14px}.hs-next{right:14px}
+.hs-btn:hover{background:#fff}
+.hs-dots{position:absolute;right:clamp(18px,3vw,32px);bottom:clamp(18px,3vw,32px);display:flex;gap:6px}
+.hs-dots button{width:9px;height:9px;border-radius:99px;border:0;padding:0;background:rgba(255,255,255,.5);cursor:pointer;transition:width .2s}
+.hs-dots button[aria-current]{width:24px;background:#fff}
+@media (max-width:700px){.hs-btn{display:none}.hs-dots{left:50%;right:auto;transform:translateX(-50%);bottom:10px}.hs-slide .over{padding-bottom:30px}}

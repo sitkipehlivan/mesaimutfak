@@ -5,30 +5,43 @@ isHome: true
 {%- set wk = weekly if (weekly and weekly.hero) else { hero: home.hero.slug, heroEyebrow: home.hero.eyebrow, picks: [], popular: home.popular } -%}
 {%- set heroR = collections.tarifler | bySlug(wk.hero) -%}
 
-{# 1. Haftanın tarifi #}
+{# 1. Haftanın tarifleri: slider, her pazartesi otomatik yenilenir #}
+{%- set slides = [heroR] -%}
+{%- for r in (collections.tarifler | bySlugs(wk.picks)) -%}{%- if loop.index <= 5 -%}{%- set _x = slides.push(r) -%}{%- endif -%}{%- endfor -%}
 <div class="wrap hero-solo hero-ad">
-  <a class="feature" href="{{ heroR.url | link }}">
-    <span class="photo">{% visual { image: heroR.data.image, heroImage: home.hero.heroImage, imageAlt: heroR.data.imageAlt, title: heroR.data.title, art: heroR.data.art }, 'scene', heroR.fileSlug, true %}</span>
-    {% if not (home.hero.heroImage or heroR.data.image) %}<span class="ph-tag">Fotoğraf alanı</span>{% endif %}
-    <span class="over">
-      <span class="eyebrow">{{ wk.heroEyebrow }}</span>
-      <h1>{{ heroR.data.title }}</h1>
-      <span class="meta"><span>{{ heroR.data.prep + heroR.data.cook }} dk</span><span>{{ heroR.data.serv }} kişilik</span><span>{{ heroR.data.lvl }}</span></span>
-    </span>
-  </a>
+  <div class="hslider" id="hslider" aria-roledescription="carousel" aria-label="Haftanın tarifleri">
+    <div class="hs-track" tabindex="0">
+      {% for r in slides %}
+      <a class="feature hs-slide" href="{{ r.url | link }}" aria-roledescription="slide" aria-label="{{ loop.index }} / {{ slides.length }}: {{ r.data.title }}">
+        <span class="photo">{% visual { image: r.data.image, heroImage: (home.hero.heroImage if loop.first else ''), imageAlt: r.data.imageAlt, title: r.data.title, art: r.data.art }, 'scene', r.fileSlug, loop.first %}</span>
+        <span class="over">
+          <span class="eyebrow">{% if loop.first %}{{ wk.heroEyebrow }}{% else %}Haftanın tarifleri · {{ r.data.cats[0] | catLabel(categories) }}{% endif %}</span>
+          {% if loop.first %}<h1>{{ r.data.title }}</h1>{% else %}<span class="h1">{{ r.data.title }}</span>{% endif %}
+          <span class="meta"><span>{{ r.data.prep + r.data.cook }} dk</span><span>{{ r.data.serv }} kişilik</span><span>{{ r.data.lvl }}</span></span>
+        </span>
+      </a>
+      {% endfor %}
+    </div>
+    {% if slides.length > 1 %}
+    <button class="hs-btn hs-prev" type="button" aria-label="Önceki tarif">‹</button>
+    <button class="hs-btn hs-next" type="button" aria-label="Sonraki tarif">›</button>
+    <div class="hs-dots">{% for r in slides %}<button type="button" aria-label="{{ loop.index }}. tarif: {{ r.data.title }}"{% if loop.first %} aria-current="true"{% endif %}></button>{% endfor %}</div>
+    {% endif %}
+  </div>
   {% set slot = 'atf' %}{% include "ad.njk" %}
 </div>
-
-{# Haftanın tarifleri (her pazartesi otomatik yenilenir) #}
-{% set picks = collections.tarifler | bySlugs(wk.picks) %}
-{% if picks.length %}
-<section class="home-sec week-picks">
-  <div class="wrap">
-    <div class="home-head"><h2>Bu haftanın tarifleri</h2><span class="home-sub">Her pazartesi yenilenir · mevsimine göre</span></div>
-    <div class="grid">{% for r in picks %}{% include "card.njk" %}{% endfor %}</div>
-  </div>
-</section>
-{% endif %}
+<script>
+(function(){var root=document.getElementById('hslider');if(!root)return;var tr=root.querySelector('.hs-track'),sl=tr.children,dots=root.querySelectorAll('.hs-dots button'),n=sl.length;if(n<2)return;
+function cur(){return Math.round(tr.scrollLeft/tr.clientWidth)}
+function go(i){i=(i+n)%n;tr.scrollTo({left:i*tr.clientWidth,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}
+root.querySelector('.hs-prev').onclick=function(){go(cur()-1);stop()};root.querySelector('.hs-next').onclick=function(){go(cur()+1);stop()};
+dots.forEach(function(d,i){d.onclick=function(){go(i);stop()}});
+var raf;tr.addEventListener('scroll',function(){cancelAnimationFrame(raf);raf=requestAnimationFrame(function(){var c=cur();dots.forEach(function(d,i){if(i===c)d.setAttribute('aria-current','true');else d.removeAttribute('aria-current')})})},{passive:true});
+tr.addEventListener('keydown',function(e){if(e.key==='ArrowRight'){go(cur()+1);stop()}if(e.key==='ArrowLeft'){go(cur()-1);stop()}});
+var t=null,paused=false;function play(){if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;clearInterval(t);t=setInterval(function(){if(!paused&&!document.hidden)go(cur()+1)},6000)}function stop(){clearInterval(t);t=null}
+root.addEventListener('mouseenter',function(){paused=true});root.addEventListener('mouseleave',function(){paused=false});root.addEventListener('focusin',function(){paused=true});tr.addEventListener('touchstart',stop,{passive:true});
+play()})();
+</script>
 
 {# Arama #}
 <section class="home-search">
