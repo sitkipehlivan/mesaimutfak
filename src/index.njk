@@ -28,7 +28,6 @@ isHome: true
     <div class="hs-dots">{% for r in slides %}<button type="button" aria-label="{{ loop.index }}. tarif: {{ r.data.title }}"{% if loop.first %} aria-current="true"{% endif %}></button>{% endfor %}</div>
     {% endif %}
   </div>
-  {% set slot = 'atf' %}{% include "ad.njk" %}
 </div>
 <script>
 (function(){var root=document.getElementById('hslider');if(!root)return;var tr=root.querySelector('.hs-track'),sl=tr.children,dots=root.querySelectorAll('.hs-dots button'),n=sl.length;if(n<2)return;
@@ -109,6 +108,7 @@ play()})();
     </div>
   </div>
 </section>
+<div class="wrap ad-row">{% set slot = 'leader' %}{% include "ad.njk" %}</div>
 
 {# 6. Hızlı tarifler #}
 <section class="home-sec home-last" id="hizli">

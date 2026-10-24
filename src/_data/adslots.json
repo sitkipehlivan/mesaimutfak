@@ -84,7 +84,7 @@
     ],
     "tablet": [],
     "mobile": [],
-    "minWidth": 1600
+    "minWidth": 1360
   },
   "rail_right": {
     "unit": "rail_right",
@@ -97,7 +97,7 @@
     ],
     "tablet": [],
     "mobile": [],
-    "minWidth": 1600
+    "minWidth": 1360
   },
   "anchor": {
     "unit": "anchor_mobile",
@@ -155,5 +155,27 @@
       ]
     ],
     "minWidth": 360
+  },
+  "leader": {
+    "unit": "leader",
+    "label": "728x90",
+    "desktop": [
+      [
+        728,
+        90
+      ]
+    ],
+    "tablet": [
+      [
+        728,
+        90
+      ]
+    ],
+    "mobile": [
+      [
+        320,
+        100
+      ]
+    ]
   }
 }

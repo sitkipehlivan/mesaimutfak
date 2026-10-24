@@ -672,3 +672,12 @@ body.ck-open{overflow:hidden}
 .grid-ad-feed .ad-slot{width:100%;min-width:0}
 .ad-row-mx{margin-block:8px 40px}
 @media (max-width:400px){.ad-row-mx{padding-inline:0}}
+
+/* v16 · pageskin: 160x600 kenar reklamları için içerik alanı daralır, reklamlar içeriğin hemen yanında sabit durur */
+html.has-rails{--cw:min(1240px,calc(100vw - 400px))}
+html.has-rails .wrap{max-width:var(--cw)}
+html.has-rails .ad-rail_left{right:calc(50% + var(--cw) / 2 + 12px);left:auto}
+html.has-rails .ad-rail_right{left:calc(50% + var(--cw) / 2 + 12px);right:auto}
+.ad-rail_left,.ad-rail_right{top:140px}
+.ad-row-video{padding-block:20px 4px}
+html.has-rails .top .wrap,html.has-rails .topcats .wrap{max-width:1240px}

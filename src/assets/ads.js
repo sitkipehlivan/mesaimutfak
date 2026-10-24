@@ -36,6 +36,7 @@
     el.style.setProperty('--ad-h', Math.max(...sz.map(s => s[1])) + 'px');
     el.style.setProperty('--ad-w', Math.max(...sz.map(s => s[0])) + 'px');
   });
+  if (slots.some(el => el.dataset.ad === 'rail_left' && !el.classList.contains('ad-off'))) html.classList.add('has-rails');
   const anchor = document.querySelector('.ad-anchor');
   if (anchor) {
     const x = anchor.querySelector('.ad-x');
