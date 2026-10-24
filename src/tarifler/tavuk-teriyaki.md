@@ -6,6 +6,7 @@ cats:
 - dunya
 - ana
 - hizli
+- airfryer
 lvl: Kolay
 prep: 10
 cook: 15
@@ -73,6 +74,7 @@ subs:
   y: Dörtte bir ölçü toz zencefil.
 - n: Nişasta
   y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+airfryer: Tavukları 200°C’de 10 dakika pişir, sosla karıştırıp 2 dakika daha pişir.
 steps:
 - t: Sos
   d: Tüm sos malzemelerini karıştır.

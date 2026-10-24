@@ -5,6 +5,7 @@ desc: Tavada ya da ızgarada pişen, sulu, baharatlı ev köftesi.
 cats:
 - ana
 - hizli
+- airfryer
 - yaz-yemekleri
 lvl: Kolay
 prep: 15
@@ -76,6 +77,7 @@ subs:
   y: Arpacık ya da mor soğan; daha tatlı olur.
 - n: Domates
   y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
+airfryer: Köfteleri sepete aralıklı diz, 200°C’de 10-12 dakika pişir; 6. dakikada çevir. Önceden 3 dakika ısıtılmış sepet daha iyi kızartır.
 steps:
 - t: Yoğur
   d: Tüm malzemeleri en az 5 dakika, harç bir bütün olana kadar yoğur.

@@ -5,6 +5,7 @@ desc: Mısır ununa bulanıp dışı çıtır içi sulu kızaran mevsim palamudu
 cats:
 - ana
 - hizli
+- airfryer
 - glutensiz
 - kis-yemekleri
 lvl: Kolay
@@ -65,6 +66,7 @@ subs:
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Mısır ununa bulanmış dilimleri yağ sprey ederek 200°C’de 12-14 dakika pişir, yarısında çevir.
 steps:
 - t: Hazırla
   d: Palamut dilimlerini yıkayıp kağıt havluyla iyice kurula, tuzla.

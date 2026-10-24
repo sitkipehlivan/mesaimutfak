@@ -5,6 +5,7 @@ desc: Fırında közlenen iri patatesin içi tereyağı ve kaşarla ezilip isted
 cats:
 - ana
 - firin
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 60
@@ -69,6 +70,7 @@ subs:
   y: Haşlanıp tanelenmiş taze mısır.
 - n: Tereyağı
   y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+airfryer: Folyoya sarmadan, kabuğuna biraz yağ ve tuz sürülmüş patatesleri 200°C’de 40-45 dakika pişir; kabuk daha çıtır olur.
 steps:
 - t: Patatesleri pişir
   d: Patatesleri fırçayla yıka, çatalla birkaç yerinden del, folyoya sar. 200°C fırında bıçak kolayca girene kadar 55-60 dakika pişir.

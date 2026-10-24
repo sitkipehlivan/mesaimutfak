@@ -4,6 +4,7 @@ date: '2026-10-17'
 desc: Ekmek yerine fırınlanmış tatlı patates dilimleri; biri avokadolu yumurtalı, biri fıstık ezmeli muzlu.
 cats:
 - kahvalti
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 5
@@ -68,6 +69,7 @@ subs:
   y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Tatlı patates dilimlerini 200°C’de 10-12 dakika, yarısında çevirerek kızart.
 steps:
 - t: Dilimle
   d: Tatlı patatesi kabuğuyla, uzunlamasına yaklaşık 1 cm kalınlığında 4-6 dilime kes.

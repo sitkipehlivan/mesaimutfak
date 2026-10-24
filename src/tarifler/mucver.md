@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Rendelenmiş kabak, peynir ve dereotuyla tavada kızaran mücver.
 cats:
 - arasicak
+- airfryer
 - yaz-yemekleri
 lvl: Kolay
 prep: 15
@@ -62,6 +63,7 @@ subs:
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 - n: Dereotu
   y: Maydanoz ve biraz taze nane.
+airfryer: Harcı yağlı kağıda kaşıkla yassı dök, üzerine yağ sprey et; 190°C’de 12-14 dakika, yarısında çevirerek pişir.
 steps:
 - t: Kabağı hazırla
   d: Kabakları rendele, tuzlayıp 10 dakika beklet ve suyunu iyice sık.

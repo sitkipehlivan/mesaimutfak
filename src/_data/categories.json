@@ -148,6 +148,18 @@
       "intro": "Hızlı ve pratik yemek tarifleri: az uğraşlı, az bulaşıklı, mesai sonrası için kolay tarifler. Tek tavalar, tek tepsiler ve ofis kutusuna giren yemekler."
     },
     {
+      "k": "airfryer",
+      "l": "Airfryer Tarifleri",
+      "s": "Az yağ, kısa süre, fırını yakmadan",
+      "art": [
+        "sun",
+        "tomato",
+        "rice"
+      ],
+      "seoTitle": "Airfryer Tarifleri",
+      "intro": "Airfryer tarifleri: köfteden tavuk kanada, poğaçadan ekmeğe, patates kızartmasından künefeye. Her tarifte sıcaklık ve süre net; kızartma tadı az yağla, fırını yakmadan. Klasik tariflerimizin çoğunda da “Airfryer’da nasıl yapılır?” notu var."
+    },
+    {
       "k": "vegan",
       "l": "Vegan",
       "s": "Hayvansal ürün yok, eksik lezzet de yok",

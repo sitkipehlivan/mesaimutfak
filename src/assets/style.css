@@ -633,3 +633,8 @@ body.ck-open{overflow:hidden}
 .subs dd{margin:0;color:var(--ink-2)}
 .subs dt::after{content:" yerine";font-weight:400;color:var(--ink-2)}
 @media (max-width:560px){.subs dl>div{grid-template-columns:1fr}}
+
+/* v11 · airfryer notu */
+.af-note{margin:8px 0 16px;background:color-mix(in srgb,var(--sun) 16%,var(--card));border:1.5px solid var(--sun);border-radius:20px;padding:4px 22px 14px}
+.af-note h2{margin:16px 0 6px;font-size:22px}
+.af-note p{margin:0}

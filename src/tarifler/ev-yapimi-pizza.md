@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - ana
 - dunya
+- airfryer
 lvl: Orta
 prep: 30
 cook: 15
@@ -90,6 +91,7 @@ subs:
   y: İstiridye ya da kestane mantarı.
 - n: Un
   y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+airfryer: Hamuru sepete sığacak boyda (20 cm) aç, malzemeleri koy; 190°C’de 9-11 dakika pişir.
 steps:
 - t: Hamuru mayala
   d: Hamur malzemelerini 8-10 dakika yoğur, üzerini örtüp iki katına çıkana kadar beklet.

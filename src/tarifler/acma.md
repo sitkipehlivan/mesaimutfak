@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - kahvalti
 - firin
+- airfryer
 lvl: Orta
 prep: 30
 cook: 25
@@ -74,6 +75,7 @@ subs:
   y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 - n: Un
   y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
+airfryer: Mayası gelmiş açmaları 4-5’er tane yağlı kağıda diz, 170°C’de 14-16 dakika pişir.
 steps:
 - t: Hamuru yoğur
   d: Süt, su, maya ve şekeri karıştır. Yağ, yumurta ve tuzu ekle, unu azar azar ekleyerek yumuşak bir hamur yoğur.

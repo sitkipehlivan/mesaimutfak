@@ -5,6 +5,7 @@ desc: Mısır gevreğine bulanıp kızaran ya da fırınlanan çıtır tavuk par
 cats:
 - arasicak
 - ana
+- airfryer
 lvl: Kolay
 prep: 20
 cook: 15
@@ -58,6 +59,7 @@ subs:
   y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
 - n: Yumurta
   y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+airfryer: Panelenmiş tavukları tek kat diz, her iki yüzüne yağ sprey et; 200°C’de 12-15 dakika, yarısında çevirerek pişir.
 steps:
 - t: Marine et
   d: Tavukları yoğurt, tuz ve baharatlarla 15 dakika beklet.

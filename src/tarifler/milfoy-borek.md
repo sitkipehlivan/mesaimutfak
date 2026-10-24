@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - arasicak
 - hizli
+- airfryer
 lvl: Kolay
 prep: 10
 cook: 20
@@ -50,6 +51,7 @@ subs:
   y: Tuzlanmış lor ya da tulum peyniri.
 - n: Yumurta
   y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+airfryer: Yumurta sürülmüş börekleri yağlı kağıda aralıklı diz, 180°C’de 12-14 dakika pişir; kabarıp kızarınca hazır.
 steps:
 - t: Harç
   d: Peyniri ez, maydanoz ve yumurta beyazıyla karıştır; sarıyı ayır.

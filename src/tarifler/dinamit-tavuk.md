@@ -6,6 +6,7 @@ cats:
 - ana
 - dunya
 - hizli
+- airfryer
 lvl: Kolay
 prep: 10
 cook: 15
@@ -94,6 +95,7 @@ subs:
   y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
 - n: Nişasta
   y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
+airfryer: Nişastaya bulanmış tavukları yağ sprey ederek 200°C’de 12 dakika pişir, sonra sosla karıştır.
 steps:
 - t: Tavuğu marine et
   d: Kuşbaşı tavuğu yumurta, soya sosu, karabiber ve toz sarımsakla karıştır. Vaktin varsa 10 dakika beklet.

@@ -5,6 +5,7 @@ desc: Baharatlı zeytinyağıyla kızaran, tahinli yoğurt sosla servis edilen k
 cats:
 - ana
 - firin
+- airfryer
 - glutensiz
 - kis-yemekleri
 lvl: Kolay
@@ -72,6 +73,7 @@ subs:
   y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Soslanmış karnabahar çiçeklerini tek kat yay, 190°C’de 15-18 dakika pişir; arada bir sepeti salla.
 steps:
 - t: Hazırla
   d: Karnabaharı küçük çiçeklere ayır, yıka ve iyice kurula.

@@ -7,6 +7,7 @@ cats:
 - tatli
 - kahvalti
 - firin
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 22
@@ -69,6 +70,7 @@ subs:
   y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
 - n: Vanilin
   y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
+airfryer: Silikon ya da kağıt muffin kaplarında 160°C’de 14-16 dakika pişir; kürdan kuru çıkmalı.
 steps:
 - t: Kuru malzemeler
   d: Un, şeker, kabartma tozu ve tuzu karıştır.

@@ -6,6 +6,7 @@ cats:
 - arasicak
 - firin
 - hizli
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 5
@@ -57,6 +58,7 @@ subs:
   y: İstiridye ya da kestane mantarı.
 - n: Tereyağı
   y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+airfryer: Doldurulmuş mantarları sepete diz, 180°C’de 8-10 dakika pişir; kaşar eriyip kızarınca çıkar.
 steps:
 - t: Mantarı sotele
   d: Mantarları dilimle, tereyağında suyunu salıp çekene kadar yüksek ateşte sotele.

@@ -5,6 +5,7 @@ desc: Tepside köfteler ve baharatlı patatesler; hazırlaması 15 dakika.
 cats:
 - ana
 - firin
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 35
@@ -65,6 +66,7 @@ subs:
   y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 - n: Kuru soğan
   y: Arpacık ya da mor soğan; daha tatlı olur.
+airfryer: Önce patatesleri 200°C’de 10 dakika pişir, köfteleri ekleyip 12 dakika daha pişir; yarısında köfteleri çevir.
 steps:
 - t: Köfteyi yoğur
   d: Kıyma, soğan, galeta unu ve baharatları yoğur, ceviz büyüklüğünde köfteler yap.

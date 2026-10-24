@@ -5,6 +5,7 @@ desc: Limon, sarımsak ve kekikle fırında pişen bütün levrek, yanında sebz
 cats:
 - ana
 - firin
+- airfryer
 - glutensiz
 - kis-yemekleri
 lvl: Kolay
@@ -60,6 +61,7 @@ subs:
   y: Tatlı patates; pişirme süresi biraz kısalır.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Bütün levreği yağlı kağıda koy, 190°C’de 14-16 dakika pişir. Sepete sığmazsa fileto kullan; 10-12 dakika yeter.
 steps:
 - t: Sebzeleri yay
   d: Patates ve soğanı tepsiye yay, bir kaşık zeytinyağı ve tuzla karıştır. 200°C’de 10 dakika ön pişir.

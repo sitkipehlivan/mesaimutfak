@@ -5,6 +5,7 @@ desc: İçinde haşlanmış yumurta, havuç ve bezelye saklayan, dilimlendiğind
 cats:
 - ana
 - firin
+- airfryer
 lvl: Orta
 prep: 30
 cook: 45
@@ -79,6 +80,7 @@ subs:
   y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 - n: Kuru soğan
   y: Arpacık ya da mor soğan; daha tatlı olur.
+airfryer: Rulo köfteyi sepete sığacak iki parçaya böl, yağlı kağıt üzerinde 180°C’de 22-25 dakika pişir; son 5 dakikada üzerine sosunu sür.
 steps:
 - t: Köfte harcını yoğur
   d: Kıyma, soğan, ıslatıp sıktığın ekmek içi, yumurta, maydanoz ve baharatları iyice yoğur.

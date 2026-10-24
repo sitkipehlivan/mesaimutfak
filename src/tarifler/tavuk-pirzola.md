@@ -5,6 +5,7 @@ desc: Yoğurtlu marinasyonla yumuşayan, döküm tavada kızaran tavuk pirzola.
 cats:
 - ana
 - hizli
+- airfryer
 - glutensiz
 - yaz-yemekleri
 lvl: Kolay
@@ -60,6 +61,7 @@ subs:
   y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
 - n: Biber salçası
   y: Domates salçası ve bir tatlı kaşığı pul biber.
+airfryer: Pirzolaları sepete tek kat diz, 200°C’de 12-14 dakika pişir; 7. dakikada çevir.
 steps:
 - t: Marine et
   d: Tüm sos malzemelerini karıştır, tavukları sosla ov. En az 15 dakika, mümkünse 2 saat buzdolabında beklet.

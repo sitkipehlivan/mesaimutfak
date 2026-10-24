@@ -5,6 +5,7 @@ desc: Sıkma torbasıyla kızgın yağa sıkılan, tarçınlı şekere bulanan �
 cats:
 - dunya
 - tatli
+- airfryer
 lvl: Orta
 prep: 15
 cook: 15
@@ -74,6 +75,7 @@ subs:
   y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 - n: Un
   y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
+airfryer: Hamuru yağlı kağıda sık, bolca yağ sprey et; 190°C’de 10-12 dakika pişir, sıcakken tarçınlı şekere bula.
 steps:
 - t: Hamur
   d: Su, tereyağı, şeker ve tuzu kaynat. Unu bir kerede ekleyip hamur toparlanana kadar karıştır, ılıt ve yumurtayı ekleyip pürüzsüz çırp.

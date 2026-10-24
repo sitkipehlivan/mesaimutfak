@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - arasicak
 - kahvalti
+- airfryer
 lvl: Orta
 prep: 35
 cook: 15
@@ -69,6 +70,7 @@ subs:
   y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
 - n: Ayçiçek yağı
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+airfryer: Börekleri yağla fırçala, sepete aralıklı diz; 180°C’de 8-10 dakika pişir, yarısında çevir.
 steps:
 - t: Hamuru yoğur
   d: Hamur malzemelerini yoğur, 20 dakika dinlendir.

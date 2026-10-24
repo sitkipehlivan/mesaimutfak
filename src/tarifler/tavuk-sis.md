@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Yoğurtlu-salçalı marinede bekleyen, ızgarada ya da fırında pişen tavuk şiş.
 cats:
 - ana
+- airfryer
 - glutensiz
 - yaz-yemekleri
 lvl: Kolay
@@ -69,6 +70,7 @@ subs:
   y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Şişleri sepete sığacak boyda kısalt, 200°C’de 12-14 dakika pişir; yarısında çevir.
 steps:
 - t: Marine et
   d: Yoğurt, salça, zeytinyağı, ezilmiş sarımsak, baharatlar ve limon suyunu karıştır. Tavukları bula, en az 2 saat buzdolabında beklet.

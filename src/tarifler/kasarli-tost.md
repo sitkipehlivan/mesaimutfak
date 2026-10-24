@@ -5,6 +5,7 @@ desc: Bol kaşarlı, tereyağlı, dışı çıtır içi uzayan klasik tost.
 cats:
 - kahvalti
 - hizli
+- airfryer
 lvl: Kolay
 prep: 3
 cook: 6
@@ -40,6 +41,7 @@ ingredients:
 subs:
 - n: Tereyağı
   y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
+airfryer: Tostu sepete koy, üzerine hafif ağırlık olsun diye ters küçük bir metal kap yerleştir; 180°C’de 6-8 dakika, yarısında çevir.
 steps:
 - t: Hazırla
   d: Ekmeklerin dış yüzlerine ince tereyağı sür.

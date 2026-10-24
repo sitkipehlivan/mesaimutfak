@@ -5,6 +5,7 @@ desc: Yoğurtlu baharatlı sosla marine edilip fırında kızaran sulu tavuk but
 cats:
 - ana
 - firin
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 10
@@ -62,6 +63,7 @@ subs:
   y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
 - n: Biber salçası
   y: Domates salçası ve bir tatlı kaşığı pul biber.
+airfryer: Marine edilmiş butları derisi yukarı gelecek şekilde diz, 190°C’de 22-25 dakika pişir; yarısında çevir, son 3 dakika derisi üste gelsin.
 steps:
 - t: Marine et
   d: Yoğurt, salça, zeytinyağı, ezilmiş sarımsak ve baharatları karıştır. Butların derisini çatalla delip sosla ov, en az 30 dakika buzdolabında beklet.

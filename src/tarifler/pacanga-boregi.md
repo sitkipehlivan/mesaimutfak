@@ -5,6 +5,7 @@ desc: Pastırma, kaşar, biber; yufkada çıtır ara sıcak.
 cats:
 - arasicak
 - hizli
+- airfryer
 lvl: Kolay
 prep: 10
 cook: 15
@@ -56,6 +57,7 @@ subs:
   y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
 - n: Domates
   y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
+airfryer: Börekleri yağlı kağıda diz, üzerine yağ sür; 190°C’de 10-12 dakika, yarısında çevirerek pişir.
 steps:
 - t: İç harcı hazırla
   d: Kaşarı rendele. Domatesin çekirdeklerini çıkarıp küp doğra, biberi ince doğra.

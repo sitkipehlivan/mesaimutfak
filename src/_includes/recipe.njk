@@ -91,6 +91,9 @@ layout: base.njk
           </li>
           {% endfor %}
         </ol>
+        {% if airfryer %}
+        <div class="af-note" id="airfryer"><h2>Airfryer’da nasıl yapılır?</h2><p>{{ airfryer }}</p></div>
+        {% endif %}
         {% set slot = 'incontent' %}{% include "ad.njk" %}
         {% if tips and tips.length %}
         <div class="tips">
@@ -152,6 +155,7 @@ layout: base.njk
 </section>
 {% endif %}
 
+<script>(function(){var h=location.hostname;if(!/mesaimutfak\.com$/.test(h))return;try{var u='/.netlify/functions/goruntulenme',b='{{ page.fileSlug }}';if(navigator.sendBeacon)navigator.sendBeacon(u,new Blob([b],{type:'text/plain'}));else fetch(u,{method:'POST',body:b,keepalive:true})}catch(e){}})();</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

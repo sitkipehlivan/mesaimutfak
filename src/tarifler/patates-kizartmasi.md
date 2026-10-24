@@ -5,6 +5,7 @@ desc: Soğuk suda bekletilip iki kez kızartılan, dışı çıtır içi yumuşa
 cats:
 - arasicak
 - hizli
+- airfryer
 - vegan
 - glutensiz
 lvl: Kolay
@@ -43,6 +44,7 @@ ingredients:
 subs:
 - n: Ayçiçek yağı
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+airfryer: Soğuk suda bekletilip kurulanan patatesleri 1 kaşık yağla karıştır, 200°C’de 18-20 dakika pişir; 5 dakikada bir salla.
 steps:
 - t: Doğra ve beklet
   d: Patatesleri soyup 1 cm kalınlığında çubuklar halinde doğra. 30 dakika soğuk suda bekletip nişastasını al, kağıt havluyla iyice kurula.

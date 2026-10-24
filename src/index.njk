@@ -2,7 +2,8 @@
 layout: base.njk
 isHome: true
 ---
-{%- set heroR = collections.tarifler | bySlug(home.hero.slug) -%}
+{%- set wk = weekly if (weekly and weekly.hero) else { hero: home.hero.slug, heroEyebrow: home.hero.eyebrow, picks: [], popular: home.popular } -%}
+{%- set heroR = collections.tarifler | bySlug(wk.hero) -%}
 
 {# 1. Haftanın tarifi #}
 <div class="wrap hero-solo hero-ad">
@@ -10,13 +11,24 @@ isHome: true
     <span class="photo">{% visual { image: heroR.data.image, heroImage: home.hero.heroImage, imageAlt: heroR.data.imageAlt, title: heroR.data.title, art: heroR.data.art }, 'scene', heroR.fileSlug, true %}</span>
     {% if not (home.hero.heroImage or heroR.data.image) %}<span class="ph-tag">Fotoğraf alanı</span>{% endif %}
     <span class="over">
-      <span class="eyebrow">{{ home.hero.eyebrow }}</span>
+      <span class="eyebrow">{{ wk.heroEyebrow }}</span>
       <h1>{{ heroR.data.title }}</h1>
       <span class="meta"><span>{{ heroR.data.prep + heroR.data.cook }} dk</span><span>{{ heroR.data.serv }} kişilik</span><span>{{ heroR.data.lvl }}</span></span>
     </span>
   </a>
   {% set slot = 'atf' %}{% include "ad.njk" %}
 </div>
+
+{# Haftanın tarifleri (her pazartesi otomatik yenilenir) #}
+{% set picks = collections.tarifler | bySlugs(wk.picks) %}
+{% if picks.length %}
+<section class="home-sec week-picks">
+  <div class="wrap">
+    <div class="home-head"><h2>Bu haftanın tarifleri</h2><span class="home-sub">Her pazartesi yenilenir · mevsimine göre</span></div>
+    <div class="grid">{% for r in picks %}{% include "card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}
 
 {# Arama #}
 <section class="home-search">
@@ -62,7 +74,7 @@ isHome: true
   <div class="wrap">
     <div class="home-head"><h2>Bu hafta en çok bakılanlar</h2><a class="home-more" href="{{ '/tarifler/' | link }}">Tüm tarifler →</a></div>
     <div class="pop-row">
-      {% for r in collections.tarifler | bySlugs(home.popular) %}
+      {% for r in collections.tarifler | bySlugs(wk.popular) %}
       <a class="pop-item" href="{{ r.url | link }}"><span class="th" style="background:{{ r.fileSlug | tint }}">{% visual r.data, 'plate', r.fileSlug %}</span><span><b><span class="n">{{ loop.index }}</span>{{ r.data.title }}</b><span>{{ r.data.prep + r.data.cook }} dk · {{ r.data.lvl }}</span></span></a>
       {% endfor %}
     </div>

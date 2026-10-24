@@ -6,6 +6,7 @@ cats:
 - dunya
 - ana
 - hizli
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 15
@@ -83,6 +84,7 @@ subs:
   y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 - n: Kuru soğan
   y: Arpacık ya da mor soğan; daha tatlı olur.
+airfryer: Burger köftelerini 200°C’de 9-11 dakika, yarısında çevirerek pişir. Son 1 dakikada üzerine peynir koy; ekmekleri de 2 dakika ısıt.
 steps:
 - t: Soğan
   d: Soğanı ince dilimle, tereyağında kısık ateşte karamelize et.

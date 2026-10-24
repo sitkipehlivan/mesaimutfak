@@ -5,6 +5,7 @@ desc: Ceviz ve balla doldurulup fırınlanan, mis kokulu elmalar.
 cats:
 - tatli
 - firin
+- airfryer
 - glutensiz
 - saglikli
 - kis-yemekleri
@@ -52,6 +53,7 @@ subs:
   y: Üzüm pekmezi, akçaağaç ya da hurma şurubu.
 - n: Ceviz
   y: Fındık ya da badem.
+airfryer: Doldurulmuş elmaları 180°C’de 15-18 dakika pişir.
 steps:
 - t: Elmaları oy
   d: Elmaların çekirdek yuvalarını üstten oy, altını delmeden bırak.

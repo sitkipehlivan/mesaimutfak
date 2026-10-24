@@ -5,6 +5,7 @@ desc: Sadece muz ve yulafla, şekersiz yumuşak kurabiye.
 cats:
 - tatli
 - hizli
+- airfryer
 - vegan
 - saglikli
 lvl: Kolay
@@ -43,6 +44,7 @@ ingredients:
 subs:
 - n: Bitter çikolata
   y: Sütlü çikolata (tatlılığı artar) ya da her 30 g için 3 yemek kaşığı kakao ve 1 yemek kaşığı tereyağı.
+airfryer: Kurabiyeleri yağlı kağıda diz, 170°C’de 8-10 dakika pişir.
 steps:
 - t: Ez
   d: Muzları çatalla püre kıvamına getir.

@@ -5,6 +5,7 @@ desc: Yoğurtlu baharatlı tavuk but, tavada çıtırlaşıp lavaşla dürüm ol
 cats:
 - ana
 - hizli
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 15
@@ -84,6 +85,7 @@ subs:
   y: Domates salçası ve bir tatlı kaşığı pul biber.
 - n: Ayçiçek yağı
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+airfryer: Marine tavukları tek kat yay, 200°C’de 14-16 dakika pişir; dilimleyip lavaşa sar.
 steps:
 - t: Marine et
   d: Tavuğu tüm marine malzemeleriyle bula, en az 1 saat buzdolabında beklet.

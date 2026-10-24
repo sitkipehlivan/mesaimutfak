@@ -6,6 +6,7 @@ cats:
 - arasicak
 - firin
 - hizli
+- airfryer
 - vegan
 - glutensiz
 lvl: Kolay
@@ -55,6 +56,7 @@ subs:
   y: Tatlı patates ya da kereviz kökü; dilimleri aynı kalınlıkta kes, süre benzer.
 - n: Zeytinyağı
   y: Ayçiçek ya da mısırözü yağı; fırında daha çıtır yapar.
+airfryer: Baharatlı patatesleri tek kat yay, 200°C’de 18-20 dakika pişir; 5 dakikada bir sepeti salla.
 steps:
 - t: Kes
   d: Patatesleri kabuklarıyla elma dilimi kes, soğuk suda 10 dakika bekletip kurula.

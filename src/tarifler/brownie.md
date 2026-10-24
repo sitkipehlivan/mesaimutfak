@@ -6,6 +6,7 @@ cats:
 - tatli
 - firin
 - dunya
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 25
@@ -65,6 +66,7 @@ subs:
   y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 - n: Yumurta
   y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
+airfryer: Hamuru sepete sığan küçük bir kalıba (yaklaşık 18 cm) dök, 160°C’de 22-25 dakika pişir. Üstü kızarırsa folyo kapat.
 steps:
 - t: Erit
   d: Çikolata ve tereyağını benmari usulü erit, ılımaya bırak.

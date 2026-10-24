@@ -5,6 +5,7 @@ desc: Tavuk but, patates ve sebzelerle tek tepside fırın yemeği.
 cats:
 - ana
 - firin
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 15
@@ -72,6 +73,7 @@ subs:
   y: Arpacık ya da mor soğan; daha tatlı olur.
 - n: Domates
   y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
+airfryer: Önce patatesleri 200°C’de 10 dakika pişir, sonra tavukları ekleyip birlikte 15 dakika daha pişir; arada salla.
 steps:
 - t: Doğra
   d: Patatesleri elma dilim, soğanı iri, biberleri halka, domatesleri dilim doğra.

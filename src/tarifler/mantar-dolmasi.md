@@ -6,6 +6,7 @@ cats:
 - arasicak
 - firin
 - hizli
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 15
@@ -61,6 +62,7 @@ subs:
   y: Hamur ve keklerde aynı ölçü margarin; tuzlu yemeklerde ¾ ölçü zeytinyağı.
 - n: Kapya biber
   y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+airfryer: Dolgulu mantarları sepete diz, 180°C’de 10-12 dakika pişir.
 steps:
 - t: Mantarları hazırla
   d: Mantar saplarını çıkar ve ince doğra; şapkaları sil.

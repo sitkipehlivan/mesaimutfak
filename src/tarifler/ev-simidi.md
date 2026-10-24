@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - kahvalti
 - firin
+- airfryer
 lvl: Orta
 prep: 40
 cook: 20
@@ -64,6 +65,7 @@ subs:
   y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
 - n: Ayçiçek yağı
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+airfryer: Simitleri ikişer üçer, yağlı kağıtta 180°C’de 14-16 dakika pişir; son 3 dakikada çevir.
 steps:
 - t: Hamuru yoğur
   d: Un, maya, şeker ve tuzu karıştır, ılık su ve yağla 8 dakika yoğur. Hamur ele yapışmayan, sıkıca bir kıvamda olmalı.

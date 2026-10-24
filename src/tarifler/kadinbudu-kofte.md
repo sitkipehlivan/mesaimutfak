@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Pirinçli, yumurtaya bulanıp kızartılan yumuşacık köfteler.
 cats:
 - ana
+- airfryer
 lvl: Orta
 prep: 30
 cook: 20
@@ -71,6 +72,7 @@ subs:
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 - n: Kuru soğan
   y: Arpacık ya da mor soğan; daha tatlı olur.
+airfryer: Yumurtaya bulanmış köfteleri yağlı kağıda diz, üzerlerine bir kat yağ sprey et; 190°C’de 12-14 dakika, yarısında çevirerek pişir. Kızartmadan çok daha az yağlı olur.
 steps:
 - t: Pirinci haşla
   d: Pirinci bol suda yumuşayana kadar haşlayıp süz.

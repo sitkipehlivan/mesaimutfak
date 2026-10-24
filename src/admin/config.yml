@@ -62,6 +62,7 @@ collections:
           - { label: Tatlılar, value: tatli }
           - { label: Dünya Mutfağı, value: dunya }
           - { label: Hızlı Tarifler, value: hizli }
+          - { label: Airfryer Tarifleri, value: airfryer }
           - { label: Vegan, value: vegan }
           - { label: Glutensiz, value: glutensiz }
           - { label: Sağlıklı Tatlılar, value: saglikli }
@@ -110,6 +111,7 @@ collections:
           - { name: time, label: Süre (ör. 15 dk), widget: string, required: false }
       - { name: tips, label: Püf noktaları, widget: list, required: false, field: { name: tip, label: Püf noktası, widget: string } }
       - { name: subs, label: "Elinde yoksa ne kullanırsın? (ikame malzemeler)", widget: list, required: false, summary: "{{fields.n}}", fields: [ { name: n, label: Malzeme, widget: string }, { name: y, label: Yerine ne kullanılır, widget: text } ] }
+      - { name: airfryer, label: "Airfryer’da nasıl yapılır? (isteğe bağlı)", widget: text, required: false, hint: "Sıcaklık ve süreyle kısa not. Doluysa tarif sayfasında kutu olarak görünür; kategoriye Airfryer Tarifleri de ekle." }
       - { name: videoUrl, label: Video dosyası linki (kendi player + preroll), widget: string, required: false, hint: "MP4 ya da HLS (.m3u8) linki. Doluysa YouTube yerine kendi player'ımız açılır ve video başında reklam (preroll) gösterilebilir." }
       - { name: youtube, label: YouTube video ID, widget: string, required: false, hint: "youtube.com/watch?v= sonrasındaki kısım (ör. dQw4w9WgXcQ). Doldurulunca tarif sayfasında video görünür." }
       - { name: videoLen, label: Video süresi (ör. 0:58), widget: string, required: false }

@@ -6,6 +6,7 @@ cats:
 - arasicak
 - dunya
 - hizli
+- airfryer
 lvl: Kolay
 prep: 10
 cook: 10
@@ -90,6 +91,7 @@ subs:
   y: Mısır ve buğday nişastası birbirinin yerine geçer; ya da aynı ölçü pirinç unu.
 - n: Ayçiçek yağı
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+airfryer: Nişastaya bulanmış karidesleri yağ sprey ederek 200°C’de 7-8 dakika pişir, sonra sosla karıştır.
 steps:
 - t: Sosu hazırla
   d: Mayonez, tatlı acı biber sosu, sriracha, bal ve limon suyunu geniş bir kasede çırp. Kızaran karidesleri doğrudan bu kaseye alacaksın.

@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - kahvalti
 - firin
+- airfryer
 lvl: Kolay
 prep: 25
 cook: 25
@@ -78,6 +79,7 @@ subs:
   y: Unun üçte biri yerine tam buğday unu kullanabilirsin; hamur daha lifli olur, suyu bir iki kaşık artır.
 - n: Kabartma tozu
   y: 1 paket yerine 1 tatlı kaşığı karbonat ve 1 yemek kaşığı sirke ya da limon suyu.
+airfryer: Poğaçaları yağlı kağıda aralıklı diz, 170°C’de 14-16 dakika pişir. Kabaracakları için aralarında boşluk bırak.
 steps:
 - t: Hamuru yoğur
   d: Süt, yağ, yoğurt, yumurta beyazı, tuz, şeker ve kabartma tozunu karıştır. Unu azar azar ekleyip ele yapışmayan yumuşak bir hamur yoğur.

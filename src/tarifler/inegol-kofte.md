@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Az malzemeli, sade ve sulu; Bursa usulü ızgara köfte.
 cats:
 - ana
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 12
@@ -50,6 +51,7 @@ subs:
   y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
 - n: Kuru soğan
   y: Arpacık ya da mor soğan; daha tatlı olur.
+airfryer: Köfteleri sepete aralıklı diz, 200°C’de 10-12 dakika pişir; 6. dakikada çevir.
 steps:
 - t: Yoğur
   d: Tüm malzemeleri geniş bir kapta 5-6 dakika, harç yapış yapış olana kadar yoğur.

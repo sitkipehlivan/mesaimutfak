@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Kaşarlı, maydanozlu patates köfteleri; galeta ununda kızarır.
 cats:
 - arasicak
+- airfryer
 lvl: Kolay
 prep: 25
 cook: 15
@@ -62,6 +63,7 @@ subs:
   y: Rendelenmiş bayat ekmek içi ya da yulaf ezmesi.
 - n: Yumurta
   y: Köfte harcını bağlamak için 2 yemek kaşığı galeta unu ya da 1 yemek kaşığı nişasta.
+airfryer: Köfteleri galeta ununa bulayıp yağ sprey et, 190°C’de 12-14 dakika pişir; yarısında çevir.
 steps:
 - t: Harcı hazırla
   d: Patatesi ez, yumurta, kaşar, yeşillikler ve baharatlarla yoğur.

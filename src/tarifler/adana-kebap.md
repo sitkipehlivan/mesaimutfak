@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: 'Bol pul biberli, elde yoğrulan kıymayla evde Adana kebap; mangal yoksa döküm tava ya da fırın ızgarası yeter.'
 cats:
 - ana
+- airfryer
 - yaz-yemekleri
 lvl: Orta
 prep: 25
@@ -78,6 +79,7 @@ subs:
   y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
 - n: Kıyma
   y: Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar.
+airfryer: Şişsiz, uzun köfte şeklinde yağlı kağıda diz; 200°C’de 10-12 dakika pişir, yarısında çevir. Domates ve biberleri de yanına koyarak közle.
 steps:
 - t: Sebzelerin suyunu al
   d: Kapya biberi bıçakla olabildiğince ince kıy, soğanı rendele. İkisini de bir tülbent ya da süzgeçte iyice sık; fazla su kebabın şişte durmasını zorlaştırır.

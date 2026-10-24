@@ -5,6 +5,7 @@ desc: Kuru nohut, maydanoz ve baharatlarla çıtır falafel.
 cats:
 - arasicak
 - dunya
+- airfryer
 - vegan
 - glutensiz
 lvl: Orta
@@ -83,6 +84,7 @@ subs:
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Topları hafifçe yassılaştır, yağ sprey et; 190°C’de 12-14 dakika, yarısında çevirerek pişir.
 steps:
 - t: Çek
   d: Islanmış ama pişmemiş nohutları süz. Soğan, sarımsak, yeşillikler ve baharatlarla robotta iri kum kıvamına gelene kadar çek.

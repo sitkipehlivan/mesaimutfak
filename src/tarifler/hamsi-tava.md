@@ -5,6 +5,7 @@ desc: Mısır ununa bulanıp tavada çıtır çıtır kızartılan Karadeniz ham
 cats:
 - ana
 - hizli
+- airfryer
 - glutensiz
 - kis-yemekleri
 lvl: Kolay
@@ -60,6 +61,7 @@ subs:
   y: Misket limonu ya da yarı ölçü elma sirkesi.
 - n: Kuru soğan
   y: Arpacık ya da mor soğan; daha tatlı olur.
+airfryer: Mısır ununa bulanmış hamsileri tek kat diz, üzerine yağ sprey et; 200°C’de 8-10 dakika, yarısında çevirerek pişir.
 steps:
 - t: Hamsiyi temizle
   d: Hamsilerin başını kopar, karnından açıp kılçığı çıkararak kelebek gibi aç ya da bütün bırak. Yıkayıp süzgece al.

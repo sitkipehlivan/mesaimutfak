@@ -6,6 +6,7 @@ cats:
 - ana
 - firin
 - hizli
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 5
@@ -62,6 +63,7 @@ subs:
   y: Maydanoz ve biraz taze nane.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Somon dilimlerini derisi alta gelecek şekilde koy, 200°C’de 9-11 dakika pişir; çevirmeye gerek yok.
 steps:
 - t: Sosu hazırla
   d: Bal, hardal, zeytinyağı, limon suyu ve rendelenmiş sarımsağı karıştır.

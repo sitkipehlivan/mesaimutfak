@@ -6,6 +6,7 @@ cats:
 - hamurisi
 - arasicak
 - hizli
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 10
@@ -49,6 +50,7 @@ subs:
   y: Kek ve kurabiyede 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumu ve 3 yemek kaşığı su (10 dakika bekletilmiş) ya da çeyrek su bardağı muz püresi.
 - n: Ayçiçek yağı
   y: Kızartma ve sotede mısırözü, kanola ya da fındık yağı; kızartmada riviera zeytinyağı da olur.
+airfryer: Sarılmış börekleri yağla fırçala, sepete aralıklı diz; 190°C’de 8-10 dakika, yarısında çevirerek pişir.
 steps:
 - t: Harcı hazırla
   d: Peyniri çatalla ez, ince doğranmış maydanozla karıştır.

@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Kalıpta pişen, sebzeli ve peynirli taşınabilir yumurta kekleri.
 cats:
 - kahvalti
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 10
@@ -59,6 +60,7 @@ subs:
   y: Laktozsuz süt birebir. Vegan için yulaf ya da badem sütü; muhallebi tipi tatlılarda yulaf sütü daha iyi koyulaşır.
 - n: Kapya biber
   y: Kırmızı dolmalık biber ya da közlenmiş kavanoz biber.
+airfryer: Silikon muffin kaplarına doldur, 170°C’de 12-14 dakika pişir.
 steps:
 - t: Çırp
   d: Yumurta, süt, tuz ve karabiberi çırp.

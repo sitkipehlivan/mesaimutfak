@@ -5,6 +5,7 @@ desc: Ballı, acılı sosla fırında çıtırlaşan tavuk kanatları.
 cats:
 - ana
 - firin
+- airfryer
 - glutensiz
 lvl: Kolay
 prep: 10
@@ -64,6 +65,7 @@ subs:
   y: Domates salçası ve bir tatlı kaşığı pul biber.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Kanatları tek kat diz, 200°C’de 18-20 dakika pişir; 10. dakikada çevir. Sosu son 2 dakikada sür.
 steps:
 - t: Sosu hazırla
   d: Zeytinyağı, salça, bal, ezilmiş sarımsak, baharatlar ve limon suyunu karıştır.

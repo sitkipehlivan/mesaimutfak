@@ -7,6 +7,7 @@ cats:
 - salata
 - arasicak
 - hizli
+- airfryer
 - vegan
 - yaz-yemekleri
 lvl: Kolay
@@ -56,6 +57,7 @@ subs:
   y: Nar ekşisi.
 - n: Taze fesleğen
   y: Üçte bir ölçü kuru fesleğen; pişirmenin sonuna doğru ekle.
+airfryer: Ekmek dilimlerini zeytinyağı sürerek 180°C’de 4-5 dakika kızart, sonra domatesli harcı koy.
 steps:
 - t: Domates
   d: Domatesleri çekirdeklerini alıp küçük küp doğra, kıyılmış fesleğen, zeytinyağı, tuz ve balzamikle karıştır.

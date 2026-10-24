@@ -4,6 +4,7 @@ date: '2026-10-22'
 desc: Sodalı hamura bulanıp çıtır çıtır kızaran kalamar halkaları, tarator sosla.
 cats:
 - arasicak
+- airfryer
 lvl: Orta
 prep: 20
 cook: 10
@@ -70,6 +71,7 @@ subs:
   y: Hamurda kefir ya da ayran; soslarda süzme yoğurt. Vegan için soya ya da hindistan cevizi yoğurdu.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Unlanmış halkaları tek kat diz, bolca yağ sprey et; 200°C’de 7-8 dakika pişir. Fazla pişerse lastikleşir.
 steps:
 - t: Kalamarı hazırla
   d: Kalamar halkalarını yıka, kâğıt havluyla çok iyi kurula.

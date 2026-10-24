@@ -6,6 +6,7 @@ cats:
 - dunya
 - tatli
 - firin
+- airfryer
 lvl: Kolay
 prep: 15
 cook: 12
@@ -65,6 +66,7 @@ subs:
   y: Glutensiz için hazır glutensiz un karışımı (kek ve kurabiyede birebir). Daha besleyici olsun istersen unun üçte birini tam buğday unuyla değiştir.
 - n: Vanilin
   y: 1 tatlı kaşığı vanilya özütü ya da 1 paket vanilyalı şeker.
+airfryer: Hamur toplarını yağlı kağıda aralıklı diz, 160°C’de 8-9 dakika pişir; ortası yumuşak görünürken çıkar.
 steps:
 - t: Krema
   d: Tereyağı ve şekerleri kremamsı olana kadar çırp, yumurta ve vanilini ekle.

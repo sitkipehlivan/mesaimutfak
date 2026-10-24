@@ -5,6 +5,7 @@ desc: Baharatlı marine tavuk, sarımsaklı sos ve turşuyla lavaş dürüm.
 cats:
 - dunya
 - ana
+- airfryer
 lvl: Orta
 prep: 20
 cook: 25
@@ -87,6 +88,7 @@ subs:
   y: Misket limonu ya da yarı ölçü elma sirkesi.
 - n: Domates
   y: Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli olur.
+airfryer: Marine tavukları tek kat yay, 200°C’de 14-16 dakika pişir; arada salla, sonra ince dilimle.
 steps:
 - t: Marine et
   d: Tavukları marinasyon malzemeleriyle en az 1 saat beklet.

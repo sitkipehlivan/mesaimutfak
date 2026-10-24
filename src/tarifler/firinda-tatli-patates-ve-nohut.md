@@ -5,6 +5,7 @@ desc: Tek tepside kızaran tatlı patates ve baharatlı nohut, üstünde limonlu
 cats:
 - ana
 - firin
+- airfryer
 - vegan
 - glutensiz
 lvl: Kolay
@@ -85,6 +86,7 @@ subs:
   y: Pazı.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Tatlı patates ve nohutları tek kat yay, 200°C’de 18-20 dakika pişir; arada salla.
 steps:
 - t: Fırını ısıt
   d: Fırını 210°C’ye ayarla.

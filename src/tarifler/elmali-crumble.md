@@ -6,6 +6,7 @@ cats:
 - dunya
 - tatli
 - firin
+- airfryer
 - kis-yemekleri
 lvl: Kolay
 prep: 15
@@ -65,6 +66,7 @@ subs:
   y: Esmer şeker birebir olur. Bal ya da akçaağaç şurubu kullanacaksan ¾ ölçü al ve sıvıyı biraz azalt.
 - n: Limon
   y: Misket limonu ya da yarı ölçü elma sirkesi.
+airfryer: Küçük bir fırın kabında 170°C’de 15-18 dakika, üstü altın rengi olana kadar pişir.
 steps:
 - t: Elmalar
   d: Elmaları küp doğra, şeker, tarçın ve limonla karıştırıp fırın kabına yay.
