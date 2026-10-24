@@ -81,7 +81,7 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
     <button type="button" class="tc-arrow tc-next" aria-label="Kategorileri sağa kaydır" hidden>›</button>
   </nav>
 </header>
-{% set slot = 'masthead' %}<div class="wrap ad-row">{% include "ad.njk" %}</div>
+{% if not isHome %}{% set slot = 'masthead' %}<div class="wrap ad-row">{% include "ad.njk" %}</div>{% endif %}
 {% set slot = 'rail_left' %}{% include "ad.njk" %}{% set slot = 'rail_right' %}{% include "ad.njk" %}{% set slot = 'anchor' %}{% include "ad.njk" %}
 
 <main id="top">
