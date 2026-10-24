@@ -119,7 +119,9 @@
     slots.forEach(el => { if (el.classList.contains('ad-off')) return; io ? io.observe(el) : fill(el); });
     // dolmayan alanları kapat
     new MutationObserver(ms => ms.forEach(m => {
-      const t = m.target; if (t.getAttribute && t.getAttribute('data-ad-status') === 'unfilled') { const a = t.closest('.ad'); if (a) a.classList.add('ad-empty', 'ad-unfilled'); }
+      const t = m.target; if (t.getAttribute && t.getAttribute('data-ad-status') === 'unfilled') { const a = t.closest('.ad'); if (a) a.classList.add('ad-empty', 'ad-unfilled');
+        // iki kenar reklamı da dolmazsa içerik eski genişliğine döner
+        if (document.querySelectorAll('.ad-rail_left.ad-unfilled, .ad-rail_right.ad-unfilled').length === 2) html.classList.remove('has-rails'); }
     })).observe(document.body, { subtree: true, attributes: true, attributeFilter: ['data-ad-status'] });
   }
 
