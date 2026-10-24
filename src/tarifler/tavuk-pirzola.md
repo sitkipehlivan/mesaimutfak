@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-pirzola.jpg
+imageAlt: 'Izgara tavuk pirzola, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-taze-fasulye.jpg
+imageAlt: 'Etli taze fasulye, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

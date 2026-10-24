@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kuru-patlican-dolmasi.jpg
+imageAlt: 'Kuru patlıcan dolması, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

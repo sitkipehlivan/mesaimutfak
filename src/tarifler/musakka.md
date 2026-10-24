@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/musakka.jpg
+imageAlt: 'Patlıcan musakka, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

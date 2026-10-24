@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-makarna.jpg
+imageAlt: 'Fırında makarna, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

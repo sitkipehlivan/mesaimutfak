@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kiymali-patates.jpg
+imageAlt: 'Kıymalı patates yemeği, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

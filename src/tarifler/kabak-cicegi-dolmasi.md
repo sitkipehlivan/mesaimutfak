@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/kabak-cicegi-dolmasi.jpg
+imageAlt: 'Kabak çiçeği dolması, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

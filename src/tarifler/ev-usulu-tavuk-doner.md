@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-usulu-tavuk-doner.jpg
+imageAlt: 'Ev usulü tavuk döner, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

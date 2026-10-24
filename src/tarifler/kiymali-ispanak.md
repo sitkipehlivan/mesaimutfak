@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kiymali-ispanak.jpg
+imageAlt: 'Kıymalı ıspanak, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/manti.jpg
+imageAlt: 'Mantı, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

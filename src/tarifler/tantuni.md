@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tantuni.jpg
+imageAlt: 'Tantuni, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -18,8 +18,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-somon.jpg
+imageAlt: 'Fırında somon, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

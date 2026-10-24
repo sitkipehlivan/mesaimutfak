@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kiymali-kabak.jpg
+imageAlt: 'Kıymalı kabak yemeği, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

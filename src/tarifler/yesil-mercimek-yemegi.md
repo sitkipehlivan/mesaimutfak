@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/yesil-mercimek-yemegi.jpg
+imageAlt: 'Yeşil mercimek yemeği, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/dalyan-kofte.jpg
+imageAlt: 'Dalyan köfte, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

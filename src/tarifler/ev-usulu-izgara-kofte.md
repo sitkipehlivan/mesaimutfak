@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-usulu-izgara-kofte.jpg
+imageAlt: 'Ev usulü ızgara köfte, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

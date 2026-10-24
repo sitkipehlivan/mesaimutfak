@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kiymali-makarna.jpg
+imageAlt: 'Kıymalı makarna, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

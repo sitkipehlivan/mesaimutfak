@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/hamsi-tava.jpg
+imageAlt: 'Hamsi tava, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

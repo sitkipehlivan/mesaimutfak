@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kremali-mantarli-makarna.jpg
+imageAlt: 'Kremalı mantarlı makarna, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

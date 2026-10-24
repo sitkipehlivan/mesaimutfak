@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/testi-kebabi.jpg
+imageAlt: 'Testi kebabı, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

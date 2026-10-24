@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/eksili-kofte.jpg
+imageAlt: 'Ekşili köfte, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

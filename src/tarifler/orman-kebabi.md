@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/orman-kebabi.jpg
+imageAlt: 'Orman kebabı, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

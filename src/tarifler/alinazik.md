@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/alinazik.jpg
+imageAlt: 'Ali nazik, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

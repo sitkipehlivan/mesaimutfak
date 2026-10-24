@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-tavuk-kanat.jpg
+imageAlt: 'Fırında tavuk kanat, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

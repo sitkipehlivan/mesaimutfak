@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-biber-dolmasi.jpg
+imageAlt: 'Etli biber dolması, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

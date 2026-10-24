@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kuzu-tandir.jpg
+imageAlt: 'Kuzu tandır, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

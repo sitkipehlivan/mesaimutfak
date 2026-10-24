@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-yaprak-sarma.jpg
+imageAlt: 'Etli yaprak sarma, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

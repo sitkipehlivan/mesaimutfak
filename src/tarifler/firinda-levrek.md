@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-levrek.jpg
+imageAlt: 'Fırında levrek, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

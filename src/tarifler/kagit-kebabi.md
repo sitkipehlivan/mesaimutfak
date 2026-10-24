@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kagit-kebabi.jpg
+imageAlt: 'Kağıt kebabı, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

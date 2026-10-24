@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/et-sote.jpg
+imageAlt: 'Et sote, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

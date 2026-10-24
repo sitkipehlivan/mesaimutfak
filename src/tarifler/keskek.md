@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/keskek.jpg
+imageAlt: 'Keşkek, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-bamya.jpg
+imageAlt: 'Etli bamya, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/patlican-oturtma.jpg
+imageAlt: 'Patlıcan oturtma, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

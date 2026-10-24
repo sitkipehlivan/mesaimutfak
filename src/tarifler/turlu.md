@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/turlu.jpg
+imageAlt: 'Türlü, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-karnabahar.jpg
+imageAlt: 'Fırında karnabahar, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

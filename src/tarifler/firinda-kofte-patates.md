@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-kofte-patates.jpg
+imageAlt: 'Fırında köfte patates, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

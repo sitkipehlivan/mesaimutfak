@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kuzu-incik.jpg
+imageAlt: 'Kuzu incik, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

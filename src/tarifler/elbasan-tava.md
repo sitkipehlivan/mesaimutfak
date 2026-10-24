@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/elbasan-tava.jpg
+imageAlt: 'Elbasan tava, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

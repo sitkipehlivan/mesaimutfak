@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/et-guvec.jpg
+imageAlt: 'Et güveç, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

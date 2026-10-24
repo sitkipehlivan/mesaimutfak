@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-tavuklu-patates.jpg
+imageAlt: 'Fırında tavuklu patates, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

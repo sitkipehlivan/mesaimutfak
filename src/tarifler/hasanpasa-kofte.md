@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/hasanpasa-kofte.jpg
+imageAlt: 'Hasanpaşa köfte, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

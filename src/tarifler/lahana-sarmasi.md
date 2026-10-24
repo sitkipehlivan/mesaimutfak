@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/lahana-sarmasi.jpg
+imageAlt: 'Etli lahana sarması, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

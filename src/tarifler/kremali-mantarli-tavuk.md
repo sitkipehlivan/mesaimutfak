@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kremali-mantarli-tavuk.jpg
+imageAlt: 'Kremalı mantarlı tavuk, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/yogurtlu-kebap.jpg
+imageAlt: 'Yoğurtlu kebap, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/inegol-kofte.jpg
+imageAlt: 'İnegöl köfte, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

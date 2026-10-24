@@ -18,8 +18,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/domates-soslu-feslegenli-makarna.jpg
+imageAlt: 'Domates soslu fesleğenli makarna, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

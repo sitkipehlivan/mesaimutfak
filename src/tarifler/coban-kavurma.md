@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/coban-kavurma.jpg
+imageAlt: 'Çoban kavurma, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

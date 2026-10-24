@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/papaz-yahnisi.jpg
+imageAlt: 'Papaz yahnisi, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

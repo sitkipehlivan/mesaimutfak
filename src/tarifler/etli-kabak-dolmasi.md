@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-kabak-dolmasi.jpg
+imageAlt: 'Etli kabak dolması, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

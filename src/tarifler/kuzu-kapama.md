@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kuzu-kapama.jpg
+imageAlt: 'Kuzu kapama, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

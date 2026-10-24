@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-sis.jpg
+imageAlt: 'Tavuk şiş, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

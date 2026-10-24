@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-kapama.jpg
+imageAlt: 'Tavuk kapama, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

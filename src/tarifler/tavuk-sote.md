@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-sote.jpg
+imageAlt: 'Tavuk sote, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

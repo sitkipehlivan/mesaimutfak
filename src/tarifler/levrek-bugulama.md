@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/levrek-bugulama.jpg
+imageAlt: 'Levrek buğulama, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

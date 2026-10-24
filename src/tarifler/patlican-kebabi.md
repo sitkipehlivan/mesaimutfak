@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/patlican-kebabi.jpg
+imageAlt: 'Patlıcan kebabı, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

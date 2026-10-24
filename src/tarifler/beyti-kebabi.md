@@ -15,8 +15,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/beyti-kebabi.jpg
+imageAlt: 'Beyti kebabı, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

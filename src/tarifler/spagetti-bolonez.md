@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/spagetti-bolonez.jpg
+imageAlt: 'Spagetti bolonez, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

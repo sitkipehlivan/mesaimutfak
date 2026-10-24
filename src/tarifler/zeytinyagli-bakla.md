@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-bakla.jpg
+imageAlt: 'Zeytinyağlı taze bakla, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

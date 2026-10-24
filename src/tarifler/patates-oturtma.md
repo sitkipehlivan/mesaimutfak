@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/patates-oturtma.jpg
+imageAlt: 'Patates oturtma, servise hazır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
