@@ -1,23 +1,23 @@
 {
-  "week": "2026-H43",
-  "hero": "tatli-patates-corbasi",
+  "week": "2026-H44",
+  "hero": "kirmizi-mercimek-corbasi",
   "heroEyebrow": "Haftanın tarifi · Çorbalar",
   "picks": [
+    "hamsi-tava",
+    "pazi-kavurmasi",
     "ayva-tatlisi",
-    "etli-nohut",
-    "zeytinyagli-kuru-fasulye",
     "firinda-kasarli-mantar",
-    "karisik-pide",
-    "nohutlu-bulgur-pilavi",
-    "serpme-kahvalti",
-    "ezogelin-corbasi"
+    "peynirli-pogaca",
+    "tereyagli-pirinc-pilavi",
+    "tatli-patatesli-yumurtali-kahvalti-tavasi",
+    "tatli-patates-corbasi"
   ],
   "popular": [
-    "iskender",
     "sac-tava",
     "etli-yaprak-sarma",
-    "dinamit-karides"
+    "iskender",
+    "karisik-pide"
   ],
-  "popularSource": "secki",
-  "updated": "2026-10-24"
+  "popularSource": "goruntulenme",
+  "updated": "2026-10-26"
 }
