@@ -86,6 +86,8 @@ def main():
         except Exception as e:
             print(f'   HATA: {e}')
             failed.append(f'{slug}: {str(e)[:200]}')
+            if 'kotası' in str(e):
+                break
     print(f'\nÜretilen: {len(done)} | Hata: {len(failed)} | Kalan: {len(todo) - len(done)}')
     for f in failed:
         print('  !', f)

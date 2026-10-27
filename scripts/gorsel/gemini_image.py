@@ -92,6 +92,8 @@ def generate(prompt, images=(), aspect='16:9'):
                 except GeminiError as e:
                     msg = str(e)
                     errors.append(f'{model}/{fn.__name__}: {msg}')
+                    if 'exceeded your current quota' in msg or 'billing' in msg.lower():
+                        raise GeminiError('Gemini kotası/faturalandırma hatası (API anahtarının projesinde faturalandırma açık mı?): ' + msg[:300])
                     if msg.startswith('HTTP 429') or msg.startswith('HTTP 5'):
                         time.sleep(20)
                         continue
