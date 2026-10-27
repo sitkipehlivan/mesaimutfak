@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/islak-kek.jpg
+imageAlt: 'Islak kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

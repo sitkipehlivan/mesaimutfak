@@ -15,8 +15,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/iskembe-corbasi.jpg
+imageAlt: 'İşkembe çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

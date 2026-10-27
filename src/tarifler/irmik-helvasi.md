@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/irmik-helvasi.jpg
+imageAlt: 'İrmik helvası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

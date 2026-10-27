@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/incir-tatlisi.jpg
+imageAlt: 'İncir tatlısı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
