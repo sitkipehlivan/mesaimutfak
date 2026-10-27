@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-ekmegi.jpg
+imageAlt: 'Airfryer’da ekmek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

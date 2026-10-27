@@ -19,8 +19,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-elma-cipsi.jpg
+imageAlt: 'Airfryer’da tarçınlı elma cipsi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
