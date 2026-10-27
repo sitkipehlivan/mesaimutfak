@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/yogurtlu-kabak.jpg
+imageAlt: 'Yoğurtlu kabak mezesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

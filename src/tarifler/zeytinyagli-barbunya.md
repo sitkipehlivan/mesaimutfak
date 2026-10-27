@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-barbunya.jpg
+imageAlt: 'Zeytinyağlı barbunya'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

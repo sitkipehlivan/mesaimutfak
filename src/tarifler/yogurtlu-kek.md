@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/yogurtlu-kek.jpg
+imageAlt: 'Yoğurtlu kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

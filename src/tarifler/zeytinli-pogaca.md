@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinli-pogaca.jpg
+imageAlt: 'Zeytinli poğaça'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

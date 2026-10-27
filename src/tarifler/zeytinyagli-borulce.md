@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-borulce.jpg
+imageAlt: 'Zeytinyağlı börülce'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

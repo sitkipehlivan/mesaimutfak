@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-yerelmasi.jpg
+imageAlt: 'Zeytinyağlı yer elması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

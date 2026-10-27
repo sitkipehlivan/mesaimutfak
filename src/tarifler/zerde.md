@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/zerde.jpg
+imageAlt: 'Zerde'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

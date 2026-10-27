@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-kereviz.jpg
+imageAlt: 'Zeytinyağlı kereviz'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/yulaf-lapasi.jpg
+imageAlt: 'Muzlu yulaf lapası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

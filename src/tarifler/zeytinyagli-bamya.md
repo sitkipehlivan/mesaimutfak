@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-bamya.jpg
+imageAlt: 'Zeytinyağlı bamya'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

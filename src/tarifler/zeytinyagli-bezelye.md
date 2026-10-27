@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-bezelye.jpg
+imageAlt: 'Zeytinyağlı bezelye'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

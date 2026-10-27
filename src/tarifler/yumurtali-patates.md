@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/yumurtali-patates.jpg
+imageAlt: 'Yumurtalı patates'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

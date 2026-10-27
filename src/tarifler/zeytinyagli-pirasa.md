@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-pirasa.jpg
+imageAlt: 'Zeytinyağlı pırasa'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -19,8 +19,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-kabak.jpg
+imageAlt: 'Zeytinyağlı kabak'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

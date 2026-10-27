@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/yogurtlu-havuc.jpg
+imageAlt: 'Yoğurtlu havuç tarator'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

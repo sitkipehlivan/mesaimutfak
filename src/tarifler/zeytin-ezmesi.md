@@ -18,8 +18,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytin-ezmesi.jpg
+imageAlt: 'Zeytin ezmesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -19,8 +19,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/yogurtlu-meyveli-parfe.jpg
+imageAlt: 'Yoğurtlu meyveli parfe'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

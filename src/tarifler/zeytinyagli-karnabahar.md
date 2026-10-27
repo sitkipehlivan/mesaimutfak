@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-karnabahar.jpg
+imageAlt: 'Zeytinyağlı karnabahar'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

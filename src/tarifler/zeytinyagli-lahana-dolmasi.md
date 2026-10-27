@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/zeytinyagli-lahana-dolmasi.jpg
+imageAlt: 'Zeytinyağlı lahana sarması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/yunan-salatasi.jpg
+imageAlt: 'Yunan salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
