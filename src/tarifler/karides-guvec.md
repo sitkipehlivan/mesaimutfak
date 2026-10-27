@@ -18,8 +18,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/karides-guvec.jpg
+imageAlt: 'Karides güveç'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -18,8 +18,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kabak-tatlisi.jpg
+imageAlt: 'Kabak tatlısı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

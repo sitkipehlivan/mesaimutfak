@@ -16,8 +16,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kalamar-tava.jpg
+imageAlt: 'Kalamar tava'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/kabak-corbasi.jpg
+imageAlt: 'Yoğurtlu kabak çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

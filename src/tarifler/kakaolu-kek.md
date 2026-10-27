@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kakaolu-kek.jpg
+imageAlt: 'Kakaolu kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

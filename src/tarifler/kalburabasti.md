@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kalburabasti.jpg
+imageAlt: 'Kalburabastı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kasarli-tost.jpg
+imageAlt: 'Kaşarlı tost'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

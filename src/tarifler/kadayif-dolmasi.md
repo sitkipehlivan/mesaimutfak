@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kadayif-dolmasi.jpg
+imageAlt: 'Kadayıf dolması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
