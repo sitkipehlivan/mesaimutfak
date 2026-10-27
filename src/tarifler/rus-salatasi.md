@@ -15,8 +15,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/rus-salatasi.jpg
+imageAlt: 'Rus salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

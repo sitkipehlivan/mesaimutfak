@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tahinli-kurabiye.jpg
+imageAlt: 'Tahinli kurabiye'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

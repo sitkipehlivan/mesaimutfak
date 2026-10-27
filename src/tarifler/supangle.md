@@ -14,8 +14,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/supangle.jpg
+imageAlt: 'Supangle'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

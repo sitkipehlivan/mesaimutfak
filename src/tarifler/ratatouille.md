@@ -20,8 +20,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ratatouille.jpg
+imageAlt: 'Ratatouille'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

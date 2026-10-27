@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sebzeli-spring-roll.jpg
+imageAlt: 'Sebzeli spring roll'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

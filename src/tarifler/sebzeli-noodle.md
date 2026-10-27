@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sebzeli-noodle.jpg
+imageAlt: 'Sebzeli noodle'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

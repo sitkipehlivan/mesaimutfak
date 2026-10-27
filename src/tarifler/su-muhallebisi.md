@@ -18,8 +18,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/su-muhallebisi.jpg
+imageAlt: 'Su muhallebisi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

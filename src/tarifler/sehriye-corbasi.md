@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/sehriye-corbasi.jpg
+imageAlt: 'Şehriye çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

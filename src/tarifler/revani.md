@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/revani.jpg
+imageAlt: 'Revani'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

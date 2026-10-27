@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/shakshuka.jpg
+imageAlt: 'Shakshuka'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

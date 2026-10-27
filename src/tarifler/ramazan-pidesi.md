@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/ramazan-pidesi.jpg
+imageAlt: 'Ramazan pidesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

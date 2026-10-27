@@ -17,8 +17,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/sebzeli-pilav.jpg
+imageAlt: 'Sebzeli pirinç pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

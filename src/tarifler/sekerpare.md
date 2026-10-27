@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sekerpare.jpg
+imageAlt: 'Şekerpare'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

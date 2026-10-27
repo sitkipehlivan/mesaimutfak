@@ -19,8 +19,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/saksuka.jpg
+imageAlt: 'Şakşuka'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

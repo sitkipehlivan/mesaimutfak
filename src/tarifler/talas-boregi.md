@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/talas-boregi.jpg
+imageAlt: 'Talaş böreği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

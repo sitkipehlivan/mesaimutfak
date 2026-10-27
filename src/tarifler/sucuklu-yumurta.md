@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/sucuklu-yumurta.jpg
+imageAlt: 'Sucuklu yumurta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

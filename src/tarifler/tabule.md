@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tabule.jpg
+imageAlt: 'Tabule'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

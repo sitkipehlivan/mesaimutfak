@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/puf-boregi.jpg
+imageAlt: 'Puf böreği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

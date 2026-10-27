@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/sebzeli-yumurta-muffin.jpg
+imageAlt: 'Sebzeli yumurta muffin'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

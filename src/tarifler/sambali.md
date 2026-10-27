@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sambali.jpg
+imageAlt: 'Şambali'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sutlu-nuriye.jpg
+imageAlt: 'Sütlü nuriye'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

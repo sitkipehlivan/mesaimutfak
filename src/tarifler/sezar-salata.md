@@ -16,8 +16,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sezar-salata.jpg
+imageAlt: 'Sezar salata'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

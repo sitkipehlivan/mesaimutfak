@@ -18,8 +18,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/san-sebastian-cheesecake.jpg
+imageAlt: 'San Sebastian cheesecake'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

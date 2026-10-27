@@ -18,8 +18,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/sebze-corbasi.jpg
+imageAlt: 'Sebze çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

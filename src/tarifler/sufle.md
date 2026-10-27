@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sufle.jpg
+imageAlt: 'Sufle'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
