@@ -16,8 +16,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/pad-thai.jpg
+imageAlt: 'Pad thai'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

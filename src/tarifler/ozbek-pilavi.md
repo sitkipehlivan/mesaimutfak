@@ -19,8 +19,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/ozbek-pilavi.jpg
+imageAlt: 'Özbek pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

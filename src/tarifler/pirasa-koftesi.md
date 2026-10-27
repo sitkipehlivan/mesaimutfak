@@ -17,8 +17,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/pirasa-koftesi.jpg
+imageAlt: 'Pırasa köftesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

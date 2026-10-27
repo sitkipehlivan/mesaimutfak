@@ -18,8 +18,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/pirasa-corbasi.jpg
+imageAlt: 'Pırasa çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

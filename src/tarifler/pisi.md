@@ -15,8 +15,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/pisi.jpg
+imageAlt: 'Pişi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

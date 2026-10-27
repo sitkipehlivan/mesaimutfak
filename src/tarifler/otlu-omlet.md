@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/otlu-omlet.jpg
+imageAlt: 'Otlu omlet'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

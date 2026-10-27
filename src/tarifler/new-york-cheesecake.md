@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/new-york-cheesecake.jpg
+imageAlt: 'New York cheesecake'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

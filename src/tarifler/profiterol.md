@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/profiterol.jpg
+imageAlt: 'Profiterol'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

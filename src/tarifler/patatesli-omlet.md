@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/patatesli-omlet.jpg
+imageAlt: 'İspanyol omleti'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

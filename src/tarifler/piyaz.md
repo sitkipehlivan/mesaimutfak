@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/piyaz.jpg
+imageAlt: 'Piyaz'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

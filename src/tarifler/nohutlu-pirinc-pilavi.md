@@ -15,8 +15,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/nohutlu-pirinc-pilavi.jpg
+imageAlt: 'Nohutlu pirinç pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

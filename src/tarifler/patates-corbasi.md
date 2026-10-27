@@ -18,8 +18,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/patates-corbasi.jpg
+imageAlt: 'Patates çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

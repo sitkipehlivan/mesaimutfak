@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/pastirmali-yumurta.jpg
+imageAlt: 'Pastırmalı yumurta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

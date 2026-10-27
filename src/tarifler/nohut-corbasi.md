@@ -18,8 +18,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/nohut-corbasi.jpg
+imageAlt: 'Nohut çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

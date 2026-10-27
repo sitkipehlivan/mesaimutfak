@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/pesto-makarna.jpg
+imageAlt: 'Fesleğen pesto soslu makarna'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

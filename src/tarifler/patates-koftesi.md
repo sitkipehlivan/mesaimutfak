@@ -16,8 +16,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/patates-koftesi.jpg
+imageAlt: 'Patates köftesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

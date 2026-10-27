@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/panna-cotta.jpg
+imageAlt: 'Panna cotta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

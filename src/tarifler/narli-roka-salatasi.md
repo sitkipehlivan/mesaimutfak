@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/narli-roka-salatasi.jpg
+imageAlt: 'Narlı roka salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

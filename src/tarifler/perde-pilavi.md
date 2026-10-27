@@ -16,8 +16,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/perde-pilavi.jpg
+imageAlt: 'Perde pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

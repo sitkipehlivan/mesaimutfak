@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/paella.jpg
+imageAlt: 'Paella'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

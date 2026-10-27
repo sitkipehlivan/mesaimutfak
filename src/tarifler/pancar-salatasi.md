@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/pancar-salatasi.jpg
+imageAlt: 'Pancar salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

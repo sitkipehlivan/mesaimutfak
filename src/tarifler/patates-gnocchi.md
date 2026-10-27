@@ -15,8 +15,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/patates-gnocchi.jpg
+imageAlt: 'Patates gnocchi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

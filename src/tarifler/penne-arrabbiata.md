@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/penne-arrabbiata.jpg
+imageAlt: 'Penne arrabbiata'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

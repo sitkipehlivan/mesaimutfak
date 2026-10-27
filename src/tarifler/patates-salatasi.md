@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/patates-salatasi.jpg
+imageAlt: 'Patates salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

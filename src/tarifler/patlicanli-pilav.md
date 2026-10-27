@@ -18,8 +18,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/patlicanli-pilav.jpg
+imageAlt: 'Patlıcanlı pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
