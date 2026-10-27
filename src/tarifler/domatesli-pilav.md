@@ -16,8 +16,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/domatesli-pilav.jpg
+imageAlt: 'Domatesli pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

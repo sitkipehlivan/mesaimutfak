@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/coban-salatasi.jpg
+imageAlt: 'Çoban salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

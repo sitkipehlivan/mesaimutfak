@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/creme-brulee.jpg
+imageAlt: 'Crème brûlée'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

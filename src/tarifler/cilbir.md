@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/cilbir.jpg
+imageAlt: 'Çılbır'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

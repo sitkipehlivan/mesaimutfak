@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/elmali-turta.jpg
+imageAlt: 'Elmalı turta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-yapimi-yas-pasta.jpg
+imageAlt: 'Ev yapımı yaş pasta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

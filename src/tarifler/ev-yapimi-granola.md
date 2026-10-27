@@ -16,8 +16,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-yapimi-granola.jpg
+imageAlt: 'Ev yapımı granola'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

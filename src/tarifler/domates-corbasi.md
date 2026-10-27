@@ -18,8 +18,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/domates-corbasi.jpg
+imageAlt: 'Domates çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-baklavasi.jpg
+imageAlt: 'Ev baklavası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

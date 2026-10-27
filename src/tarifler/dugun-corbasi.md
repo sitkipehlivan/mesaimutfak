@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/dugun-corbasi.jpg
+imageAlt: 'Düğün çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

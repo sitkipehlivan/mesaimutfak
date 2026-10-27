@@ -16,8 +16,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-bulgur-pilavi.jpg
+imageAlt: 'Etli bulgur pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

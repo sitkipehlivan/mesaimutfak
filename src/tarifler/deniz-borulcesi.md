@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/deniz-borulcesi.jpg
+imageAlt: 'Deniz börülcesi salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

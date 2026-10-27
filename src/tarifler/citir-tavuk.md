@@ -17,8 +17,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/citir-tavuk.jpg
+imageAlt: 'Çıtır tavuk'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

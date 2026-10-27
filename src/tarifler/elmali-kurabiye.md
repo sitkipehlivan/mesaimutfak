@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/elmali-kurabiye.jpg
+imageAlt: 'Elmalı kurabiye'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

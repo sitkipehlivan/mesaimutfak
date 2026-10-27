@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/cikolatali-cookie.jpg
+imageAlt: 'Çikolata parçacıklı cookie'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

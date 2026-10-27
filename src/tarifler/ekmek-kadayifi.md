@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ekmek-kadayifi.jpg
+imageAlt: 'Kaymaklı ekmek kadayıfı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

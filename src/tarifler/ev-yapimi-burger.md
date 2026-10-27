@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-yapimi-burger.jpg
+imageAlt: 'Ev yapımı burger'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

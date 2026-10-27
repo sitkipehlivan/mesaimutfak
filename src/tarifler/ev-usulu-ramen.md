@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-usulu-ramen.jpg
+imageAlt: 'Ev usulü ramen'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

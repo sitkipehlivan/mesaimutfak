@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-yapimi-pizza.jpg
+imageAlt: 'Ev yapımı pizza'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

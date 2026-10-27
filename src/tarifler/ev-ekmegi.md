@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-ekmegi.jpg
+imageAlt: 'Ev ekmeği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

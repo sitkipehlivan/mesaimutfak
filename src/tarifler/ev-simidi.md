@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-simidi.jpg
+imageAlt: 'Ev simidi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-lavasi.jpg
+imageAlt: 'Ev lavaşı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

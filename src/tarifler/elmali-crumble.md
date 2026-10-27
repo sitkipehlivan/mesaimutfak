@@ -19,8 +19,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/elmali-crumble.jpg
+imageAlt: 'Elmalı crumble'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

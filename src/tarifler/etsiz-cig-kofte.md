@@ -16,8 +16,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/etsiz-cig-kofte.jpg
+imageAlt: 'Etsiz çiğ köfte'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
