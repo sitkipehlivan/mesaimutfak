@@ -87,6 +87,7 @@ def main():
             print(f'   HATA: {e}')
             failed.append(f'{slug}: {str(e)[:200]}')
             if 'kotası' in str(e):
+                open('/tmp/gemini-last.log', 'w').write('kotası')
                 break
     print(f'\nÜretilen: {len(done)} | Hata: {len(failed)} | Kalan: {len(todo) - len(done)}')
     for f in failed:

@@ -58,7 +58,7 @@ def _interactions(model, prompt, images, key, aspect):
     inp = [{'type': 'text', 'text': prompt}]
     for mime, b in images:
         inp.append({'type': 'image', 'mime_type': mime, 'data': base64.b64encode(b).decode()})
-    body = {'model': model, 'input': inp, 'response_format': {'type': 'image', 'aspect_ratio': aspect, 'image_size': '2K'}}
+    body = {'model': model, 'input': inp, 'response_format': {'type': 'image', 'aspect_ratio': aspect, 'image_size': '1K'}}
     return _post(f'{API}/interactions', body, key)
 
 
@@ -67,7 +67,7 @@ def _generate_content(model, prompt, images, key, aspect):
     for mime, b in images:
         parts.append({'inline_data': {'mime_type': mime, 'data': base64.b64encode(b).decode()}})
     body = {'contents': [{'role': 'user', 'parts': parts}],
-            'generationConfig': {'responseModalities': ['IMAGE'], 'imageConfig': {'aspectRatio': aspect}}}
+            'generationConfig': {'responseModalities': ['IMAGE'], 'imageConfig': {'aspectRatio': aspect, 'imageSize': '1K'}}}
     return _post(f'{API}/models/{model}:generateContent', body, key)
 
 
