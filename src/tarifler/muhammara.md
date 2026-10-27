@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/muhammara.jpg
+imageAlt: 'Muhammara'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

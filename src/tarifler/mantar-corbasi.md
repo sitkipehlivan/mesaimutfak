@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/mantar-corbasi.jpg
+imageAlt: 'Kremalı mantar çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

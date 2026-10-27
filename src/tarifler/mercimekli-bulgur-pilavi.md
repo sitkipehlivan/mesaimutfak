@@ -16,8 +16,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/mercimekli-bulgur-pilavi.jpg
+imageAlt: 'Mercimekli bulgur pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

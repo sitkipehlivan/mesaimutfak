@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/milfoy-borek.jpg
+imageAlt: 'Peynirli milföy böreği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

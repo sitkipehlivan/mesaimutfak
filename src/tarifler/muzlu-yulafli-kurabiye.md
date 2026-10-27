@@ -19,8 +19,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/muzlu-yulafli-kurabiye.jpg
+imageAlt: 'Muzlu yulaflı kurabiye'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

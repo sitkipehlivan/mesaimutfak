@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/minestrone.jpg
+imageAlt: 'Minestrone'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

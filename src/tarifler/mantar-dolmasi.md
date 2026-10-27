@@ -19,8 +19,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/mantar-dolmasi.jpg
+imageAlt: 'Mantar dolması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

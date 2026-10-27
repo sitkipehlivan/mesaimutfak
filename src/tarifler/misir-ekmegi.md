@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/misir-ekmegi.jpg
+imageAlt: 'Mısır ekmeği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

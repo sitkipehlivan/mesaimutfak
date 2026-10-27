@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/muhallebi.jpg
+imageAlt: 'Muhallebi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

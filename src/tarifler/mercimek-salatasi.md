@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/mercimek-salatasi.jpg
+imageAlt: 'Yeşil mercimek salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

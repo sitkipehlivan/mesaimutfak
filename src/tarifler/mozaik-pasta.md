@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/mozaik-pasta.jpg
+imageAlt: 'Mozaik pasta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

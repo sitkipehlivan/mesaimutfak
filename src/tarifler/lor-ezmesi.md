@@ -16,8 +16,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/lor-ezmesi.jpg
+imageAlt: 'Otlu lor ezmesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

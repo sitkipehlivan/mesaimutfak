@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/misir-corbasi.jpg
+imageAlt: 'Mısır çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

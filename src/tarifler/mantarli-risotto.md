@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/mantarli-risotto.jpg
+imageAlt: 'Mantarlı risotto'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

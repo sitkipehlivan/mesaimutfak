@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/mevsim-salatasi.jpg
+imageAlt: 'Mevsim salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

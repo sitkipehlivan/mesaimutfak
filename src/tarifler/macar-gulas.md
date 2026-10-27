@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/macar-gulas.jpg
+imageAlt: 'Macar gulaşı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

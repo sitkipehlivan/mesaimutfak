@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/mac-and-cheese.jpg
+imageAlt: 'Mac and cheese'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

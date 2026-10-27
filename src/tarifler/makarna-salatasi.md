@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/makarna-salatasi.jpg
+imageAlt: 'Makarna salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

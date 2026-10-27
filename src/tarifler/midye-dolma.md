@@ -16,8 +16,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/midye-dolma.jpg
+imageAlt: 'Midye dolma'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

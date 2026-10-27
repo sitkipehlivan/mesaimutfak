@@ -17,8 +17,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/maklube.jpg
+imageAlt: 'Maklube'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

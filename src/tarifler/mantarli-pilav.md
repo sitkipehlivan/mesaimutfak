@@ -16,8 +16,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/mantarli-pilav.jpg
+imageAlt: 'Mantarlı pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
