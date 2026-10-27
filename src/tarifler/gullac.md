@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/gullac.jpg
+imageAlt: 'Güllaç'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

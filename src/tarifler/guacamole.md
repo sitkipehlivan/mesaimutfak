@@ -20,8 +20,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/guacamole.jpg
+imageAlt: 'Guacamole'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

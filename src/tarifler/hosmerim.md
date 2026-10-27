@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/hosmerim.jpg
+imageAlt: 'Höşmerim'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

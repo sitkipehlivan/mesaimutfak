@@ -19,8 +19,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/falafel.jpg
+imageAlt: 'Falafel'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

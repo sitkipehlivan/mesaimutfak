@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/gul-boregi.jpg
+imageAlt: 'Gül böreği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

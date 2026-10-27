@@ -19,8 +19,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/humus.jpg
+imageAlt: 'Humus'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

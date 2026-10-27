@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/gavurdagi-salatasi.jpg
+imageAlt: 'Gavurdağı salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

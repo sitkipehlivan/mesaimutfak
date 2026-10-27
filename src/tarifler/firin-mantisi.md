@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/firin-mantisi.jpg
+imageAlt: 'Fırın mantısı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

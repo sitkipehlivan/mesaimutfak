@@ -19,8 +19,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/hint-dal.jpg
+imageAlt: 'Hint usulü dal'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

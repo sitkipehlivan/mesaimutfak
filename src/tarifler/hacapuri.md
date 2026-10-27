@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/hacapuri.jpg
+imageAlt: 'Acaruli haçapuri'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

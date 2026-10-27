@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/hurmali-enerji-toplari.jpg
+imageAlt: 'Hurmalı enerji topları'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

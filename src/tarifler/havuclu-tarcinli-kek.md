@@ -18,8 +18,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/havuclu-tarcinli-kek.jpg
+imageAlt: 'Havuçlu tarçınlı kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

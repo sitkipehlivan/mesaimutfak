@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/haydari.jpg
+imageAlt: 'Haydari'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

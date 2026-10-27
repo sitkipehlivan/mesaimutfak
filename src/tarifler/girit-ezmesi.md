@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/girit-ezmesi.jpg
+imageAlt: 'Girit ezmesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

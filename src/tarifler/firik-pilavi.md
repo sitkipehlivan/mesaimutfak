@@ -15,8 +15,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/firik-pilavi.jpg
+imageAlt: 'Firik pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/ic-pilav.jpg
+imageAlt: 'İç pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

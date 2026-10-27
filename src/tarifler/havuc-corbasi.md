@@ -18,8 +18,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/havuc-corbasi.jpg
+imageAlt: 'Zencefilli havuç çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

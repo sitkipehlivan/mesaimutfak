@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/fattus.jpg
+imageAlt: 'Fattuş'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -20,8 +20,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/firinda-baharatli-patates.jpg
+imageAlt: 'Fırında baharatlı patates'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

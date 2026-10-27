@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/hashasli-corek.jpg
+imageAlt: 'Haşhaşlı çörek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

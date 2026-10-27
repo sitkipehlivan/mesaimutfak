@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/fettuccine-alfredo.jpg
+imageAlt: 'Fettuccine alfredo'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

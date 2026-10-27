@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/gazpacho.jpg
+imageAlt: 'Gazpacho'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

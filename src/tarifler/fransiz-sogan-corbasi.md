@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/fransiz-sogan-corbasi.jpg
+imageAlt: 'Fransız soğan çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

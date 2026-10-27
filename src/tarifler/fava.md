@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/fava.jpg
+imageAlt: 'Fava'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

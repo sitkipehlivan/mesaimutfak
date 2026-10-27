@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/hingel.jpg
+imageAlt: 'Hingel'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
