@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/bosnak-boregi.jpg
+imageAlt: 'Boşnak böreği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

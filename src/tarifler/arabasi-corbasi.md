@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/arabasi-corbasi.jpg
+imageAlt: 'Arabaşı çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

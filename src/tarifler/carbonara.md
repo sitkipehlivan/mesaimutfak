@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/carbonara.jpg
+imageAlt: 'Spagetti carbonara'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

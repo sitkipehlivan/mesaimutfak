@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/beyran.jpg
+imageAlt: 'Beyran'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

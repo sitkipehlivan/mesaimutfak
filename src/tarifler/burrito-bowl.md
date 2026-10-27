@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/burrito-bowl.jpg
+imageAlt: 'Burrito bowl'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

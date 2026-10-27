@@ -16,8 +16,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/atom.jpg
+imageAlt: 'Atom'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

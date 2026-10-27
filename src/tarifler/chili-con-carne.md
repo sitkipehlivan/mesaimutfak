@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/chili-con-carne.jpg
+imageAlt: 'Chili con carne'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

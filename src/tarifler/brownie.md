@@ -18,8 +18,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/brownie.jpg
+imageAlt: 'Brownie'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

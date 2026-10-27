@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/balkabagi-corbasi.jpg
+imageAlt: 'Balkabağı çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

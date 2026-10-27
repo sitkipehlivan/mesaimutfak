@@ -15,8 +15,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/arpa-sehriye-pilavi.jpg
+imageAlt: 'Arpa şehriye pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

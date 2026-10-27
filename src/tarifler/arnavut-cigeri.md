@@ -15,8 +15,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/arnavut-cigeri.jpg
+imageAlt: 'Arnavut ciğeri'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

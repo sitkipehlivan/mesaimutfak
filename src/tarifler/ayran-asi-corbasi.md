@@ -15,8 +15,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/ayran-asi-corbasi.jpg
+imageAlt: 'Ayran aşı çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

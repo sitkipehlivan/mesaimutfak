@@ -21,8 +21,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/bruschetta.jpg
+imageAlt: 'Bruschetta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

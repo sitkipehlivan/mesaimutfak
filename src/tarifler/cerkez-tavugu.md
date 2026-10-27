@@ -14,8 +14,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/cerkez-tavugu.jpg
+imageAlt: 'Çerkez tavuğu'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

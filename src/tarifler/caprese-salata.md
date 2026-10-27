@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/caprese-salata.jpg
+imageAlt: 'Caprese salata'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

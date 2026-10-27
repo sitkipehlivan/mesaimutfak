@@ -17,8 +17,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/bezelyeli-pilav.jpg
+imageAlt: 'Bezelyeli pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

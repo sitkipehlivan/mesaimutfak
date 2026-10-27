@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/asure.jpg
+imageAlt: 'Aşure'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

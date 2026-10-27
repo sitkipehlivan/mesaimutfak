@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/babagannus.jpg
+imageAlt: 'Babagannuş'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

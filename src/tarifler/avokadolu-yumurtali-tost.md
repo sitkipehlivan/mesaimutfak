@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/avokadolu-yumurtali-tost.jpg
+imageAlt: 'Avokadolu yumurtalı tost'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

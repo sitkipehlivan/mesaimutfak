@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/brokoli-corbasi.jpg
+imageAlt: 'Brokoli çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

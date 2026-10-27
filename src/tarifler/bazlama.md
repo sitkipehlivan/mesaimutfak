@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/bazlama.jpg
+imageAlt: 'Bazlama'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

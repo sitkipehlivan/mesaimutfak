@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/acuka.jpg
+imageAlt: 'Acuka'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

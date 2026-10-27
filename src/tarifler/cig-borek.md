@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/cig-borek.jpg
+imageAlt: 'Çiğ börek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

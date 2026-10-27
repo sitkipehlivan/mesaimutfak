@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/churros.jpg
+imageAlt: 'Churros'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
