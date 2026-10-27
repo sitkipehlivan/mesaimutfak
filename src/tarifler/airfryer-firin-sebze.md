@@ -19,8 +19,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-firin-sebze.jpg
+imageAlt: 'Airfryer’da közlenmiş sebze'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

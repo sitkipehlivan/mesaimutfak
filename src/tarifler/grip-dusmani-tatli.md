@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/grip-dusmani-tatli.jpg
+imageAlt: 'Grip düşmanı tatlı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

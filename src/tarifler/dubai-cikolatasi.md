@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/dubai-cikolatasi.jpg
+imageAlt: 'Dubai çikolatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

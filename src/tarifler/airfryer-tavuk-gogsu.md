@@ -18,8 +18,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-tavuk-gogsu.jpg
+imageAlt: 'Airfryer’da sulu tavuk göğsü'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

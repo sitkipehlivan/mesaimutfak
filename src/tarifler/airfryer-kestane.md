@@ -20,8 +20,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-kestane.jpg
+imageAlt: 'Airfryer’da kestane'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

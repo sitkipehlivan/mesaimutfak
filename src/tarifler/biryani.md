@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/biryani.jpg
+imageAlt: 'Tavuklu biryani'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

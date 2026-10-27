@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-mini-pizza.jpg
+imageAlt: 'Airfryer’da lavaş pizza'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

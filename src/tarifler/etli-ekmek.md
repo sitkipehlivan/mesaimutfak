@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/etli-ekmek.jpg
+imageAlt: 'Konya etli ekmek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

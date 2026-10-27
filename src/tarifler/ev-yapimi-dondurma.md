@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ev-yapimi-dondurma.jpg
+imageAlt: 'Makinesiz ev yapımı dondurma'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

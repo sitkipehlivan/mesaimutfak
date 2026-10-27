@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/ekler.jpg
+imageAlt: 'Ekler'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

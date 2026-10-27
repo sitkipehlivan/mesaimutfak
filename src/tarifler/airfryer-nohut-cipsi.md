@@ -18,8 +18,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-nohut-cipsi.jpg
+imageAlt: 'Airfryer’da çıtır nohut'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

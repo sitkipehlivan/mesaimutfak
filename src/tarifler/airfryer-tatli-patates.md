@@ -19,8 +19,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-tatli-patates.jpg
+imageAlt: 'Airfryer’da tatlı patates kızartması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -19,8 +19,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/hamsili-pilav.jpg
+imageAlt: 'Hamsili pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

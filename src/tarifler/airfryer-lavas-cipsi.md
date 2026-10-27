@@ -17,8 +17,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-lavas-cipsi.jpg
+imageAlt: 'Airfryer’da baharatlı lavaş cipsi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -19,8 +19,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-kozlenmis-biber.jpg
+imageAlt: 'Airfryer’da közlenmiş biber'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

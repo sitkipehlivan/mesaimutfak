@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/altin-bilezik-tatlisi.jpg
+imageAlt: 'Altın bilezik tatlısı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

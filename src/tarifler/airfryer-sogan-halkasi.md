@@ -16,8 +16,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-sogan-halkasi.jpg
+imageAlt: 'Airfryer’da soğan halkası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

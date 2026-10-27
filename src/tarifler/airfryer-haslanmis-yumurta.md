@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-haslanmis-yumurta.jpg
+imageAlt: 'Airfryer’da haşlanmış yumurta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

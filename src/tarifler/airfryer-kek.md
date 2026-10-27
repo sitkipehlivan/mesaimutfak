@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-kek.jpg
+imageAlt: 'Airfryer’da kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-kunefe.jpg
+imageAlt: 'Airfryer’da künefe'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

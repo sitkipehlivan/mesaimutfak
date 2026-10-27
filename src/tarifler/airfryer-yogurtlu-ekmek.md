@@ -18,8 +18,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-yogurtlu-ekmek.jpg
+imageAlt: 'Airfryer’da mayasız yoğurtlu ekmek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

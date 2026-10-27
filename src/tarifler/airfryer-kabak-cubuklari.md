@@ -18,8 +18,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-kabak-cubuklari.jpg
+imageAlt: 'Airfryer’da parmesanlı kabak çubukları'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -18,8 +18,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/airfryer-patlican.jpg
+imageAlt: 'Airfryer’da baharatlı patlıcan'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

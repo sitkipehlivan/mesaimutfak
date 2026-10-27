@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/biskuvili-pasta.jpg
+imageAlt: 'Bisküvili pasta'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
