@@ -1,0 +1,42 @@
+# Görseli olmayan tariflere Gemini ile sitenin tarzında yemek fotoğrafı üretir.
+name: Tarif görselleri (Gemini)
+on:
+  push:
+    branches: [main]
+    paths: ['src/tarifler/**']
+  schedule:
+    - cron: '40 6 * * *'   # her gün 09:40 (Türkiye)
+  workflow_dispatch:
+    inputs:
+      max:
+        description: 'Bu çalıştırmada en fazla kaç görsel'
+        default: '10'
+permissions:
+  contents: write
+concurrency:
+  group: tarif-gorselleri
+  cancel-in-progress: false
+jobs:
+  gorsel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow pyyaml
+      - name: Görselleri üret
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MAX_IMAGES: ${{ github.event.inputs.max || '10' }}
+        run: python scripts/gorsel/tarif_gorselleri.py
+      - name: Değişiklik varsa kaydet
+        run: |
+          git config user.name "mesaimutfak-bot"
+          git config user.email "hello@mesaimutfak.com"
+          git add src/img/tarifler src/tarifler
+          if git diff --cached --quiet; then echo "Yeni görsel yok"; exit 0; fi
+          git commit -m "Tarif görselleri: $(git diff --cached --name-only -- src/img/tarifler | wc -l) yeni (Gemini)"
+          git pull --rebase origin main
+          git push
