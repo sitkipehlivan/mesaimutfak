@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kiymali-taco.jpg
+imageAlt: 'Kıymalı taco'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

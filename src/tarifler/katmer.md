@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/katmer.jpg
+imageAlt: 'Antep katmeri'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kusbasili-pide.jpg
+imageAlt: 'Kuşbaşılı pide'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

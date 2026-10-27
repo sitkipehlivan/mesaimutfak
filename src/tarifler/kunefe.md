@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kunefe.jpg
+imageAlt: 'Künefe'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

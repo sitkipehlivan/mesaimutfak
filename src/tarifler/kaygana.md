@@ -15,8 +15,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kaygana.jpg
+imageAlt: 'Kaygana'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

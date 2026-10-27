@@ -18,8 +18,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/kereviz-corbasi.jpg
+imageAlt: 'Kereviz çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

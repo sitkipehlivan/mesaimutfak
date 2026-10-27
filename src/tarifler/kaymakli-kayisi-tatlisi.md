@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kaymakli-kayisi-tatlisi.jpg
+imageAlt: 'Kaymaklı kayısı tatlısı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

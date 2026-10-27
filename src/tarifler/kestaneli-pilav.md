@@ -17,8 +17,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/kestaneli-pilav.jpg
+imageAlt: 'Kestaneli pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

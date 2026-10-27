@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kemalpasa.jpg
+imageAlt: 'Kemalpaşa tatlısı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

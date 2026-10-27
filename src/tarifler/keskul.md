@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/keskul.jpg
+imageAlt: 'Keşkül'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/kuskus-pilavi.jpg
+imageAlt: 'Kuskus pilavı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

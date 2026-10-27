@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kazandibi.jpg
+imageAlt: 'Kazandibi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

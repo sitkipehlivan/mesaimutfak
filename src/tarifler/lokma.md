@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/lokma.jpg
+imageAlt: 'Lokma'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

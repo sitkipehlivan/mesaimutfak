@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/krep.jpg
+imageAlt: 'Krep'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

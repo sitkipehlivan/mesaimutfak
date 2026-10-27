@@ -16,8 +16,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kung-pao-tavuk.jpg
+imageAlt: 'Kung pao tavuk'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/laz-boregi.jpg
+imageAlt: 'Laz böreği'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

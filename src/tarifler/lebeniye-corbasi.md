@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/lebeniye-corbasi.jpg
+imageAlt: 'Lebeniye çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

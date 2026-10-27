@@ -16,8 +16,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kayseri-yaglamasi.jpg
+imageAlt: 'Kayseri yağlaması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

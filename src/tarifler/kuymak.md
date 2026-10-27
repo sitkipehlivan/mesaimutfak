@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kuymak.jpg
+imageAlt: 'Kuymak'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

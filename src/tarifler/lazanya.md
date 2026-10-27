@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/lazanya.jpg
+imageAlt: 'Lazanya'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

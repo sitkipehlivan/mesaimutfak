@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kis.jpg
+imageAlt: 'Kiş'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kizarmis-pilav.jpg
+imageAlt: 'Kızarmış pilav (fried rice)'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

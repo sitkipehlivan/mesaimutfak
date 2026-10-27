@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/limonlu-kek.jpg
+imageAlt: 'Limonlu kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

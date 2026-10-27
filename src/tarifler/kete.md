@@ -17,8 +17,8 @@ art:
 - sun
 - rice
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/kete.jpg
+imageAlt: 'Kete'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/kesme-corba.jpg
+imageAlt: 'Kesme çorba'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
