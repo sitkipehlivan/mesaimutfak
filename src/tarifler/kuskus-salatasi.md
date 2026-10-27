@@ -17,8 +17,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/kuskus-salatasi.jpg
+imageAlt: 'Kuskus salatası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

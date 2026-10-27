@@ -19,8 +19,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/palamut-tava.jpg
+imageAlt: 'Palamut tava'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

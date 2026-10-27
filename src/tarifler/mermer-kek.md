@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/mermer-kek.jpg
+imageAlt: 'Mermer kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

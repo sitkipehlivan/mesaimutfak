@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tiramisu-toplari.jpg
+imageAlt: 'Tiramisu topları'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

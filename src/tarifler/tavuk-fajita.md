@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-fajita.jpg
+imageAlt: 'Tavuk fajita'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

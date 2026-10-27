@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/siveydiz.jpg
+imageAlt: 'Şiveydiz'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

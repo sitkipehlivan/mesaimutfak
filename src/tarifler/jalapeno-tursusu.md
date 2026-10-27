@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/jalapeno-tursusu.jpg
+imageAlt: 'Jalapeno turşusu'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

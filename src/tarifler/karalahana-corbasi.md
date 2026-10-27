@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/karalahana-corbasi.jpg
+imageAlt: 'Karalahana çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

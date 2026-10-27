@@ -17,8 +17,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/mantar-sote.jpg
+imageAlt: 'Mantar sote'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kakaolu-puding.jpg
+imageAlt: 'Kakaolu puding'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/saray-sarmasi.jpg
+imageAlt: 'Saray sarması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

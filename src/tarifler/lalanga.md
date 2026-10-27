@@ -16,8 +16,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/lalanga.jpg
+imageAlt: 'Lalanga'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

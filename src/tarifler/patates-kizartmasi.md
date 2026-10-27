@@ -19,8 +19,8 @@ art:
 - sun
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/patates-kizartmasi.jpg
+imageAlt: 'Çıtır patates kızartması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

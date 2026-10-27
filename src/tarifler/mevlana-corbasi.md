@@ -15,8 +15,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/mevlana-corbasi.jpg
+imageAlt: 'Mevlana çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

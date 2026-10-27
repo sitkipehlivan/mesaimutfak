@@ -16,8 +16,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kapuska.jpg
+imageAlt: 'Kapuska'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

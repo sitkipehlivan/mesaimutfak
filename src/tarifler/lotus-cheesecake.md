@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/lotus-cheesecake.jpg
+imageAlt: 'Lotus cheesecake'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

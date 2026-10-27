@@ -19,8 +19,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/acili-ezme.jpg
+imageAlt: 'Acılı ezme'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

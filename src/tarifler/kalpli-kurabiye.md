@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kalpli-kurabiye.jpg
+imageAlt: 'Kalpli kurabiye'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

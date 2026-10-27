@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/krem-karamel.jpg
+imageAlt: 'Krem karamel'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

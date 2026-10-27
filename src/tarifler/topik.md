@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/topik.jpg
+imageAlt: 'Topik'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

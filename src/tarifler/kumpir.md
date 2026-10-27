@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/kumpir.jpg
+imageAlt: 'Ev usulü kumpir'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

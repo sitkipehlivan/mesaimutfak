@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/portakalli-kek.jpg
+imageAlt: 'Portakallı kek'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

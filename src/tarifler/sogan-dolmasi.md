@@ -17,8 +17,8 @@ art:
 - tomato
 - onion
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/sogan-dolmasi.jpg
+imageAlt: 'Soğan dolması'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

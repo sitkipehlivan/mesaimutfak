@@ -17,8 +17,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/acibadem-kurabiyesi.jpg
+imageAlt: 'Acıbadem kurabiyesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
