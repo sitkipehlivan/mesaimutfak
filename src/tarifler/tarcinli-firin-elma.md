@@ -20,8 +20,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tarcinli-firin-elma.jpg
+imageAlt: 'Tarçınlı fırın elma'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

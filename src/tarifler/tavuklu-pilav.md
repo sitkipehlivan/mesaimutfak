@@ -17,8 +17,8 @@ art:
 - rice
 - sun
 - rice
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuklu-pilav.jpg
+imageAlt: 'Tavuklu pilav'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

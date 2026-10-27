@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tiramisu.jpg
+imageAlt: 'Tiramisu'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

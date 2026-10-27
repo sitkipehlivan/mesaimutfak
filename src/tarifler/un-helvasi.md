@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/un-helvasi.jpg
+imageAlt: 'Un helvası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/yesil-mercimek-corbasi.jpg
+imageAlt: 'Yeşil mercimek çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -18,8 +18,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/ton-balikli-salata.jpg
+imageAlt: 'Ton balıklı salata'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

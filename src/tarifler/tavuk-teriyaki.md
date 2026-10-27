@@ -18,8 +18,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-teriyaki.jpg
+imageAlt: 'Tavuk teriyaki'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

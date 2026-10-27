@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/tarhana-corbasi.jpg
+imageAlt: 'Tarhana çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

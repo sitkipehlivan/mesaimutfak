@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-gogsu.jpg
+imageAlt: 'Tavuk göğsü'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

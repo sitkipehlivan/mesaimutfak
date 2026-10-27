@@ -19,8 +19,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/yaban-mersinli-muffin.jpg
+imageAlt: 'Yaban mersinli muffin'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

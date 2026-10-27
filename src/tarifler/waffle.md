@@ -17,8 +17,8 @@ art:
 - sun
 - tomato
 - card
-image: ''
-imageAlt: ''
+image: /img/tarifler/waffle.jpg
+imageAlt: 'Waffle'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

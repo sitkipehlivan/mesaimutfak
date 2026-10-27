@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/un-kurabiyesi.jpg
+imageAlt: 'Un kurabiyesi'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

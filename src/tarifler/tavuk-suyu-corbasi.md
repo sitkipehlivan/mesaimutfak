@@ -16,8 +16,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-suyu-corbasi.jpg
+imageAlt: 'Terbiyeli tavuk suyu çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

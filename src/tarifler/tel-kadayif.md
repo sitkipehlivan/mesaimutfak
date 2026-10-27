@@ -16,8 +16,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tel-kadayif.jpg
+imageAlt: 'Fıstıklı tel kadayıf'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

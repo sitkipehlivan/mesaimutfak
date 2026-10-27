@@ -15,8 +15,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tatli-eksi-tavuk.jpg
+imageAlt: 'Tatlı ekşi tavuk'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -15,8 +15,8 @@ art:
 - leaf
 - tomato
 - leaf
-image: ''
-imageAlt: ''
+image: /img/tarifler/tarama.jpg
+imageAlt: 'Tarama'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

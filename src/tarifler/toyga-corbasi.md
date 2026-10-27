@@ -15,8 +15,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/toyga-corbasi.jpg
+imageAlt: 'Toyga çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

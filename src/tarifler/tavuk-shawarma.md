@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuk-shawarma.jpg
+imageAlt: 'Tavuk shawarma'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

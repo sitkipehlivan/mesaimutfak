@@ -17,8 +17,8 @@ art:
 - tomato
 - sun
 - tomato
-image: ''
-imageAlt: ''
+image: /img/tarifler/un-corbasi.jpg
+imageAlt: 'Un çorbası'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

@@ -15,8 +15,8 @@ art:
 - pom
 - card
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tulumba.jpg
+imageAlt: 'Tulumba tatlısı'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''

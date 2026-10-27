@@ -17,8 +17,8 @@ art:
 - tomato
 - leaf
 - sun
-image: ''
-imageAlt: ''
+image: /img/tarifler/tavuklu-kori.jpg
+imageAlt: 'Tavuklu köri'
 imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
