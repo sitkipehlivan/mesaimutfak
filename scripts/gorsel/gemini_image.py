@@ -79,7 +79,7 @@ def generate(prompt, images=(), aspect='16:9'):
     models = [m for m in [os.environ.get('GEMINI_IMAGE_MODEL')] if m] + DEFAULT_MODELS
     errors = []
     for model in models:
-        for fn in (_interactions, _generate_content):
+        for fn in (_generate_content, _interactions):  # önce yalnızca IMAGE çıktısı isteyen uç (metin tokeni ödenmez)
             for attempt in range(2):
                 try:
                     res = fn(model, prompt, list(images), key, aspect)
