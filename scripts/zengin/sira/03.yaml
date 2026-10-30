@@ -1,0 +1,321 @@
+pankek:
+  editorNote: |
+    Pankek tarifinde hamuru 5 dakika dinlendirmeyi ve "fazla çırpma" uyarısını özellikle ekledik; pankeklerin yassı ve lastik gibi çıkmasının iki ana sebebi bunlar. Ölçüleri hafta sonu dört kişilik bir kahvaltıya göre tuttuk.
+  intro: |
+    Pankek, Amerikan kahvaltısından Türk mutfağına yerleşmiş, kabarık ve yumuşak küçük tava kekleri. Hafta sonu kahvaltılarının, çocukların en sevdiği tabakların başında geliyor.
+
+    Bu tarifte yumurta, süt, şeker ve eritilmiş tereyağı çırpılıyor, un, kabartma tozu ve vanilin eleyerek ekleniyor. Hamur kısa bir süre dinlendirilip orta ateşte, az yağlanmış tavada pişiriliyor. Üzerine bal ya da akçaağaç şurubu ve taze meyveyle servis ediliyor.
+
+    4 kişilik tarif 20 dakikada hazır. Fazla pankekler ertesi sabah tavada ısıtılabilir.
+  notes:
+    - t: Neden fazla çırpılmamalı?
+      d: |
+        Un eklendikten sonra hamuru fazla çırpmak glüteni geliştirir ve pankekleri sert, lastik gibi yapar. Hamurda birkaç küçük topak kalması sorun değil; pişerken kaybolur.
+    - t: Tavanın ısısı
+      d: |
+        Orta ateş en doğrusu. Çok yüksek ateşte pankeklerin dışı yanar, içi çiğ kalır. Çok düşük ateşte ise pankek kabarmaz ve rengi soluk kalır. İlk pankeki deneme olarak kullanıp tavanın ısısını ona göre ayarlamak iyi bir yöntem.
+    - t: Ne zaman çevrilir?
+      d: |
+        Pankekin yüzeyinde kabarcıklar oluşup patlamaya başladığında ve kenarlar mat göründüğünde çevirme zamanıdır. Erken çevrilen pankek dağılır; geç çevrilen ise yanar.
+    - t: Saklama
+      d: |
+        Pişmiş pankekler buzdolabında 2 gün dayanır. Aralarına yağlı kâğıt koyup dondurucuda 1 ay saklanabilir. Kızartma makinesinde ya da kuru tavada ısıtılabilir.
+  faq:
+    - q: Pankek neden kabarmaz?
+      a: Genelde kabartma tozu eskimiş olduğu, hamur fazla çırpıldığı ya da tava yeterince ısınmadığı için. Hamuru 5 dakika dinlendirmek ve orta ateşte pişirmek kabarmasını sağlar.
+    - q: Pankek hamuru önceden hazırlanır mı?
+      a: Buzdolabında en fazla birkaç saat bekletilebilir. Uzun bekleyen hamurda kabartma tozunun etkisi azalır ve pankekler daha yassı çıkar.
+    - q: Pankek yağsız tavada pişer mi?
+      a: Yapışmaz tavada çok az yağla pişirilir. Kâğıt havluyla ince bir tabaka tereyağı sürmek yeterli; fazla yağ pankeklerin rengini alacalı yapar.
+    - q: Pankek ile krep arasındaki fark nedir?
+      a: Pankek kabartma tozu içerir ve kalın, kabarık olur. Krep ise kabartıcı içermez; çok ince ve esnektir, genellikle içi doldurularak katlanır.
+
+krep:
+  editorNote: |
+    Krep tarifini hem tatlı hem tuzlu kullanıma uygun sade bir hamurla yazdık. "İlk krep bozuk çıkar" notunu bilerek ekledik; bu tamamen normal ve tavanın ısısını ayarlamanın yolu.
+  intro: |
+    Krep, ince ve esnek bir hamurdan tavada pişirilen, tatlı ya da tuzlu doldurulabilen bir hamur işi. Kökeni Fransa'ya dayanır ama bugün kahvaltılarda ve tatlı krizlerinde Türk mutfağının da vazgeçilmezi.
+
+    Bu tarifte yumurta, süt, şeker ve tuz çırpılıyor, un eklenip topaksız bir hamur elde ediliyor ve eritilmiş tereyağıyla tamamlanıyor. Hamur sulu olmalı. Yapışmaz tavada ince bir tabaka halinde yayılıp pişiriliyor.
+
+    4 kişilik tarif 30 dakikada hazır. Fındık kreması ve muzla klasik, kaşar ve mantarla tuzlu servis edilebilir.
+  notes:
+    - t: Hamurun kıvamı
+      d: |
+        Krep hamuru pankek hamurundan çok daha sulu olmalı; neredeyse sıvı krema kıvamında. Koyu hamur tavada eşit yayılmaz ve krep kalın olur. Hamur koyuysa birkaç kaşık süt ekleyerek inceltebilirsin.
+    - t: Dinlendirme
+      d: |
+        Hamuru 10 dakika dinlendirmek unun sıvıyı tamamen emmesini ve kreplerin pişerken yırtılmamasını sağlar. Hamuru bir gece önceden hazırlayıp buzdolabında bekletmek de mümkün.
+    - t: Tavaya yayma
+      d: |
+        Bir kepçe hamuru tavanın ortasına dökerken tavayı hemen döndürerek hamuru her tarafa yaymak gerekir. Hamur tavaya değdiği anda pişmeye başlar; hızlı olmak ince ve eşit bir krep sağlar.
+    - t: Tuzlu krep
+      d: |
+        Şekeri hamurdan çıkarıp kaşar, mantar, ıspanak, tavuk ya da jambonla doldurulabilir. Doldurulan krepler katlanıp tavada her iki yüzü birkaç saniye ısıtılarak peynirin erimesi sağlanır.
+  faq:
+    - q: Krep neden yırtılır?
+      a: Hamur dinlendirilmediği, tava yeterince ısınmadığı ya da krep erken çevrildiği için. Kenarlar tavadan kalkmaya başladığında çevirmek gerekir.
+    - q: Krep hamuru nasıl olmalı?
+      a: Sulu, neredeyse sıvı krema kıvamında olmalı. Tavaya dökülüp döndürüldüğünde her tarafa kolayca yayılabilmeli.
+    - q: Krep kaç dakikada pişer?
+      a: Orta ateşte bir yüzü yaklaşık 1 dakika, diğer yüzü 30 saniye pişer.
+    - q: Krep önceden hazırlanır mı?
+      a: Hamur bir gece önceden hazırlanıp buzdolabında bekletilebilir. Pişmiş krepler aralarına yağlı kâğıt koyularak buzdolabında 2 gün saklanabilir.
+
+waffle:
+  editorNote: |
+    Waffle tarifinde pişen waffle'ları üst üste koymamayı ayrıca yazdık; buharla yumuşamaları waffle'ı çıtır yapmanın önündeki en büyük engel. Fazlasını dondurmak da hafta içi sabahlar için pratik bir çözüm.
+  intro: |
+    Waffle, ızgaralı bir makinede pişirilen, dışı çıtır içi yumuşak bir hamur işi. Belçika ve Amerikan mutfaklarından dünyaya yayılan waffle, Türkiye'de en çok meyve ve çikolatayla servis edilen bir tatlı olarak sevilir.
+
+    Bu tarifte yumurta, süt, eritilmiş tereyağı ve şeker çırpılıyor; un, kabartma tozu, vanilin ve tuz eklenip topaksız karıştırılıyor. Hamur ısınmış waffle makinesinde altın rengi olana kadar pişiriliyor.
+
+    4 kişilik tarif 30 dakikada hazır. Pişen waffle'lar tel ızgaraya dizilirse çıtırlığını korur.
+  notes:
+    - t: Çıtırlığın sırrı
+      d: |
+        Waffle'ın çıtır olması için hamurda yeterince tereyağı bulunmalı ve makine iyice ısıtılmalı. Pişen waffle'lar tabağa üst üste konursa buhar nedeniyle yumuşar; tel ızgaraya tek tek dizmek gerekir.
+    - t: Makineyi yağlamak
+      d: |
+        Yapışmaz kaplamalı makinelerde bile ilk waffle'dan önce ince bir tabaka yağ sürmek, hamurun yapışmasını önler. Fırça ya da kâğıt havluyla sürmek yeterli.
+    - t: Sık yapılan hatalar
+      d: |
+        Makineye fazla hamur koymak hamurun kenarlardan taşmasına neden olur. Makinenin ızgaralarını dolduracak kadar, kenarlara yaklaşmadan dökmek doğru miktardır.
+
+        Kapağı erken açmak da waffle'ın yırtılmasına neden olur. Çoğu makinede buhar çıkışı azaldığında waffle hazırdır.
+    - t: Saklama
+      d: |
+        Pişmiş waffle'lar soğuduktan sonra dondurucuda 1 ay saklanabilir. Kızartma makinesinde ya da fırında birkaç dakika ısıtmak çıtırlığını geri getirir.
+  faq:
+    - q: Waffle neden yumuşak olur?
+      a: Genelde makine yeterince ısınmadığı ya da waffle'lar üst üste konduğu için. Makineyi iyice ısıtmak ve pişen waffle'ları tel ızgaraya dizmek çıtır kalmalarını sağlar.
+    - q: Waffle makinesiz yapılır mı?
+      a: Waffle'ın karakteristik şekli makineden gelir. Makine yoksa aynı hamurla tavada pankek yapılabilir.
+    - q: Waffle hamuru pankek hamuruyla aynı mı?
+      a: Benzerdir ama waffle hamurunda daha fazla tereyağı bulunur; bu da çıtır bir dış yüzey sağlar.
+    - q: Waffle üzerine ne konur?
+      a: Meyve, çikolata sosu, bal, akçaağaç şurubu, krem şanti ya da dondurma en yaygın tercihler.
+
+san-sebastian-cheesecake:
+  editorNote: |
+    San Sebastian'ı tabanı olmadığı ve un yerine nişasta kullanıldığı için sitemizdeki glutensiz tatlılar arasına aldık. Üstünün yanık görünmesi tasarımın bir parçası; tarifte "fazla pişirme" uyarısını bu yüzden vurguladık.
+  intro: |
+    San Sebastian cheesecake, adını İspanya'nın Bask bölgesindeki San Sebastián şehrinden alan, yüksek ısıda pişirilip üstü bilerek koyu kahverengi yakılan, içi kremamsı bir cheesecake. Tabanı yoktur ve hazırlaması klasik cheesecake'e göre çok daha kolaydır.
+
+    Bu tarifte krem peynir ve şeker çırpılıp yumurtalar tek tek ekleniyor; krema, nişasta, vanilin ve tuzla tamamlanıyor. Buruşturulmuş pişirme kâğıdıyla kaplanmış kalıba dökülüp 220°C'de pişiriliyor.
+
+    10 dilimlik tarif 65 dakikada hazır, ama en az 4 saat buzdolabında dinlendirilmesi gerekiyor.
+  notes:
+    - t: Neden üstü yakılır?
+      d: |
+        San Sebastian cheesecake'in imzası koyu, karamelize üst yüzeyidir. Yüksek ısı şekerin karamelize olmasını sağlar ve tatlıya hafif acımsı, derin bir tat verir. İçinin kremamsı kalması için de yüksek ısıda kısa süre pişirilir.
+    - t: Malzemelerin sıcaklığı
+      d: |
+        Krem peynir, yumurta ve krema oda sıcaklığında olmalı. Soğuk krem peynir topaklanır ve pürüzsüz bir karışım elde etmek zorlaşır.
+    - t: Ortası titrek olmalı
+      d: |
+        Fırından çıktığında cheesecake'in ortası jöle gibi sallanmalıdır. Bu, içinin kremamsı kalacağının işaretidir; soğudukça kıvamlanır. Ortası sert olana kadar pişirilen cheesecake kuru ve çatlak olur.
+    - t: Saklama
+      d: |
+        Buzdolabında kapalı kapta 4-5 gün dayanır. Dilimler tek tek sarılarak 1 ay dondurulabilir.
+  faq:
+    - q: San Sebastian cheesecake neden yanık görünür?
+      a: Yüksek ısıda pişirilen cheesecake'in üstü bilerek koyu kahverengi olur. Bu, şekerin karamelize olmasından kaynaklanır ve tatlının karakteristik özelliğidir.
+    - q: San Sebastian cheesecake glutensiz mi?
+      a: Evet. Tabanı yoktur ve un yerine mısır nişastası kullanılır; bu nedenle glutensizdir.
+    - q: San Sebastian cheesecake kaç derecede pişer?
+      a: Bu tarifte 220°C önceden ısıtılmış fırında pişiyor. Üstü koyu kahverengi olduğunda ve ortası hâlâ sallandığında fırından alınmalı.
+    - q: San Sebastian cheesecake sıcak mı soğuk mu yenir?
+      a: Genellikle en az 4 saat buzdolabında dinlendirildikten sonra soğuk servis edilir. Bazıları oda sıcaklığında, daha akışkan haliyle tercih eder.
+
+tiramisu:
+  editorNote: |
+    Tiramisu tarifinde bisküvileri kahveye sadece bir saniye batırmayı vurguladık; dağılan bisküvi tiramisunun katlarını yok ediyor. Mascarpone bulamayanlar için labne alternatifini "Elinde yoksa ne kullanırsın" bölümüne ekledik.
+  intro: |
+    Tiramisu, İtalyanca'da "beni yukarı kaldır" anlamına gelen, kahveye batırılmış bisküvi katmanları ve mascarpone kremasıyla hazırlanan, fırın gerektirmeyen bir İtalyan tatlısı.
+
+    Bu tarifte yumurta sarısı ve şeker benmari üzerinde çırpılıp soğutuluyor, mascarpone ve çırpılmış kremayla birleştiriliyor. Kedi dili bisküviler soğuk espressoya bir saniye batırılıp kaba diziliyor ve krema ile katmanlanıyor.
+
+    8 kişilik tarif 30 dakikada hazırlanıyor ama en az 6 saat buzdolabında beklemesi gerekiyor. Bir gece bekleyen tiramisu çok daha lezzetli olur.
+  notes:
+    - t: Benmari neden kullanılıyor?
+      d: |
+        Yumurta sarısı ve şekeri benmari üzerinde çırpmak sarıları hafifçe pişirir; bu, hem güvenlik hem de kremanın daha stabil olması için önemlidir. Karışım koyulaşıp rengi açıldığında ocaktan alınmalı.
+    - t: Kahve seçimi
+      d: |
+        Tiramisu için güçlü, soğumuş espresso en iyi sonucu verir. Espresso makinesi yoksa çok koyu demlenmiş filtre kahve de kullanılabilir. Kahve sıcak olursa bisküviler hızla dağılır.
+    - t: Bisküviyi batırmak
+      d: |
+        Kedi dili bisküviler çok hızlı ıslanır. Kahveye bir saniye batırıp çıkarmak yeterli; uzun bekletilen bisküvi dağılır ve tiramisu sulanır.
+    - t: Saklama
+      d: |
+        Buzdolabında kapalı kapta 3 gün dayanır. Dondurucuda 1 ay saklanabilir; buzdolabında yavaşça çözdürülmeli.
+  faq:
+    - q: Tiramisu için mascarpone yerine ne kullanılır?
+      a: Labne en yakın alternatif. Daha hafif bir sonuç için krem peynir ve çırpılmış kremanın yarı yarıya karışımı da kullanılabilir.
+    - q: Tiramisu kaç saat bekletilmeli?
+      a: En az 6 saat, tercihen bir gece buzdolabında bekletilmeli. Bu süre katmanların oturmasını ve tatların birleşmesini sağlar.
+    - q: Tiramisu çiğ yumurtayla mı yapılır?
+      a: Bu tarifte yumurta sarıları şekerle birlikte benmari üzerinde çırpılarak hafifçe pişiriliyor.
+    - q: Tiramisu alkolsüz yapılır mı?
+      a: Evet. Bu tarif alkolsüzdür; geleneksel bazı tariflerde kahveye likör eklenir.
+
+mozaik-pasta:
+  editorNote: |
+    Mozaik pastayı en pratik tatlılar arasında tuttuk; fırın yok, 20 dakikalık hazırlık var. Tarifteki tek kritik nokta sosun bisküvilere ılık dökülmesi; sıcak sos bisküvileri hamurlaştırıyor.
+  intro: |
+    Mozaik pasta, kırılmış bisküvilerin kakaolu bir sosla karıştırılıp rulo ya da kalıpta dondurulduğu, kesilince mozaik gibi görünen fırınsız bir tatlı. Çocukluğun ve doğum günlerinin klasiği.
+
+    Bu tarifte tereyağı, şeker, süt ve kakao kısık ateşte şeker eriyene kadar karıştırılıyor, vanilin eklenip ılıtılıyor. İri kırılmış bisküvi ve isteğe bağlı fındıkla karıştırılıp streç filmle rulo yapılıyor.
+
+    10 dilimlik tarif 20 dakikada hazırlanıyor, en az 4 saat buzdolabında beklemesi gerekiyor.
+  notes:
+    - t: Sosun sıcaklığı
+      d: |
+        Sos çok sıcakken bisküvilere dökülürse bisküviler yumuşar ve hamurlaşır; mozaik görüntüsü kaybolur. Sosu ılıtıp sonra bisküvilerle karıştırmak, parçaların belirgin kalmasını sağlar.
+    - t: Bisküvi boyutu
+      d: |
+        Bisküvileri iri parçalar halinde kırmak mozaik görünümünü belirginleştirir. Çok küçük kırılan bisküviler sosla tamamen kaynaşır ve pasta kek gibi görünür.
+    - t: Şekil verme
+      d: |
+        Streç film üzerine boşaltılan karışım sıkıca rulo yapılmalı ki kesildiğinde dağılmasın. Baton kalıba bastırmak da iyi bir alternatif; kalıbı streç filmle kaplamak çıkarmayı kolaylaştırır.
+    - t: Saklama
+      d: |
+        Buzdolabında 1 hafta, dondurucuda 1 ay saklanabilir. Dondurucudan çıkarıp 10 dakika bekletmek dilimlenmesini kolaylaştırır.
+  faq:
+    - q: Mozaik pasta neden dağılır?
+      a: Genelde yeterince soğutulmadığı ya da rulo sıkı yapılmadığı için. En az 4 saat, tercihen bir gece buzdolabında beklemesi gerekir.
+    - q: Mozaik pasta için hangi bisküvi kullanılır?
+      a: Petibör bisküvi en yaygın tercih. Yulaflı ya da sade bisküviler de kullanılabilir.
+    - q: Mozaik pasta yumurtasız mı?
+      a: Evet, bu tarifte yumurta kullanılmıyor.
+    - q: Mozaik pasta dondurulur mu?
+      a: Evet, dondurucuda 1 ay saklanabilir.
+
+profiterol:
+  editorNote: |
+    Profiterol choux hamuru biraz teknik istediği için tarifte hamurun "kaşıktan şerit gibi düşme" kıvamını ve fırın kapağını ilk 20 dakika açmamayı ayrı ayrı vurguladık. Topları önceden pişirip dondurma seçeneği de misafir öncesi hazırlığı kolaylaştırıyor.
+  intro: |
+    Profiterol, choux hamurundan yapılan küçük topların pastacı kremasıyla doldurulup çikolata sosuyla kaplandığı, Fransız kökenli ama Türk pastanelerinin en sevilen tatlılarından biri.
+
+    Bu tarifte su, tereyağı ve tuz kaynatılıp un bir anda eklenerek hamur pişiriliyor; soğuyunca yumurtalar tek tek ekleniyor. Hamur ceviz büyüklüğünde sıkılıp fırında kabartılıyor. Toplar vanilyalı kremayla doldurulup bitter çikolata sosuyla kaplanıyor.
+
+    8 kişilik tarif yaklaşık 70 dakikada hazır. Toplar önceden pişirilip dondurulabilir.
+  notes:
+    - t: Choux hamurunun kıvamı
+      d: |
+        Doğru kıvamdaki choux hamuru parlak ve pürüzsüz olur; kaşıkla kaldırıldığında V şeklinde, şerit gibi düşer. Hamur çok sertse bir yumurta daha (çırpılmış halde azar azar) eklenebilir; çok sulu ise topları kabarmaz.
+    - t: Fırın kapağı
+      d: |
+        Profiterol topları fırında içlerindeki buharla kabarır. İlk 20 dakika fırın kapağı açılırsa sıcaklık düşer, buhar kaçar ve toplar söner. Toplar koyu altın rengini alana kadar pişmelidir; soluk toplar fırından çıktıktan sonra çöker.
+    - t: Krema ve sos
+      d: |
+        Pastacı kreması tamamen soğuduktan sonra çırpılmış kremayla karıştırılmalı. Çikolata sosu ise sıcak kremanın içinde çikolatanın eritilmesiyle hazırlanır; servis öncesi ılık dökülmesi önerilir.
+    - t: Saklama
+      d: |
+        Doldurulmuş profiterol buzdolabında 2 gün dayanır. Boş toplar kapalı kutuda 2 gün, dondurucuda 1 ay saklanabilir; doldurmadan önce fırında 5 dakika ısıtmak çıtırlığını geri getirir.
+  faq:
+    - q: Profiterol topları neden söner?
+      a: Fırın kapağı erken açıldığı ya da toplar yeterince pişmediği için. İlk 20 dakika kapağı açmamak ve topları koyu altın rengi olana kadar pişirmek gerekir.
+    - q: Profiterol hamuru nasıl olmalı?
+      a: Parlak, pürüzsüz ve kaşıktan şerit gibi düşen bir kıvamda olmalı. Yumurtalar tek tek, her biri tamamen yedirildikten sonra eklenmeli.
+    - q: Profiterol önceden yapılır mı?
+      a: Toplar önceden pişirilip dondurulabilir. Doldurma ve soslama servis gününde yapılmalı.
+    - q: Profiterol ile ekler arasındaki fark nedir?
+      a: İkisi de aynı choux hamurundan yapılır. Profiterol küçük toplar halinde, ekler ise uzun çubuklar halinde sıkılır.
+
+magnolia:
+  editorNote: |
+    Magnoliayı yaz tatlıları arasına aldık; fırınsız, soğuk ve meyveli. Tarifte muhallebinin tamamen soğumadan kremayla karıştırılmaması uyarısını en öne koyduk, çünkü magnolianın sulanmasının sebebi bu.
+  intro: |
+    Magnolia, muhallebi ve çırpılmış kremadan hazırlanan hafif bir kremanın bisküvi kırıntısı ve meyveyle katmanlanarak kupta servis edildiği, son yıllarda Türkiye'de çok sevilen bir tatlı.
+
+    Bu tarifte süt, şeker, un, nişasta ve yumurta sarısıyla bir muhallebi pişiriliyor ve soğutuluyor. Soğuyan muhallebi çırpılmış kremayla birleştirilip pürüzsüz hale getiriliyor. Kupalara bisküvi kırıntısı, krema ve çilek dilimleri katman katman yerleştiriliyor.
+
+    6 kişilik tarif 25 dakikada hazırlanıyor, en az 2 saat buzdolabında beklemesi gerekiyor.
+  notes:
+    - t: Muhallebiyi soğutmak
+      d: |
+        Muhallebi tamamen soğumadan kremayla karıştırılırsa krema söner ve magnolia sulanır. Muhallebinin üzerine streç filmi değdirerek soğutmak kaymak bağlamasını önler.
+    - t: Meyve seçimi
+      d: |
+        Çilek klasik tercih. Muz, orman meyveleri, şeftali ya da mango da kullanılabilir. Muz kullanılacaksa servis öncesi eklemek kararmasını önler.
+    - t: Bisküvi seçimi
+      d: |
+        Yulaflı bisküvi magnolia'ya hafif tuzlu ve çıtır bir doku katar. Petibör ya da lotus bisküvi de kullanılabilir.
+    - t: Saklama
+      d: |
+        Buzdolabında 2 gün taze kalır; zamanla bisküvi yumuşar. Dondurmayı önermiyoruz.
+  faq:
+    - q: Magnolia neden sulu olur?
+      a: Genelde muhallebi tamamen soğumadan kremayla karıştırıldığı için. Muhallebinin tamamen soğuması gerekir.
+    - q: Magnolia kremasında ne var?
+      a: Süt, şeker, un, nişasta ve yumurta sarısıyla pişirilen bir muhallebi ve çırpılmış krema.
+    - q: Magnolia için hangi meyveler kullanılır?
+      a: Çilek en yaygın tercih. Muz, orman meyveleri ve mango da kullanılabilir.
+    - q: Magnolia ne kadar bekletilmeli?
+      a: En az 2 saat buzdolabında beklemeli; bu süre kremanın kıvamlanmasını sağlar.
+
+humus:
+  editorNote: |
+    Humus tarifinde iki küçük adımı özellikle yazdık: nohutların kabuklarını soymak ve robota buzlu su eklemek. İkisi de humusu lokanta kıvamına, yani pürüzsüz ve açık renkli bir dokuya getiriyor.
+  intro: |
+    Humus, nohut, tahin, limon ve sarımsakla hazırlanan, Orta Doğu ve Akdeniz mutfaklarının en bilinen mezelerinden biri. Türkiye'de özellikle Hatay ve Adana mutfaklarında sıcak ya da soğuk servis edilir.
+
+    Bu tarifte haşlanmış nohut ılıkken tahin, limon, sarımsak, kimyon ve tuzla robotta çekiliyor. Robot çalışırken buzlu su azar azar ekleniyor ve humus krem gibi pürüzsüz olana kadar birkaç dakika çekiliyor.
+
+    4 kişilik tarif 10 dakikada hazır. Zeytinyağı ve toz biberle servis ediliyor.
+  notes:
+    - t: Kabukları soymak
+      d: |
+        Nohutların ince kabuklarını soymak humusu çok daha pürüzsüz yapar. Kabukları soymak için haşlanmış nohutları bir tutam karbonatla 2-3 dakika kaynatmak ya da avuç içinde ovmak işi kolaylaştırır.
+    - t: Buzlu suyun görevi
+      d: |
+        Buzlu su humusun daha açık renkli ve kabarık olmasını sağlar. Tahinle reaksiyona girerek kremamsı bir doku oluşturur. Suyu azar azar eklemek ve kıvamı kontrol etmek gerekir.
+    - t: Nohut seçimi
+      d: |
+        Kuru nohutu bir gece ıslatıp kendin haşlamak en iyi sonucu verir. Konserve nohut da kullanılabilir; süzüp yıkamak ve gerekirse birkaç dakika kaynatmak yeterli.
+    - t: Saklama
+      d: |
+        Buzdolabında kapalı kapta, üzerine ince bir tabaka zeytinyağı dökülerek 4-5 gün saklanabilir. Dondurucuda 1 ay dayanır.
+  faq:
+    - q: Humus nasıl pürüzsüz olur?
+      a: Nohutların kabuklarını soymak, ılıkken robotta çekmek ve buzlu su ekleyerek birkaç dakika çekmek pürüzsüz bir humus sağlar.
+    - q: Humus için hangi nohut kullanılır?
+      a: Kuru nohutu ıslatıp haşlamak en iyisi. Konserve nohut da kullanılabilir.
+    - q: Humus vegan mı?
+      a: Evet, humus tamamen vegan ve glutensiz bir mezedir.
+    - q: Humus kaç gün dayanır?
+      a: Buzdolabında kapalı kapta 4-5 gün dayanır. Üzerine zeytinyağı dökmek kurumasını önler.
+
+cacik:
+  editorNote: |
+    Cacığı hem meze hem çorba kıvamında kullanılabilecek şekilde yazdık; suyun miktarını bu yüzden "istediğin kıvama göre" bıraktık. Salatalığın rendelenmesi ya da küçük doğranması tamamen tercih meselesi.
+  intro: |
+    Cacık, yoğurt, salatalık ve sarımsakla hazırlanan, Türk mutfağının en serinletici mezelerinden biri. Yaz sofralarının, kebapların ve pilavların yanında vazgeçilmez.
+
+    Bu tarifte yoğurt ezilmiş sarımsak ve tuzla çırpılıyor, suyla istenilen kıvama getiriliyor. Rendelenmiş ya da küçük doğranmış salatalık ekleniyor ve kuru nane ile zeytinyağıyla servis ediliyor.
+
+    4 kişilik tarif 10 dakikada hazır. Meze olarak koyu, çorba gibi içmek için sulu yapılabilir.
+  notes:
+    - t: Salatalık seçimi
+      d: |
+        İnce kabuklu, çekirdeği az salatalıklar cacık için en iyisi. Kalın kabuklu salatalıkları soymak gerekebilir. Salatalığı rendeledikten sonra suyunu hafifçe sıkmak, koyu cacığın sulanmasını önler.
+    - t: Kıvam
+      d: |
+        Cacık mezede koyu, kebap yanında orta kıvamda, yaz günlerinde çorba gibi sulu tercih edilebilir. Su miktarını tercihine göre ayarla; buz eklemek yaz günlerinde serinletici bir dokunuş.
+    - t: Sarımsak miktarı
+      d: |
+        Sarımsak cacığın keskin tadını verir. Taze sarımsak tercih edilmeli; miktarını damak tadına göre ayarlayabilirsin.
+    - t: Saklama
+      d: |
+        Buzdolabında kapalı kapta 2 gün taze kalır. Salatalık zamanla su salar; servis öncesi karıştırmak gerekir.
+  faq:
+    - q: Cacık ile haydari arasındaki fark nedir?
+      a: Cacık sulandırılmış yoğurt ve salatalıkla yapılır, akışkandır. Haydari ise süzme yoğurt ya da labneyle yapılır, koyu bir mezedir.
+    - q: Cacığa dereotu konur mu?
+      a: Konabilir. Dereotu cacığa ferah bir tat katar; nane ile birlikte ya da tek başına kullanılabilir.
+    - q: Cacık glutensiz mi?
+      a: Evet, cacık glutensizdir.
+    - q: Cacık kaç gün dayanır?
+      a: Buzdolabında kapalı kapta 2 gün taze kalır.

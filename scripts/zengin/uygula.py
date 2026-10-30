@@ -8,7 +8,7 @@ for slug, d in DATA.items():
     _, fm, body = s.split('---', 2)
     for k in ('notes', 'faq', 'updated', 'editorNote'):
         fm = re.sub(r'^%s:.*?(?=^\S|\Z)' % k, '', fm, flags=re.M | re.S)
-    o = {'updated': str(d.get('updated', '2026-10-30')), 'notes': d['notes'], 'faq': d['faq']}
+    o = {'updated': str(d.get('updated') or os.environ.get('BUGUN', '2026-10-30')), 'notes': d['notes'], 'faq': d['faq']}
     if d.get('editorNote'): o['editorNote'] = d['editorNote'].strip()
     extra = yaml.safe_dump(o, allow_unicode=True, sort_keys=False, width=1000)
     fm = fm.rstrip('\n') + '\n' + extra
