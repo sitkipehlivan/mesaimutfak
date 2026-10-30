@@ -93,6 +93,61 @@ steps:
 tips:
 - Soğuyunca porsiyonlayıp dondurabilirsin; üç ay dayanır.
 - Tereyağlı sos istersen vegan olmaz, ama çok yakışır.
+updated: '2026-10-30'
+notes:
+- t: Neden un ya da krema yok?
+  d: 'Kırmızı mercimek pişince tamamen dağılır ve içindeki nişasta çorbayı kendiliğinden koyulaştırır. Patates de bu kıvamı destekler. Un eklemek çorbayı bulanık ve ağır yapar, tadı da hafifçe hamurumsu olur.
+
+
+    Daha kremamsı bir doku istersen blenderdan geçirdikten sonra bir kepçe sıcak süt ekleyebilirsin. Bu durumda tarif vegan olmaktan çıkar.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'En sık hata mercimeği yıkamamak. Kırmızı mercimeğin yüzeyindeki toz nişasta pişerken köpük yapar ve çorbanın dibini tutturur; su berrak akana kadar 2-3 kez yıkamak yeterli.
+
+
+    İkinci hata çorbayı fazla koyu bırakmak. Soğudukça ciddi şekilde koyulaşır; servis kıvamı kaşıktan akan ama tabakta yayılmayan bir yoğunluk olmalı. Isıtırken her porsiyona birkaç kaşık sıcak su eklemek normal.
+
+
+    Üçüncüsü tuzu en başta atmak. Mercimek suyu çektikçe tuz yoğunlaşır; tuzu blenderdan sonra, tadarak ayarlamak daha güvenli.
+
+    '
+- t: Saklama ve tekrar ısıtma
+  d: 'Buzdolabında kapalı kapta 4 gün dayanır. Dondurucuda 3 aya kadar saklanır; tek kişilik kaplara bölmek, ihtiyaç kadarını çözmeyi kolaylaştırır.
+
+
+    Donmuş çorbayı bir gece önceden buzdolabına alıp çözdürmek en iyisi. Isıtırken kısık ateşte ve arada karıştırarak ısıt; her porsiyona 2-3 yemek kaşığı sıcak su ekleyerek kıvamı aç. Naneli yağı ve limonu her zaman servis anında ekle; dondurulmuş çorbaya önceden eklenen yağ tadını kaybeder.
+
+    '
+- t: Ne ile servis edilir?
+  d: 'Klasik eşlikçisi limon dilimi ve kızarmış ekmek ya da kıtır kıtır kızarmış bayat ekmek küpleri. Lokanta usulü için yanına turşu ve yeşil soğan koyabilirsin.
+
+
+    Tam öğün yapmak istersen yanına bir kase yoğurt ve küçük bir çoban salatası yeterli. Kahvaltıda bile yenebilecek kadar hafif bir çorba.
+
+    '
+- t: Çeşitlemeler
+  d: 'Ezogelin tadına yaklaştırmak için 2 yemek kaşığı ince bulgur ve 1 yemek kaşığı pirinç ekle, blenderdan geçirmeden servis et.
+
+
+    Daha baharatlı bir versiyon için kimyonun yanına yarım çay kaşığı zerdeçal ve bir tutam zencefil ekleyebilirsin. Çocuklar için patates miktarını artırıp pul biberi üzerine eklemeden ayrı servis etmek iyi sonuç verir.
+
+    '
+faq:
+- q: Kırmızı mercimek çorbası için mercimeği ıslatmak gerekir mi?
+  a: Hayır. Kırmızı mercimek kabuğu soyulmuş olduğu için ıslatma gerektirmez; 2-3 kez yıkamak yeterli. Islatırsan pişme süresi birkaç dakika kısalır ama tat ve kıvam değişmez.
+- q: Çorba neden koyulaşıyor, nasıl açılır?
+  a: Mercimek ve patatesin nişastası soğudukça çorbayı koyulaştırır. Isıtırken birkaç kaşık sıcak su ya da sebze suyu ekleyip karıştırarak istediğin kıvama getirebilirsin.
+- q: Blender olmadan yapılır mı?
+  a: Evet. Mercimek iyice dağılana kadar pişirip tel çırpıcıyla 1-2 dakika kuvvetlice çırparsan oldukça pürüzsüz bir kıvam elde edersin. Patatesi küçük doğramak işi kolaylaştırır.
+- q: Kırmızı mercimek çorbası dondurulur mu?
+  a: Evet, 3 aya kadar dondurucuda saklanabilir. Üzerine gezdirilen naneli yağı ve limonu dondurmadan önce değil, servis ederken eklemek daha lezzetli olur.
+- q: Bu tarif vegan ve glutensiz mi?
+  a: Evet, tarif bu haliyle hem vegan hem glutensiz. Üzerine tereyağlı sos ya da çorbaya süt eklersen vegan olmaktan çıkar.
 ---
 
-Türk mutfağının en pratik çorbası. Bir tencere yap, hafta boyunca ısıt.
+Kırmızı mercimek çorbası, lokantaların sabah ilk kaynayan tenceresi; evlerde de "ne pişirsem" sorusunun en sağlam cevabı. Kabuğu soyulmuş kırmızı mercimek yeşil mercimek gibi ıslatma istemez, yirmi dakikada dağılır ve kendi kendine kremamsı bir kıvam verir. Bu yüzden içine un ya da krema eklemeye gerek kalmaz.
+
+Bizim versiyonumuzda soğan, havuç ve patates birlikte kavruluyor. Havuç çorbaya hafif bir tatlılık, patates ise ipeksi bir gövde katıyor. Üzerine gezdirilen naneli pul biberli yağ ve sıkılan limon, sade bir çorbayı lokanta lezzetine taşıyan iki küçük dokunuş.
+
+Tarif 6 kişilik. Bir tencere yapıp hafta içi öğle yemeklerine porsiyonlamak, mesai sonrası en çok işe yarayan alışkanlıklardan biri.

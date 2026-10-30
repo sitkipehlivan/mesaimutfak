@@ -116,6 +116,22 @@ layout: base.njk
           <dl>{% for x in subs %}<div><dt>{{ x.n }}</dt><dd>{{ x.y }}</dd></div>{% endfor %}</dl>
         </div>
         {% endif %}
+        {% if notes and notes.length %}
+        <section class="knotes" id="notlar" aria-labelledby="notlarBaslik">
+          <h2 id="notlarBaslik">Mutfaktan notlar</h2>
+          {% for x in notes %}<div class="kn"><h3>{{ x.t }}</h3>{% for para in (x.d | string).split('\n\n') %}<p>{{ para }}</p>{% endfor %}</div>{% endfor %}
+        </section>
+        {% endif %}
+        {% if editorNote %}
+        {%- set ed2 = (editor or site.publisher.editorSlug) | person(authors) -%}
+        <aside class="ednote" aria-label="Editörün notu"><h2>Editörün notu</h2><p>{{ editorNote }}</p>{% if ed2 %}<p class="ednote-by">{{ ed2.name }} · {{ ed2.role }}</p>{% endif %}</aside>
+        {% endif %}
+        {% if faq and faq.length %}
+        <section class="faq" id="sss" aria-labelledby="sssBaslik">
+          <h2 id="sssBaslik">Sık sorulanlar</h2>
+          {% for x in faq %}<details{% if loop.first %} open{% endif %}><summary>{{ x.q }}</summary><p>{{ x.a }}</p></details>{% endfor %}
+        </section>
+        {% endif %}
       </div>
     </div>
   </article>
@@ -201,6 +217,9 @@ else if(o.d&&o.d.error==='tekrar'){mine=r;try{localStorage.setItem(K,r)}catch(e)
   "video": {"@type": "VideoObject", "name": {{ title | dump | safe }}, "embedUrl": "https://www.youtube.com/embed/{{ youtube }}", "thumbnailUrl": "https://i.ytimg.com/vi/{{ youtube }}/hqdefault.jpg", "uploadDate": "{{ page.date.toISOString() }}"}{% endif %}
 }
 </script>
+{% if faq and faq.length %}<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{% for x in faq %}{"@type": "Question", "name": {{ x.q | dump | safe }}, "acceptedAnswer": {"@type": "Answer", "text": {{ x.a | dump | safe }}}}{% if not loop.last %},{% endif %}{% endfor %}]}
+</script>{% endif %}
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
   {"@type": "ListItem", "position": 1, "name": "Ana sayfa", "item": "{{ site.url }}/"},
