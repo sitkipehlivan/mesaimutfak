@@ -1,1 +1,10 @@
-{ "list": [] }
+{
+  "list": [
+    {
+      "slug": "sitki-pehlivan",
+      "name": "Sıtkı Pehlivan",
+      "role": "Genel Yayın Yönetmeni",
+      "bio": "Mesai Mutfak'ın yayın sahibi Advance Dijital Medya'nın kurucusu ve sitenin genel yayın yönetmeni. Tariflerin yayın öncesi ölçü, süre ve yazım kontrolünü yürütür."
+    }
+  ]
+}

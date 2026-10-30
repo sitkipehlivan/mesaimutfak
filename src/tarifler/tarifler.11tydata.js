@@ -4,6 +4,8 @@ export default {
   layout: 'recipe.njk',
   permalink: '/tarif/{{ page.fileSlug }}/',
   eleventyComputed: {
+    // Tarifte ayrıca belirtilmemişse editör kontrolü genel yayın yönetmenine aittir (src/_data/authors.json)
+    editor: d => d.editor || 'sitki-pehlivan',
     seoTitle: d => `${d.title} tarifi: Nasıl yapılır?`,
     seoDesc: d => {
       const total = (d.prep || 0) + (d.cook || 0);

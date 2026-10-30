@@ -27,6 +27,9 @@ desc: Mesai Mutfak, yoğun tempoda yaşayanlar için denenmiş, ölçüleri net 
   <h2>Videolar</h2>
   <p>Tariflerin kısa, infografik tarzda video anlatımlarını hazırlıyoruz: ölçüler ekranda, süreler tencerenin yanında. Yeni videolar için <a href="{{ site.youtube }}" target="_blank" rel="noopener">YouTube kanalımızı</a> takip edebilirsin.</p>
 
+  <h2>Kim yayınlıyor?</h2>
+  <p>Mesai Mutfak, dijital medya ve reklam şirketi <b>{{ site.publisher.legalName }}</b> tarafından yayınlanır. Genel yayın yönetmeni <a href="{{ ('/yazar/' + site.publisher.editorSlug + '/') | link }}">{{ site.publisher.editor }}</a>'dir. Yayın sahibi ve iletişim bilgileri <a href="{{ '/kunye/' | link }}">Künye</a> sayfasında.</p>
+
   <h2>Reklam ve işbirlikleri</h2>
   <p>Mesai Mutfak ücretsizdir ve reklam gelirleriyle ayakta durur. Reklamları içeriği bölmeyecek şekilde yerleştiriyoruz; markalarla yaptığımız sponsorlu içerikleri her zaman açıkça belirtiyoruz. Ayrıntılar için <a href="{{ '/reklam/' | link }}">Reklam ve işbirliği</a> sayfasına göz at.</p>
 
@@ -35,5 +38,5 @@ desc: Mesai Mutfak, yoğun tempoda yaşayanlar için denenmiş, ölçüleri net 
 
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "AboutPage", "name": "Hakkımızda", "url": "{{ site.url }}/hakkimizda/",
- "mainEntity": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}", "logo": "{{ site.url }}/favicon.svg"{% if site.contactEmail %}, "email": "{{ site.contactEmail }}"{% endif %}}}
+ "mainEntity": {"@type": "Organization", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}", "logo": "{{ site.url }}/favicon.svg", "parentOrganization": {"@type": "Organization", "name": {{ site.publisher.legalName | dump | safe }}, "url": "{{ site.publisher.website }}"}{% if site.contactEmail %}, "email": "{{ site.contactEmail }}"{% endif %}}}
 </script>

@@ -1,0 +1,33 @@
+---
+layout: base.njk
+permalink: /kunye/
+title: Künye
+seoTitle: "Künye: Mesai Mutfak yayın bilgileri"
+desc: Mesai Mutfak yayın sahibi, genel yayın yönetmeni ve iletişim bilgileri.
+---
+{%- set p = site.publisher -%}
+<div class="wrap prose">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Künye</span></nav>
+  <h1>Künye</h1>
+  <dl class="kunye">
+    <dt>Yayın adı</dt><dd>Mesai Mutfak (mesaimutfak.com)</dd>
+    <dt>Yayın türü</dt><dd>Yemek tarifleri sitesi</dd>
+    <dt>Yayın sahibi</dt><dd><a href="{{ p.website }}" target="_blank" rel="noopener">{{ p.legalName }}</a></dd>
+    <dt>{{ p.editorTitle }}</dt><dd><a href="{{ ('/yazar/' + p.editorSlug + '/') | link }}">{{ p.editor }}</a></dd>
+    <dt>Adres</dt><dd>{{ p.address }}</dd>
+    <dt>E-posta</dt><dd><a href="mailto:{{ site.contactEmail }}">{{ site.contactEmail }}</a></dd>
+    <dt>MERSİS No</dt><dd>{{ p.mersis }}</dd>
+    <dt>Yer sağlayıcı</dt><dd>{{ p.hosting }}</dd>
+  </dl>
+  <p>Bir tarifte hata görürsen <a href="{{ '/iletisim/' | link }}">iletişim formundan</a> ya da e-postayla bize yazabilirsin; doğrulanan düzeltmeleri tarif sayfasında güncelleriz.</p>
+</div>
+<style>
+  .kunye { display: grid; grid-template-columns: 190px 1fr; gap: 10px 24px; margin: 20px 0 28px; }
+  .kunye dt { font-weight: 600; opacity: .7; }
+  .kunye dd { margin: 0; }
+  @media (max-width: 600px) { .kunye { grid-template-columns: 1fr; gap: 2px; } .kunye dd { margin-bottom: 12px; } }
+</style>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": {{ site.name | dump | safe }}, "url": "{{ site.url }}", "email": "{{ site.contactEmail }}",
+ "parentOrganization": {"@type": "Organization", "name": {{ p.legalName | dump | safe }}, "url": "{{ p.website }}", "address": {{ p.address | dump | safe }}}}
+</script>
