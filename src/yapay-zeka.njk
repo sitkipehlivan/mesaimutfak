@@ -1,0 +1,46 @@
+---
+layout: base.njk
+permalink: /yapay-zeka/
+title: Mesai Mutfak'ı yapay zekâ asistanına ekle
+seoTitle: "Mesai Mutfak'ı Claude'a bağla: Yapay zekâ ile tarif bul"
+desc: Mesai Mutfak'ı Claude gibi yapay zekâ asistanına bağla; "evde tavuk ve patates var, ne pişirsem?" diye sor, cevap Mesai Mutfak tariflerinden gelsin.
+---
+<div class="wrap">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Yapay zekâ asistanına ekle</span></nav>
+  <div class="prose ai-page">
+    <div class="eyebrow">Yeni</div>
+    <h1>Mesai Mutfak'ı yapay zekâ asistanına ekle</h1>
+    <p class="lead">İş arasında Claude'a "Akşama ne pişirsem?" diye soruyorsan, cevabı doğrudan Mesai Mutfak'ın {{ collections.tarifler.length }} tarifi arasından alabilirsin. Bunun için sitemizi asistanına bir kez bağlaman yeterli.</p>
+
+    <h2>Nasıl eklenir?</h2>
+    <ol class="ai-steps">
+      <li><b>Claude'u aç</b> (claude.ai ya da masaüstü uygulaması) ve <b>Ayarlar → Bağlayıcılar</b> bölümüne git.</li>
+      <li><b>"Özel bağlayıcı ekle"</b>yi seç. Ad olarak <b>Mesai Mutfak</b> yaz.</li>
+      <li>Adres olarak aşağıdakini yapıştır ve kaydet:
+        <div class="ai-url"><code id="mcpUrl">{{ site.url }}/mcp</code><button type="button" class="btn" id="mcpCopy">Kopyala</button></div>
+      </li>
+      <li>Yeni bir sohbette bağlayıcının açık olduğundan emin ol ve sormaya başla.</li>
+    </ol>
+    <p class="ai-small">Mesai Mutfak bağlantısı, yapay zekâ asistanlarının dış kaynaklara bağlanması için kullanılan açık standart MCP (Model Context Protocol) ile çalışır; bu standardı destekleyen diğer asistanlarda da aynı adresle eklenebilir. Menü adları uygulama sürümüne göre değişebilir.</p>
+
+    <h2>Neler sorabilirsin?</h2>
+    <ul class="ai-ex">
+      <li>"Mesai Mutfak'tan evde tavuk ve patatesle yapabileceğim, 40 dakikayı geçmeyen bir tarif bul."</li>
+      <li>"Mesai Mutfak'ta vegan ve glutensiz tatlı var mı?"</li>
+      <li>"Bu akşam misafir geliyor; Mesai Mutfak'tan bir ana yemek, bir de tatlı öner."</li>
+      <li>"Airfryer'da yapabileceğim pratik bir şey öner, Mesai Mutfak tariflerinden olsun."</li>
+    </ul>
+    <p>Asistanın tarifleri bulur, kısa bir özetle sana sunar ve tarifin Mesai Mutfak'taki sayfasını paylaşır. Ölçüler, adım adım yapılış, püf noktaları ve "elinde yoksa ne kullanırsın" önerileri tarif sayfasında.</p>
+
+    <h2>Sitede de konuşabilirsin</h2>
+    <p>Yapay zekâ asistanın yoksa ya da bağlamakla uğraşmak istemiyorsan, <a href="{{ '/asistan/' | link }}">Bizimle konuş</a> sayfasında mikrofona basıp anlatman yeterli; tarifi biz bulalım.</p>
+
+    <h2>Gizlilik</h2>
+    <p>Bağlantı yalnızca tarif arar ve tarif bilgisi verir; senin hesabına, sohbetlerine ya da kişisel verilerine erişmez, bizim tarafımızda giriş ya da hesap gerekmez. Sorduğun soruyu kendi yapay zekâ asistanın işler ve bize yalnızca arama kriterleri (ör. "tavuk, patates, 40 dakika") ulaşır; bunları kişiyle ilişkilendirmeyiz. Ayrıntılar için <a href="{{ '/gizlilik/' | link }}">Gizlilik</a>.</p>
+  </div>
+</div>
+<script>
+(function () { var b = document.getElementById('mcpCopy'), c = document.getElementById('mcpUrl'); if (!b) return;
+  b.addEventListener('click', function () { var t = c.textContent; (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(function () { b.textContent = 'Kopyalandı'; setTimeout(function () { b.textContent = 'Kopyala'; }, 1600); }, function () { var r = document.createRange(); r.selectNodeContents(c); var s = getSelection(); s.removeAllRanges(); s.addRange(r); }); });
+})();
+</script>

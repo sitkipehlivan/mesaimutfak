@@ -750,3 +750,10 @@ html.has-rails .top .wrap,html.has-rails .topcats .wrap{max-width:1240px}
 .as-speak{display:inline-flex;gap:6px;align-items:center;cursor:pointer}
 .asis-note{max-width:820px;font-size:13px;color:var(--ink-2);margin-top:12px}
 @media (max-width:560px){.asis-form .btn{padding:11px 12px}.as-msg{max-width:96%}}
+
+/* v19 · yapay zekâ bağlantı sayfası */
+.ai-steps{display:flex;flex-direction:column;gap:10px;padding-left:22px}
+.ai-url{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.ai-url code{font-family:var(--f-mono);font-size:15px;background:var(--card);border:2px solid var(--ink);border-radius:12px;padding:10px 14px;overflow-wrap:anywhere}
+.ai-small{font-size:14px;color:var(--ink-2)}
+.ai-ex li{margin-bottom:6px}
