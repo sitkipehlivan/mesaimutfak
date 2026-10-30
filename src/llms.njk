@@ -1,0 +1,25 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+eleventyAllowMissingExtension: true
+---
+# Mesai Mutfak
+
+> Pratik ve kolay Türk yemek tarifleri: ana yemekler, zeytinyağlılar, çorbalar, hamur işleri, tatlılar; mesai sonrası için hızlı tarifler, airfryer, vegan ve glutensiz tarifler. Her tarifte net ölçüler, hazırlık ve pişirme süresi, porsiyon, zorluk ve adım adım yapılış var.
+
+Yayın sahibi: {{ site.publisher.legalName }} Genel yayın yönetmeni: {{ site.publisher.editor }}. Toplam {{ collections.tarifler.length }} tarif.
+
+## Kategoriler
+{% for c in categories.types %}- [{{ c.l | safe }}]({{ site.url }}/kategori/{{ c.k }}/){% if c.s %}: {{ c.s }}{% endif %}
+{% endfor %}{% for c in categories.diets %}- [{{ c.l | safe }}]({{ site.url }}/kategori/{{ c.k }}/){% if c.s %}: {{ c.s }}{% endif %}
+{% endfor %}
+## Araçlar
+- [Bugün ne pişirsem?]({{ site.url }}/bugun-ne-pisirsem/): Ruh hali, tür, zorluk ve süreye göre tarif önerisi.
+- [Tüm tarifler]({{ site.url }}/tarifler/)
+
+## Tarifler
+{% for r in collections.tarifler %}- [{{ r.data.title | safe }}]({{ site.url }}{{ r.url }}): {{ (r.data.prep or 0) + (r.data.cook or 0) }} dk, {{ r.data.serv }} kişilik.{% if r.data.desc %} {{ r.data.desc | safe }}{% endif %}
+{% endfor %}
+## Hakkında
+- [Hakkımızda]({{ site.url }}/hakkimizda/)
+- [Künye]({{ site.url }}/kunye/)

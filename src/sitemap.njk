@@ -2,9 +2,12 @@
 permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
+{#- Yalnızca gerçekten yayınlanan, dizine eklenebilir HTML sayfaları: permalink:false kayıtlar (Instagram taslakları),
+    noindex sayfalar ve kişisel/araç sayfaları (ara, listem, kaydettiklerim, 404, offline) dışarıda kalır. -#}
+{%- set skip = ['/ara/', '/listem/', '/kaydettiklerim/', '/404.html', '/offline/', '/instagram-takvim/'] -%}
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for p in collections.all %}
-  <url><loc>{{ site.url }}{{ p.url }}</loc><lastmod>{{ p.date.toISOString().slice(0,10) }}</lastmod></url>
-{%- endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{%- for p in collections.all %}{% if p.url and p.url.endsWith('/') and not p.data.noindex and not (p.url in skip) and not p.url.startsWith('/admin') %}
+  <url><loc>{{ site.url }}{{ p.url }}</loc><lastmod>{{ (p.data.updated or p.date.toISOString()) | string | truncate(10, true, '') }}</lastmod>{% if p.data.image and p.url.startsWith('/tarif/') %}<image:image><image:loc>{{ site.url }}{{ p.data.image | imgUrl(1200) }}</image:loc></image:image>{% endif %}</url>
+{%- endif %}{% endfor %}
 </urlset>

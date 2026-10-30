@@ -4,3 +4,5 @@ Disallow: /admin/
 Disallow: /instagram-takvim.json
 
 Sitemap: https://mesaimutfak.com/sitemap.xml
+
+# Yapay zekâ arama motorları için özet: https://mesaimutfak.com/llms.txt
