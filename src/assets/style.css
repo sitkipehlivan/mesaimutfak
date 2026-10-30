@@ -681,3 +681,15 @@ html.has-rails .ad-rail_right{left:calc(50% + var(--cw) / 2 + 12px);right:auto}
 .ad-rail_left,.ad-rail_right{top:140px}
 .ad-row-video{padding-block:20px 4px}
 html.has-rails .top .wrap,html.has-rails .topcats .wrap{max-width:1240px}
+
+/* Tarif puanlama */
+.rate{margin:28px 0;padding:20px 22px;border:1px solid var(--line);border-radius:16px;background:var(--card)}
+.rate h2{font-size:20px;margin:0 0 4px}
+.rate-sum{margin:0 0 10px;color:var(--ink-2)}
+.rate-sum b{color:var(--ink);font-size:18px}
+.stars{display:flex;gap:6px}
+.star{background:none;border:0;padding:4px;cursor:pointer;line-height:0;border-radius:8px}
+.star svg{width:34px;height:34px;fill:none;stroke:var(--sun);stroke-width:1.6;transition:fill .12s}
+.star.on svg{fill:var(--sun)}
+.star:focus-visible{outline:2px solid var(--ink)}
+.rate-msg{min-height:1.4em;margin:8px 0 0;font-size:14px;color:var(--ink-2)}

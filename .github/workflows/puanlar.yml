@@ -1,0 +1,28 @@
+# Her gün 05:20 (İstanbul) tarif puanlarını canlı siteden alır; değiştiyse kaydeder ve site yeniden derlenir
+# (Google'daki yıldızlar için tarif şemasındaki aggregateRating güncel kalır).
+name: Tarif puanları
+on:
+  schedule:
+    - cron: '20 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  puan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Puanları çek
+        run: |
+          curl -sf https://mesaimutfak.com/.netlify/functions/puan -o /tmp/p.json || exit 0
+          python3 -c "import json;d=json.load(open('/tmp/p.json'));json.dump(d,open('src/_data/puan-ozet.json','w'),ensure_ascii=False,sort_keys=True,indent=1)"
+      - name: Kaydet
+        run: |
+          git config user.name "mesaimutfak-bot"
+          git config user.email "hello@mesaimutfak.com"
+          git add src/_data/puan-ozet.json
+          if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
+          git commit -m "Tarif puanları güncellendi"
+          git pull --rebase origin main
+          git push
