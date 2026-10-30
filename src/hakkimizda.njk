@@ -25,7 +25,7 @@ desc: Mesai Mutfak, yoğun tempoda yaşayanlar için denenmiş, ölçüleri net 
   <p>Tarifler editör ekibimiz tarafından hazırlanıyor ve yayından önce ölçü, süre ve yazım açısından kontrol ediliyor. Bir tarifte hata görürsen ya da kendi denemeni paylaşmak istersen <a href="{{ '/iletisim/' | link }}">bize yaz</a>; tarifleri okuyucu geri bildirimleriyle güncelliyoruz.</p>
 
   <h2>Videolar</h2>
-  <p>Tariflerin kısa, infografik tarzda video anlatımlarını hazırlıyoruz: ölçüler ekranda, süreler tencerenin yanında. Yeni videolar için <a href="{{ site.youtube }}" target="_blank" rel="noopener">YouTube kanalımızı</a> takip edebilirsin.</p>
+  <p>Tariflerin kısa, infografik tarzda video anlatımlarını hazırlıyoruz: ölçüler ekranda, süreler tencerenin yanında.{% if site.youtube %} Yeni videolar için <a href="{{ site.youtube }}" target="_blank" rel="noopener">YouTube kanalımızı</a> takip edebilirsin.{% endif %}</p>
 
   <h2>Kim yayınlıyor?</h2>
   <p>Mesai Mutfak, dijital medya ve reklam şirketi <b>{{ site.publisher.legalName }}</b> tarafından yayınlanır. Genel yayın yönetmeni <a href="{{ ('/yazar/' + site.publisher.editorSlug + '/') | link }}">{{ site.publisher.editor }}</a>'dir. Yayın sahibi ve iletişim bilgileri <a href="{{ '/kunye/' | link }}">Künye</a> sayfasında.</p>
