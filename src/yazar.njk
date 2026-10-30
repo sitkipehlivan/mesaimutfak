@@ -20,10 +20,10 @@ eleventyComputed:
     {% if au.expertise %}<p>Uzmanlık: {{ au.expertise }}</p>{% endif %}
     <p>{% if au.instagram %}<a href="{{ au.instagram }}" target="_blank" rel="noopener me">Instagram</a> {% endif %}{% if au.linkedin %}<a href="{{ au.linkedin }}" target="_blank" rel="noopener me">LinkedIn</a>{% endif %}</p>
   </div>
-  <h2 style="margin-top:28px">{{ au.name }} tarifleri ({{ mine.length }})</h2>
-  <div class="grid" style="margin-block:18px 64px">{% for r in mine %}{% include "card.njk" %}{% else %}<div class="empty">Henüz tarif yok.</div>{% endfor %}</div>
+  {% if mine.length %}<h2 style="margin-top:28px">{% if au.team %}Ekibin hazırladığı tarifler{% else %}Editörlüğünü yaptığı tarifler{% endif %} ({{ mine.length }})</h2>
+  <div class="grid" style="margin-block:18px 64px">{% for r in mine %}{% include "card.njk" %}{% endfor %}</div>{% else %}<div style="margin-bottom:64px"></div>{% endif %}
 </div>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "ProfilePage", "url": "{{ site.url }}{{ page.url }}",
- "mainEntity": {"@type": "Person", "name": {{ au.name | dump | safe }}, "jobTitle": {{ (au.role or 'Yazar') | dump | safe }}, "url": "{{ site.url }}{{ page.url }}"{% if au.bio %}, "description": {{ au.bio | dump | safe }}{% endif %}{% if au.photo %}, "image": "{{ site.url }}{{ au.photo | imgUrl(400) }}"{% endif %}, "worksFor": {"@type": "Organization", "name": {{ site.name | dump | safe }}}{% if au.instagram or au.linkedin %}, "sameAs": [{% if au.instagram %}"{{ au.instagram }}"{% endif %}{% if au.instagram and au.linkedin %}, {% endif %}{% if au.linkedin %}"{{ au.linkedin }}"{% endif %}]{% endif %}}}
+ "mainEntity": {"@type": "{{ 'Organization' if au.team else 'Person' }}", "name": {{ au.name | dump | safe }}, {% if not au.team %}"jobTitle": {{ (au.role or 'Yazar') | dump | safe }}, {% endif %}"url": "{{ site.url }}{{ page.url }}"{% if au.bio %}, "description": {{ au.bio | dump | safe }}{% endif %}{% if au.photo %}, "image": "{{ site.url }}{{ au.photo | imgUrl(400) }}"{% endif %}, "{{ 'parentOrganization' if au.team else 'worksFor' }}": {"@type": "Organization", "name": {{ site.publisher.legalName | dump | safe }}}{% if au.instagram or au.linkedin %}, "sameAs": [{% if au.instagram %}"{{ au.instagram }}"{% endif %}{% if au.instagram and au.linkedin %}, {% endif %}{% if au.linkedin %}"{{ au.linkedin }}"{% endif %}]{% endif %}}}
 </script>

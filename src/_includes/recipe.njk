@@ -124,7 +124,7 @@ layout: base.njk
         {% endif %}
         {% if editorNote %}
         {%- set ed2 = (editor or site.publisher.editorSlug) | person(authors) -%}
-        <aside class="ednote" aria-label="Editörün notu"><h2>Editörün notu</h2><p>{{ editorNote }}</p>{% if ed2 %}<p class="ednote-by">{{ ed2.name }} · {{ ed2.role }}</p>{% endif %}</aside>
+        <aside class="ednote" aria-label="Editörün notu"><h2>Editörün notu</h2><p>{{ editorNote }}</p>{% if ed2 %}<p class="ednote-by">{{ ed2.name }}{% if not ed2.team %} · {{ ed2.role }}{% endif %}</p>{% endif %}</aside>
         {% endif %}
         {% if faq and faq.length %}
         <section class="faq" id="sss" aria-labelledby="sssBaslik">

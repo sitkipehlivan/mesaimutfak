@@ -1,10 +1,17 @@
 {
   "list": [
     {
+      "slug": "editor-ekibi",
+      "name": "Mesai Mutfak Editör Ekibi",
+      "role": "Editör ekibi",
+      "team": true,
+      "bio": "Mesai Mutfak tarifleri, Advance Dijital Medya bünyesindeki editör ekibi tarafından hazırlanır. Her tarif yayından önce ölçü, süre, malzeme ve yazım kontrolünden geçer; okurlardan gelen düzeltmelerle güncellenir."
+    },
+    {
       "slug": "sitki-pehlivan",
       "name": "Sıtkı Pehlivan",
       "role": "Genel Yayın Yönetmeni",
-      "bio": "Mesai Mutfak'ın yayın sahibi Advance Dijital Medya'nın kurucusu ve sitenin genel yayın yönetmeni. Tariflerin yayın öncesi ölçü, süre ve yazım kontrolünü yürütür."
+      "bio": "Mesai Mutfak'ın genel yayın yönetmeni ve yayıncı Advance Dijital Medya'nın kurucusu. Sitenin yayın politikasından ve editör ekibinin çalışmalarından sorumludur."
     }
   ]
 }

@@ -14,6 +14,7 @@ desc: Mesai Mutfak yayın sahibi, genel yayın yönetmeni ve iletişim bilgileri
     <dt>Yayın türü</dt><dd>Yemek tarifleri sitesi</dd>
     <dt>Yayın sahibi</dt><dd><a href="{{ p.website }}" target="_blank" rel="noopener">{{ p.legalName }}</a></dd>
     <dt>{{ p.editorTitle }}</dt><dd><a href="{{ ('/yazar/' + p.editorSlug + '/') | link }}">{{ p.editor }}</a></dd>
+    <dt>İçerik</dt><dd><a href="{{ '/yazar/editor-ekibi/' | link }}">Mesai Mutfak Editör Ekibi</a></dd>
     <dt>Adres</dt><dd>{{ p.address }}</dd>
     <dt>E-posta</dt><dd><a href="mailto:{{ site.contactEmail }}">{{ site.contactEmail }}</a></dd>
     <dt>MERSİS No</dt><dd>{{ p.mersis }}</dd>
