@@ -1,0 +1,103 @@
+---
+layout: base.njk
+permalink: /asistan/
+title: Bizimle konuş
+seoTitle: "Bizimle konuş: Sesle tarif önerisi"
+desc: Evde ne var, ne kadar vaktin var, anlat; Mesai Mutfak tarifleri arasından sana uygun olanı bulalım.
+noindex: true
+---
+<div class="wrap asis">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Bizimle konuş</span></nav>
+  <header class="asis-hero">
+    <div class="eyebrow">Tarif asistanı</div>
+    <h1>Anlat, yemeği biz seçelim</h1>
+    <p>Evde ne var, ne kadar vaktin var, kaç kişisiniz? Mikrofona bas ve konuş ya da yaz; {{ collections.tarifler.length }} tarifimiz arasından sana uygun olanları bulalım.</p>
+  </header>
+
+  <div class="asis-box">
+    <div class="asis-log" id="asLog" aria-live="polite">
+      <div class="as-msg as-bot"><p>Merhaba! Bugün ne pişirmek istersin? Örneğin "Evde tavuk ve patates var, yarım saatim var" diyebilirsin.</p></div>
+    </div>
+    <div class="asis-ex" id="asEx">
+      {% for q in ['Evde tavuk ve patates var, 30 dakikam var', 'Hafif ve vegan bir akşam yemeği', 'Misafir geliyor, kolay bir tatlı', 'Çocuklar da yiyecek, pratik bir şey'] %}<button type="button" class="chip-q">{{ q }}</button>{% endfor %}
+    </div>
+    <form class="asis-form" id="asForm" autocomplete="off">
+      <button type="button" class="as-mic" id="asMic" aria-label="Konuşmaya başla" title="Konuşmaya başla"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15a3 3 0 0 0 3-3V6a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-2.08A7 7 0 0 0 19 12h-2z"/></svg></button>
+      <label for="asInput" class="sr-only">Mesajın</label>
+      <input id="asInput" type="text" maxlength="600" placeholder="Konuş ya da yaz: evde ne var, ne kadar vaktin var?">
+      <button type="submit" class="btn" id="asSend">Gönder</button>
+    </form>
+    <div class="asis-foot">
+      <label class="as-speak"><input type="checkbox" id="asSpeak"> Cevabı sesli oku</label>
+      <span id="asStatus" class="mono"></span>
+    </div>
+  </div>
+  <p class="asis-note">Konuşman tarayıcının kendi ses tanıma özelliğiyle yazıya çevrilir; ses kaydı bize ulaşmaz. Yazdıkların, tarif önerisi için yapay zekâ (Anthropic Claude) ile işlenir ve saklanmaz. Öneriler yalnızca Mesai Mutfak tarifleri arasından yapılır. <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
+</div>
+
+<script>
+(function () {
+  var log = document.getElementById('asLog'), form = document.getElementById('asForm'), input = document.getElementById('asInput'),
+      mic = document.getElementById('asMic'), send = document.getElementById('asSend'), st = document.getElementById('asStatus'),
+      speak = document.getElementById('asSpeak'), ex = document.getElementById('asEx');
+  var hist = [], busy = false;
+  try { speak.checked = localStorage.getItem('mm-as-speak') === '1'; } catch (e) {}
+  speak.addEventListener('change', function () { try { localStorage.setItem('mm-as-speak', speak.checked ? '1' : '0'); } catch (e) {} if (!speak.checked && window.speechSynthesis) speechSynthesis.cancel(); });
+
+  function esc(s) { return String(s || '').replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function add(cls, html) { var d = document.createElement('div'); d.className = 'as-msg ' + cls; d.innerHTML = html; log.appendChild(d); d.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); return d; }
+  function say(t) {
+    if (!speak.checked || !window.speechSynthesis || !t) return;
+    try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(t); u.lang = 'tr-TR'; var v = speechSynthesis.getVoices().filter(function (x) { return /^tr/i.test(x.lang); })[0]; if (v) u.voice = v; speechSynthesis.speak(u); } catch (e) {}
+  }
+
+  function ask(text) {
+    text = (text || '').trim(); if (!text || busy) return;
+    busy = true; send.disabled = true; ex.hidden = true;
+    add('as-user', '<p>' + esc(text) + '</p>');
+    hist.push({ rol: 'kullanici', metin: text });
+    input.value = '';
+    var wait = add('as-bot as-wait', '<p><span class="dots"><i></i><i></i><i></i></span> Tariflere bakıyorum…</p>');
+    if (window.mmTrack) mmTrack('asistan_soru', {});
+    fetch('/.netlify/functions/asistan', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ mesajlar: hist }) })
+      .then(function (r) { return r.json().catch(function () { return {}; }); })
+      .then(function (d) {
+        wait.remove();
+        var cevap = d.cevap || 'Şu an cevap veremedim, birazdan tekrar dener misin?';
+        var html = '<p>' + esc(cevap) + '</p>';
+        if (d.tarifler && d.tarifler.length) {
+          html += '<div class="as-cards">' + d.tarifler.map(function (t) {
+            return '<a class="as-card" href="' + esc(t.url) + '">' + (t.gorsel ? '<img src="' + esc(t.gorsel) + '" alt="" loading="lazy" width="120" height="120">' : '<span class="as-noimg"></span>') +
+              '<span><b>' + esc(t.baslik) + '</b><em class="mono">' + esc(t.dk) + ' dk · ' + esc(t.zorluk) + '</em>' + (t.neden ? '<span>' + esc(t.neden) + '</span>' : '') + '</span></a>';
+          }).join('') + '</div>';
+        }
+        add('as-bot', html);
+        hist.push({ rol: 'asistan', metin: cevap + (d.tarifler && d.tarifler.length ? ' Önerilen: ' + d.tarifler.map(function (t) { return t.baslik; }).join(', ') + '.' : '') });
+        say(cevap + (d.tarifler && d.tarifler.length ? ' ' + d.tarifler.map(function (t) { return t.baslik; }).join(', ') : ''));
+      })
+      .catch(function () { wait.remove(); add('as-bot', '<p>Bağlantı kurulamadı, internetini kontrol edip tekrar dener misin?</p>'); })
+      .finally(function () { busy = false; send.disabled = false; });
+  }
+
+  form.addEventListener('submit', function (e) { e.preventDefault(); ask(input.value); });
+  ex.addEventListener('click', function (e) { var b = e.target.closest('.chip-q'); if (b) ask(b.textContent); });
+
+  // Ses: tarayıcının konuşma tanıma özelliği (Chrome, Edge, Safari)
+  var SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SR) { mic.hidden = true; input.placeholder = 'Yaz: evde ne var, ne kadar vaktin var?'; return; }
+  var rec = null, on = false, finalText = '';
+  mic.addEventListener('click', function () {
+    if (on) { rec && rec.stop(); return; }
+    if (window.speechSynthesis) speechSynthesis.cancel();
+    rec = new SR(); rec.lang = 'tr-TR'; rec.interimResults = true; rec.continuous = false; finalText = '';
+    rec.onstart = function () { on = true; mic.classList.add('on'); mic.setAttribute('aria-label', 'Dinlemeyi durdur'); st.textContent = 'Dinliyorum…'; };
+    rec.onresult = function (e) {
+      var t = ''; for (var i = 0; i < e.results.length; i++) { t += e.results[i][0].transcript; if (e.results[i].isFinal) finalText = t; }
+      input.value = t;
+    };
+    rec.onerror = function (e) { st.textContent = e.error === 'not-allowed' ? 'Mikrofon izni verilmedi; yazarak da sorabilirsin.' : 'Duyamadım, tekrar dener misin?'; };
+    rec.onend = function () { on = false; mic.classList.remove('on'); mic.setAttribute('aria-label', 'Konuşmaya başla'); if (st.textContent === 'Dinliyorum…') st.textContent = ''; var t = (finalText || input.value).trim(); if (t) ask(t); };
+    try { rec.start(); } catch (e) { st.textContent = 'Mikrofon başlatılamadı.'; }
+  });
+})();
+</script>
