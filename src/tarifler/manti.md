@@ -104,6 +104,50 @@ tips:
 - Mantıları unlu tepsiye dizip dondurabilirsin; donmuş halde kaynar suya at.
 - Hamuru ince açmak için makarna makinesi büyük kolaylık sağlar.
 - 'Pratik versiyon: hamuru açıp kare kesmek yerine yufkadan şerit kesip kullanabilirsin.'
+updated: '2026-10-30'
+notes:
+- t: Hamurun kıvamı neden önemli?
+  d: 'Mantı hamuru, börek hamurundan daha sert olmalı. Sert hamur çok ince açılabilir ve kapatırken yırtılmaz. Yoğurduktan sonra en az 30 dakika üzeri örtülü dinlendirmek glüteni gevşetir; hamur açarken geri çekmez.
+
+
+    Hamur ele yapışıyorsa bir avuç un ekle, ama fazla un hamuru kurutur ve kapatırken köşeler birbirine yapışmaz.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'En yaygın hata hamuru kalın bırakmak. Kalın hamurlu mantı haşlanınca hamurumsu ve ağır olur; hamurun altındaki eli görebilecek incelikte açmak hedef.
+
+
+    İkinci hata içi fazla koymak. Nohut tanesi kadar iç yeterli; fazlası bohçanın kapanmasını zorlaştırır ve haşlarken açılmasına neden olur.
+
+
+    Üçüncüsü mantıyı az suda haşlamak. Bol ve tuzlu kaynar su şart; mantıları azar azar atmak suyun kaynamasının kesilmesini önler.
+
+    '
+- t: Dondurma ve saklama
+  d: 'Kapattığın mantıları unlanmış tepsiye birbirine değmeden diz ve 1 saat dondurucuda beklet. Tek tek donduktan sonra poşetlere aktar; böylece birbirine yapışmazlar. Dondurucuda 3 ay dayanır.
+
+
+    Donmuş mantıyı çözdürmeden kaynar suya at, haşlama süresini 3-4 dakika uzat. Haşlanmış ve soslanmış mantıyı saklamayı önermiyoruz; yoğurtla birlikte dokusu bozulur.
+
+    '
+- t: Sos sırası
+  d: 'Klasik sıra: önce süzülmüş mantı, üzerine oda sıcaklığındaki sarımsaklı yoğurt, en son kızgın tereyağlı salça. Yoğurt buzdolabından yeni çıkmışsa mantıyı hızla soğutur; servis etmeden 20 dakika önce dışarı almak iyi olur. Üzerine kuru nane ve sumak serpenler de var.
+
+    '
+faq:
+- q: Mantı hamuru nasıl ince açılır?
+  a: Hamuru dinlendirdikten sonra ikiye ya da dörde bölüp her parçayı ayrı açmak işi kolaylaştırır. İnce oklava ya da makarna makinesi kullanabilirsin; hamurun altından elini görebiliyorsan inceliği doğru.
+- q: Mantı kaç dakika haşlanır?
+  a: Taze mantı kaynar suda yüzeye çıktıktan sonra yaklaşık 3-5 dakika daha haşlanır. Donmuş mantıda bu süre 3-4 dakika uzar. En doğrusu bir tanesini kesip hamurun piştiğini kontrol etmek.
+- q: Mantı yufkadan yapılır mı?
+  a: Evet, pratik bir versiyon olarak hazır yufkayı küçük karelere kesip aynı şekilde kapatabilirsin. Yufka mantısı daha hızlı ama ev hamuru kadar elastik değildir; haşlama süresi de daha kısadır.
+- q: Mantının içine soğan rendelenir mi, doğranır mı?
+  a: Rendelenir. Rendelenmiş soğan suyuyla birlikte kıymaya karışır, iç daha sulu ve homojen olur. Doğranmış soğan ise küçük bohçaların kapanmasını zorlaştırır.
+editorNote: 'Mantıyı sitede tam tarif olarak tutmamızın nedeni dondurucu avantajı: bir hafta sonu öğleden sonrasını ayırıp 6 kişilik yapınca, hafta içi akşamları 15 dakikada sofraya gelen bir yemek elde ediliyor. Yufkadan kestirme versiyonu da püf noktalarında bıraktık.'
 ---
 
-Kaşığa kırk tane sığarsa iyi mantıdır derler. Uğraştırır ama bir kere yapıp dondurucuya doldurunca haftalarca kurtarır.
+Mantı, Orta Asya'dan Anadolu'ya uzanan bir hamur işidir; bugün en çok Kayseri mantısıyla bilinir. Küçücük hamur bohçaları, sarımsaklı yoğurt ve kızdırılmış tereyağlı salça sosu, bu üçlü olmadan mantı tamamlanmış sayılmaz.
+
+Bu tarifte hamur yumurta, su ve unla elde yoğruluyor, iç ise sadece kıyma, rendelenmiş soğan ve baharattan oluşuyor. Uğraştıran kısım hamuru ince açmak ve tek tek kapatmak; gerisi oldukça kolay.
+
+Tarif 6 kişilik ve hazırlığı 75 dakika sürüyor. Fazlasını dondurmak mantının en büyük avantajı: donmuş mantı doğrudan kaynar suya atılıyor.

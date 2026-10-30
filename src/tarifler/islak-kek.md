@@ -96,6 +96,46 @@ steps:
 tips:
 - Sosu sıcak kekin üzerine dökersen daha iyi çeker.
 - Buzdolabında bir gece bekleyince daha da güzelleşir.
+updated: '2026-10-30'
+notes:
+- t: Sosun kekin içine işlemesi için
+  d: 'Sosu kek fırından çıkar çıkmaz, kek henüz sıcakken dökmek gerekir. Sıcak kekin gözenekleri açıktır ve sosu hızla emer. Soğumuş keke dökülen sos üstte kalır, kek kuru kalır.
+
+
+    Kürdanla açılan delikler sosun kekin altına kadar inmesini sağlar; kekin her yerine, 1-2 cm arayla delik açmak iyi sonuç verir.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'Kek hamurunu un eklendikten sonra uzun süre çırpmak keki sertleştirir. Unu ekledikten sonra spatulayla, sadece un görünmeyene kadar karıştırmak yeterli.
+
+
+    Fırın kapağını erken açmak da kekin sönmesine neden olur. İlk 25 dakika fırını açma; pişip pişmediğini kürdanla kontrol et.
+
+
+    Sosu fazla koyulaştırmak sosun kekin içine işlemesini engeller. Sos kaynadıktan sonra 1-2 dakika pişip ocaktan alınmalı; kaşığı ince bir tabakayla kaplayacak kıvam yeterli.
+
+    '
+- t: Saklama
+  d: 'Islak kek buzdolabında, üzeri kapalı olarak 4 gün taze kalır. Soğuk servis edilir; servis etmeden 10 dakika önce dolaptan çıkarmak sosun biraz yumuşamasını sağlar.
+
+
+    Dilimlenmiş ıslak kek dondurulabilir; tek tek streç filme sarıp 1 aya kadar saklayabilirsin. Buzdolabında çözdürmek en iyisi.
+
+    '
+faq:
+- q: Islak kek neden kuru oluyor?
+  a: Genelde sos soğumuş keke döküldüğü ya da yeterince sos kullanılmadığı için. Sosu kek sıcakken dökmek ve kekin her yerine delik açmak, sosun eşit şekilde işlemesini sağlar.
+- q: Islak kek kaç derecede pişer?
+  a: Bu tarifte kek 170°C önceden ısıtılmış fırında yaklaşık 30-35 dakika pişiyor. Kürdan kuru çıkıyorsa kek hazırdır.
+- q: Islak kekin üzerine ne konur?
+  a: Klasik olarak hindistan cevizi rendesi ya da dövülmüş fındık. Antep fıstığı, çikolata parçacıkları ya da dondurmayla da servis edilebilir.
+- q: Islak kek bir gün önceden yapılır mı?
+  a: Evet, hatta önerilir. Bir gece buzdolabında bekleyen ıslak kek sosu tamamen çeker ve dokusu daha yoğun, nemli olur.
+editorNote: 'Islak kekte sosu sıcak kekin üzerine dökmeyi ve bir gece bekletmeyi önermemizin sebebi tamamen kıvam: sos ancak sıcak ve gözenekli kekin içine işliyor, beklemek de keki pastane vitrinindeki o yoğun, nemli dokuya getiriyor.'
 ---
 
-Pastane vitrininin en sevileni. Sosu kekin içine işledikçe tadı artıyor.
+Islak kek, kakaolu bir kekin üzerine sıcak çikolata sosu dökülerek yapılan, pastane vitrinlerinin en çok satan tatlılarından biri. Sos kekin içine işledikçe kek hem nemli hem yoğun bir dokuya kavuşuyor.
+
+Bu tarifte kek hamuru yumurta ve şekerin çırpılmasıyla hazırlanıyor, süt ve sıvı yağla yumuşak bir kıvam alıyor. Sos ise süt, şeker, kakao ve bitter çikolatayla ocakta birkaç dakikada hazırlanıyor. Kek sıcakken kürdanla delinip sos dökülüyor.
+
+12 kişilik tarif yaklaşık 50 dakikada hazır, ama en az 1 saat, tercihen bir gece dinlendirilmesi öneriliyor.

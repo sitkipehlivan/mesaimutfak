@@ -1,0 +1,25 @@
+# Her sabah 09:00 (İstanbul) sıradaki 10 tarifin zengin içeriğini (notlar, sık sorulanlar, editör notu) yayına alır.
+name: Zengin içerik
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  uygula:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pyyaml==6.0.2
+      - run: python3 scripts/zengin/gunluk.py
+      - name: Kaydet
+        run: |
+          git config user.name "mesaimutfak-bot"
+          git config user.email "hello@mesaimutfak.com"
+          git add -A src/tarifler scripts/zengin
+          if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
+          git commit -m "Tarif içerikleri zenginleştirildi"
+          git pull --rebase origin main
+          git push

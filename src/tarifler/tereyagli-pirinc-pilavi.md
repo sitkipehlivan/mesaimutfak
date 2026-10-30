@@ -91,6 +91,47 @@ tips:
 - Su kaynar olmalı; soğuk su pirinci lapa yapar.
 - Pişerken kapağı açma, buhar kaçarsa taneler pişmeden kalır.
 - 'Islatmayı atlarsan suyu 1 : 1,25 oranına düşür.'
+updated: '2026-10-30'
+notes:
+- t: Su oranı nasıl ayarlanır?
+  d: 'Islatılmış baldo pirinç için oran 1 ölçü pirince 1,5 ölçü kaynar su. Pirinci ıslatmadıysan oranı 1 ölçü pirince 1,25 ölçü suya düşür.
+
+
+    Osmancık pirinç baldodan daha az su çeker; osmancıkla yapıyorsan suyu yaklaşık yarım ölçü azalt. Tavuk suyu kullanmak pilavın tadını belirgin şekilde zenginleştirir.
+
+    '
+- t: Neden ıslatılıp yıkanıyor?
+  d: 'Pirincin yüzeyindeki nişasta, pişerken tanelerin birbirine yapışmasına neden olur. Ilık tuzlu suda 20 dakika bekletip su berrak akana kadar yıkamak bu nişastayı azaltır. Ayrıca ıslatılan pirinç daha eşit pişer ve taneleri kırılmaz.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'Pişerken kapağı açıp karıştırmak en yaygın hata. Buhar kaçınca üstteki taneler pişmeden kalır, karıştırmak da taneleri kırar ve pilavı lapa yapar.
+
+
+    Soğuk su eklemek de pilavı lapa yapar; su mutlaka kaynar olmalı.
+
+
+    Demlenmeyi atlamak da yaygın. Ocaktan sonraki 10 dakikalık demlenme, tanelerin içinin pişmesini tamamlar ve fazla nemi bezin emmesini sağlar.
+
+    '
+- t: Saklama ve tekrar ısıtma
+  d: 'Pişmiş pilavı soğuduktan sonra en geç 1 saat içinde buzdolabına kaldır; buzdolabında 3 gün dayanır. Isıtırken birkaç kaşık su serpip kapağı kapalı kısık ateşte ya da mikrodalgada üzeri kapalı ısıt.
+
+    '
+faq:
+- q: Pirinç pilavı neden lapa olur?
+  a: Genelde fazla su, soğuk su eklenmesi ya da pişerken karıştırılması yüzünden. 1'e 1,5 oranında kaynar su kullanmak ve pişerken kapağı açmamak lapa olmasını önler.
+- q: Pilav için hangi pirinç kullanılır?
+  a: Tane tane pilav için baldo pirinç en yaygın tercih. Osmancık pirinç daha ekonomiktir ama biraz daha yapışkan olur. Jasmine ve basmati ise farklı aromalı, daha uzun taneli pilavlar verir.
+- q: Pilavın üstüne neden bez konur?
+  a: Demlenme sırasında tencerede toplanan buhar kapağın altında damlayıp pilavı ıslatır. Bez ya da kâğıt havlu bu buharı emer ve pilavın tane tane kalmasını sağlar.
+- q: Arpa şehriye olmadan yapılır mı?
+  a: Evet. Şehriyesiz sade pirinç pilavı da yapılır; aynı adımları şehriyeyi kavurma adımını atlayarak izlemen yeterli. Şehriye pilava renk ve hafif kavrulmuş bir tat katar.
+editorNote: Pilav tarifinde "1'e 1,5" oranını ve demlenme adımını ayrıntılı yazmamızın nedeni, pilavda en sık yaşanan sorunun lapa olması. Islatmayı atlayacaklar için ayrı su oranını da püf noktalarına ekledik.
 ---
 
-Tane tane pilavın sırrı iki şeyde: doğru oran ve demlenme. Bir ölçü pirince bir buçuk ölçü kaynar su, sonra 10 dakika bez altında beklemek.
+Tereyağlı pirinç pilavı, Türk sofrasının neredeyse her ana yemeğe eşlik eden temel tabağı. Kuru fasulye, tavuk sote ya da karnıyarığın yanında tane tane bir pilav, yemeği tamamlayan en önemli parça.
+
+Bu tarifte pirinç önce ılık tuzlu suda bekletilip yıkanıyor, ardından tereyağında kavrulmuş arpa şehriyeyle birlikte şeffaflaşana kadar kavruluyor. Kaynar suyla pişip kapağın altına konan bir bezle demleniyor.
+
+4 kişilik tarif 30 dakikada hazır. Tane tane bir pilavın sırrı iki şeyde: doğru su oranı ve pişerken kapağı açmamak.

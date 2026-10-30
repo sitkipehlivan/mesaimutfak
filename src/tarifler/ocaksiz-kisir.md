@@ -95,6 +95,44 @@ steps:
 tips:
 - Yeşillikleri bulgur soğuduktan sonra ekle, solmazlar.
 - Marul yaprağıyla servis et.
+updated: '2026-10-30'
+notes:
+- t: Hangi bulgur kullanılmalı?
+  d: 'Kısır için köftelik ya da çiğ köftelik denen ince bulgur kullanılır. Pilavlık iri bulgur kaynar suyla demlenince içi pişmez, sert kalır.
+
+
+    İnce bulgurun markadan markaya suyu farklı çekebilir. Demleme suyunu bir kerede değil, azar azar ekleyip bulgurun yumuşamasına göre ayarlamak daha güvenli.
+
+    '
+- t: Neden elle yoğruluyor?
+  d: 'Salçaları ve yağı bulgura elle yedirmek, salçanın tanelere iyice nüfuz etmesini sağlar. Kaşıkla karıştırılan kısır açık renkli ve salçası topak topak kalır. Elle 2-3 dakika yoğrulan bulgur ise eşit şekilde kırmızılaşır ve tadı her lokmada aynı olur.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'Yeşillikleri bulgur sıcakken eklemek en yaygın hata. Sıcak bulgur maydanozu ve naneyi soldurur, kısır birkaç saat içinde kararır. Bulgurun tamamen soğumasını beklemek şart.
+
+
+    Bulguru fazla suyla demlemek de kısırı lapa yapar. 2 ölçü bulgura 1,5 ölçü kaynar su bu tarifteki doğru oran.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 2 gün taze kalır. Yeşillikler zamanla suyunu salar; ertesi gün servis edecek olursan bir tutam taze maydanoz ve bir kaşık nar ekşisi ekleyerek canlandırabilirsin.
+
+    '
+faq:
+- q: Kısır için bulgur kaynatılır mı?
+  a: Hayır, ince bulgur kaynatılmaz. Üzerine kaynar su döküp kapağını kapatmak ve 10-15 dakika demlemek yeterli. Kaynatılan ince bulgur lapa olur.
+- q: Kısıra nar ekşisi yerine ne konur?
+  a: Nar ekşisi yoksa limon suyunu artırıp bir tatlı kaşığı pekmez ya da bal ekleyebilirsin. Nar ekşisinin ekşi-tatlı dengesine en yakın sonucu bu karışım verir.
+- q: Kısır bir gün önceden yapılır mı?
+  a: Bulgurlu salçalı kısmı bir gün önceden hazırlayıp buzdolabında saklayabilirsin. Yeşillikleri ve domatesi servis etmeden birkaç saat önce eklemek en taze sonucu verir.
+- q: Kısır vegan mı?
+  a: Evet, tarif bu haliyle tamamen vegan. Bulgur içerdiği için glutensiz değildir; glutensiz bir versiyon için bulgur yerine kinoa kullanabilirsin.
+editorNote: Kısırı "ocaksız" versiyonuyla yayınladık çünkü ince bulguru kaynatmaya gerek yok; kaynar suyla demlemek yeterli ve daha diri sonuç veriyor. Yeşillikleri bulgur soğuduktan sonra eklemeyi özellikle vurguluyoruz; kısırın gün boyu taze kalmasının sırrı bu.
 ---
 
-Ocak yakmadan yapılan, gün boyu taze kalan bir klasik.
+Kısır, ince bulgurun salça, nar ekşisi ve bol yeşillikle yoğrulduğu, özellikle Güneydoğu ve Akdeniz mutfağından tüm Türkiye'ye yayılmış bir meze. Altın günlerinin, çay saatlerinin ve piknik sepetlerinin vazgeçilmezi.
+
+Bu tarifte bulgur kaynatılmıyor; kaynar suyla demleniyor. Ardından salçalarla elde yoğruluyor ve bulgur salçayı çekip kırmızılaştıktan sonra yeşillikler ekleniyor. Böylece taneler diri, yeşillikler canlı kalıyor.
+
+Ocak yakmadan 20 dakikada hazırlanan tarif 4 kişilik. Marul yaprağına sarılarak ya da yanında limonla servis edilebilir.
