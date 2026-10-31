@@ -33,12 +33,27 @@ async function getKatalog() {
   return katalog;
 }
 
+// Kullanıcı "40 dakikam var", "yarım saat", "bir saat" gibi bir süre verdiyse en son verileni dakika olarak döndürür
+function sureSiniri(metinler) {
+  let dk = 0;
+  for (const t of metinler) {
+    const x = t.toLocaleLowerCase('tr');
+    const m = [...x.matchAll(/(\d{1,3})\s*(dk|dakika|dakka)/g)].pop();
+    if (m) dk = Number(m[1]);
+    else if (/yarım saat/.test(x)) dk = 30;
+    else if (/(bir|1) saat(?! buçuk)/.test(x)) dk = 60;
+    else if (/(bir|1) buçuk saat|saat buçuk/.test(x)) dk = 90;
+    else if (/çeyrek saat/.test(x)) dk = 15;
+  }
+  return dk;
+}
+
 const TALIMAT = `Sen Mesai Mutfak'ın tarif asistanısın. Mesai Mutfak, çalışan insanlar için pratik Türkçe yemek tarifleri yayınlayan bir sitedir.
 Görevin: kullanıcının anlattığı duruma (evdeki malzemeler, vakit, kaç kişi, ruh hali, diyet, kim yiyecek) göre AŞAĞIDAKİ TARİF LİSTESİNDEN en uygun 1-3 tarifi seçmek.
 
 Kurallar:
 - Yalnızca listedeki tarifleri öner ve slug'ı listede yazdığı gibi aynen kullan. Listede olmayan bir tarif uydurma, tarifin kendisini (ölçü, adım) yazma.
-- Kullanıcının söylediği kısıtlara uy: süre sınırı verdiyse listedeki dakikayı aşan tarifi önerme; vegan/glutensiz dediyse kategorisinde o etiket olanları seç; olmayan malzemeyi gerektiren tarifi önceliklendirme.
+- Kullanıcının söylediği kısıtlara kesinlikle uy: süre sınırı verdiyse listedeki toplam süresi bu sınırı aşan tarifi ASLA önerme (uygun yoksa daha az tarif öner); vegan/glutensiz dediyse kategorisinde o etiket olanları seç; olmayan malzemeyi gerektiren tarifi önceliklendirme.
 - Bilgi çok azsa yine 2-3 makul öneri yap ve cevabında tek bir kısa soru sorarak daraltmayı teklif et.
 - Kullanıcı yemekle ilgisiz bir şey isterse kibarca sadece tarif konusunda yardımcı olabileceğini söyle ve tarifler listesini boş bırak.
 - Tıbbi ya da alerji kesinliği isteyen sorularda malzeme listesini kontrol etmelerini hatırlat.
@@ -97,15 +112,17 @@ export default async (req, context) => {
   } catch (e) {
     return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502);
   }
-  if (!res.ok) { console.log('asistan hata', res.status, JSON.stringify(out).slice(0, 300)); const e = (out && out.error) || {}; return json({ error: 'servis', kod: res.status, tur: e.type || '', detay: String(e.message || '').slice(0, 160), cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502); }
+  if (!res.ok) { console.log('asistan hata', res.status, JSON.stringify(out).slice(0, 300)); return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502); }
 
   const metin = (out.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
   let veri = null;
   try { veri = JSON.parse(metin); } catch (e) { const m = metin.match(/\{[\s\S]*\}/); if (m) { try { veri = JSON.parse(m[0]); } catch (e2) {} } }
-  if (!veri) return json({ cevap: metin.slice(0, 400) || 'Bir tarif bulamadım, biraz daha anlatır mısın?', tarifler: [], teshis: { model: out.model, stop: out.stop_reason, turler: (out.content || []).map(c => c.type), kullanim: out.usage } });
+  if (!veri) return json({ cevap: metin.slice(0, 400) || 'Bir tarif bulamadım, biraz daha anlatır mısın?', tarifler: [] });
 
+  const sinir = sureSiniri(messages.filter(m => m.role === 'user').map(m => m.content));
   const tarifler = (Array.isArray(veri.tarifler) ? veri.tarifler : [])
     .filter(t => t && kat.bySlug[t.slug])
+    .filter(t => !sinir || kat.bySlug[t.slug].m <= sinir)
     .slice(0, 3)
     .map(t => { const r = kat.bySlug[t.slug]; return { slug: t.slug, baslik: r.t, url: r.u, gorsel: r.i, dk: r.m, zorluk: r.l, neden: String(t.neden || '').slice(0, 200) }; });
   return json({ cevap: String(veri.cevap || '').slice(0, 500), tarifler });
