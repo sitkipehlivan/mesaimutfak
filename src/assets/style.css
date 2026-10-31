@@ -757,3 +757,11 @@ html.has-rails .top .wrap,html.has-rails .topcats .wrap{max-width:1240px}
 .ai-url code{font-family:var(--f-mono);font-size:15px;background:var(--card);border:2px solid var(--ink);border-radius:12px;padding:10px 14px;overflow-wrap:anywhere}
 .ai-small{font-size:14px;color:var(--ink-2)}
 .ai-ex li{margin-bottom:6px}
+
+/* v20 · ana sayfa arama çubuğunda sesle sor */
+.voice-btn{flex:none;display:inline-flex;align-items:center;gap:8px;border:2px solid var(--ink);background:var(--pom);color:#fff;border-radius:12px;padding:8px 14px 8px 10px;font-weight:700;font-size:15px;text-decoration:none;cursor:pointer}
+.voice-btn svg{width:22px;height:22px;fill:#fff}
+.voice-btn:hover{filter:brightness(1.05)}
+.voice-btn.on{animation:aspulse 1.2s infinite}
+.voice-hint{margin:10px 2px 0;font-size:14px;color:var(--ink-2)}
+@media (max-width:560px){.voice-btn span{display:none}.voice-btn{padding:8px 10px}.bigsearch .btn{padding:11px 14px}}

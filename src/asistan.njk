@@ -80,6 +80,7 @@ noindex: true
   }
 
   form.addEventListener('submit', function (e) { e.preventDefault(); ask(input.value); });
+  try { var gelen = new URLSearchParams(location.search).get('q'); if (gelen) { history.replaceState(null, '', location.pathname); ask(gelen.slice(0, 600)); } } catch (e) {}
   ex.addEventListener('click', function (e) { var b = e.target.closest('.chip-q'); if (b) ask(b.textContent); });
 
   // Ses: tarayıcının konuşma tanıma özelliği (Chrome, Edge, Safari)

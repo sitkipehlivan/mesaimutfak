@@ -13,15 +13,18 @@ desc: Mesai Mutfak'ı Claude gibi yapay zekâ asistanına bağla; "evde tavuk ve
     <p class="lead">İş arasında Claude'a "Akşama ne pişirsem?" diye soruyorsan, cevabı doğrudan Mesai Mutfak'ın {{ collections.tarifler.length }} tarifi arasından alabilirsin. Bunun için sitemizi asistanına bir kez bağlaman yeterli.</p>
 
     <h2>Nasıl eklenir?</h2>
+    <p>Claude'un arayüzü İngilizce olduğu için menü adlarını ekranda gördüğün şekliyle yazdık. Ekleme işlemini <b>claude.ai</b> sitesinden ya da Claude'un <b>masaüstü uygulamasından</b> yap; bir kez eklemen yeterli.</p>
     <ol class="ai-steps">
-      <li><b>Claude'u aç</b> (claude.ai ya da masaüstü uygulaması) ve <b>Ayarlar → Bağlayıcılar</b> bölümüne git.</li>
-      <li><b>"Özel bağlayıcı ekle"</b>yi seç. Ad olarak <b>Mesai Mutfak</b> yaz.</li>
-      <li>Adres olarak aşağıdakini yapıştır ve kaydet:
+      <li>Claude'da sol menüden <b>Customize</b>'a, ardından <b>Connectors</b>'a tıkla.</li>
+      <li><b>Add custom connector</b> düğmesine bas.</li>
+      <li><b>Name</b> kutusuna <b>Mesai Mutfak</b> yaz. <b>Remote MCP server URL</b> kutusuna şu adresi yapıştır:
         <div class="ai-url"><code id="mcpUrl">{{ site.url }}/mcp</code><button type="button" class="btn" id="mcpCopy">Kopyala</button></div>
       </li>
-      <li>Yeni bir sohbette bağlayıcının açık olduğundan emin ol ve sormaya başla.</li>
+      <li><b>Authentication</b> sorulursa <b>No sign-in</b>'i seç; Mesai Mutfak için hesap ya da şifre gerekmez. Sonra <b>Add</b>'e bas.</li>
+      <li>Listede <b>Custom</b> etiketiyle Mesai Mutfak görünür; <b>Connect</b> düğmesi çıkarsa ona da bas.</li>
+      <li>Yeni bir sohbet aç. Mesaj kutusundaki <b>+</b> düğmesine bas, <b>Connectors</b>'ı seç ve <b>Mesai Mutfak</b>'ı aç.</li>
     </ol>
-    <p class="ai-small">Mesai Mutfak bağlantısı, yapay zekâ asistanlarının dış kaynaklara bağlanması için kullanılan açık standart MCP (Model Context Protocol) ile çalışır; bu standardı destekleyen diğer asistanlarda da aynı adresle eklenebilir. Menü adları uygulama sürümüne göre değişebilir.</p>
+    <p class="ai-small">Claude'un ücretsiz planında bir özel bağlayıcı eklenebilir; ücretli planlarda sınır daha geniştir. Şirket (Team / Enterprise) hesaplarında özel bağlayıcıyı hesap yöneticisi <b>Organization settings → Connectors</b> bölümünden ekler. Mesai Mutfak bağlantısı açık standart MCP (Model Context Protocol) ile çalıştığı için bu standardı destekleyen diğer yapay zekâ asistanlarına da aynı adresle eklenebilir. Menü adları Claude'un sürümüne göre değişebilir.</p>
 
     <h2>Neler sorabilirsin?</h2>
     <ul class="ai-ex">

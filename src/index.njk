@@ -49,7 +49,26 @@ play()})();
       <label for="homeq" class="sr-only">Tarif ya da malzeme ara</label>
       <input id="homeq" name="q" type="search" placeholder="{{ collections.tarifler.length }} tarif içinde ara: mantı, tavuk, nohut, vegan…" autocomplete="off">
       <button type="submit" class="btn">Ara</button>
+      <a class="voice-btn" id="homeVoice" href="{{ '/asistan/' | link }}" aria-label="Sesle tarif sor"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15a3 3 0 0 0 3-3V6a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-2.08A7 7 0 0 0 19 12h-2z"/></svg><span>Sesle sor</span></a>
     </form>
+    <p class="voice-hint" id="homeVoiceHint" aria-live="polite" hidden></p>
+    <script>
+    (function () {
+      var b = document.getElementById('homeVoice'), hint = document.getElementById('homeVoiceHint'), q = document.getElementById('homeq');
+      var SR = window.SpeechRecognition || window.webkitSpeechRecognition; if (!b || !SR) return; // desteklemeyen tarayıcıda buton asistan sayfasına gider
+      var on = false, rec, txt = '';
+      b.addEventListener('click', function (e) {
+        e.preventDefault();
+        if (on) { rec.stop(); return; }
+        rec = new SR(); rec.lang = 'tr-TR'; rec.interimResults = true; txt = '';
+        rec.onstart = function () { on = true; b.classList.add('on'); hint.hidden = false; hint.textContent = 'Dinliyorum… Örneğin: "Evde tavuk ve patates var, yarım saatim var"'; };
+        rec.onresult = function (ev) { var t = ''; for (var i = 0; i < ev.results.length; i++) t += ev.results[i][0].transcript; txt = t; q.value = t; };
+        rec.onerror = function (ev) { hint.textContent = ev.error === 'not-allowed' ? 'Mikrofon izni verilmedi. Tarayıcı ayarlarından izin verebilir ya da yazarak arayabilirsin.' : 'Duyamadım, tekrar dener misin?'; };
+        rec.onend = function () { on = false; b.classList.remove('on'); var t = txt.trim(); if (t) { hint.textContent = 'Tarif bakılıyor…'; if (window.mmTrack) mmTrack('sesli_arama', {}); location.href = b.getAttribute('href') + '?q=' + encodeURIComponent(t); } };
+        try { rec.start(); } catch (err) { location.href = b.getAttribute('href'); }
+      });
+    })();
+    </script>
     <div class="qchips"><span>Sık arananlar:</span>{% for q in ['mantı', 'köfte', 'börek', 'tavuk', 'çorba', 'kek', 'vegan', 'pilav'] %}<a href="{{ ('/ara/?q=' + q) | link }}">{{ q }}</a>{% endfor %}</div>
   </div>
 </section>
