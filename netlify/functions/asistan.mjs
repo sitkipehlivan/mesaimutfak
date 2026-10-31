@@ -75,21 +75,25 @@ export default async (req, context) => {
   try { kat = await getKatalog(); } catch (e) { return json({ error: 'katalog', cevap: 'Tarif listesine şu an ulaşamadım, birazdan tekrar dener misin?' }, 502); }
 
   let res, out;
+  const istek = (ek) => fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
+    body: JSON.stringify({
+      model: MODEL,
+      max_tokens: 1500,
+      ...ek,
+      system: [
+        { type: 'text', text: TALIMAT },
+        { type: 'text', text: 'TARİF LİSTESİ (slug | başlık | kategoriler | toplam süre | zorluk | malzemeler):\n' + kat.metin, cache_control: { type: 'ephemeral' } }
+      ],
+      messages
+    })
+  }).then(async r => ({ r, j: await r.json().catch(() => ({})) }));
   try {
-    res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'content-type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
-      body: JSON.stringify({
-        model: MODEL,
-        max_tokens: 600,
-        system: [
-          { type: 'text', text: TALIMAT },
-          { type: 'text', text: 'TARİF LİSTESİ (slug | başlık | kategoriler | toplam süre | zorluk | malzemeler):\n' + kat.metin, cache_control: { type: 'ephemeral' } }
-        ],
-        messages
-      })
-    });
-    out = await res.json();
+    // Hızlı ve kısa cevap için "düşünme" kapalı; model bu ayarı desteklemiyorsa ayarsız tekrar dene
+    let x = await istek({ thinking: { type: 'disabled' } });
+    if (!x.r.ok && x.r.status === 400) x = await istek({ max_tokens: 4000 });
+    res = x.r; out = x.j;
   } catch (e) {
     return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502);
   }
