@@ -36,8 +36,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 {% if site.ga4 %}<script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
-(function(){var c=null;try{c=localStorage.getItem('mm-consent')}catch(e){}var g=c==='yes'?'granted':'denied';
-gtag('consent','default',{analytics_storage:g,ad_storage:g,ad_user_data:g,ad_personalization:g,wait_for_update:500});
+(function(){var c=null;try{c=localStorage.getItem('mm-consent')}catch(e){}var g=c==='yes'?'granted':'denied',a=(c==='yes'||c==='stat')?'granted':'denied';
+gtag('consent','default',{analytics_storage:a,ad_storage:g,ad_user_data:g,ad_personalization:g,wait_for_update:500});
 gtag('set','ads_data_redaction',g==='denied');gtag('set','url_passthrough',false);})();
 gtag('js',new Date());gtag('config','{{ site.ga4 }}');
 </script>
@@ -114,8 +114,8 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
   </div>
 </footer>
 {% if site.ga4 or site.ads.enabled %}<div class="consent" id="consent" hidden role="dialog" aria-label="Çerez tercihi">
-  <p>Siteyi geliştirmek için anonim ziyaret istatistikleri topluyor{% if site.ads.enabled %} ve ilgi alanına göre reklam gösteriyor{% endif %}uz. İzin veriyor musun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
-  <div><button type="button" class="btn" id="consentYes">Kabul et</button><button type="button" class="btn ghost" id="consentNo">Reddet</button></div>
+  <p>Siteyi geliştirmek için anonim ziyaret istatistikleri topluyor{% if site.ads.enabled %} ve ilgi alanına göre reklam gösteriyor{% endif %}uz. Hangisine izin veriyorsun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
+  <div class="consent-btns"><button type="button" class="btn" id="consentYes">Tümünü kabul et</button><button type="button" class="btn ghost" id="consentStat">Sadece istatistik</button><button type="button" class="btn cn-no" id="consentNo">Reddet</button></div>
 </div>{% endif %}
 <nav class="tabbar" aria-label="Uygulama menüsü">
   <a href="/"{% if isHome %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M4 11l8-6 8 6v8a1 1 0 0 1-1 1h-4v-6H9v6H5a1 1 0 0 1-1-1z"/></svg>Ana sayfa</a>

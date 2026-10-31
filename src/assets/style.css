@@ -796,3 +796,10 @@ nav.main a.talk-nav:hover{border-color:var(--ink)}
 }
 @media (max-width:360px){.top .logo{font-size:17px}}
 .top .voice-ico{background:var(--pom)}.top .voice-ico svg{fill:#fff;width:20px;height:20px}
+
+/* v24 · çerez bandı: üç seçenek (Tümünü kabul et / Sadece istatistik / Reddet) */
+.consent .consent-btns{display:flex;flex-wrap:wrap;gap:8px}
+.consent .consent-btns .btn{flex:1 1 auto;padding:10px 14px;font-size:14.5px}
+.consent .btn.cn-no{background:transparent;border-color:var(--line);color:var(--ink-2)}
+.consent .btn.cn-no:hover{border-color:var(--ink);color:var(--ink)}
+@media (max-width:420px){.consent .consent-btns .btn{flex:1 1 100%}}

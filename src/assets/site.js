@@ -140,8 +140,10 @@
     const b = $('consent');
     if (b) {
       $('consentYes').addEventListener('click', () => { b.hidden = true; decide('yes'); load(); });
+      const st = $('consentStat');
+      if (st) st.addEventListener('click', () => { b.hidden = true; decide('stat'); if (window.gtag) { gtag('consent', 'update', { analytics_storage: 'granted', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' }); gtag('set', 'ads_data_redaction', true); } });
       $('consentNo').addEventListener('click', () => { b.hidden = true; decide('no'); if (window.gtag) gtag('consent', 'update', { analytics_storage: 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' }); });
-      b.hidden = (c === 'yes' || c === 'no');
+      b.hidden = (c === 'yes' || c === 'no' || c === 'stat');
     }
     // alt bilgideki "Çerez tercihleri" linki banner'ı yeniden açar
     document.querySelectorAll('[data-consent-open]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); if (b) b.hidden = false; }));
