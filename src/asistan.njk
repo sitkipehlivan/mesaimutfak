@@ -72,7 +72,7 @@ noindex: true
           }).join('') + '</div>';
         }
         add('as-bot', html);
-        hist.push({ rol: 'asistan', metin: cevap + (d.tarifler && d.tarifler.length ? ' Önerilen: ' + d.tarifler.map(function (t) { return t.baslik; }).join(', ') + '.' : '') });
+        hist.push({ rol: 'asistan', metin: cevap + (d.tarifler && d.tarifler.length ? ' [Kart olarak gösterilen tarifler: ' + d.tarifler.map(function (t) { return t.baslik + ' (' + t.slug + ')'; }).join(', ') + ']' : '') });
         say(cevap + (d.tarifler && d.tarifler.length ? ' ' + d.tarifler.map(function (t) { return t.baslik; }).join(', ') : ''));
       })
       .catch(function () { wait.remove(); add('as-bot', '<p>Bağlantı kurulamadı, internetini kontrol edip tekrar dener misin?</p>'); })

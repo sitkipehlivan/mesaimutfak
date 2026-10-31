@@ -49,18 +49,48 @@ function sureSiniri(metinler) {
 }
 
 const TALIMAT = `Sen Mesai Mutfak'ın tarif asistanısın. Mesai Mutfak, çalışan insanlar için pratik Türkçe yemek tarifleri yayınlayan bir sitedir.
-Görevin: kullanıcının anlattığı duruma (evdeki malzemeler, vakit, kaç kişi, ruh hali, diyet, kim yiyecek) göre AŞAĞIDAKİ TARİF LİSTESİNDEN en uygun 1-3 tarifi seçmek.
+Görevin: kullanıcının anlattığı duruma (evdeki malzemeler, vakit, kaç kişi, ruh hali, diyet, kim yiyecek) göre AŞAĞIDAKİ TARİF LİSTESİNDEN en uygun tarifleri seçmek.
 
-Kurallar:
-- Yalnızca listedeki tarifleri öner ve slug'ı listede yazdığı gibi aynen kullan. Listede olmayan bir tarif uydurma, tarifin kendisini (ölçü, adım) yazma.
-- Kullanıcının söylediği kısıtlara kesinlikle uy: süre sınırı verdiyse listedeki toplam süresi bu sınırı aşan tarifi ASLA önerme (uygun yoksa daha az tarif öner); vegan/glutensiz dediyse kategorisinde o etiket olanları seç; olmayan malzemeyi gerektiren tarifi önceliklendirme.
-- Bilgi çok azsa yine 2-3 makul öneri yap ve cevabında tek bir kısa soru sorarak daraltmayı teklif et.
-- Kullanıcı yemekle ilgisiz bir şey isterse kibarca sadece tarif konusunda yardımcı olabileceğini söyle ve tarifler listesini boş bırak.
-- Tıbbi ya da alerji kesinliği isteyen sorularda malzeme listesini kontrol etmelerini hatırlat.
-- Türkçe, samimi ama kısa yaz: cevap en fazla 2 cümle; her tarifin "neden" açıklaması en fazla 1 kısa cümle. Emoji kullanma.
+Cevabını her zaman "oner" aracıyla ver. Kurallar:
+- Yalnızca listedeki tarifleri öner; slug'ı listede yazdığı gibi aynen kullan. Listede olmayan tarif uydurma; ölçü, malzeme listesi ya da yapılış adımı yazma.
+- Önerdiğin ya da cevapta adını andığın HER tarifi "tarifler" alanına da koy. Sitede bu tarifler, fotoğraflı ve tıklanabilir tarif kartı olarak cevabının hemen altında otomatik gösterilir; link tarif kartındadır.
+- Cevap metnine asla link, adres, URL ya da slug yazma; "linkleri aşağıdaki kartlarda bulabilirsin" demen yeterli. Kendi teknik sınırlarından, listeden ya da sistemden söz etme.
+- Normalde 1-3 tarif öner. Kullanıcı birden çok öğün ya da menü isterse (ör. ana yemek ve tatlı) her biri için 1-2 tarif, toplam en fazla 5 tarif öner.
+- Kullanıcı önceki önerileri tekrar isterse (link, tarif, "onları ver" gibi) önceki cevaplardaki aynı tarifleri yeniden "tarifler" alanına koy.
+- Kullanıcının kısıtlarına kesinlikle uy: süre sınırı verdiyse toplam süresi bu sınırı aşan tarifi ASLA önerme; vegan/glutensiz dediyse kategorisinde o etiket olanları seç; evde olmayan malzemeyi gerektiren tarifi önceliklendirme; tatlı isterse tatlılar kategorisinden seç.
+- Bilgi çok azsa yine 2-3 makul öneri yap ve tek bir kısa soruyla daraltmayı teklif et.
+- Kullanıcı yemekle ilgisiz bir şey isterse kibarca yalnızca tarif konusunda yardımcı olabileceğini söyle, tarifleri boş bırak.
+- Tıbbi ya da alerji kesinliği isteyen sorularda tarif sayfasındaki malzeme listesini kontrol etmelerini hatırlat.
+- Türkçe, samimi ve kısa yaz: cevap en fazla 2-3 kısa cümle, düz metin (yıldız, madde işareti, başlık, emoji yok). Tarifleri metinde tek tek anlatma; kartlar zaten gösteriliyor. Her tarifin "neden" açıklaması en fazla 1 kısa cümle.`;
 
-Yanıtını YALNIZCA şu JSON biçiminde ver, başka hiçbir şey yazma:
-{"cevap": "...", "tarifler": [{"slug": "...", "neden": "..."}]}`;
+const ARAC = {
+  name: 'oner',
+  description: 'Kullanıcıya kısa cevabı ve önerilen Mesai Mutfak tariflerini gönderir. Tarifler sitede tıklanabilir kart olarak gösterilir.',
+  input_schema: {
+    type: 'object',
+    properties: {
+      cevap: { type: 'string', description: 'Kullanıcıya 2-3 kısa cümlelik düz metin cevap. Link, URL ya da slug içermez.' },
+      tarifler: { type: 'array', maxItems: 5, items: { type: 'object', properties: {
+        slug: { type: 'string', description: 'Listedeki slug, aynen' },
+        neden: { type: 'string', description: 'Bu tarifin neden uygun olduğu, tek kısa cümle' }
+      }, required: ['slug', 'neden'] } }
+    },
+    required: ['cevap', 'tarifler']
+  }
+};
+
+// Model metinde link/markdown yazarsa temizle
+function temizle(t) {
+  return String(t || '')
+    .replace(/\*\*|__|`/g, '')
+    .replace(/https?:\/\/\S+/g, '')
+    .replace(/\/?tarif\/[a-z0-9-]+\/?/gi, '')
+    .replace(/^\s*[-•]\s+/gm, '')
+    .replace(/\s*:\s*(?=[,.;\n]|$)/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+function kisalt(t, n) { if (t.length <= n) return t; const k = t.slice(0, n); const i = Math.max(k.lastIndexOf('. '), k.lastIndexOf('? '), k.lastIndexOf('! ')); return i > n * 0.4 ? k.slice(0, i + 1) : k.replace(/\s+\S*$/, '') + '…'; }
 
 export default async (req, context) => {
   if (req.method !== 'POST') return new Response('', { status: 405 });
@@ -71,7 +101,7 @@ export default async (req, context) => {
   const gelen = Array.isArray(body && body.mesajlar) ? body.mesajlar.slice(-8) : [];
   const messages = gelen
     .filter(m => m && typeof m.metin === 'string' && m.metin.trim())
-    .map(m => ({ role: m.rol === 'asistan' ? 'assistant' : 'user', content: m.metin.trim().slice(0, 600) }));
+    .map(m => ({ role: m.rol === 'asistan' ? 'assistant' : 'user', content: m.metin.trim().slice(0, m.rol === 'asistan' ? 900 : 600) }));
   while (messages.length && messages[0].role !== 'user') messages.shift();
   if (!messages.length || messages[messages.length - 1].role !== 'user') return json({ error: 'mesaj' }, 400);
 
@@ -96,34 +126,42 @@ export default async (req, context) => {
     body: JSON.stringify({
       model: MODEL,
       max_tokens: 1500,
-      ...ek,
       system: [
         { type: 'text', text: TALIMAT },
         { type: 'text', text: 'TARİF LİSTESİ (slug | başlık | kategoriler | toplam süre | zorluk | malzemeler):\n' + kat.metin, cache_control: { type: 'ephemeral' } }
       ],
-      messages
+      tools: [ARAC],
+      tool_choice: { type: 'tool', name: 'oner' },
+      messages,
+      ...ek
     })
   }).then(async r => ({ r, j: await r.json().catch(() => ({})) }));
   try {
     // Hızlı ve kısa cevap için "düşünme" kapalı; model bu ayarı desteklemiyorsa ayarsız tekrar dene
     let x = await istek({ thinking: { type: 'disabled' } });
-    if (!x.r.ok && x.r.status === 400) x = await istek({ max_tokens: 4000 });
+    if (!x.r.ok && x.r.status === 400) { console.log('asistan 400', JSON.stringify(x.j).slice(0, 300)); x = await istek({ max_tokens: 4000, tool_choice: { type: 'auto' } }); }
     res = x.r; out = x.j;
   } catch (e) {
     return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502);
   }
   if (!res.ok) { console.log('asistan hata', res.status, JSON.stringify(out).slice(0, 300)); return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502); }
 
-  const metin = (out.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
-  let veri = null;
-  try { veri = JSON.parse(metin); } catch (e) { const m = metin.match(/\{[\s\S]*\}/); if (m) { try { veri = JSON.parse(m[0]); } catch (e2) {} } }
-  if (!veri) return json({ cevap: metin.slice(0, 400) || 'Bir tarif bulamadım, biraz daha anlatır mısın?', tarifler: [] });
+  const blok = (out.content || []).find(c => c.type === 'tool_use' && c.name === 'oner');
+  let veri = blok && blok.input && typeof blok.input === 'object' ? blok.input : null;
+  if (!veri) {
+    const metin = (out.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
+    try { veri = JSON.parse(metin); } catch (e) { const m = metin.match(/\{[\s\S]*\}/); if (m) { try { veri = JSON.parse(m[0]); } catch (e2) {} } }
+    if (!veri) return json({ cevap: kisalt(temizle(metin), 500) || 'Bir tarif bulamadım, biraz daha anlatır mısın?', tarifler: [] });
+  }
 
   const sinir = sureSiniri(messages.filter(m => m.role === 'user').map(m => m.content));
   const tarifler = (Array.isArray(veri.tarifler) ? veri.tarifler : [])
     .filter(t => t && kat.bySlug[t.slug])
     .filter(t => !sinir || kat.bySlug[t.slug].m <= sinir)
-    .slice(0, 3)
+    .filter((t, i, a) => a.findIndex(x => x.slug === t.slug) === i)
+    .slice(0, 5)
     .map(t => { const r = kat.bySlug[t.slug]; return { slug: t.slug, baslik: r.t, url: r.u, gorsel: r.i, dk: r.m, zorluk: r.l, neden: String(t.neden || '').slice(0, 200) }; });
-  return json({ cevap: String(veri.cevap || '').slice(0, 500), tarifler });
+  let cevap = kisalt(temizle(veri.cevap), 600);
+  if (!cevap) cevap = tarifler.length ? 'Sana uygun tarifler şunlar:' : 'Bir tarif bulamadım, biraz daha anlatır mısın?';
+  return json({ cevap, tarifler });
 };
