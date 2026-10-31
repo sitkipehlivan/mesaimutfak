@@ -290,3 +290,38 @@
   var cur = w.querySelector('[aria-current]'); if (cur) w.scrollLeft = cur.offsetLeft - 40;
   upd();
 })();
+
+/* Sesle sor: [data-voice] düğmeleri (üst menü, ana sayfa arama çubuğu). Konuşma yazıya çevrilir, asistan sayfasında otomatik sorulur. */
+(function () {
+  var btns = document.querySelectorAll('[data-voice]'); if (!btns.length) return;
+  var SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SR) return; // desteklemeyen tarayıcıda düğmeler asistan sayfasını açar
+  var toast = null, rec = null, on = false, txt = '', active = null;
+  function show(t) {
+    if (!toast) { toast = document.createElement('div'); toast.className = 'voice-toast'; toast.setAttribute('role', 'status'); toast.setAttribute('aria-live', 'polite'); document.body.appendChild(toast); }
+    toast.innerHTML = t; toast.hidden = false;
+  }
+  function hide(ms) { setTimeout(function () { if (toast && !on) toast.hidden = true; }, ms || 0); }
+  btns.forEach(function (b) {
+    b.addEventListener('click', function (e) {
+      // asistan sayfasındaysak o sayfanın kendi mikrofonunu kullan
+      var pageMic = document.getElementById('asMic');
+      if (pageMic) { e.preventDefault(); pageMic.click(); return; }
+      e.preventDefault();
+      if (on) { rec.stop(); return; }
+      active = b; txt = '';
+      var inp = b.getAttribute('data-voice-input') ? document.getElementById(b.getAttribute('data-voice-input')) : null;
+      rec = new SR(); rec.lang = 'tr-TR'; rec.interimResults = true;
+      rec.onstart = function () { on = true; b.classList.add('on'); show('<b>Dinliyorum…</b> Örneğin: "Evde tavuk ve patates var, yarım saatim var"'); };
+      rec.onresult = function (ev) { var t = ''; for (var i = 0; i < ev.results.length; i++) t += ev.results[i][0].transcript; txt = t; if (inp) inp.value = t; show('<b>Dinliyorum…</b> ' + t.replace(/[<>&]/g, '')); };
+      rec.onerror = function (ev) { show(ev.error === 'not-allowed' || ev.error === 'service-not-allowed' ? 'Mikrofon izni verilmedi. Tarayıcı ayarlarından izin verebilir ya da yazarak sorabilirsin.' : 'Duyamadım, tekrar dener misin?'); hide(3500); };
+      rec.onend = function () {
+        on = false; b.classList.remove('on');
+        var t = txt.trim();
+        if (t) { show('Tarifler bakılıyor…'); if (window.mmTrack) mmTrack('sesli_arama', { yer: b.className }); location.href = b.getAttribute('href') + '?q=' + encodeURIComponent(t); }
+        else hide(2500);
+      };
+      try { rec.start(); } catch (err) { location.href = b.getAttribute('href'); }
+    });
+  });
+})();
