@@ -316,14 +316,18 @@
       rec = new SR(); rec.lang = 'tr-TR'; rec.interimResults = true;
       rec.onstart = function () { on = true; b.classList.add('on'); show('<b>Dinliyorum…</b> Örneğin: "Evde tavuk ve patates var, yarım saatim var"'); };
       rec.onresult = function (ev) { var t = ''; for (var i = 0; i < ev.results.length; i++) t += ev.results[i][0].transcript; txt = t; if (inp) inp.value = t; show('<b>Dinliyorum…</b> ' + t.replace(/[<>&]/g, '')); };
-      rec.onerror = function (ev) { show(ev.error === 'not-allowed' || ev.error === 'service-not-allowed' ? 'Mikrofon izni verilmedi. Tarayıcı ayarlarından izin verebilir ya da yazarak sorabilirsin.' : 'Duyamadım, tekrar dener misin?'); hide(3500); };
+      rec.onerror = function (ev) { if (ev.error === 'not-allowed' || ev.error === 'service-not-allowed') { location.href = b.getAttribute('href'); return; } show(ev.error === 'not-allowed' || ev.error === 'service-not-allowed' ? 'Mikrofon izni verilmedi. Tarayıcı ayarlarından izin verebilir ya da yazarak sorabilirsin.' : 'Duyamadım, tekrar dener misin?'); hide(3500); };
       rec.onend = function () {
         on = false; b.classList.remove('on');
         var t = txt.trim();
         if (t) { show('Tarifler bakılıyor…'); if (window.mmTrack) mmTrack('sesli_arama', { yer: b.className }); location.href = b.getAttribute('href') + '?q=' + encodeURIComponent(t); }
         else hide(2500);
       };
-      try { rec.start(); } catch (err) { location.href = b.getAttribute('href'); }
+      // Mikrofon izni sorulamıyor ya da dinleme 1,5 sn içinde başlamıyorsa düğme ölü kalmasın: asistan sayfasına git
+      var started = false, href = b.getAttribute('href');
+      var _os = rec.onstart; rec.onstart = function () { started = true; _os(); };
+      setTimeout(function () { if (!started) { try { rec.abort(); } catch (_) {} location.href = href; } }, 1500);
+      try { rec.start(); } catch (err) { location.href = href; }
     });
   });
 })();
