@@ -8,6 +8,8 @@ const UTM = 'utm_source=siri&utm_medium=kestirme&utm_campaign=mesaimutfak_siri';
 const json = (o, st = 200) => new Response(JSON.stringify(o), { status: st, headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store', 'access-control-allow-origin': '*' } });
 
 export default async (req, context) => {
+  const duz = new URL(req.url).searchParams.has('t'); // ?t=1 → yalnızca okunacak metin (kestirmede Sözlük adımı gerekmez)
+  const cevapla = (o) => duz ? new Response(o.metin, { headers: { 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store' } }) : json(o);
   let soru = '';
   if (req.method === 'POST') {
     try { const b = await req.json(); soru = String(b.soru || b.q || b.text || ''); } catch (e) { /* boş */ }
@@ -15,7 +17,7 @@ export default async (req, context) => {
     soru = new URL(req.url).searchParams.get('q') || '';
   } else return new Response('', { status: 405 });
   soru = soru.trim().slice(0, 600);
-  if (!soru) return json({ metin: 'Ne pişirmek istediğini duyamadım. Örneğin "evde tavuk var, yarım saatim var" diyebilirsin.', tarifler: [], link: SITE + '/?' + UTM });
+  if (!soru) return cevapla({ metin: 'Ne pişirmek istediğini duyamadım. Örneğin "evde tavuk var, yarım saatim var" diyebilirsin.', tarifler: [], link: SITE + '/?' + UTM });
 
   const ic = new Request(SITE + '/.netlify/functions/asistan', {
     method: 'POST',
@@ -30,7 +32,7 @@ export default async (req, context) => {
   if (tarifler.length) {
     metin += (/[.!?…]$/.test(metin) ? ' ' : '. ') + 'Önerilerim: ' + tarifler.map(t => `${t.baslik}, ${t.dk} dakika`).join('; ') + '. Tarifler Mesai Mutfak sitesinde.';
   }
-  return json({ metin, tarifler, link: tarifler[0] ? tarifler[0].url : SITE + '/?' + UTM });
+  return cevapla({ metin, tarifler, link: tarifler[0] ? tarifler[0].url : SITE + '/?' + UTM });
 };
 
 export const config = { path: '/api/siri' };
