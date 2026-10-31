@@ -12,7 +12,10 @@ export default async (req, context) => {
   const cevapla = (o) => duz ? new Response(o.metin, { headers: { 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store' } }) : json(o);
   let soru = '';
   if (req.method === 'POST') {
-    try { const b = await req.json(); soru = String(b.soru || b.q || b.text || ''); } catch (e) { /* boş */ }
+    // Gövde JSON ({soru}) ya da kestirmenin "Dosya" olarak gönderdiği düz metin olabilir
+    const ham = await req.text().catch(() => '');
+    try { const b = JSON.parse(ham); soru = typeof b === 'string' ? b : String(b.soru || b.q || b.text || ''); } catch (e) { soru = ham; }
+    if (!soru) soru = new URL(req.url).searchParams.get('q') || '';
   } else if (req.method === 'GET') {
     soru = new URL(req.url).searchParams.get('q') || '';
   } else return new Response('', { status: 405 });
