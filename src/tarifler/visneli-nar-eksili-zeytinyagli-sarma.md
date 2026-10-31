@@ -139,6 +139,41 @@ tips:
 - Kuru vişne bulamazsan kuş üzümü kullan, yanına bir tutam sumak ekle.
 - Sarmaları tencereye sık dizersen pişerken açılmaz.
 - Tencerede soğurlarsa suyu çekip parlak kalırlar.
+updated: '2026-10-31'
+notes:
+- t: Yaprak seçimi
+  d: 'Salamura asma yaprağı kullanılıyorsa sıcak suda bekletilip tuzu alınmalı. Taze yaprak kullanacaksan kaynar suda 1-2 dakika haşlamak yeterli.
+
+
+    İnce ve damarları belirgin olmayan yapraklar sarmayı daha zarif yapar. Kalın ya da yırtık yapraklar atılmamalı; tencerenin dibine serilerek sarmaların yanmasını önler.
+
+    '
+- t: Sıkı sarmak
+  d: 'Sarma yaprağın parlak yüzü dışta kalacak şekilde, sap tarafından başlanarak sarılır. Kenarları içe katlayıp sıkıca sarmak gerekir, ama çok sıkı sarılan sarma pirinç şiştiğinde patlar. Parmak kalınlığında ve eşit boyda sarmalar eşit pişer.
+
+    '
+- t: Neden tencerede soğutuluyor?
+  d: 'Zeytinyağlılar pişirme suyunun içinde soğurken kalan suyu ve zeytinyağını çeker, parlak ve yumuşak bir dokuya kavuşur. Tencereden sıcakken çıkarılan sarmalar kuru ve mat görünür. Tamamen soğuduktan sonra buzdolabına almak en iyisi.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta, üzerine biraz pişirme suyu dökülerek 4-5 gün taze kalır. Servis etmeden 20-30 dakika önce dolaptan çıkarmak zeytinyağının donmuş görüntüsünü giderir.
+
+    '
+faq:
+- q: Zeytinyağlı sarma kaç dakika pişer?
+  a: Kısık ateşte yaklaşık 40-45 dakika pişer. Pirinç tamamen yumuşadığında ve tencerede su neredeyse çekildiğinde sarmalar hazırdır.
+- q: Sarmanın üstüne neden tabak konur?
+  a: Ters kapatılan tabak sarmaların pişerken açılmasını ve yerinden oynamasını engeller. Pirinç şiştikçe sarmalar yukarı doğru itilir; tabak bu hareketi dengeler.
+- q: Kuru vişne yerine ne kullanılır?
+  a: Kuş üzümü en yaygın alternatif. Vişnenin ekşiliğini dengelemek için harca bir tutam sumak ya da biraz daha nar ekşisi ekleyebilirsin.
+- q: Zeytinyağlı sarma sıcak mı soğuk mu yenir?
+  a: Soğuk yenir. Bir gün buzdolabında dinlendikten sonra, servis etmeden önce oda sıcaklığına yaklaştırılır ve limonla sunulur.
+editorNote: Bu sarmayı klasik zeytinyağlı sarmadan ayıran kuru vişne ve nar ekşisini, iç harcın ekşi-tatlı dengesini kurmak için seçtik. Sarmaların tencerede soğumaya bırakılmasını ayrı bir adım olarak yazdık; zeytinyağlıların ertesi gün daha lezzetli olmasının sebebi bu dinlenme.
 ---
 
-Klasik zeytinyağlı sarmanın ekşi-tatlı hali. Kuru vişne ve nar ekşisi iç harca hafif bir meyvemsilik katıyor. Pazar günü sar, hafta boyunca buzdolabından çıkar.
+Zeytinyağlı yaprak sarma, Ege ve İstanbul mutfağının en zarif zeytinyağlılarından biri. Bu versiyonda iç harç, kuru vişne ve nar ekşisiyle ekşi-tatlı bir karaktere kavuşuyor; tarçın ve yenibahar da klasik dolma baharatlarının sıcaklığını katıyor.
+
+Pirinç önce soğan ve dolmalık fıstıkla kavruluyor, baharatlar ve vişneyle yarı pişiriliyor. Asma yaprakları bu harçla sıkıca sarılıyor ve tencereye dizilip zeytinyağlı, nar ekşili suyla kısık ateşte pişiyor.
+
+6 kişilik tarif yaklaşık 85 dakika sürüyor. Soğuk servis edilir ve bir gün buzdolabında beklediğinde en lezzetli haline gelir.

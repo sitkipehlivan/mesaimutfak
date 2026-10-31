@@ -105,6 +105,41 @@ tips:
 - Eti yarı dondurup dilimlersen çok ince kesebilirsin.
 - Tavayı kalabalık etme; et haşlanır, mühürlenmez.
 - Pratik versiyon için ince doğranmış tavuk göğsüyle de aynı yöntem uygulanabilir.
+updated: '2026-10-31'
+notes:
+- t: Eti ince dilimlemek
+  d: 'İskender''in dokusu etin inceliğine bağlı. Eti 30-40 dakika dondurucuda bekletip yarı donmuş haldeyken keskin bir bıçakla dilimlersen 2-3 mm kalınlığında, düzgün dilimler elde edersin. Kasabından "İskenderlik" ya da "dönerlik" dilimlemesini istemek de kolay bir yol.
+
+    '
+- t: Soğan suyunun görevi
+  d: 'Rendelenmiş soğanın suyu ete hem aroma verir hem de lifleri yumuşatır. Soğan posasını eti tavaya atmadan önce ayıklamak gerekir; tavada posa yanar ve acı bir tat bırakır.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'En yaygın hata tavayı kalabalık etmek. Et aynı anda çok fazla konunca tavanın ısısı düşer, et suyunu salıp haşlanır. Eti 3-4 parti halinde, her seferinde tavayı yeniden kızdırarak sotelemek gerekir.
+
+
+    Pideyi ısıtmadan kullanmak da yaygın. Isıtılmamış pide sosu emip hamurlaşır; fırında 5 dakika ısıtılan pide sosu çeker ama dokusunu korur.
+
+    '
+- t: Tereyağının sırrı
+  d: 'Tereyağı köpürüp hafif fındık rengi alana kadar kızdırılmalı ama yanmamalı. Masada etin üzerine dökülürken cızırdaması, tereyağının yeterince sıcak olduğunun işaretidir. Yoğurdun üzerine gelmemesine dikkat et; yoğurt soğuk ve ferah kalmalı.
+
+    '
+faq:
+- q: Evde İskender için hangi et kullanılır?
+  a: Çok ince dilimlenmiş dana bonfile ya da antrikot en iyi sonucu verir. Kuzu but da kullanılabilir. Önemli olan etin 2-3 mm inceliğinde dilimlenmesi.
+- q: İskender sosu nasıl yapılır?
+  a: Tereyağında domates salçası kavrulur, rendelenmiş domates ve sıcak su eklenip kıvam alana kadar kaynatılır. Sos ne çok koyu ne çok sulu olmalı; pideyi ıslatacak kadar akışkan.
+- q: İskender'de pide yerine ne kullanılır?
+  a: Pide bulamazsan bayatlamış köy ekmeği ya da lavaş da kullanılabilir. Ekmeği küp doğrayıp fırında hafifçe ısıtmak, sosu çekip hamurlaşmamasını sağlar.
+- q: İskender tavukla yapılır mı?
+  a: Evet. İnce doğranmış tavuk göğsü ya da but aynı yöntemle sotelenip sos, yoğurt ve tereyağıyla servis edilebilir. Tavuk etten daha hızlı pişer; mühürleme süresini kısa tut.
+editorNote: İskender'i evde döner ustası olmadan yapılabilir hale getirmek için ince dilimlenmiş bonfileyi seçtik. Tarifteki kritik adım tavayı çok iyi ısıtmak ve eti az az mühürlemek; kalabalık tavada et haşlanır ve İskender'in o tanıdık tadı oluşmaz.
 ---
 
-Döner ocağı olmadan da İskender olur. İnce dilimlenmiş et, kızgın tava ve masada cızırdayan tereyağı yeterli.
+İskender kebap, 19. yüzyılın sonlarında Bursa'da İskender Efendi'nin yatay döneri dikine çevirmesiyle ortaya çıktığı anlatılan, Türk mutfağının en bilinen kebaplarından biri. Pide yatağı, ince dilimlenmiş et, domates sosu, yoğurt ve masada dökülen kızgın tereyağı, bu tabağın beş temel parçası.
+
+Evde döner makinesi olmadığı için bu tarifte çok ince dilimlenmiş bonfile ya da antrikot, rendelenmiş soğan suyunda marine edilip kızgın döküm tavada hızla mühürleniyor. Domates sosu tereyağında kavrulan salçayla ayrı hazırlanıyor.
+
+4 kişilik tarif 40 dakikada hazır. Servis sırası önemli: önce pide, üzerine sos ve et, yanına yoğurt, en son masada tereyağı.

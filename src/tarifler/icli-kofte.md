@@ -105,6 +105,41 @@ tips:
 - Kabuk ne kadar inceyse o kadar iyi; açarken parmağını sık sık ıslat.
 - Şekil verilmiş köfteleri tepsiye dizip dondurabilirsin, sonra donukken pişir.
 - Ellerin yoruluyorsa hamuru robottan geçir.
+updated: '2026-10-31'
+notes:
+- t: İnce kabuğun sırrı
+  d: 'Kabuk ne kadar inceyse içli köfte o kadar iyidir. Dış hamur, elini sık sık ıslatarak uzun süre yoğrulmalı; hamur pürüzsüz ve ele yapışmaz hale gelmeli.
+
+
+    Şekil verirken ceviz büyüklüğünde parça alıp ıslak işaret parmağınla ortasını oyarak, avucunda çevire çevire duvarları incelt. Kabukta çatlak oluşursa ıslak parmakla kapatabilirsin.
+
+    '
+- t: İç harcı soğutmak
+  d: 'İç harç tamamen soğumadan doldurulursa yağı kabuğu yumuşatır ve köfte kapanırken çatlar. Harcı bir gün önceden hazırlamak hem zaman kazandırır hem de doldurmayı kolaylaştırır.
+
+    '
+- t: Haşlama mı kızartma mı?
+  d: 'Haşlanmış içli köfte daha hafif olur ve kabuğun ince olup olmadığını hemen gösterir; kalın kabuk haşlanınca hamurumsu kalır. Kızartılmış içli köfte ise dışı çıtır bir doku kazanır. Haşlanmış köfteyi servis öncesi tavada az yağla çevirmek iki yöntemin arası bir sonuç verir.
+
+    '
+- t: Dondurma
+  d: 'Şekil verilmiş, pişmemiş köfteleri unlanmış tepsiye aralıklı dizip 1-2 saat dondurucuda beklet, sonra poşete aktar. 3 ay saklanabilir. Donmuş halde, çözdürmeden kaynar suya atılır ya da kızgın yağda kızartılır.
+
+    '
+faq:
+- q: İçli köfte neden dağılır?
+  a: Genelde dış hamur yeterince yoğrulmadığı ya da iç harç sıcakken doldurulduğu için. Hamuru ele yapışmayana kadar uzun süre yoğurmak ve iç harcı tamamen soğutmak dağılmayı önler.
+- q: İçli köfte haşlanır mı, kızartılır mı?
+  a: İkisi de geleneksel. Haşlama daha hafif ve sağlıklı bir sonuç verir, kızartma ise dışı çıtır yapar. Kaynar tuzlu suda yüzeye çıktıktan 2-3 dakika sonra haşlama tamamlanır.
+- q: İçli köfte hamuruna irmik konur mu?
+  a: Bazı yörelerde konur. İrmik hamura esneklik katar, kabuğun ince açılmasını ve çatlamamasını kolaylaştırır. İrmiksiz yapmak istersen bulgur miktarını artırıp hamuru daha uzun yoğurmalısın.
+- q: İçli köfte nasıl dondurulur?
+  a: Pişirmeden, şekil verilmiş halde tepside tek tek dondurup sonra poşete alınır. Donmuş halde doğrudan pişirilebilir.
+editorNote: İçli köftede en zor kısım kabuğu ince açmak olduğu için tarifte irmiği bulgurla birlikte kullandık; irmik hamura esneklik veriyor ve kabuk daha kolay inceltiliyor. Dondurma püf noktasını da ekledik, çünkü bir kerede çok yapıp saklamak bu tarifin en verimli hali.
 ---
 
-Ustalık isteyen bir tarif ama keyifli bir pazar uğraşı. Bir kere yapınca dondurucuya bolca stok çıkar.
+İçli köfte, ince bulgurdan hazırlanan bir kabuğun içine cevizli ve baharatlı kıyma harcı doldurularak yapılan, Güneydoğu Anadolu mutfağının en emek isteyen ama en sevilen lezzetlerinden. Haşlanarak ya da kızartılarak servis edilir.
+
+Bu tarifte dış hamur bulgur, irmik ve yağsız kıymayla yoğruluyor; irmik hamura esneklik katarak ince açılmasını kolaylaştırıyor. İç harç ise kavrulmuş kıyma, soğan, ceviz ve baharatlardan oluşuyor.
+
+6 kişilik tarif yaklaşık 80 dakika sürüyor. Bir kerede çok yapıp dondurmak, misafir geldiğinde kurtarıcı olur.

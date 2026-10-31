@@ -81,6 +81,38 @@ steps:
 tips:
 - Ilık ya da soğuk servis edilir; bir gün beklerse daha lezzetli olur.
 - Bol soğan bu yemeğin ruhu, eksik koyma.
+updated: '2026-10-31'
+notes:
+- t: Soğanın rolü
+  d: 'İmam bayıldıda soğan, yemeğin ana malzemesi kadar önemlidir. Yarım ay doğranıp zeytinyağında yavaş yavaş yumuşatılan soğan karamelize olarak tatlı bir lezzet kazanır ve patlıcanın hafif acılığını dengeler. Soğanı aceleyle kavurmak bu tatlılığı oluşturmaz.
+
+    '
+- t: Patlıcanı tuzlu suda bekletmek
+  d: 'Alacalı soyulan patlıcanları 15 dakika tuzlu suda bekletmek varsa acılığını alır ve fırında daha az yağ çekmesini sağlar. Sudan çıkardıktan sonra iyice kurulamak gerekir; ıslak patlıcan fırında közlenmez, haşlanır.
+
+    '
+- t: Karnıyarıktan farkı
+  d: 'İmam bayıldı etsiz ve zeytinyağlıdır, soğuk servis edilir. Karnıyarık kıymalı harçla doldurulur ve sıcak yenir. İki yemekte de patlıcan aynı şekilde hazırlanır, fark harçta ve servis sıcaklığındadır.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 4 gün dayanır; ertesi gün daha lezzetli olur. Servis etmeden önce 20 dakika oda sıcaklığında bekletmek zeytinyağının donukluğunu giderir. Dondurmayı önermiyoruz.
+
+    '
+faq:
+- q: İmam bayıldı sıcak mı yenir, soğuk mu?
+  a: Zeytinyağlı bir yemek olduğu için ılık ya da soğuk yenir. En lezzetli hali, bir gün buzdolabında dinlendikten sonra oda sıcaklığına yaklaştırılmış halidir.
+- q: İmam bayıldı ile karnıyarık arasındaki fark nedir?
+  a: İmam bayıldı etsizdir, soğanlı ve domatesli bir harçla doldurulup zeytinyağında pişer ve soğuk servis edilir. Karnıyarık ise kıymalı harçla doldurulur ve sıcak yenir.
+- q: İmam bayıldı vegan mı?
+  a: Evet, tarif bu haliyle tamamen vegan ve glutensiz. Yanına yoğurt eklersen vegan olmaktan çıkar.
+- q: Patlıcan kızartılmadan imam bayıldı yapılır mı?
+  a: Evet. Bu tarifte patlıcanlar az zeytinyağıyla fırında yumuşatılıyor. Kızartmaya göre çok daha hafif bir sonuç verir.
+editorNote: İmam bayıldıyı karnıyarık gibi fırında közlenen patlıcanla yazdık; klasik tarifte patlıcan bolca zeytinyağında kızartılır. Bol soğanı ise özellikle vurguladık, çünkü bu yemeğin tatlılığı ve gövdesi oradan geliyor.
 ---
 
-Zeytinyağının ve soğanın tatlılığına imamın bile dayanamadığı söylenen klasik.
+İmam bayıldı, Osmanlı mutfağından günümüze gelen en bilinen zeytinyağlılardan biri. Adının, yemeğin tadına ya da içine konan zeytinyağı miktarına hayran kalıp bayılan bir imamdan geldiği anlatılır.
+
+Karnıyarıktan farkı etsiz olması ve soğuk servis edilmesi. Patlıcanlar alacalı soyulup fırında yumuşatılıyor, bol soğan, sarımsak ve domatesle hazırlanan harçla dolduruluyor ve fırında pişmeyi tamamlıyor.
+
+4 kişilik tarif 70 dakikada hazır. Ilık ya da soğuk servis edilir; bir gün buzdolabında bekleyince lezzeti iyice oturur.

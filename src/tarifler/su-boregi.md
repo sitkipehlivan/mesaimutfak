@@ -86,6 +86,44 @@ tips:
 - Yufkayı haşlarken kepçe ya da geniş kevgir kullan; yırtılırsa dert etme, ara katlarda kimse fark etmez.
 - Hamur ne kadar sert olursa o kadar ince açılır.
 - Pratik versiyon için hazır baklavalık yufkayı sütlü-yumurtalı suya batırarak kullanabilirsin.
+updated: '2026-10-31'
+notes:
+- t: Sert hamurun önemi
+  d: 'Su böreği hamuru kulak memesi kıvamında, oldukça sert olmalı. Sert hamur hem incecik açılabilir hem de haşlanırken dağılmaz. Yumuşak hamur kaynar suda erir ve yırtılır.
+
+
+    Hamuru yoğurduktan sonra en az 30 dakika dinlendirmek, açarken geri çekmesini önler.
+
+    '
+- t: Haşlama adımı
+  d: 'Yufkalar kaynar tuzlu suda yaklaşık 30 saniye haşlanmalı, ardından hemen soğuk suya alınmalı. Soğuk su pişmeyi durdurur ve yufkanın yapışmasını önler. Geniş bir kevgir ya da iki spatula ile tutmak işi kolaylaştırır.
+
+
+    Yufka yırtılırsa endişelenme; ara katlarda bu hiç fark edilmez. En alt ve en üst yufkanın düzgün olması yeterli.
+
+    '
+- t: Pratik versiyon
+  d: 'Hazır baklavalık yufkayı süt, yumurta ve sıvı yağ karışımına batırarak kat kat dizmek, su böreğine benzer yumuşak bir sonuç verir. Ev hamuru kadar elastik olmaz ama hazırlık süresi yarıya iner.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 3 gün dayanır. Isıtırken fırında üzerini folyoyla kapatıp 160°C''de 10-15 dakika ısıtmak, kurumasını önler. Dilimlenmiş su böreği dondurulabilir.
+
+    '
+faq:
+- q: Su böreği hamuru neden sert yoğrulur?
+  a: Sert hamur çok ince açılabilir ve kaynar suda haşlanırken dağılmaz. Yumuşak hamur ise suda yırtılır ve börek katları belirgin olmaz.
+- q: Su böreği yufkası kaç saniye haşlanır?
+  a: Yaklaşık 30 saniye. Yufka kaynar suda hafifçe şişip yumuşadığında hemen soğuk suya alınmalı.
+- q: Su böreği hazır yufkadan yapılır mı?
+  a: Evet, pratik bir versiyon olarak hazır baklavalık yufkayı sütlü-yumurtalı karışıma batırarak kullanabilirsin. Sonuç ev hamuru kadar elastik olmaz ama oldukça yumuşak olur.
+- q: Su böreği neden dinlendirilir?
+  a: Fırından çıkan böreği bezle örtüp 15 dakika dinlendirmek, katların buharla birbirine oturmasını ve kesilirken dağılmamasını sağlar.
+editorNote: Su böreğini ev hamuruyla tam haliyle yazdık, ama pratik isteyenler için hazır baklavalık yufka versiyonunu da püf noktalarında bıraktık. Fırından çıkınca bezle örtüp dinlendirme adımı katların birbirine oturması için önemli; atlanmamasını öneriyoruz.
 ---
 
-Sabır isteyen ama emeğini fazlasıyla geri veren bir klasik. Bayram sabahlarının, misafir çaylarının vazgeçilmezi.
+Su böreği, ince açılan yufkaların kaynar suda haşlanıp tereyağıyla kat kat dizildiği, Türk börekçiliğinin en emek isteyen ama en yumuşak, en zarif böreklerinden biri.
+
+Bu tarifte hamur yumurta, su ve unla sert bir şekilde yoğruluyor, bezelere ayrılıp nişastayla ince açılıyor. Yufkalar tek tek kaynar suda haşlanıp soğuk suya alınıyor ve tepsiye kat kat diziliyor. Ortaya beyaz peynir ve maydanoz harcı konuyor.
+
+8 kişilik tarif yaklaşık 100 dakika sürüyor. Fırından çıktıktan sonra 15 dakika dinlendirilmesi katların oturması için şart.

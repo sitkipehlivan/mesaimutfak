@@ -83,6 +83,37 @@ steps:
 tips:
 - Terbiyeyi eklerken karıştırmayı bırakma, yoğurt keser.
 - Pirinç unu kullanırsan çorba glutensiz olur.
+updated: '2026-10-31'
+notes:
+- t: Yoğurt neden keser?
+  d: 'Yoğurt ani ısı değişimine ve yüksek ısıya maruz kalınca proteinleri pıhtılaşır ve çorba taneli bir görünüm alır. Terbiyeye un ve yumurta sarısı eklemek yoğurdu stabilize eder; tencereden alınan sıcak suyu azar azar ekleyerek ılıştırmak da ani ısı farkını önler.
+
+
+    Terbiyeyi tencereye ekledikten sonra çorba kaynayana kadar tek yöne, sürekli karıştırmak gerekir.
+
+    '
+- t: Pirinç seçimi
+  d: 'Baldo ya da osmancık pirinç çorbaya hem tane hem de kıvam verir. Pirinç yeterince yumuşamadan terbiye eklenirse, terbiyeden sonra uzun kaynatmak gerekir ve yoğurdun kesilme riski artar.
+
+    '
+- t: Saklama ve tekrar ısıtma
+  d: 'Buzdolabında 3 gün dayanır. Isıtırken kısık ateşte ve karıştırarak ısıtmak gerekir; yüksek ateş yoğurdun ayrışmasına neden olabilir. Dondurmayı önermiyoruz, çözülünce yoğurt ayrışır.
+
+    '
+faq:
+- q: Yayla çorbası neden kesilir?
+  a: Terbiye ılıştırılmadan sıcak çorbaya eklendiğinde ya da eklendikten sonra karıştırılmadığında yoğurt kesilir. Sıcak suyu azar azar terbiyeye ekleyip ılıştırmak ve sürekli karıştırmak bunu önler.
+- q: Yayla çorbasına yumurta konur mu?
+  a: Geleneksel tarifte terbiyeye yumurta sarısı eklenir; yoğurdu stabilize eder ve çorbaya kremamsı bir kıvam verir. Yumurtasız versiyonda un miktarını biraz artırmak gerekir.
+- q: Yayla çorbası glutensiz yapılır mı?
+  a: Evet. Terbiyedeki unu pirinç unuyla değiştirmek yeterli; pirinç zaten glutensizdir.
+- q: Yayla çorbası tavuk suyuyla mı yapılır?
+  a: İkisi de olur. Tavuk suyu çorbaya daha derin bir tat verir, su ile yapılan versiyon ise daha hafif ve vejetaryen dostudur.
+editorNote: Yayla çorbasının en zor anı yoğurdun kesilmeden çorbaya karışması olduğu için terbiyeyi ılıştırma adımını ayrı yazdık. Glutensiz isteyenler için unun yerine pirinç unu seçeneğini de malzemelere ekledik.
 ---
 
-Hasta çorbası da derler, ama bence gönül çorbası. Kış akşamlarının şifası.
+Yayla çorbası, pirinç ve yoğurdun yumurta sarısıyla terbiye edildiği, üzerine naneli tereyağı gezdirilen klasik bir Türk çorbası. Hafif ekşimsi tadı ve yumuşak dokusuyla hem kışın içi ısıtan hem de hasta olunduğunda ilk akla gelen çorbalardan.
+
+Bu tarifte pirinç önce suda ya da tavuk suyunda yumuşayana kadar pişiyor. Yoğurt, yumurta sarısı ve unla hazırlanan terbiye, tencereden alınan sıcak suyla ılıştırılarak çorbaya ekleniyor. Böylece yoğurt kesilmeden pürüzsüz bir kıvam elde ediliyor.
+
+4 kişilik tarif 30 dakikada hazır. Tavuk suyu kullanmak çorbanın tadını belirgin şekilde zenginleştirir.

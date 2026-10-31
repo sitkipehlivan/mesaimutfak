@@ -116,6 +116,44 @@ steps:
 tips:
 - Fırın ne kadar sıcak olursa lahmacun o kadar çıtır olur; tepsiyi önceden ısıtmak şart.
 - Harcı ince sür; kalın harç hamuru pişirmeden bırakır.
+updated: '2026-10-31'
+notes:
+- t: Yağlı kıyma neden önemli?
+  d: 'Lahmacun harcındaki kıymanın yağı, fırında hamurun içine işleyerek hem lezzeti hem yumuşaklığı sağlar. Yağsız kıyma kullanırsan harç kuru, hamur ise sert olur. Kasaptan yüzde 20 civarı yağ içeren kıyma istemek iyi bir ölçü.
+
+    '
+- t: Harcın kıvamı
+  d: 'Harcın sebzeleri robotta ince çekilmeli ama püre haline gelmemeli. Domates çok sulu ise suyunun bir kısmını süzmek gerekir; sulu harç hamuru ıslatır ve lahmacun çıtır olmaz.
+
+
+    Harcı sürerken eli ıslatmak işi kolaylaştırır. Harç, hamurun kenarlarına kadar, ince ve eşit bir tabaka halinde sürülmeli.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'Hamuru kalın açmak lahmacunu pide gibi yapar. Hamur, altından ışık geçecek kadar ince açılmalı.
+
+
+    Fırını yeterince ısıtmamak da yaygın. Fırın en az 15-20 dakika en yüksek sıcaklıkta ısınmalı; tepsi de bu sürede içeride beklemeli.
+
+    '
+- t: Saklama
+  d: 'Pişmiş lahmacunları üst üste koyup soğuduktan sonra dondurucu poşetine koy; 1 ay saklanabilir. Isıtırken kuru tavada ya da önceden ısıtılmış fırında birkaç dakika ısıtmak çıtırlığını geri getirir.
+
+    '
+faq:
+- q: Lahmacun evde nasıl çıtır olur?
+  a: Fırını en yüksek sıcaklığa getirip tepsiyi de içinde önceden ısıtmak ve hamuru çok ince açmak en etkili yöntem. Harcı ince sürmek de hamurun çıtır pişmesine yardım eder.
+- q: Lahmacun harcına ne konur?
+  a: Yağlı kıyma, soğan, domates, kapya ve sivri biber, sarımsak, maydanoz, biber salçası, isot ya da pul biber ve tuz. Sebzeler ince çekilip kıymayla iyice yoğrulur.
+- q: Lahmacun ile pide arasındaki fark nedir?
+  a: Lahmacun çok ince açılan yuvarlak hamura ince bir harç sürülerek yapılır ve rulo yapılarak yenir. Pide ise daha kalın, kayık şeklinde hamurdur; üzerine kıyma, kaşar ya da kuşbaşı gibi daha bol malzeme konur.
+- q: Lahmacun dondurulur mu?
+  a: Evet. Pişmiş lahmacunlar soğuduktan sonra dondurucuda 1 ay saklanabilir. Kuru tavada ya da fırında ısıtınca çıtırlığı geri gelir.
+editorNote: 'Lahmacun tarifinde fırın tepsisini önceden ısıtmayı ayrı bir adım olarak yazmamızın nedeni şu: ev fırını taş fırın kadar ısınmaz, ama kızgın tepsi alttan gelen ısıyı taklit edip hamurun çıtır pişmesini sağlıyor. Harcın ince sürülmesi de aynı derecede önemli.'
 ---
 
-Fırın ısısını sonuna kadar açıp dakikalar içinde pişirince, evde de dışarıdakine yakın bir lahmacun çıkıyor.
+Lahmacun, ince açılmış hamurun üzerine kıymalı, sebzeli ve baharatlı bir harç sürülerek taş fırında pişirilen, özellikle Gaziantep ve Urfa mutfağıyla özdeşleşmiş bir hamur işi. Limon, maydanoz ve soğanla rulo yapılarak yenir.
+
+Evde taş fırın olmadığı için bu tarifte fırın en yüksek sıcaklığa getirilip tepsi de önceden ısıtılıyor. Harç robotta ince çekilen sebzeler, yağlı kıyma, biber salçası ve isotla hazırlanıyor ve hamurun üzerine incecik sürülüyor.
+
+6 kişilik tarif yaklaşık 1 saatte hazır. Hamur mayalanırken harcı hazırlamak süreyi kısaltır.

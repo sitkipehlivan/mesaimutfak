@@ -85,6 +85,41 @@ steps:
 tips:
 - Tavuğu tavaya kalabalık atma, suya düşer; gerekirse iki partide mühürle.
 - Yanına bulgur pilavı ya da makarna çok yakışır.
+updated: '2026-10-31'
+notes:
+- t: Göğüs mü but mu?
+  d: 'Bu tarif tavuk göğsüyle yazıldı; daha yağsızdır ve hızlı pişer. Ancak göğüs fazla pişirildiğinde kolayca kurur. Daha sulu bir sote istersen kemiksiz but kullanabilirsin; pişirme süresini 5 dakika uzatman yeterli.
+
+    '
+- t: Mühürlemenin önemi
+  d: 'Tavuk tavaya atıldığında cızırdamalı. Tava yeterince sıcak değilse tavuk hemen su salar ve haşlanır. Tavuğu iki parti halinde mühürlemek, her parçanın kızgın tava yüzeyine temas etmesini sağlar.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'Mantarı tuzlu tavaya erken eklemek, mantarın çok su salmasına ve sotenin sulu olmasına yol açar. Tuzu en sonda eklemek daha iyi sonuç verir.
+
+
+    Domatesleri ekledikten sonra uzun pişirmek de tavuğu kurutur. Domatesler suyunu salıp çekene kadar, yaklaşık 8-10 dakika yeterli.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 3 gün dayanır. Isıtırken birkaç kaşık su ekleyip tavada kısık ateşte ısıtmak tavuğun kurumasını önler. Dondurulmuş tavuk sote 2 aya kadar saklanabilir, ancak mantar çözülürken dokusunu biraz kaybeder.
+
+    '
+faq:
+- q: Tavuk sote neden kuru olur?
+  a: Genelde tavuk göğsü fazla pişirildiği ya da düşük ısıda haşlandığı için. Tavuğu yüksek ateşte kısa sürede mühürlemek ve domatesten sonra fazla pişirmemek sulu kalmasını sağlar.
+- q: Tavuk soteye hangi sebzeler konur?
+  a: Bu tarifte soğan, kapya ve sivri biber, mantar ve domates kullanılıyor. Kabak, patlıcan ya da bezelye de eklenebilir; sebzeleri aynı boyda doğramak eşit pişmelerini sağlar.
+- q: Tavuk sote yanına ne yapılır?
+  a: Bulgur pilavı, pirinç pilavı ya da makarna en yaygın eşlikçiler. Hafif bir öğün için yanına yoğurt ve yeşil salata yeterli.
+- q: Tavuk sote fırında yapılır mı?
+  a: Evet. Tüm malzemeleri bir tepside zeytinyağı ve baharatlarla karıştırıp 200°C fırında 30-35 dakika pişirebilirsin. Tavada yapılan kadar hızlı değildir ama ocak başında beklemek gerekmez.
+editorNote: Tavuk sotede tavuğun ayrı ve yüksek ateşte mühürlenmesini tarifin ilk adımı yaptık, çünkü sotenin kuru ve lastik gibi olmasının en sık sebebi tavuğun sebzelerle birlikte haşlanması. Pratik bir hafta içi yemeği olarak 30 dakikanın altında tuttuk.
 ---
 
-Akşam yemeğinin en garantili cevabı. Dolapta ne sebze varsa tavaya giriyor.
+Tavuk sote, kuşbaşı tavuğun biber, mantar ve domatesle tavada pişirildiği, hafta içi akşamlarının en pratik ana yemeklerinden biri. Tek tava, yarım saat ve evde çoğunlukla bulunan malzemeler.
+
+Bu tarifte tavuk önce yüksek ateşte mühürleniyor; bu sayede dışı hafifçe kızarıyor ve suyunu içinde tutuyor. Ardından soğan, biberler ve mantar ekleniyor, en son salça ve domatesle kısa bir süre kısık ateşte pişiyor.
+
+4 kişilik tarif 30 dakikada hazır. Yanına bulgur pilavı, makarna ya da sade pirinç pilavı çok yakışır.
