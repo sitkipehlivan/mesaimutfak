@@ -28,9 +28,27 @@ async function getKatalog() {
     bySlug[slug] = r;
     return `${slug} | ${r.t} | ${(r.c || '')} | ${r.m} dk | ${r.l} | ${(Array.isArray(r.g) ? r.g.join(', ') : String(r.g || '')).slice(0, 160)}`;
   });
-  katalog = { bySlug, metin: satirlar.join('\n') };
+  const basliklar = list.map(r => ({ slug: r.u.replace(/^\/tarif\//, '').replace(/\/$/, ''), n: norm(r.t) })).filter(x => x.n.length >= 4).sort((a, b) => b.n.length - a.n.length);
+  katalog = { bySlug, metin: satirlar.join('\n'), basliklar };
   katalogZaman = Date.now();
   return katalog;
+}
+
+// Türkçe karakterleri sadeleştirip karşılaştırma için normalleştirir
+function norm(t) { return String(t || '').toLocaleLowerCase('tr').replace(/ç/g, 'c').replace(/ğ/g, 'g').replace(/ı/g, 'i').replace(/ö/g, 'o').replace(/ş/g, 's').replace(/ü/g, 'u').replace(/â/g, 'a').replace(/[^a-z0-9]+/g, ' ').trim(); }
+// Model hatalı slug verdiyse başlıktan doğru tarifi bul
+function slugBul(kat, slug) {
+  if (kat.bySlug[slug]) return slug;
+  const n = norm(String(slug || '').replace(/^.*\/tarif\//, '').replace(/-/g, ' '));
+  if (!n) return null;
+  const x = kat.basliklar.find(b => b.slug === n.replace(/ /g, '-') || b.n === n);
+  return x ? x.slug : null;
+}
+// Cevap metninde adı geçen ama karta konmamış tarifleri bul (en uzun başlık önce, çakışmasız)
+function metindekiTarifler(kat, metin) {
+  let m = ' ' + norm(metin) + ' '; const bulunan = [];
+  for (const b of kat.basliklar) { const k = ' ' + b.n + ' '; if (m.includes(k)) { bulunan.push(b.slug); m = m.split(k).join(' | '); } }
+  return bulunan;
 }
 
 // Kullanıcı "40 dakikam var", "yarım saat", "bir saat" gibi bir süre verdiyse en son verileni dakika olarak döndürür
@@ -155,8 +173,12 @@ export default async (req, context) => {
   }
 
   const sinir = sureSiniri(messages.filter(m => m.role === 'user').map(m => m.content));
-  const tarifler = (Array.isArray(veri.tarifler) ? veri.tarifler : [])
-    .filter(t => t && kat.bySlug[t.slug])
+  const ham = (Array.isArray(veri.tarifler) ? veri.tarifler : [])
+    .map(t => t && { slug: slugBul(kat, t.slug), neden: t.neden })
+    .filter(t => t && t.slug);
+  // Metinde adı geçip karta konmayan tarifleri de ekle (kart hep olsun, link uydurulmasın)
+  for (const sl of metindekiTarifler(kat, veri.cevap)) if (!ham.some(t => t.slug === sl)) ham.push({ slug: sl, neden: '' });
+  const tarifler = ham
     .filter(t => !sinir || kat.bySlug[t.slug].m <= sinir)
     .filter((t, i, a) => a.findIndex(x => x.slug === t.slug) === i)
     .slice(0, 5)
