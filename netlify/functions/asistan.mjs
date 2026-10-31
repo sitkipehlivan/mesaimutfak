@@ -93,7 +93,7 @@ export default async (req, context) => {
   } catch (e) {
     return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502);
   }
-  if (!res.ok) { console.log('asistan hata', res.status, JSON.stringify(out).slice(0, 300)); return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502); }
+  if (!res.ok) { console.log('asistan hata', res.status, JSON.stringify(out).slice(0, 300)); const e = (out && out.error) || {}; return json({ error: 'servis', kod: res.status, tur: e.type || '', detay: String(e.message || '').slice(0, 160), cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502); }
 
   const metin = (out.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
   let veri = null;
