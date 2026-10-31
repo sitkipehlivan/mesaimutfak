@@ -98,7 +98,7 @@ export default async (req, context) => {
   const metin = (out.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
   let veri = null;
   try { veri = JSON.parse(metin); } catch (e) { const m = metin.match(/\{[\s\S]*\}/); if (m) { try { veri = JSON.parse(m[0]); } catch (e2) {} } }
-  if (!veri) return json({ cevap: metin.slice(0, 400) || 'Bir tarif bulamadım, biraz daha anlatır mısın?', tarifler: [] });
+  if (!veri) return json({ cevap: metin.slice(0, 400) || 'Bir tarif bulamadım, biraz daha anlatır mısın?', tarifler: [], teshis: { model: out.model, stop: out.stop_reason, turler: (out.content || []).map(c => c.type), kullanim: out.usage } });
 
   const tarifler = (Array.isArray(veri.tarifler) ? veri.tarifler : [])
     .filter(t => t && kat.bySlug[t.slug])
