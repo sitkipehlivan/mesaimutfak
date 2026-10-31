@@ -42,6 +42,25 @@ root.addEventListener('mouseenter',function(){paused=true});root.addEventListene
 play()})();
 </script>
 
+{# Saat (Apple Watch) ana sayfası: yalnızca saat görünümünde gösterilir #}
+<section class="w-home" aria-label="Saat görünümü">
+  <form class="w-ask" action="{{ '/asistan/' | link }}" method="get">
+    <label for="wq">Ne pişirsem?</label>
+    <input id="wq" name="q" type="text" placeholder="Söyle ya da yaz" autocomplete="off" enterkeyhint="send">
+    <button type="submit" class="w-btn w-pri">Tarif öner</button>
+  </form>
+  <h2 class="w-h">Haftanın tarifleri</h2>
+  <ul class="w-list">
+    {% for r in slides %}<li><a href="{{ r.url | link }}">{% if r.data.image %}<img src="{{ r.data.image | imgUrl(120) }}" alt="" width="40" height="40" loading="lazy">{% endif %}<span><b>{{ r.data.title }}</b><em>{{ r.data.prep + r.data.cook }} dk</em></span></a></li>{% endfor %}
+  </ul>
+  <h2 class="w-h">Hızlı tarifler</h2>
+  <ul class="w-list">
+    {% for r in collections.tarifler | inCat('hizli') | sortByMin | take(8) %}<li><a href="{{ r.url | link }}">{% if r.data.image %}<img src="{{ r.data.image | imgUrl(120) }}" alt="" width="40" height="40" loading="lazy">{% endif %}<span><b>{{ r.data.title }}</b><em>{{ r.data.prep + r.data.cook }} dk</em></span></a></li>{% endfor %}
+  </ul>
+  <a class="w-btn" href="{{ '/tarifler/' | link }}">Tüm tarifler</a>
+  <a class="w-btn" href="{{ '/kaydettiklerim/' | link }}">Kaydettiklerim</a>
+</section>
+
 {# Arama #}
 <section class="home-search">
   <div class="wrap">

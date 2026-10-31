@@ -327,3 +327,41 @@
     });
   });
 })();
+
+/* ---------- Saat görünümü: malzeme işaretleme, adım adım mod, sayaç ---------- */
+(function () {
+  var html = document.documentElement, rec = document.querySelector('.w-rec');
+  if (!html.classList.contains('is-watch') || !rec) return;
+  rec.querySelectorAll('.w-ing button').forEach(function (b) {
+    b.addEventListener('click', function () { b.setAttribute('aria-pressed', b.getAttribute('aria-pressed') === 'true' ? 'false' : 'true'); });
+  });
+  var box = rec.querySelector('.w-steps'), steps = [].slice.call(rec.querySelectorAll('.w-step')), i = 0, timer = null;
+  var prev = rec.querySelector('[data-w-prev]'), next = rec.querySelector('[data-w-next]');
+  function show(n) {
+    i = Math.max(0, Math.min(steps.length - 1, n));
+    steps.forEach(function (s, k) { s.hidden = k !== i; });
+    prev.disabled = i === 0; next.hidden = i === steps.length - 1;
+    window.scrollTo(0, 0);
+  }
+  rec.querySelectorAll('[data-w-start]').forEach(function (b) { b.addEventListener('click', function () { rec.classList.add('stepping'); box.hidden = false; show(0); }); });
+  rec.querySelector('[data-w-close]').addEventListener('click', function () { rec.classList.remove('stepping'); box.hidden = true; window.scrollTo(0, 0); });
+  prev.addEventListener('click', function () { show(i - 1); });
+  next.addEventListener('click', function () { show(i + 1); });
+  rec.querySelectorAll('[data-w-timer]').forEach(function (b) {
+    var etiket = b.textContent;
+    b.addEventListener('click', function () {
+      if (timer) { clearInterval(timer.id); timer.btn.classList.remove('on'); timer.btn.textContent = timer.etiket; var ayni = timer.btn === b; timer = null; if (ayni) return; }
+      var dk = parseFloat(b.closest('.w-step').dataset.min) || 0; if (!dk) return;
+      var bitis = Date.now() + dk * 60000;
+      b.classList.remove('bitti'); b.classList.add('on');
+      timer = { btn: b, etiket: etiket, id: setInterval(tick, 1000) };
+      function tick() {
+        var kalan = Math.max(0, Math.round((bitis - Date.now()) / 1000));
+        b.textContent = '⏱ ' + Math.floor(kalan / 60) + ':' + ('0' + (kalan % 60)).slice(-2) + ' (durdur)';
+        if (!kalan) { clearInterval(timer.id); timer = null; b.classList.remove('on'); b.classList.add('bitti'); b.textContent = 'Süre doldu!'; try { navigator.vibrate && navigator.vibrate([400, 200, 400]); } catch (e) {} }
+      }
+      tick();
+    });
+  });
+})();
+

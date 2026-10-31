@@ -4,6 +4,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="disabled-adaptations" content="watch">
+<script>/* Apple Watch / küçük saat ekranı: sade "saat" görünümü, reklamsız. ?saat=1 açar, ?saat=0 kapatır (deneme için). */
+(function(){var w=false,q=location.search;try{if(/[?&]saat=0/.test(q))sessionStorage.removeItem('mm-saat');else if(/[?&]saat=1/.test(q))sessionStorage.setItem('mm-saat','1');w=sessionStorage.getItem('mm-saat')==='1'}catch(e){}
+if(!w&&!/[?&]saat=0/.test(q))w=Math.min(screen.width||999,innerWidth||999)<=272;
+if(w){document.documentElement.classList.add('is-watch');(window.adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=1}})();</script>
 {%- set metaTitle = (seoTitle or title) if (title and not isHome) else '' -%}
 {%- set metaDesc = seoDesc or desc or site.description -%}
 {%- set ogImg = (site.url + (image | imgUrl(1200))) if image else (site.url + (site.ogImage | imgUrl(1200))) -%}

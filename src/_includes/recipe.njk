@@ -3,6 +3,32 @@ layout: base.njk
 ---
 {%- set me = collections.tarifler | bySlug(page.fileSlug) -%}
 {%- set catKey = cats[0] -%}
+{# Saat (Apple Watch) görünümü: malzemeler + adım adım mod; yalnızca saatte gösterilir #}
+<section class="w-rec" aria-label="Saat görünümü">
+  {% if image %}<img class="w-hero" src="{{ image | imgUrl(320) }}" alt="" width="160" height="110">{% endif %}
+  <h1 class="w-title">{{ title }}</h1>
+  <p class="w-meta">{{ prep + cook }} dk · {{ serv }} kişilik · {{ lvl }}</p>
+  <button type="button" class="w-btn w-pri" data-w-start>Adım adım başla</button>
+  <h2 class="w-h">Malzemeler</h2>
+  {% for grp in ingredients %}{% if grp.group %}<h3 class="w-sub">{{ grp.group }}</h3>{% endif %}
+  <ul class="w-ing">{% for it in grp.items %}<li><button type="button" aria-pressed="false"><i aria-hidden="true"></i><span>{% if it.a %}<b>{{ it.a | amt }} {{ it.u }}</b> {% endif %}{{ it.n }}</span></button></li>{% endfor %}</ul>
+  {% endfor %}
+  <button type="button" class="w-btn w-pri" data-w-start>Adım adım başla</button>
+  <div class="w-steps" hidden>
+    {% for st in steps %}
+    <div class="w-step" data-min="{{ (st.time or '') | replace(' dk','') | replace('dk','') | trim }}" hidden>
+      <p class="w-no">Adım {{ loop.index }} / {{ steps.length }}</p>
+      <h2>{{ st.t }}</h2>
+      <p class="w-d">{{ st.d }}</p>
+      {% if st.time %}<button type="button" class="w-btn w-timer" data-w-timer>⏱ {{ st.time }} sayaç</button>{% endif %}
+    </div>
+    {% endfor %}
+    <div class="w-step w-done" hidden><h2>Afiyet olsun!</h2><p class="w-d">Tarif bitti. Beğendiysen kaydet, bir dahaki sefere hızlıca bulursun.</p></div>
+    <div class="w-nav"><button type="button" class="w-btn" data-w-prev>‹ Geri</button><button type="button" class="w-btn w-pri" data-w-next>İleri ›</button></div>
+    <button type="button" class="w-btn w-ghost" data-w-close>Malzemelere dön</button>
+  </div>
+  <a class="w-btn w-ghost" href="{{ '/' | link }}">Ana sayfa</a>
+</section>
 <div class="wrap">
   <nav class="crumbs" aria-label="Konum">
     <a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><a href="{{ ('/kategori/' + catKey + '/') | link }}">{{ catKey | catLabel(categories) }}</a><span>/</span><span aria-current="page">{{ title }}</span>

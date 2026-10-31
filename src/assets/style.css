@@ -803,3 +803,78 @@ nav.main a.talk-nav:hover{border-color:var(--ink)}
 .consent .btn.cn-no{background:transparent;border-color:var(--line);color:var(--ink-2)}
 .consent .btn.cn-no:hover{border-color:var(--ink);color:var(--ink)}
 @media (max-width:420px){.consent .consent-btns .btn{flex:1 1 100%}}
+
+/* v25 · Saat görünümü (Apple Watch / ≤272px): siyah zemin, büyük dokunma alanları, reklamsız */
+.w-home,.w-rec{display:none}
+html.is-watch{--w-bg:#000;--w-cell:#1C1C1E;--w-cell2:#2C2C2E;--w-txt:#fff;--w-mut:#A1A1A6;--w-acc:#F2B12E;font-size:15px}
+html.is-watch body{background:var(--w-bg);color:var(--w-txt);font-family:-apple-system,system-ui,sans-serif;padding:0;margin:0}
+.is-watch .ad-row,.is-watch .ad,.is-watch [data-ad],.is-watch .grid-ad,.is-watch .rail,.is-watch footer,.is-watch .tabbar,.is-watch .consent,.is-watch .topcats,
+.is-watch header.top .main,.is-watch header.top .hsearch,.is-watch header.top .theme:not(.voice-ico),.is-watch header.top .yt-link,.is-watch .crumbs,.is-watch .install,.is-watch ins.adsbygoogle{display:none!important}
+.is-watch header.top{position:static;background:transparent;border:0;box-shadow:none;padding:4px 8px 2px}
+.is-watch header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:6px;padding:0;min-height:0;max-width:none}
+.is-watch header.top .logo{font-size:14px;color:var(--w-acc);gap:5px}
+.is-watch header.top .logo svg{width:20px;height:20px}
+.is-watch header.top .voice-ico{display:inline-flex!important;width:30px;height:30px;border:0;background:var(--w-cell2);border-radius:50%}
+.is-watch header.top .voice-ico svg{width:16px;height:16px;fill:var(--w-acc);stroke:none}
+.is-watch main{padding:0 6px 18px}
+.is-watch .wrap{padding-inline:0;max-width:none}
+/* ana sayfa ve tarif: yalnızca saat bölümü */
+.is-watch[data-page-type="home"] main>:not(.w-home),.is-watch[data-page-type="tarif"] main>:not(.w-rec){display:none!important}
+.is-watch .w-home,.is-watch .w-rec{display:flex;flex-direction:column;gap:7px}
+.is-watch .w-h{font-size:13px;font-weight:600;color:var(--w-mut);margin:10px 4px 0;text-transform:none;letter-spacing:0}
+.is-watch .w-sub{font-size:12px;color:var(--w-acc);margin:6px 4px 0}
+.is-watch .w-btn{display:flex;align-items:center;justify-content:center;width:100%;min-height:42px;border:0;border-radius:21px;background:var(--w-cell2);color:var(--w-txt);font:600 15px -apple-system,system-ui,sans-serif;text-decoration:none;padding:8px 12px;box-sizing:border-box;cursor:pointer}
+.is-watch .w-pri{background:var(--w-acc);color:#1b1300}
+.is-watch .w-ghost{background:transparent;color:var(--w-acc)}
+.is-watch .w-ask{display:flex;flex-direction:column;gap:6px;background:var(--w-cell);border-radius:16px;padding:10px}
+.is-watch .w-ask label{font-size:17px;font-weight:700}
+.is-watch .w-ask input,.is-watch input[type=search],.is-watch input[type=text]{width:100%;box-sizing:border-box;min-height:40px;border-radius:12px;border:0;background:var(--w-cell2);color:var(--w-txt);font:15px -apple-system,system-ui,sans-serif;padding:8px 10px}
+.is-watch .w-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:5px}
+.is-watch .w-list a{display:flex;align-items:center;gap:8px;background:var(--w-cell);border-radius:14px;padding:8px;color:var(--w-txt);text-decoration:none;min-height:44px}
+.is-watch .w-list img{width:40px;height:40px;border-radius:50%;object-fit:cover;flex:none}
+.is-watch .w-list span{display:flex;flex-direction:column;min-width:0}
+.is-watch .w-list b{font-size:14px;font-weight:600;line-height:1.2}
+.is-watch .w-list em{font-style:normal;font-size:12px;color:var(--w-mut)}
+/* tarif */
+.is-watch .w-hero{width:100%;height:auto;aspect-ratio:16/11;object-fit:cover;border-radius:16px}
+.is-watch .w-title{font-size:19px;line-height:1.15;margin:4px 2px 0;font-weight:700;font-family:-apple-system,system-ui,sans-serif}
+.is-watch .w-meta{font-size:12px;color:var(--w-mut);margin:0 2px 4px}
+.is-watch .w-ing{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.is-watch .w-ing button{display:flex;align-items:flex-start;gap:8px;width:100%;text-align:left;background:var(--w-cell);border:0;border-radius:12px;padding:9px 10px;color:var(--w-txt);font:14px/1.3 -apple-system,system-ui,sans-serif;cursor:pointer}
+.is-watch .w-ing i{flex:none;width:16px;height:16px;border-radius:50%;border:2px solid var(--w-mut);margin-top:1px;box-sizing:border-box}
+.is-watch .w-ing b{color:var(--w-acc);font-weight:600}
+.is-watch .w-ing button[aria-pressed="true"]{color:var(--w-mut);text-decoration:line-through}
+.is-watch .w-ing button[aria-pressed="true"] i{background:var(--w-acc);border-color:var(--w-acc)}
+.is-watch .w-rec.stepping>:not(.w-steps){display:none}
+.is-watch .w-steps:not([hidden]){display:flex;flex-direction:column;gap:8px}
+.is-watch .w-step:not([hidden]){display:flex;flex-direction:column;gap:6px;background:var(--w-cell);border-radius:16px;padding:12px;min-height:150px}
+.is-watch .w-no{font-size:12px;color:var(--w-acc);margin:0;font-weight:600}
+.is-watch .w-step h2{font-size:18px;line-height:1.2;margin:0;font-family:-apple-system,system-ui,sans-serif}
+.is-watch .w-d{font-size:15px;line-height:1.35;margin:0}
+.is-watch .w-timer.on{background:#30D158;color:#002b0c}
+.is-watch .w-timer.bitti{background:#FF453A;color:#fff}
+.is-watch .w-nav{display:flex;gap:6px}
+/* diğer sayfalar: kartları liste satırına çevir */
+.is-watch h1{font-size:19px;line-height:1.15}
+.is-watch .cat-hero,.is-watch .page-hero{display:block;padding:6px 2px}
+.is-watch .cat-hero .ic,.is-watch .cat-hero p{display:none}
+.is-watch .grid{display:flex!important;flex-direction:column;gap:5px;margin:8px 0 18px!important}
+.is-watch .rc{display:flex;flex-direction:row;align-items:center;gap:8px;background:var(--w-cell);border:0;border-radius:14px;padding:8px;box-shadow:none;color:var(--w-txt);min-height:44px}
+.is-watch .rc .art{width:40px;height:40px;flex:none;border-radius:50%;overflow:hidden;aspect-ratio:auto;margin:0;border:0}
+.is-watch .rc .art img,.is-watch .rc .art svg{width:100%;height:100%;object-fit:cover}
+.is-watch .rc .badges,.is-watch .rc .cat-name,.is-watch .rc p,.is-watch .rc .diet-tags,.is-watch .rc .facts div:not(:first-child),.is-watch .rc .facts dt{display:none}
+.is-watch .rc .body{padding:0;min-width:0;gap:2px;flex:1}
+.is-watch .rc h3{font-size:14px;line-height:1.2;margin:0;font-family:-apple-system,system-ui,sans-serif;color:var(--w-txt)}
+.is-watch .rc .facts{margin:0;padding:0;border:0;display:block}
+.is-watch .rc .facts dd{font-size:12px;color:var(--w-mut);margin:0}
+/* asistan */
+.is-watch .asis-hero p,.is-watch .asis-ex,.is-watch .asis-note,.is-watch .as-speak{display:none}
+.is-watch .asis-hero h1{font-size:17px}
+.is-watch .asis-box{background:transparent;border:0;box-shadow:none;padding:0}
+.is-watch .asis-form{display:flex;flex-direction:column;gap:6px}
+.is-watch .asis-form .btn{min-height:40px;border-radius:20px;background:var(--w-acc);color:#1b1300;border:0}
+.is-watch .as-msg{background:var(--w-cell);color:var(--w-txt);border:0;border-radius:14px;padding:8px 10px;font-size:14px;margin:0 0 6px;max-width:none}
+.is-watch .as-user{background:var(--w-cell2)}
+.is-watch .as-card{display:flex;gap:8px;align-items:center;background:var(--w-cell2);border-radius:12px;padding:6px;color:var(--w-txt);border:0}
+.is-watch .as-card img{width:40px;height:40px;border-radius:50%;object-fit:cover}
+.is-watch .as-card span span{display:none}

@@ -4,6 +4,7 @@
    - ?reklam=kapat    : önizlemeyi kapatır. */
 (function () {
   const html = document.documentElement;
+  if (html.classList.contains('is-watch')) return; // saatte reklam yok
   let cfg = {}; try { cfg = JSON.parse(html.dataset.ads || '{}'); } catch (e) {}
   const q = new URLSearchParams(location.search).get('reklam');
   try {
