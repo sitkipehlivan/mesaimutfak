@@ -97,6 +97,38 @@ steps:
 tips:
 - Sıcak tatlı, soğuk şerbet kuralını unutma.
 - Şekerpare ve revani gibi tatlılar ertesi gün daha güzeldir.
+updated: '2026-11-01'
+notes:
+- t: İrmik ve un dengesi
+  d: 'Revaniye karakteristik dokusunu veren irmiktir. İrmik ve unun eşit oranda kullanılması kekin hem şerbeti çekmesini hem de dağılmamasını sağlar. Sadece irmikle yapılan revani daha kumlu, sadece unla yapılan ise kek gibi olur.
+
+    '
+- t: Şerbet miktarı
+  d: 'Revani bol şerbetli bir tatlıdır, ama şerbetin tamamı bir kerede dökülmemeli. Önce yarısını döküp çekmesini bekleyip kalanını eklemek, kekin eşit ıslanmasını sağlar.
+
+    '
+- t: Limon kabuğu
+  d: 'Limon kabuğu rendesi şerbetli tatlının ağırlığını dengeler ve ferah bir koku katar. Sadece kabuğun sarı kısmını rendelemek gerekir; beyaz kısım acılık verir.
+
+    '
+- t: Saklama
+  d: 'Oda sıcaklığında, üzeri kapalı olarak 3 gün; buzdolabında 5 gün dayanır. Soğuk da sıcak da servis edilebilir.
+
+    '
+faq:
+- q: Revani neden sert olur?
+  a: Genelde şerbet yeterince dökülmediği ya da şerbet sıcak dökülüp kek tarafından çekilemediği için. Sıcak revaniye soğuk şerbet dökmek ve yeterince bekletmek gerekir.
+- q: Revaniye irmik konur mu?
+  a: Evet, revaninin temel malzemelerinden biri irmiktir. Kekin şerbeti çekmesini ve kendine has dokusunu sağlar.
+- q: Revani şerbeti nasıl hazırlanır?
+  a: Su ve şeker kaynatılıp limon eklenerek 10 dakika kaynatılır ve soğutulur. Soğuk şerbet sıcak kekin üzerine dökülür.
+- q: Revani üzerine ne serpilir?
+  a: Klasik olarak hindistan cevizi. Antep fıstığı ya da kaymakla da servis edilebilir.
+editorNote: Revanide yoğurt ve limon kabuğunu bir arada kullanmayı tercih ettik; yoğurt kekin yumuşak ve nemli olmasını, limon kabuğu ise şerbetli tatlının ağırlığını dengeleyen ferahlığı sağlıyor.
 ---
 
-İrmiğin dokusunu seven için en yumuşak şerbetli tatlı.
+Revani, irmikli bir kekin şerbete batırılmasıyla yapılan, Türk mutfağının en kolay şerbetli tatlılarından biri. Adının, 17. yüzyılda Revan seferinin ardından yapılan kutlamalardan geldiği anlatılır.
+
+Bu tarifte yumurta ve şeker köpürtülüp yoğurt ve sıvı yağla birleştiriliyor; irmik, un, kabartma tozu ve limon kabuğu eklenerek tepside pişiriliyor. Sıcakken soğuk şerbet dökülüyor ve hindistan ceviziyle servis ediliyor.
+
+12 dilimlik tarif 50 dakikada hazır. Şerbeti çektikten sonra dilimlenmeli; ertesi gün daha lezzetli olur.

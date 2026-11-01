@@ -90,6 +90,38 @@ steps:
 tips:
 - Soğuk yağda başlamak tulumbanın içinin pişmesini, çatlamamasını sağlar.
 - Yağı çok ısıtırsan tulumbalar patlar.
+updated: '2026-11-01'
+notes:
+- t: Ilık yağda başlamak
+  d: 'Tulumbanın patlamaması ve içinin pişmesi için yağın ılıkken hamurun sıkılması gerekir. Yağ yavaş yavaş ısındıkça tulumba kabarır ve içi pişer. Kızgın yağa atılan tulumbanın dışı hemen kızarır, içi pişmeden buhar oluşur ve tatlı patlar.
+
+    '
+- t: Hamuru soğutmak
+  d: 'Pişen hamur yumurtalar eklenmeden önce ılımalı. Sıcak hamura yumurta eklenirse yumurta pişer ve hamur topaklanır. Yumurtaları tek tek, her biri tamamen yedirildikten sonra eklemek gerekir.
+
+    '
+- t: Şerbetleme
+  d: 'Sıcak tulumbalar soğuk şerbete atılıp yaklaşık 5 dakika bekletilir, ardından süzülür. Şerbette fazla bekleyen tulumba yumuşar ve çıtırlığını kaybeder.
+
+    '
+- t: Saklama
+  d: 'Tulumba en iyi taze yenir. Oda sıcaklığında 1-2 gün dayanır; zamanla çıtırlığını kaybeder. Buzdolabında saklamak hamurun sertleşmesine yol açar.
+
+    '
+faq:
+- q: Tulumba neden patlar?
+  a: Kızgın yağa atıldığında dışı hemen pişip içi buhar yaptığı için patlar. Ilık yağda kızartmaya başlamak ve ateşi yavaş yavaş artırmak bunu önler.
+- q: Tulumba hamuru neden sulu olur?
+  a: Genelde yumurtalar fazla eklendiği ya da hamur yeterince pişirilmediği için. Hamur tencereden ayrılıp topak olana kadar pişirilmeli, yumurtalar tek tek eklenmeli.
+- q: Tulumba şerbette ne kadar bekletilir?
+  a: Sıcak tulumbalar soğuk şerbette yaklaşık 5 dakika bekletilir. Fazla beklerse yumuşar.
+- q: Tulumba için hangi uç kullanılır?
+  a: Yıldız (tırtıklı) uçlu sıkma torbası kullanılır; tulumbaya karakteristik çizgili görünümünü bu uç verir.
+editorNote: Tulumbanın patlamaması için ılık yağda kızartmaya başlamayı tarifin merkezine koyduk; kızgın yağa atılan tulumba dışı hızla pişip içi buhar yaptığı için çatlıyor. Hamurun soğuduktan sonra yumurta eklenmesi de aynı derecede önemli.
 ---
 
-Mahalle tatlıcısının kıtır kıtır tulumbası, evde de aynı kıtırlıkta.
+Tulumba tatlısı, haşlanmış hamurun yıldız uçlu bir sıkma torbasından çıkarılıp kızartıldığı ve şerbete batırıldığı, Türk mutfağının en sevilen sokak tatlılarından biri. Çıtır dışı, yumuşak içi ve şerbetiyle bilinir.
+
+Bu tarifte su ve tereyağı kaynatılıp un, irmik ve nişasta bir kerede eklenerek hamur pişiriliyor. Soğuduktan sonra yumurtalar tek tek eklenerek pürüzsüz bir hamur elde ediliyor. Hamur ılık yağa sıkılıp yavaş yavaş kızartılıyor.
+
+8 kişilik tarif yaklaşık 50 dakikada hazır. Tulumbalar sıcakken soğuk şerbete atılıyor.

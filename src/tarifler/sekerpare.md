@@ -94,6 +94,38 @@ steps:
 tips:
 - Pişirirken aralarında boşluk bırak, kabarırlar.
 - Şerbeti çekmemiş şekerpare sert olur; sabırlı ol.
+updated: '2026-11-01'
+notes:
+- t: İrmiğin görevi
+  d: 'İrmik şekerpareye hafif kumlu, gevrek bir doku kazandırır ve şerbeti daha iyi çekmesini sağlar. Sadece unla yapılan şekerpare daha yumuşak ve kek gibi olur.
+
+    '
+- t: Hamurun kıvamı
+  d: 'Şekerpare hamuru ele yapışmayan, yumuşak bir kıvamda olmalı. Fazla un eklenirse hamur sertleşir ve şerbeti çekmez. Unu azar azar eklemek ve hamur ele yapışmadığı anda durmak gerekir.
+
+    '
+- t: Şerbetleme
+  d: 'Sıcak şekerparenin üzerine soğuk şerbet dökülür. Şerbet tatlıların yarısına kadar gelmeli; tamamen boğulmaları hamurlaşmalarına neden olabilir. En az 2 saat, tercihen bir gece bekletmek tatlının şerbeti tamamen çekmesini sağlar.
+
+    '
+- t: Saklama
+  d: 'Oda sıcaklığında, üzeri kapalı olarak 4-5 gün dayanır. Buzdolabında saklamak tatlıyı sertleştirebilir.
+
+    '
+faq:
+- q: Şekerpare neden sert olur?
+  a: Genelde hamura fazla un eklendiği ya da şerbeti yeterince çekmediği için. Unu azar azar eklemek ve şerbeti en az 2 saat çektirmek gerekir.
+- q: Şekerpare şerbeti nasıl dökülür?
+  a: Sıcak şekerparelerin üzerine soğuk şerbet dökülür. Şerbet tatlıların yarısına kadar gelmeli.
+- q: Şekerpareye irmik konur mu?
+  a: Evet, irmik şekerpareye hafif kumlu ve gevrek bir doku verir ve şerbeti daha iyi çekmesini sağlar.
+- q: Şekerpare önceden yapılır mı?
+  a: Evet, hatta bir gün önceden yapılması önerilir; şerbeti tamamen çekmiş şekerpare daha lezzetli olur.
+editorNote: Şekerparede hamura irmik ekledik; irmik tatlıya o tanıdık hafif kumlu dokuyu veriyor ve şerbeti daha iyi çekmesini sağlıyor. Şerbeti çekmesi için en az 2 saat beklemeyi ayrıca vurguladık.
 ---
 
-Bayram sabahlarının fındık gözlü tatlısı. Kurabiye gibi yapılıp baklava gibi şerbetleniyor.
+Şekerpare, irmikli tereyağlı hamurun yuvarlanıp fırında pişirildiği ve şerbete bulandığı, Türk mutfağının en bilinen şerbetli tatlılarından. Ortasındaki fındık ya da bademle tanınıyor.
+
+Bu tarifte tereyağı ve pudra şekeri krema kıvamında çırpılıyor, yumurta, irmik ve kabartma tozu ekleniyor. Un azar azar eklenerek yumuşak bir hamur elde ediliyor. Yuvarlanan hamura fındık bastırılıp yumurta sarısı sürülüyor ve fırınlanıyor.
+
+20 adetlik tarif yaklaşık 55 dakikada hazır. Şerbeti çekmesi için en az 2 saat dinlendirilmeli.

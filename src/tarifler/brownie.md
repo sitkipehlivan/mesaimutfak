@@ -83,6 +83,38 @@ steps:
 tips:
 - Fazla pişirme; kürdana birkaç nemli kırıntı yapışmalı.
 - Buzdolabında soğutursan daha temiz kesilir.
+updated: '2026-11-01'
+notes:
+- t: Neden fazla pişirilmemeli?
+  d: 'Brownie''nin yoğun ve nemli dokusu, ortasının tam pişmeden fırından alınmasından gelir. Kürdan batırıldığında kuru çıkıyorsa brownie fazla pişmiştir. Doğru zamanda kürdana birkaç nemli kırıntı yapışmalı. Brownie fırından çıktıktan sonra da kendi sıcaklığıyla pişmeye devam eder.
+
+    '
+- t: Yumurta ve şekeri çırpmak
+  d: 'Yumurta ve şekeri 3 dakika çırpmak, brownie''nin üzerinde oluşan ince ve parlak kabuğu sağlar. Bu kabuk, şekerin yumurtayla iyi karışmasından oluşur.
+
+    '
+- t: Çikolata seçimi
+  d: 'En az yüzde 50-60 kakao içeren bitter çikolata en iyi sonucu verir. Sütlü çikolata brownie''yi fazla tatlı ve yumuşak yapar. Kakao ekleyerek çikolata tadını derinleştirmek de mümkün.
+
+    '
+- t: Saklama
+  d: 'Oda sıcaklığında, kapalı kapta 3 gün; buzdolabında 1 hafta dayanır. Kare kesilmiş brownie dondurulabilir; tek tek sarılarak 2 aya kadar saklanabilir.
+
+    '
+faq:
+- q: Brownie neden kuru olur?
+  a: Genelde fazla pişirildiği için. Brownie ortası hafif titrek, kürdana nemli kırıntılar yapışırken fırından alınmalı.
+- q: Brownie'nin üstündeki parlak kabuk nasıl olur?
+  a: Yumurta ve şekeri birkaç dakika iyice çırpmak, şekerin tamamen erimesini ve pişerken üzerinde parlak, ince bir kabuk oluşmasını sağlar.
+- q: Brownie hangi çikolatayla yapılır?
+  a: En az yüzde 50-60 kakao içeren bitter çikolata önerilir. Sütlü çikolata daha tatlı ve yumuşak bir sonuç verir.
+- q: Brownie ne zaman kesilir?
+  a: Tamamen soğuduktan sonra. Buzdolabında 1 saat bekletmek çok daha temiz kesilmesini sağlar.
+editorNote: Brownie tarifinde "ortası hafif titrek olmalı" ifadesini bilerek kullandık; brownie'yi kek gibi kuru yapan en sık hata fazla pişirmek. Tamamen soğumadan kesmemeyi de aynı sebeple ayrı adım olarak yazdık.
 ---
 
-İyi bitter çikolata, az un ve doğru pişirme süresi: brownie’nin üç kuralı.
+Brownie, bitter çikolata ve tereyağıyla yapılan, dışı ince bir kabukla kaplı, içi yoğun ve nemli Amerikan usulü bir çikolatalı tatlı. 19. yüzyılın sonlarında Amerika'da ortaya çıktığı kabul edilir ve bugün dünyanın her yerinde pastanelerin klasiği.
+
+Bu tarifte bitter çikolata ve tereyağı benmari usulü eritiliyor, yumurta ve şekerle çırpılıyor. Un, kakao ve tuz eleyerek ekleniyor ve ceviz katılıyor. Kare kalıpta pişirilip tamamen soğuduktan sonra kesiliyor.
+
+12 kare için tarif 40 dakikada hazır. Buzdolabında soğutulursa çok daha temiz kesilir.

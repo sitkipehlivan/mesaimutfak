@@ -73,6 +73,41 @@ steps:
 tips:
 - Peynir tuzluysa bir gece suda beklet.
 - Ocakta zor gelirse 200°C fırında da pişirilebilir.
+updated: '2026-11-01'
+notes:
+- t: Peynir seçimi
+  d: 'Künefe için tuzsuz künefe peyniri ya da Hatay peyniri kullanılır; bu peynirler ısıtıldığında uzar ve eriyip yağ salmaz. Tuzlu peynir kullanılacaksa bir gece suda bekletip tuzunu almak gerekir.
+
+
+    Taze kaşar ya da mozzarella da alternatif olarak kullanılabilir, ancak tat ve doku farklı olur.
+
+    '
+- t: Kadayıfı tereyağıyla ovmak
+  d: 'Tel kadayıfın tereyağıyla iyice ovulması, her telin yağla kaplanmasını ve pişerken eşit kızarmasını sağlar. Yeterince yağlanmamış kadayıf beyaz ve kuru kalır.
+
+    '
+- t: Sıcak tatlı, ılık şerbet
+  d: 'Künefede şerbet ılık olmalı ve sıcak tatlının üzerine dökülmeli. Soğuk şerbet peynirin hemen sertleşmesine neden olur; çok sıcak şerbet ise kadayıfın çıtırlığını yok eder.
+
+    '
+- t: Fırında pişirmek
+  d: 'Ocakta ters çevirmek zor gelirse künefe 200°C fırında da pişirilebilir. Tava fırına uygun olmalı; alt kısım kızardığında üst kısmın da kızarması için son birkaç dakika üst ızgarayı açabilirsin.
+
+    '
+faq:
+- q: Künefeye hangi peynir konur?
+  a: Tuzsuz künefe peyniri ya da Hatay peyniri. Bu peynirler ısıtıldığında uzar ve yağ salmaz. Bulunamazsa taze kaşar ya da mozzarella kullanılabilir.
+- q: Künefe şerbeti sıcak mı soğuk mu dökülür?
+  a: Ilık şerbet sıcak künefenin üzerine dökülür. Böylece kadayıf çıtırlığını korur, peynir de sertleşmez.
+- q: Künefe fırında yapılır mı?
+  a: Evet. Fırına uygun bir tavada 200°C'de alt ve üstü kızarana kadar pişirilebilir; ters çevirmeye gerek kalmaz.
+- q: Künefe önceden hazırlanır mı?
+  a: Kadayıf ve peynir tavaya dizilip buzdolabında birkaç saat bekletilebilir. Ancak pişirme ve şerbetleme servis anında yapılmalı; künefe sıcak yenir.
+editorNote: Künefeyi iki kişilik, küçük tava ölçüsünde yazdık; künefenin en iyi hali sıcakken ve hemen yenen hali olduğu için büyük tepsi yerine porsiyonluk yapmak daha iyi sonuç veriyor. Tuzlu peynir uyarısını da bu yüzden en başa koyduk.
 ---
 
-Hatay’ın sıcak yenmesi gereken, peyniri uzayan tatlısı.
+Künefe, tel kadayıf ve tuzsuz peynirin tereyağıyla kızartılıp şerbetle buluştuğu, Hatay mutfağının en ünlü tatlısı. Sıcakken kesildiğinde uzayan peynir ve çıtır kadayıf, künefeyi diğer şerbetli tatlılardan ayırıyor.
+
+Bu tarifte tel kadayıf ince doğranıp eritilmiş tereyağıyla ovuluyor, tavaya iki kat halinde peynirle birlikte bastırılıyor. Kısık ateşte iki yüzü de kızartılıp sıcakken ılık şerbet gezdiriliyor ve Antep fıstığı serpiliyor.
+
+2 kişilik tarif 35 dakikada hazır. Künefe sıcak yenir; beklediğinde peynir sertleşir.

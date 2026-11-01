@@ -79,6 +79,41 @@ steps:
 tips:
 - Karamelize ederken kokusu yanık şekere dönüyorsa ocağı kapat; acılaşmasın.
 - Yanına dondurma çok yakışır.
+updated: '2026-11-01'
+notes:
+- t: Karamelize etme
+  d: 'Kabın tabanı ocakta kısık-orta ateşte, kabı sürekli döndürerek ısıtılmalı ki şeker eşit karamelize olsun. Kenarlarda kahverengileşme görüldüğünde ve hafif karamel kokusu geldiğinde işlem tamamdır.
+
+
+    Koku keskin ve yanık şekere döndüğünde hemen ocağı kapat; daha fazlası tatlıyı acılaştırır.
+
+    '
+- t: Kap seçimi
+  d: 'Doğrudan ocağa konabilen metal ya da teflon fırın kabı kullanılmalı. Cam ya da seramik kap ocakta çatlayabilir. Kabın tabanı düz olmalı ki karamelizasyon eşit olsun.
+
+    '
+- t: Rulo yapma
+  d: 'Kazandibi tamamen soğuyup en az 4 saat buzdolabında beklemeli. Kare kesilen dilimler, spatula ile tabandan kaldırılıp karamelli yüz dışta kalacak şekilde rulo yapılır. Yeterince soğumamış kazandibi rulo yaparken dağılır.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında, üzeri streç filmle kapalı olarak 3 gün taze kalır. Dondurmayı önermiyoruz; muhallebi çözülürken su salar.
+
+    '
+faq:
+- q: Kazandibi nasıl karamelize edilir?
+  a: Muhallebi dökülmüş metal kabı ocağın üzerine koyup kısık-orta ateşte, kabı döndürerek 10-15 dakika ısıtmak tabanın karamelize olmasını sağlar.
+- q: Kazandibi neden acı olur?
+  a: Taban fazla yakıldığında şeker acılaşır. Kenarlar kahverengileştiğinde ve karamel kokusu geldiğinde ocağı kapatmak gerekir.
+- q: Kazandibi fırında yapılır mı?
+  a: Geleneksel yöntem ocak üstüdür. Fırının üst ızgarasında üstü kızartılan muhallebi daha çok fırında sütlaca benzer; kazandibinin karakteristik karamelize tabanı ocakta oluşur.
+- q: Kazandibi kaç gün dayanır?
+  a: Buzdolabında, üzeri kapalı olarak 3 gün taze kalır.
+editorNote: Kazandibinin en hassas anı, tabanın karamelize edildiği ocak üstü aşaması. Tarifte şekerin acılaşmaya başladığını kokusundan anlamayı özellikle yazdık; rengin koyulaştığı an çok hızlı geçiyor.
 ---
 
-Muhallebicilerin vitrin yıldızı. Tabanını yakmak işin sanatı.
+Kazandibi, Osmanlı saray mutfağından günümüze gelen, adını tencerenin dibinde karamelize olan muhallebiden alan bir sütlü tatlı. Üstü beyaz ve pürüzsüz, altı karamelize ve hafif yanık tadında; rulo yapılarak servis ediliyor.
+
+Bu tarifte süt, şeker, pirinç unu ve nişastayla klasik bir muhallebi pişiriliyor. Tereyağı ve pudra şekeriyle hazırlanan fırın kabına dökülüp ocağın üzerinde kabı döndürerek tabanı karamelize ediliyor.
+
+8 kişilik tarif yaklaşık 45 dakikada hazır, ama en az 4 saat buzdolabında beklemesi gerekiyor.
