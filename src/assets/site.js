@@ -298,10 +298,21 @@
 window.mmSes = (function () {
   var SR = window.SpeechRecognition || window.webkitSpeechRecognition;
   var ua = navigator.userAgent || '';
-  var iosBaska = /iPhone|iPad|iPod/.test(ua) && /CriOS|FxiOS|EdgiOS|OPiOS|YaBrowser|GSA|Instagram|FBAN|FBAV/.test(ua); // iPhone'da Safari dışı: ses tanıma güvenilmez
+  var saat = document.documentElement.classList.contains('is-watch');
+  var iosBaska = /iPhone|iPad|iPod/.test(ua) && /CriOS|FxiOS|EdgiOS|OPiOS|YaBrowser|GSA|Instagram|FBAN|FBAV/.test(ua); // iPhone'da Safari dışı: tarayıcı ses tanıması güvenilmez
   var yok = false; try { yok = sessionStorage.getItem('mm-ses-yok') === '1'; } catch (e) {} // bu oturumda mikrofon bir kez açılamadıysa tekrar deneme
-  var destek = !!SR && !iosBaska && !yok && !document.documentElement.classList.contains('is-watch');
+  var kayitOlur = !saat && !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia && window.MediaRecorder);
+  var M = { kayit: false, srOlur: !!SR && !iosBaska && !saat };
+  M.destek = !yok && M.srOlur;
   function kapali() { try { sessionStorage.setItem('mm-ses-yok', '1'); } catch (e) {} }
+  // Sunucuda yazıya çevirme açık mı? (OPENAI_API_KEY) Açıksa tüm cihazlarda kendi kaydımızı kullanırız.
+  M.hazir = new Promise(function (ok) {
+    if (!kayitOlur) return ok(M);
+    var c = null; try { c = sessionStorage.getItem('mm-stt'); } catch (e) {}
+    function ayarla(v) { M.kayit = v; if (v) M.destek = !yok; ok(M); }
+    if (c === '1' || c === '0') return ayarla(c === '1');
+    fetch('/api/ses', { cache: 'no-store' }).then(function (r) { return r.json(); }).then(function (j) { try { sessionStorage.setItem('mm-stt', j.hazir ? '1' : '0'); } catch (e) {} ayarla(!!j.hazir); }).catch(function () { ayarla(false); });
+  });
   function birlestir(results) { // Safari bazen aynı cümleyi birikimli tekrarlar: tekrarları ayıkla
     var out = '';
     for (var i = 0; i < results.length; i++) {
@@ -311,9 +322,56 @@ window.mmSes = (function () {
     }
     return out.trim();
   }
-  function logla(kod) { try { var d = JSON.stringify({ k: kod, ios: /iPhone|iPad/.test(ua), and: /Android/.test(ua), saf: /Safari/.test(ua) && !/Chrome|CriOS/.test(ua), sam: /SamsungBrowser/.test(ua) }); navigator.sendBeacon && navigator.sendBeacon('/api/ses-log', new Blob([d], { type: 'application/json' })); } catch (e) {} }
-  // Tek dinleme: cb.start(), cb.ara(metin), cb.bitti(metin), cb.hata(kod)
-  function dinle(cb) {
+  function logla(kod) { try { var d = JSON.stringify({ k: kod, ios: /iPhone|iPad/.test(ua), and: /Android/.test(ua), saf: /Safari/.test(ua) && !/Chrome|CriOS/.test(ua), sam: /SamsungBrowser/.test(ua), kayit: M.kayit }); navigator.sendBeacon && navigator.sendBeacon('/api/ses-log', new Blob([d], { type: 'application/json' })); } catch (e) {} }
+
+  // 1) Kendi kaydımız: mikrofonu kaydet, sessizlikte dur, sunucuda yazıya çevir. Her modern tarayıcıda çalışır.
+  function kaydet(cb) {
+    var AC = window.AudioContext || window.webkitAudioContext, ac = null, bitti = false, rec = null, akis = null, zaman = [];
+    try { ac = AC ? new AC() : null; if (ac && ac.resume) ac.resume(); } catch (e) { ac = null; } // tıklama anında açılmalı (iPhone)
+    function temizle() { zaman.forEach(function (t) { clearInterval(t); clearTimeout(t); }); if (akis) akis.getTracks().forEach(function (t) { t.stop(); }); if (ac && ac.close) ac.close().catch(function () {}); }
+    function hata(kod) { if (bitti) return; bitti = true; temizle(); if (kod === 'not-allowed' || kod === 'audio-capture') kapali(); logla(kod); cb.hata(kod, ''); }
+    navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: true, noiseSuppression: true, autoGainControl: true } }).then(function (s) {
+      if (bitti) { s.getTracks().forEach(function (t) { t.stop(); }); return; }
+      akis = s;
+      var tur = ['audio/webm;codecs=opus', 'audio/webm', 'audio/mp4', 'audio/ogg;codecs=opus'].filter(function (t) { return MediaRecorder.isTypeSupported && MediaRecorder.isTypeSupported(t); })[0];
+      try { rec = new MediaRecorder(s, tur ? { mimeType: tur } : undefined); } catch (e) { return hata('recorder'); }
+      var parca = [], konustu = false, basla = Date.now();
+      rec.ondataavailable = function (e) { if (e.data && e.data.size) parca.push(e.data); };
+      rec.onstop = function () {
+        if (bitti) return; bitti = true; temizle();
+        var tip = ((rec.mimeType || tur || 'audio/mp4').split(';')[0]) || 'audio/mp4';
+        var blob = new Blob(parca, { type: tip });
+        if (!blob.size || (!konustu && Date.now() - basla < 1500)) return cb.bitti('');
+        cb.cozuluyor && cb.cozuluyor();
+        fetch('/api/ses', { method: 'POST', headers: { 'content-type': tip }, body: blob })
+          .then(function (r) { return r.json().then(function (j) { j._st = r.status; return j; }); })
+          .then(function (j) { if (j.error) { logla('sunucu-' + j.error); cb.hata(j.error === 'limit' ? 'limit' : 'sunucu', ''); } else cb.bitti(j.metin || ''); })
+          .catch(function () { logla('sunucu-ag'); cb.hata('network', ''); });
+      };
+      rec.onerror = function () { hata('recorder'); };
+      rec.start(250);
+      cb.start && cb.start();
+      // sessizlik algılama: konuşma başladıktan sonra 1,6 sn sessizlikte dur; 7 sn hiç konuşma yoksa dur; en fazla 15 sn
+      if (ac) {
+        try {
+          var src = ac.createMediaStreamSource(s), an = ac.createAnalyser(); an.fftSize = 1024; src.connect(an);
+          var buf = new Float32Array(an.fftSize), taban = 0, n = 0, sonSes = Date.now();
+          zaman.push(setInterval(function () {
+            if (!an.getFloatTimeDomainData) return; an.getFloatTimeDomainData(buf);
+            var t = 0; for (var i = 0; i < buf.length; i++) t += buf[i] * buf[i]; var rms = Math.sqrt(t / buf.length);
+            if (n < 4) { taban = (taban * n + rms) / (n + 1); n++; return; }
+            if (rms > Math.max(0.012, taban * 2.5)) { konustu = true; sonSes = Date.now(); }
+            if ((konustu && Date.now() - sonSes > 1600) || (!konustu && Date.now() - basla > 7000)) { if (rec.state === 'recording') rec.stop(); }
+          }, 100));
+        } catch (e) { konustu = true; }
+      } else konustu = true;
+      zaman.push(setTimeout(function () { if (rec && rec.state === 'recording') rec.stop(); }, 15000));
+    }).catch(function (e) { hata(e && (e.name === 'NotAllowedError' || e.name === 'SecurityError') ? 'not-allowed' : 'audio-capture'); });
+    return { durdur: function () { if (rec && rec.state === 'recording') rec.stop(); else if (!rec) hata('aborted'); } };
+  }
+
+  // 2) Tarayıcının kendi ses tanıması (sunucu kapalıyken)
+  function tarayici(cb) {
     var rec = new SR(), metin = '', son = 0, bitti = false, sessiz = null, ust = null;
     rec.lang = 'tr-TR'; rec.interimResults = true; rec.continuous = false; rec.maxAlternatives = 1;
     function kapat() { if (bitti) return; bitti = true; clearInterval(sessiz); clearTimeout(ust); try { rec.stop(); } catch (e) {} cb.bitti(metin); }
@@ -321,13 +379,16 @@ window.mmSes = (function () {
     rec.onresult = function (e) { metin = birlestir(e.results); son = Date.now(); cb.ara && cb.ara(metin); };
     rec.onerror = function (e) { if (bitti) return; if (e.error === 'no-speech' || e.error === 'aborted') return; bitti = true; if (e.error !== 'network') kapali(); clearInterval(sessiz); clearTimeout(ust); logla(e.error); cb.hata(e.error, metin); };
     rec.onend = function () { kapat(); };
-    // Safari bazen konuşma bitince kendiliğinden durmuyor: 1,8 sn sessizlikte biz durduruyoruz; en fazla 15 sn dinle
     sessiz = setInterval(function () { if (metin && Date.now() - son > 1800) kapat(); }, 300);
     ust = setTimeout(kapat, 15000);
     try { rec.start(); } catch (err) { kapali(); bitti = true; clearInterval(sessiz); clearTimeout(ust); logla('start'); cb.hata('start', ''); }
     return { durdur: kapat };
   }
-  return { destek: destek, dinle: dinle, logla: logla };
+
+  // cb: start(), ara(metin) [yalnızca tarayıcı modu], cozuluyor() [yalnızca kayıt modu], bitti(metin), hata(kod, metin)
+  M.dinle = function (cb) { return M.kayit ? kaydet(cb) : tarayici(cb); };
+  M.logla = logla;
+  return M;
 })();
 
 (function () {
@@ -350,8 +411,9 @@ window.mmSes = (function () {
       var inp = b.getAttribute('data-voice-input') ? document.getElementById(b.getAttribute('data-voice-input')) : null;
       show('<b>Mikrofon açılıyor…</b> İzin sorulursa "İzin ver"e bas.');
       aktif = S.dinle({
-        start: function () { b.classList.add('on'); show('<b>Dinliyorum…</b> Örneğin: "Evde tavuk ve patates var, yarım saatim var"'); },
+        start: function () { b.classList.add('on'); show('<b>Dinliyorum…</b> Örneğin: "Evde tavuk ve patates var, yarım saatim var"' + (S.kayit ? ' <small>Bitince sus ya da tekrar dokun.</small>' : '')); },
         ara: function (t) { if (inp) inp.value = t; show('<b>Dinliyorum…</b> ' + t.replace(/[<>&]/g, '')); },
+        cozuluyor: function () { b.classList.remove('on'); show('<b>Anlıyorum…</b>'); },
         bitti: function (t) {
           aktif = null; b.classList.remove('on');
           if (t) { show('Tariflere bakılıyor…'); if (window.mmTrack) mmTrack('sesli_arama', { yer: b.className }); location.href = href + '?q=' + encodeURIComponent(t); }
@@ -360,6 +422,7 @@ window.mmSes = (function () {
         hata: function (kod, t) {
           aktif = null; b.classList.remove('on');
           if (t) { location.href = href + '?q=' + encodeURIComponent(t); return; }
+          if (kod === 'limit') { show('Bugünlük sesli soru hakkın doldu; yazarak sorabilirsin.'); hide(3500); return; }
           location.href = href + '?ses=1'; // mikrofon açılamadı: asistan sayfasında klavyeyle dikte
         }
       });

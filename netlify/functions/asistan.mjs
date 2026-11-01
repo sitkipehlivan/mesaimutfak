@@ -26,7 +26,7 @@ async function getKatalog() {
   const satirlar = list.map(r => {
     const slug = r.u.replace(/^\/tarif\//, '').replace(/\/$/, '');
     bySlug[slug] = r;
-    return `${slug} | ${r.t} | ${(r.c || '')} | ${r.m} dk | ${r.l} | ${(Array.isArray(r.g) ? r.g.join(', ') : String(r.g || '')).slice(0, 160)}`;
+    return `${slug} | ${r.t} | ${(r.c || '')} | ${r.m} dk | ${r.l} | ${(Array.isArray(r.g) ? r.g.join(', ') : String(r.g || '')).slice(0, 110)}`;
   });
   const basliklar = list.map(r => ({ slug: r.u.replace(/^\/tarif\//, '').replace(/\/$/, ''), n: norm(r.t) })).filter(x => x.n.length >= 4).sort((a, b) => b.n.length - a.n.length);
   katalog = { bySlug, metin: satirlar.join('\n'), basliklar };
@@ -138,7 +138,7 @@ export default async (req, context) => {
   try { kat = await getKatalog(); } catch (e) { return json({ error: 'katalog', cevap: 'Tarif listesine şu an ulaşamadım, birazdan tekrar dener misin?' }, 502); }
 
   let res, out;
-  const istek = (ek) => fetch('https://api.anthropic.com/v1/messages', {
+  const istek = (ek, cc = { type: 'ephemeral', ttl: '1h' }) => fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: { 'content-type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
     body: JSON.stringify({
@@ -146,7 +146,7 @@ export default async (req, context) => {
       max_tokens: 1500,
       system: [
         { type: 'text', text: TALIMAT },
-        { type: 'text', text: 'TARİF LİSTESİ (slug | başlık | kategoriler | toplam süre | zorluk | malzemeler):\n' + kat.metin, cache_control: { type: 'ephemeral' } }
+        { type: 'text', text: 'TARİF LİSTESİ (slug | başlık | kategoriler | toplam süre | zorluk | malzemeler):\n' + kat.metin, cache_control: cc }
       ],
       tools: [ARAC],
       tool_choice: { type: 'tool', name: 'oner' },
@@ -156,9 +156,12 @@ export default async (req, context) => {
   }).then(async r => ({ r, j: await r.json().catch(() => ({})) }));
   try {
     // Hızlı ve kısa cevap için "düşünme" kapalı; model bu ayarı desteklemiyorsa ayarsız tekrar dene
+    const t0 = Date.now();
     let x = await istek({ thinking: { type: 'disabled' } });
-    if (!x.r.ok && x.r.status === 400) { console.log('asistan 400', JSON.stringify(x.j).slice(0, 300)); x = await istek({ max_tokens: 4000, tool_choice: { type: 'auto' } }); }
+    if (!x.r.ok && x.r.status === 400) { console.log('asistan 400', JSON.stringify(x.j).slice(0, 300)); x = await istek({ max_tokens: 4000, tool_choice: { type: 'auto' } }, { type: 'ephemeral' }); }
     res = x.r; out = x.j;
+    const u = (out && out.usage) || {};
+    console.log('asistan sure', Date.now() - t0, 'ms', 'onbellek_okuma', u.cache_read_input_tokens || 0, 'onbellek_yazma', u.cache_creation_input_tokens || 0, 'girdi', u.input_tokens || 0, 'cikti', u.output_tokens || 0);
   } catch (e) {
     return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502);
   }

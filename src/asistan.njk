@@ -32,7 +32,7 @@ noindex: true
       <span id="asStatus" class="mono"></span>
     </div>
   </div>
-  <p class="asis-note">Konuşman tarayıcının kendi ses tanıma özelliğiyle yazıya çevrilir; ses kaydı bize ulaşmaz. Yazdıkların, tarif önerisi için yapay zekâ (Anthropic Claude) ile işlenir ve saklanmaz. Öneriler yalnızca Mesai Mutfak tarifleri arasından yapılır. <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
+  <p class="asis-note">Konuşman yalnızca yazıya çevrilmek için kısa bir ses kaydı olarak işlenir ve saklanmaz. Yazdıkların, tarif önerisi için yapay zekâ (Anthropic Claude) ile işlenir ve saklanmaz. Öneriler yalnızca Mesai Mutfak tarifleri arasından yapılır. <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
 </div>
 
 <script>
@@ -84,9 +84,12 @@ noindex: true
   ex.addEventListener('click', function (e) { var b = e.target.closest('.chip-q'); if (b) ask(b.textContent); });
 
   // Ses: tarayıcının konuşma tanıma özelliği (site.js → mmSes, sayfa sonunda yüklenir). Çalışmazsa klavyenin mikrofon tuşu.
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', sesKur); else sesKur();
+  function hazirla() { if (window.mmSes) window.mmSes.hazir.then(sesKur); else sesKur(); }
+  mic.hidden = true; // hazır olunca gösterilir
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', hazirla); else hazirla();
   function sesKur() {
   var S = window.mmSes, aktif = null;
+  mic.hidden = false;
   var ipucu = 'Klavyedeki mikrofon tuşuna basarak da konuşabilirsin.';
   function klavye(mesaj) { st.textContent = mesaj || ipucu; input.focus(); }
   try { if (new URLSearchParams(location.search).get('ses') === '1') { history.replaceState(null, '', location.pathname); if (!S || !S.destek) klavye('Yaz ya da klavyedeki mikrofon tuşuna basıp konuş.'); else st.textContent = 'Mikrofona basıp konuşabilirsin.'; } } catch (e) {}
@@ -97,8 +100,9 @@ noindex: true
     if (window.speechSynthesis) speechSynthesis.cancel();
     st.textContent = 'Mikrofon açılıyor… İzin sorulursa "İzin ver"e bas.';
     aktif = S.dinle({
-      start: function () { mic.classList.add('on'); mic.setAttribute('aria-label', 'Dinlemeyi durdur'); st.textContent = 'Dinliyorum…'; },
+      start: function () { mic.classList.add('on'); mic.setAttribute('aria-label', 'Dinlemeyi durdur'); st.textContent = S.kayit ? 'Dinliyorum… Bitince sus ya da mikrofona tekrar dokun.' : 'Dinliyorum…'; },
       ara: function (t) { input.value = t; },
+      cozuluyor: function () { mic.classList.remove('on'); st.textContent = 'Anlıyorum…'; },
       bitti: function (t) {
         aktif = null; mic.classList.remove('on'); mic.setAttribute('aria-label', 'Konuşmaya başla');
         if (t) { st.textContent = ''; ask(t); } else st.textContent = 'Seni duyamadım, tekrar basıp konuşabilirsin.';
@@ -106,6 +110,8 @@ noindex: true
       hata: function (kod, t) {
         aktif = null; mic.classList.remove('on'); mic.setAttribute('aria-label', 'Konuşmaya başla');
         if (t) { ask(t); return; }
+        if (kod === 'limit') { st.textContent = 'Bugünlük sesli soru hakkın doldu; yazarak sorabilirsin.'; input.focus(); return; }
+        if (kod === 'sunucu') { st.textContent = 'Sesini şu an yazıya çeviremedim, tekrar dener misin? ' + ipucu; return; }
         if (kod !== 'network') mikGizle();
         if (kod === 'not-allowed') klavye('Mikrofon izni verilmedi. ' + ipucu);
         else if (kod === 'service-not-allowed') klavye('Bu cihazda tarayıcı mikrofonu kapalı (iPhone\'da Ayarlar > Genel > Klavye > Dikte açık olmalı). ' + ipucu);
