@@ -15,9 +15,19 @@ const day = () => new Date(Date.now() + 3 * 3600e3).toISOString().slice(0, 10);
 const UZANTI = { 'audio/webm': 'webm', 'audio/mp4': 'mp4', 'audio/x-m4a': 'm4a', 'audio/m4a': 'm4a', 'audio/aac': 'm4a', 'audio/ogg': 'ogg', 'audio/wav': 'wav', 'audio/x-wav': 'wav', 'audio/mpeg': 'mp3' };
 const IPUCU = 'Yemek tarifi isteği. Örnek kelimeler: mercimek, kıyma, nohut, bulgur, airfryer, fırın, pilav, çorba, tatlı, vegan, glutensiz, dakika, kişilik, misafir.';
 
+// Anahtar gerçekten çalışıyor mu? (yanlış/eksik anahtarla site eski yönteme döner) 10 dk önbellek
+let dogrulama = { zaman: 0, ok: false };
+async function anahtarCalisiyor(key) {
+  if (Date.now() - dogrulama.zaman < 10 * 60e3) return dogrulama.ok;
+  let ok = false;
+  try { const r = await fetch('https://api.openai.com/v1/models/' + MODEL, { headers: { authorization: 'Bearer ' + key } }); ok = r.ok; if (!ok) console.log('ses anahtar', r.status, (await r.text()).slice(0, 200)); } catch (e) { ok = false; }
+  dogrulama = { zaman: Date.now(), ok };
+  return ok;
+}
+
 export default async (req, context) => {
   const key = process.env.OPENAI_API_KEY;
-  if (req.method === 'GET') return json({ hazir: !!key });
+  if (req.method === 'GET') return json({ hazir: !!key && await anahtarCalisiyor(key) });
   if (req.method !== 'POST') return new Response('', { status: 405 });
   if (!key) return json({ error: 'kurulmadi' }, 503);
 
@@ -48,7 +58,7 @@ export default async (req, context) => {
   try {
     const r = await fetch('https://api.openai.com/v1/audio/transcriptions', { method: 'POST', headers: { authorization: 'Bearer ' + key }, body: fd });
     const j = await r.json().catch(() => ({}));
-    if (!r.ok) { console.log('ses hata', r.status, JSON.stringify(j).slice(0, 300)); return json({ error: 'servis', kod: String((j.error && (j.error.code || j.error.type)) || r.status).slice(0, 40) }, 502); }
+    if (!r.ok) { if (r.status === 401 || r.status === 403) dogrulama = { zaman: Date.now(), ok: false }; console.log('ses hata', r.status, JSON.stringify(j).slice(0, 300)); return json({ error: 'servis', kod: String((j.error && (j.error.code || j.error.type)) || r.status).slice(0, 40) }, 502); }
     const metin = String(j.text || '').replace(/\s+/g, ' ').trim().slice(0, 600);
     console.log('ses ok', Date.now() - t0, 'ms', tur, ses.byteLength, 'B');
     return json({ metin });

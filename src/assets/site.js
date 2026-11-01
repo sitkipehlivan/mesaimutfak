@@ -310,7 +310,7 @@ window.mmSes = (function () {
     if (!kayitOlur) return ok(M);
     var c = null; try { c = sessionStorage.getItem('mm-stt'); } catch (e) {}
     function ayarla(v) { M.kayit = v; if (v) M.destek = !yok; ok(M); }
-    if (c === '1' || c === '0') return ayarla(c === '1');
+    if (c === '0') return ayarla(false);
     fetch('/api/ses', { cache: 'no-store' }).then(function (r) { return r.json(); }).then(function (j) { try { sessionStorage.setItem('mm-stt', j.hazir ? '1' : '0'); } catch (e) {} ayarla(!!j.hazir); }).catch(function () { ayarla(false); });
   });
   function birlestir(results) { // Safari bazen aynı cümleyi birikimli tekrarlar: tekrarları ayıkla
@@ -345,7 +345,7 @@ window.mmSes = (function () {
         cb.cozuluyor && cb.cozuluyor();
         fetch('/api/ses', { method: 'POST', headers: { 'content-type': tip }, body: blob })
           .then(function (r) { return r.json().then(function (j) { j._st = r.status; return j; }); })
-          .then(function (j) { if (j.error) { logla('sunucu-' + j.error); cb.hata(j.error === 'limit' ? 'limit' : 'sunucu', ''); } else cb.bitti(j.metin || ''); })
+          .then(function (j) { if (j.error) { logla('sunucu-' + j.error + (j.kod ? '-' + j.kod : '')); if (j.error !== 'limit') { try { sessionStorage.setItem('mm-stt', '0'); } catch (e) {} M.kayit = false; M.destek = !yok && M.srOlur; } cb.hata(j.error === 'limit' ? 'limit' : 'sunucu', ''); } else cb.bitti(j.metin || ''); })
           .catch(function () { logla('sunucu-ag'); cb.hata('network', ''); });
       };
       rec.onerror = function () { hata('recorder'); };
