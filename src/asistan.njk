@@ -83,22 +83,37 @@ noindex: true
   try { var gelen = new URLSearchParams(location.search).get('q'); if (gelen) { history.replaceState(null, '', location.pathname); ask(gelen.slice(0, 600)); } } catch (e) {}
   ex.addEventListener('click', function (e) { var b = e.target.closest('.chip-q'); if (b) ask(b.textContent); });
 
-  // Ses: tarayıcının konuşma tanıma özelliği (Chrome, Edge, Safari)
-  var SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-  if (!SR) { mic.hidden = true; input.placeholder = 'Yaz: evde ne var, ne kadar vaktin var?'; return; }
-  var rec = null, on = false, finalText = '';
+  // Ses: tarayıcının konuşma tanıma özelliği (site.js → mmSes, sayfa sonunda yüklenir). Çalışmazsa klavyenin mikrofon tuşu.
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', sesKur); else sesKur();
+  function sesKur() {
+  var S = window.mmSes, aktif = null;
+  var ipucu = 'Klavyedeki mikrofon tuşuna basarak da konuşabilirsin.';
+  function klavye(mesaj) { st.textContent = mesaj || ipucu; input.focus(); }
+  try { if (new URLSearchParams(location.search).get('ses') === '1') { history.replaceState(null, '', location.pathname); if (!S || !S.destek) klavye('Yaz ya da klavyedeki mikrofon tuşuna basıp konuş.'); else st.textContent = 'Mikrofona basıp konuşabilirsin.'; } } catch (e) {}
+  if (!S || !S.destek) { mic.hidden = true; input.placeholder = 'Yaz ya da klavyeden mikrofonla söyle'; return; }
+  function mikGizle() { mic.hidden = true; input.placeholder = 'Yaz ya da klavyeden mikrofonla söyle'; }
   mic.addEventListener('click', function () {
-    if (on) { rec && rec.stop(); return; }
+    if (aktif) { aktif.durdur(); return; }
     if (window.speechSynthesis) speechSynthesis.cancel();
-    rec = new SR(); rec.lang = 'tr-TR'; rec.interimResults = true; rec.continuous = false; finalText = '';
-    rec.onstart = function () { on = true; mic.classList.add('on'); mic.setAttribute('aria-label', 'Dinlemeyi durdur'); st.textContent = 'Dinliyorum…'; };
-    rec.onresult = function (e) {
-      var t = ''; for (var i = 0; i < e.results.length; i++) { t += e.results[i][0].transcript; if (e.results[i].isFinal) finalText = t; }
-      input.value = t;
-    };
-    rec.onerror = function (e) { st.textContent = e.error === 'not-allowed' ? 'Mikrofon izni verilmedi; yazarak da sorabilirsin.' : 'Duyamadım, tekrar dener misin?'; };
-    rec.onend = function () { on = false; mic.classList.remove('on'); mic.setAttribute('aria-label', 'Konuşmaya başla'); if (st.textContent === 'Dinliyorum…') st.textContent = ''; var t = (finalText || input.value).trim(); if (t) ask(t); };
-    try { rec.start(); } catch (e) { st.textContent = 'Mikrofon başlatılamadı.'; }
+    st.textContent = 'Mikrofon açılıyor… İzin sorulursa "İzin ver"e bas.';
+    aktif = S.dinle({
+      start: function () { mic.classList.add('on'); mic.setAttribute('aria-label', 'Dinlemeyi durdur'); st.textContent = 'Dinliyorum…'; },
+      ara: function (t) { input.value = t; },
+      bitti: function (t) {
+        aktif = null; mic.classList.remove('on'); mic.setAttribute('aria-label', 'Konuşmaya başla');
+        if (t) { st.textContent = ''; ask(t); } else st.textContent = 'Seni duyamadım, tekrar basıp konuşabilirsin.';
+      },
+      hata: function (kod, t) {
+        aktif = null; mic.classList.remove('on'); mic.setAttribute('aria-label', 'Konuşmaya başla');
+        if (t) { ask(t); return; }
+        if (kod !== 'network') mikGizle();
+        if (kod === 'not-allowed') klavye('Mikrofon izni verilmedi. ' + ipucu);
+        else if (kod === 'service-not-allowed') klavye('Bu cihazda tarayıcı mikrofonu kapalı (iPhone\'da Ayarlar > Genel > Klavye > Dikte açık olmalı). ' + ipucu);
+        else if (kod === 'network') klavye('Ses tanıma için internet bağlantısı gerekiyor. ' + ipucu);
+        else klavye('Mikrofon açılamadı. ' + ipucu);
+      }
+    });
   });
+  }
 })();
 </script>
