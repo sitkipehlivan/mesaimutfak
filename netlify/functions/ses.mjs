@@ -48,7 +48,7 @@ export default async (req, context) => {
   try {
     const r = await fetch('https://api.openai.com/v1/audio/transcriptions', { method: 'POST', headers: { authorization: 'Bearer ' + key }, body: fd });
     const j = await r.json().catch(() => ({}));
-    if (!r.ok) { console.log('ses hata', r.status, JSON.stringify(j).slice(0, 300)); return json({ error: 'servis' }, 502); }
+    if (!r.ok) { console.log('ses hata', r.status, JSON.stringify(j).slice(0, 300)); return json({ error: 'servis', kod: String((j.error && (j.error.code || j.error.type)) || r.status).slice(0, 40) }, 502); }
     const metin = String(j.text || '').replace(/\s+/g, ' ').trim().slice(0, 600);
     console.log('ses ok', Date.now() - t0, 'ms', tur, ses.byteLength, 'B');
     return json({ metin });
