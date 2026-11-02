@@ -1,23 +1,23 @@
 {
-  "week": "2026-H44",
-  "hero": "kirmizi-mercimek-corbasi",
-  "heroEyebrow": "Haftanın tarifi · Çorbalar",
+  "week": "2026-H45",
+  "hero": "zeytinyagli-yerelmasi",
+  "heroEyebrow": "Haftanın tarifi · Zeytinyağlılar",
   "picks": [
-    "hamsi-tava",
-    "pazi-kavurmasi",
-    "ayva-tatlisi",
-    "firinda-kasarli-mantar",
-    "peynirli-pogaca",
-    "tereyagli-pirinc-pilavi",
-    "tatli-patatesli-yumurtali-kahvalti-tavasi",
-    "tatli-patates-corbasi"
+    "testi-kebabi",
+    "macar-gulas",
+    "dugun-corbasi",
+    "havuclu-tarcinli-kek",
+    "ev-eristesi",
+    "ozbek-pilavi",
+    "kuymak",
+    "pirasa-koftesi"
   ],
   "popular": [
+    "kirmizi-mercimek-corbasi",
     "sac-tava",
-    "etli-yaprak-sarma",
-    "iskender",
+    "airfryer-tavuk-gogsu",
     "karisik-pide"
   ],
   "popularSource": "goruntulenme",
-  "updated": "2026-10-26"
+  "updated": "2026-11-02"
 }
