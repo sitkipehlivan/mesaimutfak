@@ -51,6 +51,9 @@ function metindekiTarifler(kat, metin) {
   return bulunan;
 }
 
+// Yedek eşleştirmede yok sayılan sözcükler (süre, miktar, dolgu)
+const DURAK = new Set(['yarim', 'saat', 'saatim', 'dakika', 'dakikam', 'evde', 'elimde', 'icin', 'bana', 'bize', 'olsun', 'hizli', 'kolay', 'pratik', 'yemek', 'yemegi', 'tarif', 'oner', 'onerir', 'misin', 'istiyorum', 'aksam', 'ogle', 'sabah', 'kisi', 'kisilik', 'biraz', 'daha', 'cok', 'sey', 'seyler', 'olur', 'neler', 'yapabilirim', 'pisirsem']);
+
 // Kullanıcı "40 dakikam var", "yarım saat", "bir saat" gibi bir süre verdiyse en son verileni dakika olarak döndürür
 function sureSiniri(metinler) {
   let dk = 0;
@@ -193,10 +196,10 @@ export default async (req, context) => {
   const elenen = ham.filter(t => sinir && kat.bySlug[t.slug].m > sinir);
   if (sinir && elenen.length) {
     if (tarifler.length < 2) {
-      const sozler = new Set(norm(messages.filter(m => m.role === 'user').map(m => m.content.replace(/\[Not:[\s\S]*\]/, '')).join(' ')).split(' ').filter(w => w.length > 3));
+      const sozler = new Set(norm(messages.filter(m => m.role === 'user').map(m => m.content.replace(/\[Not:[\s\S]*\]/, '')).join(' ')).split(' ').filter(w => w.length > 3 && !DURAK.has(w)));
       const aday = Object.entries(kat.bySlug)
         .filter(([sl, r]) => r.m <= sinir && !tarifler.some(t => t.slug === sl))
-        .map(([sl, r]) => { const metin = norm(r.t + ' ' + (Array.isArray(r.g) ? r.g.join(' ') : r.g || '')); let p = 0; sozler.forEach(w => { if (metin.includes(w.slice(0, Math.max(4, w.length - 2)))) p++; }); return { sl, r, p }; })
+        .map(([sl, r]) => { const metin = norm(r.t + ' ' + (Array.isArray(r.g) ? r.g.join(' ') : r.g || '')); const bas = norm(r.t); let p = 0; sozler.forEach(w => { const k = w.slice(0, Math.max(4, w.length - 2)); if (bas.includes(k)) p += 3; else if (metin.includes(k)) p++; }); return { sl, r, p }; })
         .filter(x => x.p > 0).sort((a, b) => b.p - a.p || a.r.m - b.r.m).slice(0, 3 - tarifler.length);
       for (const a of aday) tarifler.push({ slug: a.sl, baslik: a.r.t, url: a.r.u, gorsel: a.r.i, dk: a.r.m, zorluk: a.r.l, neden: `${a.r.m} dakikada hazır.` });
     }
