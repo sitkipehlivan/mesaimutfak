@@ -25,7 +25,7 @@ imageCredit: ''
 imageCreditUrl: ''
 youtube: ''
 videoUrl: /video/kirmizi-mercimek-corbasi.mp4
-videoLen: '0:28'
+videoLen: '0:26'
 chapters:
 - t: '0:00'
   s: 0
@@ -33,26 +33,26 @@ chapters:
   d: Soğan ve havuç zeytinyağında
   ing: 3 yemek kaşığı zeytinyağı · 1 kuru soğan · 1 havuç · 1 patates
   tip: Sebzeleri küçük doğra; patates ne kadar küçükse çorba o kadar ipeksi olur.
-- t: '0:05'
-  s: 5.5
+- t: '0:06'
+  s: 6
   l: Mercimek ve salça
   d: Yıkanmış mercimeği ekle
   ing: 1,5 su bardağı kırmızı mercimek · 1 yemek kaşığı domates salçası
   tip: Mercimeği su berrak akana kadar 2-3 kez yıka; yoksa köpürür ve dibi tutar.
 - t: '0:11'
-  s: 11
+  s: 11.8
   l: Suyu ekle, pişir
   d: Mercimek dağılana kadar
   ing: 7 su bardağı sıcak su
   tip: Tuzu şimdi atma; mercimek suyu çektikçe tuz yoğunlaşır.
-- t: '0:16'
-  s: 16.5
+- t: '0:14'
+  s: 14.4
   l: Blenderdan geçir
   d: Tuz ve kimyonla pürüzsüz
   ing: 1 tatlı kaşığı tuz · 1 çay kaşığı kimyon
   tip: Koyu gelirse biraz sıcak su ekle; soğudukça daha da koyulaşır.
-- t: '0:22'
-  s: 22
+- t: '0:20'
+  s: 20.4
   l: Üzerini hazırla
   d: Naneli, pul biberli yağ
   ing: 2 yemek kaşığı zeytinyağı · pul biber · kuru nane · yarım limon
