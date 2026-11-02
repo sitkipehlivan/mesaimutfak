@@ -101,6 +101,38 @@ steps:
 tips:
 - Fırın kapağını erken açarsan toplar söner.
 - Topları önceden pişirip dondurabilirsin; doldurmadan önce 5 dakika fırınla.
+updated: '2026-11-02'
+notes:
+- t: Choux hamurunun kıvamı
+  d: 'Doğru kıvamdaki choux hamuru parlak ve pürüzsüz olur; kaşıkla kaldırıldığında V şeklinde, şerit gibi düşer. Hamur çok sertse bir yumurta daha (çırpılmış halde azar azar) eklenebilir; çok sulu ise topları kabarmaz.
+
+    '
+- t: Fırın kapağı
+  d: 'Profiterol topları fırında içlerindeki buharla kabarır. İlk 20 dakika fırın kapağı açılırsa sıcaklık düşer, buhar kaçar ve toplar söner. Toplar koyu altın rengini alana kadar pişmelidir; soluk toplar fırından çıktıktan sonra çöker.
+
+    '
+- t: Krema ve sos
+  d: 'Pastacı kreması tamamen soğuduktan sonra çırpılmış kremayla karıştırılmalı. Çikolata sosu ise sıcak kremanın içinde çikolatanın eritilmesiyle hazırlanır; servis öncesi ılık dökülmesi önerilir.
+
+    '
+- t: Saklama
+  d: 'Doldurulmuş profiterol buzdolabında 2 gün dayanır. Boş toplar kapalı kutuda 2 gün, dondurucuda 1 ay saklanabilir; doldurmadan önce fırında 5 dakika ısıtmak çıtırlığını geri getirir.
+
+    '
+faq:
+- q: Profiterol topları neden söner?
+  a: Fırın kapağı erken açıldığı ya da toplar yeterince pişmediği için. İlk 20 dakika kapağı açmamak ve topları koyu altın rengi olana kadar pişirmek gerekir.
+- q: Profiterol hamuru nasıl olmalı?
+  a: Parlak, pürüzsüz ve kaşıktan şerit gibi düşen bir kıvamda olmalı. Yumurtalar tek tek, her biri tamamen yedirildikten sonra eklenmeli.
+- q: Profiterol önceden yapılır mı?
+  a: Toplar önceden pişirilip dondurulabilir. Doldurma ve soslama servis gününde yapılmalı.
+- q: Profiterol ile ekler arasındaki fark nedir?
+  a: İkisi de aynı choux hamurundan yapılır. Profiterol küçük toplar halinde, ekler ise uzun çubuklar halinde sıkılır.
+editorNote: Profiterol choux hamuru biraz teknik istediği için tarifte hamurun "kaşıktan şerit gibi düşme" kıvamını ve fırın kapağını ilk 20 dakika açmamayı ayrı ayrı vurguladık. Topları önceden pişirip dondurma seçeneği de misafir öncesi hazırlığı kolaylaştırıyor.
 ---
 
-Pastanelerin klasiği ev fırınında. Hamuru bir kere başarınca ekler de yapabilirsin.
+Profiterol, choux hamurundan yapılan küçük topların pastacı kremasıyla doldurulup çikolata sosuyla kaplandığı, Fransız kökenli ama Türk pastanelerinin en sevilen tatlılarından biri.
+
+Bu tarifte su, tereyağı ve tuz kaynatılıp un bir anda eklenerek hamur pişiriliyor; soğuyunca yumurtalar tek tek ekleniyor. Hamur ceviz büyüklüğünde sıkılıp fırında kabartılıyor. Toplar vanilyalı kremayla doldurulup bitter çikolata sosuyla kaplanıyor.
+
+8 kişilik tarif yaklaşık 70 dakikada hazır. Toplar önceden pişirilip dondurulabilir.

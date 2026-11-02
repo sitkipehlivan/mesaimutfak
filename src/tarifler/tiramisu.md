@@ -77,6 +77,38 @@ steps:
 tips:
 - Bisküvileri kahvede bekletme, dağılır.
 - Bir gece bekleyince çok daha iyi olur.
+updated: '2026-11-02'
+notes:
+- t: Benmari neden kullanılıyor?
+  d: 'Yumurta sarısı ve şekeri benmari üzerinde çırpmak sarıları hafifçe pişirir; bu, hem güvenlik hem de kremanın daha stabil olması için önemlidir. Karışım koyulaşıp rengi açıldığında ocaktan alınmalı.
+
+    '
+- t: Kahve seçimi
+  d: 'Tiramisu için güçlü, soğumuş espresso en iyi sonucu verir. Espresso makinesi yoksa çok koyu demlenmiş filtre kahve de kullanılabilir. Kahve sıcak olursa bisküviler hızla dağılır.
+
+    '
+- t: Bisküviyi batırmak
+  d: 'Kedi dili bisküviler çok hızlı ıslanır. Kahveye bir saniye batırıp çıkarmak yeterli; uzun bekletilen bisküvi dağılır ve tiramisu sulanır.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 3 gün dayanır. Dondurucuda 1 ay saklanabilir; buzdolabında yavaşça çözdürülmeli.
+
+    '
+faq:
+- q: Tiramisu için mascarpone yerine ne kullanılır?
+  a: Labne en yakın alternatif. Daha hafif bir sonuç için krem peynir ve çırpılmış kremanın yarı yarıya karışımı da kullanılabilir.
+- q: Tiramisu kaç saat bekletilmeli?
+  a: En az 6 saat, tercihen bir gece buzdolabında bekletilmeli. Bu süre katmanların oturmasını ve tatların birleşmesini sağlar.
+- q: Tiramisu çiğ yumurtayla mı yapılır?
+  a: Bu tarifte yumurta sarıları şekerle birlikte benmari üzerinde çırpılarak hafifçe pişiriliyor.
+- q: Tiramisu alkolsüz yapılır mı?
+  a: Evet. Bu tarif alkolsüzdür; geleneksel bazı tariflerde kahveye likör eklenir.
+editorNote: Tiramisu tarifinde bisküvileri kahveye sadece bir saniye batırmayı vurguladık; dağılan bisküvi tiramisunun katlarını yok ediyor. Mascarpone bulamayanlar için labne alternatifini "Elinde yoksa ne kullanırsın" bölümüne ekledik.
 ---
 
-İtalyan klasiği, kahve sevenlerin tatlısı. Fırın yok, tek ihtiyaç sabır.
+Tiramisu, İtalyanca'da "beni yukarı kaldır" anlamına gelen, kahveye batırılmış bisküvi katmanları ve mascarpone kremasıyla hazırlanan, fırın gerektirmeyen bir İtalyan tatlısı.
+
+Bu tarifte yumurta sarısı ve şeker benmari üzerinde çırpılıp soğutuluyor, mascarpone ve çırpılmış kremayla birleştiriliyor. Kedi dili bisküviler soğuk espressoya bir saniye batırılıp kaba diziliyor ve krema ile katmanlanıyor.
+
+8 kişilik tarif 30 dakikada hazırlanıyor ama en az 6 saat buzdolabında beklemesi gerekiyor. Bir gece bekleyen tiramisu çok daha lezzetli olur.

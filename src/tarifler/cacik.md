@@ -63,6 +63,38 @@ steps:
 tips:
 - Meze olarak koyu, çorba gibi içmek için sulu yap.
 - Bir tutam dereotu ferahlığı artırır.
+updated: '2026-11-02'
+notes:
+- t: Salatalık seçimi
+  d: 'İnce kabuklu, çekirdeği az salatalıklar cacık için en iyisi. Kalın kabuklu salatalıkları soymak gerekebilir. Salatalığı rendeledikten sonra suyunu hafifçe sıkmak, koyu cacığın sulanmasını önler.
+
+    '
+- t: Kıvam
+  d: 'Cacık mezede koyu, kebap yanında orta kıvamda, yaz günlerinde çorba gibi sulu tercih edilebilir. Su miktarını tercihine göre ayarla; buz eklemek yaz günlerinde serinletici bir dokunuş.
+
+    '
+- t: Sarımsak miktarı
+  d: 'Sarımsak cacığın keskin tadını verir. Taze sarımsak tercih edilmeli; miktarını damak tadına göre ayarlayabilirsin.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 2 gün taze kalır. Salatalık zamanla su salar; servis öncesi karıştırmak gerekir.
+
+    '
+faq:
+- q: Cacık ile haydari arasındaki fark nedir?
+  a: Cacık sulandırılmış yoğurt ve salatalıkla yapılır, akışkandır. Haydari ise süzme yoğurt ya da labneyle yapılır, koyu bir mezedir.
+- q: Cacığa dereotu konur mu?
+  a: Konabilir. Dereotu cacığa ferah bir tat katar; nane ile birlikte ya da tek başına kullanılabilir.
+- q: Cacık glutensiz mi?
+  a: Evet, cacık glutensizdir.
+- q: Cacık kaç gün dayanır?
+  a: Buzdolabında kapalı kapta 2 gün taze kalır.
+editorNote: Cacığı hem meze hem çorba kıvamında kullanılabilecek şekilde yazdık; suyun miktarını bu yüzden "istediğin kıvama göre" bıraktık. Salatalığın rendelenmesi ya da küçük doğranması tamamen tercih meselesi.
 ---
 
-Yaz sofralarının buz gibi kasesi. Pilavla, köfteyle, mantıyla.
+Cacık, yoğurt, salatalık ve sarımsakla hazırlanan, Türk mutfağının en serinletici mezelerinden biri. Yaz sofralarının, kebapların ve pilavların yanında vazgeçilmez.
+
+Bu tarifte yoğurt ezilmiş sarımsak ve tuzla çırpılıyor, suyla istenilen kıvama getiriliyor. Rendelenmiş ya da küçük doğranmış salatalık ekleniyor ve kuru nane ile zeytinyağıyla servis ediliyor.
+
+4 kişilik tarif 10 dakikada hazır. Meze olarak koyu, çorba gibi içmek için sulu yapılabilir.

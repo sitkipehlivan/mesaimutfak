@@ -82,6 +82,38 @@ steps:
 tips:
 - Muhallebi tamamen soğumadan kremayla karıştırma, sulanır.
 - Çilek yerine muz da çok yakışır.
+updated: '2026-11-02'
+notes:
+- t: Muhallebiyi soğutmak
+  d: 'Muhallebi tamamen soğumadan kremayla karıştırılırsa krema söner ve magnolia sulanır. Muhallebinin üzerine streç filmi değdirerek soğutmak kaymak bağlamasını önler.
+
+    '
+- t: Meyve seçimi
+  d: 'Çilek klasik tercih. Muz, orman meyveleri, şeftali ya da mango da kullanılabilir. Muz kullanılacaksa servis öncesi eklemek kararmasını önler.
+
+    '
+- t: Bisküvi seçimi
+  d: 'Yulaflı bisküvi magnolia''ya hafif tuzlu ve çıtır bir doku katar. Petibör ya da lotus bisküvi de kullanılabilir.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında 2 gün taze kalır; zamanla bisküvi yumuşar. Dondurmayı önermiyoruz.
+
+    '
+faq:
+- q: Magnolia neden sulu olur?
+  a: Genelde muhallebi tamamen soğumadan kremayla karıştırıldığı için. Muhallebinin tamamen soğuması gerekir.
+- q: Magnolia kremasında ne var?
+  a: Süt, şeker, un, nişasta ve yumurta sarısıyla pişirilen bir muhallebi ve çırpılmış krema.
+- q: Magnolia için hangi meyveler kullanılır?
+  a: Çilek en yaygın tercih. Muz, orman meyveleri ve mango da kullanılabilir.
+- q: Magnolia ne kadar bekletilmeli?
+  a: En az 2 saat buzdolabında beklemeli; bu süre kremanın kıvamlanmasını sağlar.
+editorNote: Magnoliayı yaz tatlıları arasına aldık; fırınsız, soğuk ve meyveli. Tarifte muhallebinin tamamen soğumadan kremayla karıştırılmaması uyarısını en öne koyduk, çünkü magnolianın sulanmasının sebebi bu.
 ---
 
-Kafe menülerinin pembe yıldızı. Fırın gerektirmeyen, çocukların bayıldığı bir kupa tatlısı.
+Magnolia, muhallebi ve çırpılmış kremadan hazırlanan hafif bir kremanın bisküvi kırıntısı ve meyveyle katmanlanarak kupta servis edildiği, son yıllarda Türkiye'de çok sevilen bir tatlı.
+
+Bu tarifte süt, şeker, un, nişasta ve yumurta sarısıyla bir muhallebi pişiriliyor ve soğutuluyor. Soğuyan muhallebi çırpılmış kremayla birleştirilip pürüzsüz hale getiriliyor. Kupalara bisküvi kırıntısı, krema ve çilek dilimleri katman katman yerleştiriliyor.
+
+6 kişilik tarif 25 dakikada hazırlanıyor, en az 2 saat buzdolabında beklemesi gerekiyor.

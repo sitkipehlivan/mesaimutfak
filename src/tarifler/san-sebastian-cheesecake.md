@@ -76,6 +76,38 @@ steps:
 tips:
 - Malzemeler oda sıcaklığında olmalı, yoksa topaklanır.
 - Ortası titrek görünse de soğudukça kıvamlanır; fazla pişirme.
+updated: '2026-11-02'
+notes:
+- t: Neden üstü yakılır?
+  d: 'San Sebastian cheesecake''in imzası koyu, karamelize üst yüzeyidir. Yüksek ısı şekerin karamelize olmasını sağlar ve tatlıya hafif acımsı, derin bir tat verir. İçinin kremamsı kalması için de yüksek ısıda kısa süre pişirilir.
+
+    '
+- t: Malzemelerin sıcaklığı
+  d: 'Krem peynir, yumurta ve krema oda sıcaklığında olmalı. Soğuk krem peynir topaklanır ve pürüzsüz bir karışım elde etmek zorlaşır.
+
+    '
+- t: Ortası titrek olmalı
+  d: 'Fırından çıktığında cheesecake''in ortası jöle gibi sallanmalıdır. Bu, içinin kremamsı kalacağının işaretidir; soğudukça kıvamlanır. Ortası sert olana kadar pişirilen cheesecake kuru ve çatlak olur.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 4-5 gün dayanır. Dilimler tek tek sarılarak 1 ay dondurulabilir.
+
+    '
+faq:
+- q: San Sebastian cheesecake neden yanık görünür?
+  a: Yüksek ısıda pişirilen cheesecake'in üstü bilerek koyu kahverengi olur. Bu, şekerin karamelize olmasından kaynaklanır ve tatlının karakteristik özelliğidir.
+- q: San Sebastian cheesecake glutensiz mi?
+  a: Evet. Tabanı yoktur ve un yerine mısır nişastası kullanılır; bu nedenle glutensizdir.
+- q: San Sebastian cheesecake kaç derecede pişer?
+  a: Bu tarifte 220°C önceden ısıtılmış fırında pişiyor. Üstü koyu kahverengi olduğunda ve ortası hâlâ sallandığında fırından alınmalı.
+- q: San Sebastian cheesecake sıcak mı soğuk mu yenir?
+  a: Genellikle en az 4 saat buzdolabında dinlendirildikten sonra soğuk servis edilir. Bazıları oda sıcaklığında, daha akışkan haliyle tercih eder.
+editorNote: San Sebastian'ı tabanı olmadığı ve un yerine nişasta kullanıldığı için sitemizdeki glutensiz tatlılar arasına aldık. Üstünün yanık görünmesi tasarımın bir parçası; tarifte "fazla pişirme" uyarısını bu yüzden vurguladık.
 ---
 
-Bask ülkesinden dünyaya yayılan, tabanı olmayan, yanık yüzlü cheesecake. Yapması sandığından kolay.
+San Sebastian cheesecake, adını İspanya'nın Bask bölgesindeki San Sebastián şehrinden alan, yüksek ısıda pişirilip üstü bilerek koyu kahverengi yakılan, içi kremamsı bir cheesecake. Tabanı yoktur ve hazırlaması klasik cheesecake'e göre çok daha kolaydır.
+
+Bu tarifte krem peynir ve şeker çırpılıp yumurtalar tek tek ekleniyor; krema, nişasta, vanilin ve tuzla tamamlanıyor. Buruşturulmuş pişirme kâğıdıyla kaplanmış kalıba dökülüp 220°C'de pişiriliyor.
+
+10 dilimlik tarif 65 dakikada hazır, ama en az 4 saat buzdolabında dinlendirilmesi gerekiyor.

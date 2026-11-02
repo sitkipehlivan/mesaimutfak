@@ -76,6 +76,38 @@ steps:
 tips:
 - Kabukları soymak humusu çok daha pürüzsüz yapar.
 - Buzlu su humusu kabartır ve açık renkli yapar.
+updated: '2026-11-02'
+notes:
+- t: Kabukları soymak
+  d: 'Nohutların ince kabuklarını soymak humusu çok daha pürüzsüz yapar. Kabukları soymak için haşlanmış nohutları bir tutam karbonatla 2-3 dakika kaynatmak ya da avuç içinde ovmak işi kolaylaştırır.
+
+    '
+- t: Buzlu suyun görevi
+  d: 'Buzlu su humusun daha açık renkli ve kabarık olmasını sağlar. Tahinle reaksiyona girerek kremamsı bir doku oluşturur. Suyu azar azar eklemek ve kıvamı kontrol etmek gerekir.
+
+    '
+- t: Nohut seçimi
+  d: 'Kuru nohutu bir gece ıslatıp kendin haşlamak en iyi sonucu verir. Konserve nohut da kullanılabilir; süzüp yıkamak ve gerekirse birkaç dakika kaynatmak yeterli.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta, üzerine ince bir tabaka zeytinyağı dökülerek 4-5 gün saklanabilir. Dondurucuda 1 ay dayanır.
+
+    '
+faq:
+- q: Humus nasıl pürüzsüz olur?
+  a: Nohutların kabuklarını soymak, ılıkken robotta çekmek ve buzlu su ekleyerek birkaç dakika çekmek pürüzsüz bir humus sağlar.
+- q: Humus için hangi nohut kullanılır?
+  a: Kuru nohutu ıslatıp haşlamak en iyisi. Konserve nohut da kullanılabilir.
+- q: Humus vegan mı?
+  a: Evet, humus tamamen vegan ve glutensiz bir mezedir.
+- q: Humus kaç gün dayanır?
+  a: Buzdolabında kapalı kapta 4-5 gün dayanır. Üzerine zeytinyağı dökmek kurumasını önler.
+editorNote: 'Humus tarifinde iki küçük adımı özellikle yazdık: nohutların kabuklarını soymak ve robota buzlu su eklemek. İkisi de humusu lokanta kıvamına, yani pürüzsüz ve açık renkli bir dokuya getiriyor.'
 ---
 
-Doğu Akdeniz’in ortak mezesi. İyi tahin ve sabırlı bir robot yeterli.
+Humus, nohut, tahin, limon ve sarımsakla hazırlanan, Orta Doğu ve Akdeniz mutfaklarının en bilinen mezelerinden biri. Türkiye'de özellikle Hatay ve Adana mutfaklarında sıcak ya da soğuk servis edilir.
+
+Bu tarifte haşlanmış nohut ılıkken tahin, limon, sarımsak, kimyon ve tuzla robotta çekiliyor. Robot çalışırken buzlu su azar azar ekleniyor ve humus krem gibi pürüzsüz olana kadar birkaç dakika çekiliyor.
+
+4 kişilik tarif 10 dakikada hazır. Zeytinyağı ve toz biberle servis ediliyor.

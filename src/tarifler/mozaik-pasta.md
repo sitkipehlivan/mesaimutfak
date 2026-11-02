@@ -73,6 +73,38 @@ steps:
 tips:
 - Sos çok sıcakken bisküviye dökülürse bisküviler hamur olur.
 - Dondurucuda bir ay saklanır.
+updated: '2026-11-02'
+notes:
+- t: Sosun sıcaklığı
+  d: 'Sos çok sıcakken bisküvilere dökülürse bisküviler yumuşar ve hamurlaşır; mozaik görüntüsü kaybolur. Sosu ılıtıp sonra bisküvilerle karıştırmak, parçaların belirgin kalmasını sağlar.
+
+    '
+- t: Bisküvi boyutu
+  d: 'Bisküvileri iri parçalar halinde kırmak mozaik görünümünü belirginleştirir. Çok küçük kırılan bisküviler sosla tamamen kaynaşır ve pasta kek gibi görünür.
+
+    '
+- t: Şekil verme
+  d: 'Streç film üzerine boşaltılan karışım sıkıca rulo yapılmalı ki kesildiğinde dağılmasın. Baton kalıba bastırmak da iyi bir alternatif; kalıbı streç filmle kaplamak çıkarmayı kolaylaştırır.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında 1 hafta, dondurucuda 1 ay saklanabilir. Dondurucudan çıkarıp 10 dakika bekletmek dilimlenmesini kolaylaştırır.
+
+    '
+faq:
+- q: Mozaik pasta neden dağılır?
+  a: Genelde yeterince soğutulmadığı ya da rulo sıkı yapılmadığı için. En az 4 saat, tercihen bir gece buzdolabında beklemesi gerekir.
+- q: Mozaik pasta için hangi bisküvi kullanılır?
+  a: Petibör bisküvi en yaygın tercih. Yulaflı ya da sade bisküviler de kullanılabilir.
+- q: Mozaik pasta yumurtasız mı?
+  a: Evet, bu tarifte yumurta kullanılmıyor.
+- q: Mozaik pasta dondurulur mu?
+  a: Evet, dondurucuda 1 ay saklanabilir.
+editorNote: Mozaik pastayı en pratik tatlılar arasında tuttuk; fırın yok, 20 dakikalık hazırlık var. Tarifteki tek kritik nokta sosun bisküvilere ılık dökülmesi; sıcak sos bisküvileri hamurlaştırıyor.
 ---
 
-Çocukluğun doğum günü pastası; fırın gerekmiyor.
+Mozaik pasta, kırılmış bisküvilerin kakaolu bir sosla karıştırılıp rulo ya da kalıpta dondurulduğu, kesilince mozaik gibi görünen fırınsız bir tatlı. Çocukluğun ve doğum günlerinin klasiği.
+
+Bu tarifte tereyağı, şeker, süt ve kakao kısık ateşte şeker eriyene kadar karıştırılıyor, vanilin eklenip ılıtılıyor. İri kırılmış bisküvi ve isteğe bağlı fındıkla karıştırılıp streç filmle rulo yapılıyor.
+
+10 dilimlik tarif 20 dakikada hazırlanıyor, en az 4 saat buzdolabında beklemesi gerekiyor.

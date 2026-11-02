@@ -83,6 +83,41 @@ steps:
 tips:
 - Pişen waffle’ları üst üste koyma, buharla yumuşar; tel ızgaraya diz.
 - Fazlasını dondurup kızartma makinesinde ısıtabilirsin.
+updated: '2026-11-02'
+notes:
+- t: Çıtırlığın sırrı
+  d: 'Waffle''ın çıtır olması için hamurda yeterince tereyağı bulunmalı ve makine iyice ısıtılmalı. Pişen waffle''lar tabağa üst üste konursa buhar nedeniyle yumuşar; tel ızgaraya tek tek dizmek gerekir.
+
+    '
+- t: Makineyi yağlamak
+  d: 'Yapışmaz kaplamalı makinelerde bile ilk waffle''dan önce ince bir tabaka yağ sürmek, hamurun yapışmasını önler. Fırça ya da kâğıt havluyla sürmek yeterli.
+
+    '
+- t: Sık yapılan hatalar
+  d: 'Makineye fazla hamur koymak hamurun kenarlardan taşmasına neden olur. Makinenin ızgaralarını dolduracak kadar, kenarlara yaklaşmadan dökmek doğru miktardır.
+
+
+    Kapağı erken açmak da waffle''ın yırtılmasına neden olur. Çoğu makinede buhar çıkışı azaldığında waffle hazırdır.
+
+    '
+- t: Saklama
+  d: 'Pişmiş waffle''lar soğuduktan sonra dondurucuda 1 ay saklanabilir. Kızartma makinesinde ya da fırında birkaç dakika ısıtmak çıtırlığını geri getirir.
+
+    '
+faq:
+- q: Waffle neden yumuşak olur?
+  a: Genelde makine yeterince ısınmadığı ya da waffle'lar üst üste konduğu için. Makineyi iyice ısıtmak ve pişen waffle'ları tel ızgaraya dizmek çıtır kalmalarını sağlar.
+- q: Waffle makinesiz yapılır mı?
+  a: Waffle'ın karakteristik şekli makineden gelir. Makine yoksa aynı hamurla tavada pankek yapılabilir.
+- q: Waffle hamuru pankek hamuruyla aynı mı?
+  a: Benzerdir ama waffle hamurunda daha fazla tereyağı bulunur; bu da çıtır bir dış yüzey sağlar.
+- q: Waffle üzerine ne konur?
+  a: Meyve, çikolata sosu, bal, akçaağaç şurubu, krem şanti ya da dondurma en yaygın tercihler.
+editorNote: Waffle tarifinde pişen waffle'ları üst üste koymamayı ayrıca yazdık; buharla yumuşamaları waffle'ı çıtır yapmanın önündeki en büyük engel. Fazlasını dondurmak da hafta içi sabahlar için pratik bir çözüm.
 ---
 
-Waffle makinesi olan herkesin hafta sonu ritüeli. Hamuru pankekten biraz daha yağlı, o yüzden dışı çıtır.
+Waffle, ızgaralı bir makinede pişirilen, dışı çıtır içi yumuşak bir hamur işi. Belçika ve Amerikan mutfaklarından dünyaya yayılan waffle, Türkiye'de en çok meyve ve çikolatayla servis edilen bir tatlı olarak sevilir.
+
+Bu tarifte yumurta, süt, eritilmiş tereyağı ve şeker çırpılıyor; un, kabartma tozu, vanilin ve tuz eklenip topaksız karıştırılıyor. Hamur ısınmış waffle makinesinde altın rengi olana kadar pişiriliyor.
+
+4 kişilik tarif 30 dakikada hazır. Pişen waffle'lar tel ızgaraya dizilirse çıtırlığını korur.

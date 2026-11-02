@@ -96,6 +96,38 @@ tips:
 - Ocak çok yüksekse dışı kızarır, içi çiğ kalır; orta ateş en iyisi.
 - Hamura bir tutam tarçın ya da yarım limonun kabuğunu rendelersen çok yakışır.
 - Fazla pankekleri buzdolabında saklayıp ertesi sabah tavada ya da kızartma makinesinde ısıtabilirsin.
+updated: '2026-11-02'
+notes:
+- t: Neden fazla çırpılmamalı?
+  d: 'Un eklendikten sonra hamuru fazla çırpmak glüteni geliştirir ve pankekleri sert, lastik gibi yapar. Hamurda birkaç küçük topak kalması sorun değil; pişerken kaybolur.
+
+    '
+- t: Tavanın ısısı
+  d: 'Orta ateş en doğrusu. Çok yüksek ateşte pankeklerin dışı yanar, içi çiğ kalır. Çok düşük ateşte ise pankek kabarmaz ve rengi soluk kalır. İlk pankeki deneme olarak kullanıp tavanın ısısını ona göre ayarlamak iyi bir yöntem.
+
+    '
+- t: Ne zaman çevrilir?
+  d: 'Pankekin yüzeyinde kabarcıklar oluşup patlamaya başladığında ve kenarlar mat göründüğünde çevirme zamanıdır. Erken çevrilen pankek dağılır; geç çevrilen ise yanar.
+
+    '
+- t: Saklama
+  d: 'Pişmiş pankekler buzdolabında 2 gün dayanır. Aralarına yağlı kâğıt koyup dondurucuda 1 ay saklanabilir. Kızartma makinesinde ya da kuru tavada ısıtılabilir.
+
+    '
+faq:
+- q: Pankek neden kabarmaz?
+  a: Genelde kabartma tozu eskimiş olduğu, hamur fazla çırpıldığı ya da tava yeterince ısınmadığı için. Hamuru 5 dakika dinlendirmek ve orta ateşte pişirmek kabarmasını sağlar.
+- q: Pankek hamuru önceden hazırlanır mı?
+  a: Buzdolabında en fazla birkaç saat bekletilebilir. Uzun bekleyen hamurda kabartma tozunun etkisi azalır ve pankekler daha yassı çıkar.
+- q: Pankek yağsız tavada pişer mi?
+  a: Yapışmaz tavada çok az yağla pişirilir. Kâğıt havluyla ince bir tabaka tereyağı sürmek yeterli; fazla yağ pankeklerin rengini alacalı yapar.
+- q: Pankek ile krep arasındaki fark nedir?
+  a: Pankek kabartma tozu içerir ve kalın, kabarık olur. Krep ise kabartıcı içermez; çok ince ve esnektir, genellikle içi doldurularak katlanır.
+editorNote: Pankek tarifinde hamuru 5 dakika dinlendirmeyi ve "fazla çırpma" uyarısını özellikle ekledik; pankeklerin yassı ve lastik gibi çıkmasının iki ana sebebi bunlar. Ölçüleri hafta sonu dört kişilik bir kahvaltıya göre tuttuk.
 ---
 
-Hafta sonu kahvaltısının en sevilen tatlısı, ama hafta içi de yapılacak kadar pratik. Tek kase, bir tava ve yirmi dakika yeterli.
+Pankek, Amerikan kahvaltısından Türk mutfağına yerleşmiş, kabarık ve yumuşak küçük tava kekleri. Hafta sonu kahvaltılarının, çocukların en sevdiği tabakların başında geliyor.
+
+Bu tarifte yumurta, süt, şeker ve eritilmiş tereyağı çırpılıyor, un, kabartma tozu ve vanilin eleyerek ekleniyor. Hamur kısa bir süre dinlendirilip orta ateşte, az yağlanmış tavada pişiriliyor. Üzerine bal ya da akçaağaç şurubu ve taze meyveyle servis ediliyor.
+
+4 kişilik tarif 20 dakikada hazır. Fazla pankekler ertesi sabah tavada ısıtılabilir.

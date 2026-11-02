@@ -81,6 +81,38 @@ steps:
 tips:
 - İlk krep genelde bozuk çıkar; tava ısısını ondan sonra ayarla.
 - Tuzlu versiyon için şekeri çıkar, kaşar, mantar ya da ıspanakla doldur.
+updated: '2026-11-02'
+notes:
+- t: Hamurun kıvamı
+  d: 'Krep hamuru pankek hamurundan çok daha sulu olmalı; neredeyse sıvı krema kıvamında. Koyu hamur tavada eşit yayılmaz ve krep kalın olur. Hamur koyuysa birkaç kaşık süt ekleyerek inceltebilirsin.
+
+    '
+- t: Dinlendirme
+  d: 'Hamuru 10 dakika dinlendirmek unun sıvıyı tamamen emmesini ve kreplerin pişerken yırtılmamasını sağlar. Hamuru bir gece önceden hazırlayıp buzdolabında bekletmek de mümkün.
+
+    '
+- t: Tavaya yayma
+  d: 'Bir kepçe hamuru tavanın ortasına dökerken tavayı hemen döndürerek hamuru her tarafa yaymak gerekir. Hamur tavaya değdiği anda pişmeye başlar; hızlı olmak ince ve eşit bir krep sağlar.
+
+    '
+- t: Tuzlu krep
+  d: 'Şekeri hamurdan çıkarıp kaşar, mantar, ıspanak, tavuk ya da jambonla doldurulabilir. Doldurulan krepler katlanıp tavada her iki yüzü birkaç saniye ısıtılarak peynirin erimesi sağlanır.
+
+    '
+faq:
+- q: Krep neden yırtılır?
+  a: Hamur dinlendirilmediği, tava yeterince ısınmadığı ya da krep erken çevrildiği için. Kenarlar tavadan kalkmaya başladığında çevirmek gerekir.
+- q: Krep hamuru nasıl olmalı?
+  a: Sulu, neredeyse sıvı krema kıvamında olmalı. Tavaya dökülüp döndürüldüğünde her tarafa kolayca yayılabilmeli.
+- q: Krep kaç dakikada pişer?
+  a: Orta ateşte bir yüzü yaklaşık 1 dakika, diğer yüzü 30 saniye pişer.
+- q: Krep önceden hazırlanır mı?
+  a: Hamur bir gece önceden hazırlanıp buzdolabında bekletilebilir. Pişmiş krepler aralarına yağlı kâğıt koyularak buzdolabında 2 gün saklanabilir.
+editorNote: Krep tarifini hem tatlı hem tuzlu kullanıma uygun sade bir hamurla yazdık. "İlk krep bozuk çıkar" notunu bilerek ekledik; bu tamamen normal ve tavanın ısısını ayarlamanın yolu.
 ---
 
-Pankekten ince, gözlemeden tatlı. Aynı hamurla sabah tatlı, akşam tuzlu bir sofra kurulabilir.
+Krep, ince ve esnek bir hamurdan tavada pişirilen, tatlı ya da tuzlu doldurulabilen bir hamur işi. Kökeni Fransa'ya dayanır ama bugün kahvaltılarda ve tatlı krizlerinde Türk mutfağının da vazgeçilmezi.
+
+Bu tarifte yumurta, süt, şeker ve tuz çırpılıyor, un eklenip topaksız bir hamur elde ediliyor ve eritilmiş tereyağıyla tamamlanıyor. Hamur sulu olmalı. Yapışmaz tavada ince bir tabaka halinde yayılıp pişiriliyor.
+
+4 kişilik tarif 30 dakikada hazır. Fındık kreması ve muzla klasik, kaşar ve mantarla tuzlu servis edilebilir.
