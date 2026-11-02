@@ -122,6 +122,9 @@ export default async (req, context) => {
     .map(m => ({ role: m.rol === 'asistan' ? 'assistant' : 'user', content: m.metin.trim().slice(0, m.rol === 'asistan' ? 900 : 600) }));
   while (messages.length && messages[0].role !== 'user') messages.shift();
   if (!messages.length || messages[messages.length - 1].role !== 'user') return json({ error: 'mesaj' }, 400);
+  // Süre sınırı sunucuda da uygulanır; modele de açıkça hatırlatılır (metinde sınırı aşan tarif anılmasın)
+  const sinir = sureSiniri(messages.filter(m => m.role === 'user').map(m => m.content));
+  if (sinir) messages[messages.length - 1] = { role: 'user', content: messages[messages.length - 1].content + `\n\n[Not: kullanıcının süre sınırı ${sinir} dakika. Yalnızca listedeki toplam süresi ${sinir} dakika ya da daha az olan tarifleri öner ve metinde de yalnızca onları an.]` };
 
   // günlük sınır (kişi başı ve toplam)
   const store = getStore('asistan');
@@ -175,7 +178,6 @@ export default async (req, context) => {
     if (!veri) return json({ cevap: kisalt(temizle(metin), 500) || 'Bir tarif bulamadım, biraz daha anlatır mısın?', tarifler: [] });
   }
 
-  const sinir = sureSiniri(messages.filter(m => m.role === 'user').map(m => m.content));
   const ham = (Array.isArray(veri.tarifler) ? veri.tarifler : [])
     .map(t => t && { slug: slugBul(kat, t.slug), neden: t.neden })
     .filter(t => t && t.slug);
@@ -187,6 +189,22 @@ export default async (req, context) => {
     .slice(0, 5)
     .map(t => { const r = kat.bySlug[t.slug]; return { slug: t.slug, baslik: r.t, url: r.u, gorsel: r.i, dk: r.m, zorluk: r.l, neden: String(t.neden || '').slice(0, 200) }; });
   let cevap = kisalt(temizle(veri.cevap), 600);
+  // Süre sınırı yüzünden elenen bir tarif metinde anılıyorsa ya da hiç kart kalmadıysa: sınıra uyan tariflerle tamamla, metni sadeleştir
+  const elenen = ham.filter(t => sinir && kat.bySlug[t.slug].m > sinir);
+  if (sinir && elenen.length) {
+    if (tarifler.length < 2) {
+      const sozler = new Set(norm(messages.filter(m => m.role === 'user').map(m => m.content.replace(/\[Not:[\s\S]*\]/, '')).join(' ')).split(' ').filter(w => w.length > 3));
+      const aday = Object.entries(kat.bySlug)
+        .filter(([sl, r]) => r.m <= sinir && !tarifler.some(t => t.slug === sl))
+        .map(([sl, r]) => { const metin = norm(r.t + ' ' + (Array.isArray(r.g) ? r.g.join(' ') : r.g || '')); let p = 0; sozler.forEach(w => { if (metin.includes(w.slice(0, Math.max(4, w.length - 2)))) p++; }); return { sl, r, p }; })
+        .filter(x => x.p > 0).sort((a, b) => b.p - a.p || a.r.m - b.r.m).slice(0, 3 - tarifler.length);
+      for (const a of aday) tarifler.push({ slug: a.sl, baslik: a.r.t, url: a.r.u, gorsel: a.r.i, dk: a.r.m, zorluk: a.r.l, neden: `${a.r.m} dakikada hazır.` });
+    }
+    const metinN = norm(cevap);
+    if (!tarifler.length || elenen.some(t => metinN.includes(norm(kat.bySlug[t.slug].t)))) {
+      cevap = tarifler.length ? `${sinir} dakikayı geçmeyen önerilerim aşağıda.` : `${sinir} dakikaya sığan uygun bir tarif bulamadım; biraz daha süre ya da başka bir malzeme söyler misin?`;
+    }
+  }
   if (!cevap) cevap = tarifler.length ? 'Sana uygun tarifler şunlar:' : 'Bir tarif bulamadım, biraz daha anlatır mısın?';
   return json({ cevap, tarifler });
 };
