@@ -878,3 +878,13 @@ html.is-watch body{background:var(--w-bg);color:var(--w-txt);font-family:-apple-
 .is-watch .as-card{display:flex;gap:8px;align-items:center;background:var(--w-cell2);border-radius:12px;padding:6px;color:var(--w-txt);border:0}
 .is-watch .as-card img{width:40px;height:40px;border-radius:50%;object-fit:cover}
 .is-watch .as-card span span{display:none}
+
+.chapters li[data-s]{cursor:pointer;transition:background .15s}
+.chapters li[data-s]:hover,.chapters li[data-s]:focus-visible{background:color-mix(in srgb,var(--paper) 6%,transparent);outline:none}
+.chapters li.on{background:color-mix(in srgb,var(--sun) 14%,transparent)}
+.chapters li.on .t{color:var(--paper);background:var(--tomato);border-radius:4px;padding:0 4px;align-self:start;justify-self:start}
+.vcard{margin:6px 0 14px;border:1px solid color-mix(in srgb,var(--paper) 18%,transparent);border-radius:10px;overflow:hidden}
+.vcard-tabs{display:flex}
+.vcard-tabs button{flex:1;font:inherit;font-size:13px;font-weight:700;padding:9px 6px;border:0;background:transparent;color:color-mix(in srgb,var(--paper) 65%,transparent);cursor:pointer;border-bottom:2px solid transparent}
+.vcard-tabs button.on{color:var(--paper);border-bottom-color:var(--sun)}
+.vcard-body{margin:0;padding:12px 14px;font-size:14.5px;line-height:1.45;min-height:3.2em}

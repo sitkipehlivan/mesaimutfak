@@ -187,12 +187,37 @@
     const io = new IntersectionObserver(es => { if (es.some(e => e.isIntersecting)) { io.disconnect(); next(0); } }, { rootMargin: '600px' });
     io.observe(el);
 
+    function chapterSync(p) {
+      const lis = [...document.querySelectorAll('.chapters li[data-s]')];
+      if (!lis.length) return;
+      const body = document.querySelector('.vcard-body');
+      const tabs = [...document.querySelectorAll('.vcard-tabs button')];
+      let cur = -1, k = 'ing';
+      const paint = () => { if (body) body.textContent = body.dataset[k] || ''; tabs.forEach(b => b.classList.toggle('on', b.dataset.k === k)); };
+      const set = i => {
+        if (i === cur) return; cur = i;
+        lis.forEach((li, n) => li.classList.toggle('on', n === i));
+        const li = lis[i];
+        if (body && li) { body.dataset.ing = li.dataset.ing || ''; body.dataset.tip = li.dataset.tip || ''; body.dataset.cook = li.dataset.cook || ''; paint(); }
+      };
+      tabs.forEach(b => b.addEventListener('click', () => { k = b.dataset.k; paint(); }));
+      let pending = null;
+      const inAd = () => !!(p.ads && p.ads.inAdBreak && p.ads.inAdBreak());
+      const seek = () => { if (pending === null || inAd() || p.readyState() < 1) return; p.currentTime(pending); set(lis.findIndex(l => parseFloat(l.dataset.s) === pending)); pending = null; };
+      p.on(['loadedmetadata', 'playing', 'adend', 'ads-ad-ended'], seek);
+      const go = li => { pending = parseFloat(li.dataset.s); seek(); p.play(); if (window.mmTrack) mmTrack('video_chapter', { slug: html.dataset.slug || '', ch: li.dataset.s }); };
+      lis.forEach(li => { li.addEventListener('click', () => go(li)); li.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(li); } }); });
+      p.on('timeupdate', () => { if (inAd() || pending !== null) return; const t = p.currentTime(); let i = 0; lis.forEach((li, n) => { if (t >= parseFloat(li.dataset.s) - 0.05) i = n; }); set(i); });
+      set(0);
+    }
+
     function start(noAds) {
       if (!window.videojs) return;
       const src = el.dataset.src;
       const p = videojs(el, { fluid: false, language: 'tr', playbackRates: [1, 1.25, 1.5] });
       p.src({ src, type: /\.m3u8(\?|$)/.test(src) ? 'application/x-mpegURL' : 'video/mp4' });
       p.one('play', () => { if (window.mmTrack) mmTrack('video_play', { slug: html.dataset.slug || '' }); });
+      chapterSync(p);
       if (!vast || noAds || !p.ima) return;
       const tag = vast
         .replace(/\[timestamp\]|\[correlator\]/gi, Date.now())

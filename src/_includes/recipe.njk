@@ -187,8 +187,14 @@ layout: base.njk
       <div class="eyebrow">Video tarif{% if videoLen %} · {{ videoLen }}{% endif %}</div>
       <h2>{{ title }}</h2>
       {% if chapters and chapters.length %}
-      <p>Ölçüler ekranda, süreler tencerenin yanında. Bölümlere göre izle.</p>
-      <ol class="chapters">{% for ch in chapters %}<li><span class="t">{{ ch.t }}</span><span>{{ ch.l }}<em>{{ ch.d }}</em></span></li>{% endfor %}</ol>
+      <p>{% if videoUrl and chapters[0].ing %}Bölüme dokun, video oraya atlasın. Malzemeler ve püf noktası adım adım burada.{% else %}Ölçüler ekranda, süreler tencerenin yanında. Bölümlere göre izle.{% endif %}</p>
+      {% if videoUrl and chapters[0].ing %}
+      <div class="vcard" aria-live="polite">
+        <div class="vcard-tabs" role="tablist"><button type="button" class="on" data-k="ing">Malzemeler</button><button type="button" data-k="tip">Püf noktası</button><button type="button" data-k="cook">Pişirme</button></div>
+        <p class="vcard-body" data-ing="{{ chapters[0].ing }}" data-tip="{{ chapters[0].tip }}" data-cook="{{ chapters[0].l }} · {{ chapters[0].d }}">{{ chapters[0].ing }}</p>
+      </div>
+      {% endif %}
+      <ol class="chapters">{% for ch in chapters %}<li{% if ch.s is defined %} data-s="{{ ch.s }}" data-cook="{{ ch.l }} · {{ ch.d }}"{% if ch.ing %} data-ing="{{ ch.ing }}"{% endif %}{% if ch.tip %} data-tip="{{ ch.tip }}"{% endif %} tabindex="0" role="button" aria-label="{{ ch.l }} bölümüne git"{% endif %}><span class="t">{{ ch.t }}</span><span>{{ ch.l }}<em>{{ ch.d }}</em></span></li>{% endfor %}</ol>
       {% elif site.youtube %}
       <p>Yeni video tarifler için YouTube kanalımıza abone olabilirsin.</p>
       <a class="yt-link" href="{{ site.youtube }}" target="_blank" rel="noopener"><svg viewBox="0 0 16 16"><path d="M4 2.5l10 5.5-10 5.5z"/></svg>Kanala abone ol</a>
@@ -242,7 +248,8 @@ else if(o.d&&o.d.error==='tekrar'){mine=r;try{localStorage.setItem(K,r)}catch(e)
   "inLanguage": "tr",
   "recipeIngredient": [{% for grp in ingredients %}{% for it in grp.items %}{{ ((it.a | amt) + ' ' + (it.u or '') + ' ' + it.n) | trim | dump | safe }}{% if not loop.last %},{% endif %}{% endfor %}{% if not loop.last %},{% endif %}{% endfor %}],
   "recipeInstructions": [{% for st in steps %}{"@type": "HowToStep", "name": {{ st.t | dump | safe }}, "text": {{ st.d | dump | safe }}, "url": "{{ site.url }}{{ page.url }}#adim-{{ loop.index }}"{% if st.img %}, "image": {{ (site.url + (st.img | imgUrl(1200))) | dump | safe }}{% endif %}}{% if not loop.last %},{% endif %}{% endfor %}]{% if youtube %},
-  "video": {"@type": "VideoObject", "name": {{ title | dump | safe }}, "embedUrl": "https://www.youtube.com/embed/{{ youtube }}", "thumbnailUrl": "https://i.ytimg.com/vi/{{ youtube }}/hqdefault.jpg", "uploadDate": "{{ page.date.toISOString() }}"}{% endif %}
+  "video": {"@type": "VideoObject", "name": {{ title | dump | safe }}, "embedUrl": "https://www.youtube.com/embed/{{ youtube }}", "thumbnailUrl": "https://i.ytimg.com/vi/{{ youtube }}/hqdefault.jpg", "uploadDate": "{{ page.date.toISOString() }}"}{% endif %}{% if videoUrl and not youtube %},
+  "video": {"@type": "VideoObject", "name": {{ title | dump | safe }}, "description": {{ desc | dump | safe }}, "contentUrl": "{{ site.url }}{{ videoUrl }}", "thumbnailUrl": {{ (site.url + (image | imgUrl(1200))) | dump | safe }}, "uploadDate": "{{ page.date.toISOString() }}"{% if chapters and chapters.length and chapters[0].s is defined %}, "hasPart": [{% for ch in chapters %}{"@type": "Clip", "name": {{ ch.l | dump | safe }}, "startOffset": {{ ch.s | round }}, "url": "{{ site.url }}{{ page.url }}#video"}{% if not loop.last %},{% endif %}{% endfor %}]{% endif %}}{% endif %}
 }
 </script>
 {% if faq and faq.length %}<script type="application/ld+json">
