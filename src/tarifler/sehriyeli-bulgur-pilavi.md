@@ -71,6 +71,38 @@ steps:
 tips:
 - Bulgur ile su oranı 1’e 2 olursa tane tane kalır.
 - Üzerine közlenmiş biber ve yoğurt çok yakışır.
+updated: '2026-11-03'
+notes:
+- t: Su oranı
+  d: 'Pilavlık bulgur için 1 ölçü bulgura 2 ölçü sıcak su doğru orandır. Daha az su bulguru çiğ bırakır, daha fazla su ise lapa yapar. Su mutlaka sıcak olmalı.
+
+    '
+- t: Bulgur çeşidi
+  d: 'Bu tarifte pilavlık (iri) bulgur kullanılıyor. Köftelik ince bulgur pilav için uygun değildir; kısa sürede lapa olur.
+
+    '
+- t: Demlenme
+  d: 'Suyunu çeken pilavı ocaktan alıp kapağın altına havlu koyarak 10 dakika demlendirmek, bulgur tanelerinin tam pişmesini ve tane tane kalmasını sağlar.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında 3 gün dayanır. Isıtırken birkaç kaşık su serpip kapağı kapalı ısıtmak kurumasını önler.
+
+    '
+faq:
+- q: Bulgur pilavı neden lapa olur?
+  a: Fazla su eklendiğinde ya da pişerken karıştırıldığında. 1 ölçü bulgura 2 ölçü su kullanmak ve pişerken karıştırmamak gerekir.
+- q: Bulgur pilavı için hangi bulgur kullanılır?
+  a: Pilavlık (iri) bulgur. İnce bulgur köfte ve kısır için kullanılır.
+- q: Bulgur pilavı glutensiz mi?
+  a: Hayır. Bulgur buğdaydan yapıldığı için gluten içerir.
+- q: Bulgur pilavının yanına ne yakışır?
+  a: Yoğurt, cacık, közlenmiş biber, kuru fasulye ve sebze yemekleri.
+editorNote: Bulgur pilavında su oranını 1'e 2 olarak yazdık ve demlenmeyi ayrı adım yaptık; pilavlık bulgurun tane tane kalması bu iki şeye bağlı. Biber salçası pilava hem renk hem hafif bir tat katıyor.
 ---
 
-Her sofraya uyan, en pratik ve ekonomik pilav.
+Şehriyeli bulgur pilavı, pilavlık bulgurun tereyağında kavrulan arpa şehriye, soğan ve biber salçasıyla pişirildiği, Anadolu mutfağının en temel pilavlarından biri. Kuru fasulye, tavuk ve sebze yemeklerinin yanında pirinç pilavına sağlıklı bir alternatif.
+
+Bu tarifte şehriye tereyağı ve sıvı yağda kızarana kadar kavruluyor, soğan ve salça ekleniyor. Bulgur eklenip kısa süre çevriliyor, sıcak su ve tuz konup suyunu çekene kadar pişiriliyor ve havlu altında demlendiriliyor.
+
+4 kişilik tarif 30 dakikada hazır.

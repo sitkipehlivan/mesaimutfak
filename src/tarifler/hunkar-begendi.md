@@ -109,6 +109,38 @@ steps:
 tips:
 - Patlıcanları limonlu suda bekletirsen beğendi kararmaz.
 - Et düdüklüde 30 dakikada pişer.
+updated: '2026-11-03'
+notes:
+- t: Patlıcanı közlemek
+  d: 'Beğendinin tadı patlıcanın közlenmesinden gelir. Patlıcanları doğrudan ocak alevinde, mangalda ya da fırının ızgarasında kabukları tamamen kararana ve içleri yumuşayana kadar közlemek gerekir. Közlenen patlıcan hafif dumanlı bir aroma kazanır.
+
+    '
+- t: Kararmasını önlemek
+  d: 'Közlenip soyulan patlıcanlar havayla temas edince kararır. Limonlu suda birkaç dakika bekletip süzmek patlıcanın açık renkte kalmasını sağlar ve beğendiye daha temiz bir görünüm verir.
+
+    '
+- t: Beğendinin kıvamı
+  d: 'Tereyağında un kokusu çıkana kadar kavrulmalı, süt azar azar eklenerek topaksız bir beşamel elde edilmeli. Patlıcan ve kaşar eklendikten sonra kıvam yumuşak püre gibi olmalı; çok koyu beğendi servis edildiğinde sertleşir.
+
+    '
+- t: Saklama
+  d: 'Et ve beğendi ayrı kaplarda buzdolabında 3 gün dayanır. Beğendi ısıtırken bir miktar süt ekleyerek kıvamı açılabilir.
+
+    '
+faq:
+- q: Hünkâr beğendi nedir?
+  a: Közlenmiş patlıcan, beşamel ve kaşarla yapılan beğendinin üzerine domatesli et yahnisi konularak servis edilen bir Osmanlı saray yemeğidir.
+- q: Hünkâr beğendi için hangi et kullanılır?
+  a: Dana ya da kuzu kuşbaşı. Kuzu daha geleneksel ve aromalıdır; dana ise daha yaygın olarak tercih edilir.
+- q: Beğendi neden topaklanır?
+  a: Süt bir kerede eklendiğinde un topaklanır. Sütü azar azar ekleyip sürekli çırpmak pürüzsüz bir beğendi sağlar.
+- q: Hünkâr beğendi önceden hazırlanır mı?
+  a: Et bir gün önceden pişirilebilir. Beğendi ise servis gününde hazırlanırsa daha iyi olur.
+editorNote: Hünkâr beğendinin iki ayrı parçasını, yani kısık ateşte lokum gibi pişen eti ve közlenmiş patlıcanlı beğendiyi, birbirini bekletmeden aynı anda hazırlanacak şekilde sıraladık. Patlıcanın kararmaması için limonlu su notu da bu yüzden var.
 ---
 
-Osmanlı mutfağının imza yemeği. Uğraştırır ama misafir sofrasının yıldızı olur.
+Hünkâr beğendi, Osmanlı saray mutfağından günümüze gelen en ünlü yemeklerden biri. Köz patlıcan, beşamel ve kaşarla hazırlanan "beğendi"nin üzerine domatesli et yahnisi konularak servis edilir. Adının, 1869'da İstanbul'u ziyaret eden Fransız İmparatoriçesi Eugénie'nin yemeği çok beğenmesinden geldiği anlatılır.
+
+Bu tarifte kuşbaşı et tereyağında mühürlenip soğan, salça, domates ve biberle birlikte kısık ateşte uzun süre pişiriliyor. Bu sırada patlıcanlar közlenip ince kıyılıyor ve tereyağı, un, süt, kaşar ve muskatla hazırlanan beğendiye karıştırılıyor.
+
+4 kişilik tarif yaklaşık 2 saat sürüyor; düdüklü tencerede et 30 dakikada pişiyor.

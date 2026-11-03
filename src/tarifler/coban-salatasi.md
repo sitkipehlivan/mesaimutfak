@@ -72,6 +72,38 @@ steps:
 tips:
 - Tuzu en sonda ekle; erken tuz domatesin suyunu çıkarır.
 - Sebzeleri ne kadar küçük doğrarsan o kadar lezzetli olur.
+updated: '2026-11-03'
+notes:
+- t: Tuz neden en sona?
+  d: 'Tuz domates ve salatalığın suyunu çeker. Erken tuzlanan salata dakikalar içinde sulanır ve sebzeler yumuşar. Tuzu ve sosu servis etmeden hemen önce eklemek sebzelerin diri kalmasını sağlar.
+
+    '
+- t: Soğanı ovmak
+  d: 'Kırmızı soğanı sumak ve bir tutam tuzla ovmak, soğanın keskin ve acı tadını yumuşatır ve hafif ekşimsi bir lezzet katar. Ovulmuş soğan salataya daha dengeli bir tat verir.
+
+    '
+- t: Domates seçimi
+  d: 'Yazın olgun, sulu domatesler salatanın tadını belirler. Kış aylarında domates lezzetsiz olabilir; daha küçük, çeri domatesler ya da salkım domatesler daha iyi sonuç verir.
+
+    '
+- t: Saklama
+  d: 'Çoban salatası taze yenmelidir. Sosu eklenmemiş doğranmış sebzeler buzdolabında birkaç saat bekleyebilir; sos servis anında eklenmelidir.
+
+    '
+faq:
+- q: Çoban salatasına neler konur?
+  a: Domates, salatalık, sivri biber, kırmızı soğan ve maydanoz. Sos olarak zeytinyağı, limon ve tuz kullanılır; isteğe göre sumak eklenir.
+- q: Çoban salatası neden sulanır?
+  a: Tuz erken eklendiğinde sebzelerin suyu çıkar. Tuzu ve sosu servis etmeden hemen önce eklemek sulanmayı önler.
+- q: Çoban salatası ile gavurdağı salatası arasındaki fark nedir?
+  a: Gavurdağı salatasında ceviz ve nar ekşisi bulunur, sebzeler daha ince kıyılır. Çoban salatası ise daha sade, limonlu ve zeytinyağlıdır.
+- q: Çoban salatası vegan mı?
+  a: Evet, çoban salatası tamamen vegan ve glutensizdir.
+editorNote: Çoban salatasında tuzu en sona saklamayı ve sebzeleri küçük doğramayı tarifin iki ana kuralı yaptık. Soğanı sumak ve tuzla ovmak da çiğ soğanın keskinliğini yumuşatıyor.
 ---
 
-Her sofranın, her ızgaranın vazgeçilmez eşi. Beş dakikada hazır.
+Çoban salatası, domates, salatalık, biber ve soğanın küçük küpler halinde doğranıp zeytinyağı ve limonla tatlandırıldığı, Türk sofrasının en temel salatası. Izgaraların, kebapların ve pilavların yanında neredeyse her öğünde yer alır.
+
+Bu tarifte sebzeler küçük küp doğranıyor, kırmızı soğan sumak ve bir tutam tuzla ovularak keskinliği alınıyor. Tüm malzemeler maydanozla birleştiriliyor ve servis etmeden hemen önce zeytinyağı, limon ve tuzla tatlandırılıyor.
+
+4 kişilik tarif 10 dakikada hazır. Yaz domatesinin en iyi değerlendirildiği tabaklardan biri.

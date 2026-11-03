@@ -96,6 +96,38 @@ tips:
 - Köfteleri pişirirken bastırma, suyu kaçar.
 - Harca yağsız kıyma koyarsan köfte kuru olur; yüzde 15-20 yağ idealdir.
 - Pişmemiş köfteleri yağlı kâğıt aralarıyla dondurabilirsin.
+updated: '2026-11-03'
+notes:
+- t: Kıymanın yağ oranı
+  d: 'Köftenin sulu olması için kıymanın yüzde 15-20 yağ içermesi gerekir. Yağsız kıyma köfteyi kuru ve sert yapar. Kasaptan orta yağlı kıyma istemek iyi bir ölçü.
+
+    '
+- t: Soğanın suyunu sıkmak
+  d: 'Rendelenmiş soğanın suyu sıkılmazsa harç sulanır ve köfteler ızgarada dağılır. Soğanı rendeleyip bir tülbent ya da ince süzgeçte sıkmak gerekir; aroma posada kalır.
+
+    '
+- t: Yoğurmak ve dinlendirmek
+  d: 'Harcı en az 5 dakika yoğurmak kıymanın proteinlerinin bağlanmasını sağlar; köfteler şeklini korur. Buzdolabında 30 dakika dinlendirmek şekil vermeyi kolaylaştırır.
+
+    '
+- t: Pişirirken bastırmamak
+  d: 'Köfteleri pişirirken spatulayla bastırmak suyunun akmasına ve köftenin kurumasına neden olur. Her yüzü bir kez çevirmek yeterli.
+
+    '
+faq:
+- q: Izgara köfte neden dağılır?
+  a: Harç yeterince yoğrulmadığı ya da soğanın suyu sıkılmadığı için. 5 dakika yoğurmak ve harcı dinlendirmek dağılmayı önler.
+- q: Köfteye galeta unu yerine ne konur?
+  a: Bayat ekmek içi ya da yulaf ezmesi kullanılabilir.
+- q: Izgara köfte kaç dakika pişer?
+  a: İyice ısıtılmış ızgarada ya da döküm tavada her yüzü 3-4 dakika.
+- q: Köfte harcı dondurulur mu?
+  a: Evet. Şekil verilmiş köfteler aralarına yağlı kâğıt konarak dondurulabilir; 2 ay saklanabilir.
+editorNote: Izgara köftede kıymanın yağ oranını (yüzde 15-20) özellikle belirttik; kuru köftenin en yaygın sebebi yağsız kıyma. Rendelenmiş soğanın suyunu sıkmak da köftelerin ızgarada dağılmamasını sağlıyor.
 ---
 
-Her evin bir köfte tarifi vardır, bu da bizim temel tarifimiz. Yarım saatte sofraya gelir, yanında piyazla bayram olur.
+Ev usulü ızgara köfte, kıymanın rendelenmiş soğan, sarımsak, galeta unu ve baharatlarla yoğrulup ızgarada ya da döküm tavada pişirildiği, Türk mutfağının en temel et yemeklerinden biri. Yanında sumaklı soğan, piyaz ve közlenmiş domatesle servis edilir.
+
+Bu tarifte tüm malzemeler en az 5 dakika yoğruluyor ve harç buzdolabında dinlendiriliyor. Ceviz büyüklüğünde parçalar yassılaştırılıp iyice ısıtılmış döküm tavada ya da ızgarada her yüzü 3-4 dakika pişiriliyor.
+
+4 kişilik tarif 25 dakikada hazır.

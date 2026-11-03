@@ -100,6 +100,38 @@ steps:
 tips:
 - Yoğurma süresi kısa olursa bulgur çiğ kalır; sabırla yoğur.
 - Eldiven giymek ellerini isottan korur.
+updated: '2026-11-03'
+notes:
+- t: Yoğurmanın önemi
+  d: 'Çiğ köftede bulgur pişirilmez; yoğurma sırasında salça ve isotun nemiyle ve elin sıcaklığıyla yumuşar. Yoğurma süresi kısa tutulursa bulgur çiğ ve sert kalır. En az 20-25 dakika yoğurmak gerekir; hamur yumuşak ve yapışkan bir kıvama gelmelidir.
+
+    '
+- t: İsot
+  d: 'İsot, Urfa''ya özgü, kurutulmuş ve hafif fermente edilmiş kırmızı biberdir. Çiğ köfteye koyu rengini ve dumanlı tadını verir. İsot bulunamazsa pul biber kullanılabilir, ancak tadı farklı olur.
+
+    '
+- t: Eldiven
+  d: 'İsot ve biber salçası ellerde yanma hissine yol açabilir. Yoğururken eldiven giymek önerilir.
+
+    '
+- t: Saklama
+  d: 'Buzdolabında kapalı kapta 3 gün dayanır. Yeşillikler eklenmeden saklanırsa daha uzun süre taze kalır.
+
+    '
+faq:
+- q: Etsiz çiğ köfte kaç dakika yoğrulur?
+  a: En az 20-25 dakika. Bulgurun yumuşaması için yeterli süre yoğrulması gerekir.
+- q: Çiğ köfte için hangi bulgur kullanılır?
+  a: Çiğ köftelik denilen çok ince bulgur. Pilavlık ya da köftelik iri bulgur uygun değildir.
+- q: Etsiz çiğ köfte vegan mı?
+  a: Evet, tamamen vegan. Bulgur içerdiği için glutensiz değildir.
+- q: İsot yerine ne kullanılır?
+  a: Pul biber ve bir tutam füme paprika karışımı isota en yakın tadı verir.
+editorNote: Etsiz çiğ köftede yoğurma süresinin kısa tutulmasının bulguru çiğ bıraktığını tarifin en önemli uyarısı yaptık. İsot ve biber salçası tadı belirlediği için miktarları damak tadına göre artırılabilir.
 ---
 
-Urfa’nın meşhur köftesi, etsiz ve vegan haliyle. Yoğurmak kas ister ama sonuç buna değer.
+Etsiz çiğ köfte, ince bulgurun isot, salça ve baharatlarla uzun süre yoğrularak hazırlandığı, Güneydoğu Anadolu kökenli ve bugün Türkiye'nin her yerinde sevilen bir atıştırmalık. Marul yaprağı ve limonla servis edilir.
+
+Bu tarifte çiğ köftelik ince bulgur sıcak suyla ıslatılıyor, salçalar, isot, kimyon, tuz, rendelenmiş soğan ve sarımsakla bulgur kızarıp yumuşayana kadar elle yoğruluyor. Zeytinyağı ve nar ekşisi eklenip yeşilliklerle tamamlanıyor.
+
+6 kişilik tarif yaklaşık 40 dakikada hazır.
