@@ -19,7 +19,9 @@
   const SAMPLE_MP4 = 'https://storage.googleapis.com/gvabox/media/samples/stock.mp4';
 
   initPlayer();
-  if (!live && !preview) return;
+  // Advance reklam sunucusu: doğrudan satılan kampanyalar önce; boş kalan alanlar AdSense/Ad Manager'a bırakılır
+  const ADV = cfg.advance;
+  if (!live && !preview && !ADV) return;
   html.classList.add('ads-on');
   if (preview) html.classList.add('ads-preview');
 
@@ -45,7 +47,9 @@
     if (!anchor.classList.contains('ad-off')) html.classList.add('has-anchor');
   }
 
-  if (!live || preview) return previewMode();
+  if (ADV && !preview) advanceBagla();
+  if (preview) return previewMode();
+  if (!live) return;
   if (adsense) return adsenseMode();
 
   /* ---------- gerçek reklamlar: GPT ---------- */
@@ -124,6 +128,26 @@
         // iki kenar reklamı da dolmazsa içerik eski genişliğine döner
         if (document.querySelectorAll('.ad-rail_left.ad-unfilled, .ad-rail_right.ad-unfilled').length === 2) html.classList.remove('has-rails'); }
     })).observe(document.body, { subtree: true, attributes: true, attributeFilter: ['data-ad-status'] });
+  }
+
+  /* ---------- Advance reklam sunucusu ---------- */
+  function advanceBagla() {
+    const ALAN = { masthead: 'mesaimutfak-masthead', atf: 'mesaimutfak-mpu-ust', incontent: 'mesaimutfak-mpu-icerik', leader: 'mesaimutfak-leader', infeed: 'mesaimutfak-infeed', rail_left: 'mesaimutfak-rail-sol', rail_right: 'mesaimutfak-rail-sag' };
+    slots.forEach(el => {
+      const z = ALAN[el.dataset.ad], box = el.querySelector('.ad-slot');
+      if (z && box && !el.classList.contains('ad-off')) box.setAttribute('data-adv-alan', z);
+    });
+    document.addEventListener('adv-dolu', e => { const a = e.target.closest && e.target.closest('.ad'); if (a) { a.classList.add('adv-dolu'); a.classList.remove('ad-empty', 'ad-unfilled'); } });
+    // AdSense/Ad Manager açık değilse boş Advance alanları gizlenir
+    document.addEventListener('adv-bos', e => { const a = e.target.closest && e.target.closest('.ad'); if (a && !live) a.classList.add('ad-off'); });
+    window.advance = {
+      site: 'mesaimutfak', icerik: 1240, rayUst: 150, bosBirak: true,
+      interstitial: 'mesaimutfak-interstitial', pageskin: 'mesaimutfak-pageskin', raylar: ['mesaimutfak-rail-sol', 'mesaimutfak-rail-sag'],
+      haricYollar: '^/(admin|listem|kaydettiklerim|offline)',
+      riza: () => { try { return localStorage.getItem('mm-consent') === 'yes'; } catch (e) { return false; } },
+    };
+    document.addEventListener('mm-consent', () => { if (window.advance.yenile) window.advance.yenile(); });
+    const sc = document.createElement('script'); sc.async = true; sc.src = ADV + '/a.js'; document.head.appendChild(sc);
   }
 
   /* ---------- önizleme: etiketli kutular ---------- */
