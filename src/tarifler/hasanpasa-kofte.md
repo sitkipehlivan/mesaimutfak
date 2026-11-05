@@ -98,6 +98,31 @@ steps:
 tips:
 - Püre katı olmalı; sulu püre köftenin dışına akar.
 - Yanına pirinç pilavı yakışır.
+updated: '2026-11-05'
+editorNote: Pürenin katı olması gerektiğini ilk ipucu olarak yazdık; sulu püre fırında köftenin kenarlarından akar ve görüntüyü bozar.
+notes:
+- t: Püre neden sıcak sütle yapılır?
+  d: |
+    Sıcak süt patatesle daha kolay karışır ve püreyi topaklanmadan pürüzsüz yapar. Soğuk süt eklendiğinde püre soğur ve daha zor ezilir.
+- t: Köftenin ortası nasıl açılır?
+  d: |
+    Yuvarlak köftelerin ortasına bir kaşığın tersiyle bastırılarak çukur açılır. Kenarların biraz kalın bırakılması pürenin taşmasını önler; pişerken köfte biraz küçüleceği için çukur yeterince geniş olmalı.
+- t: Sos köftelere değil, tepsiye
+  d: |
+    Salçalı sos köftelerin üzerine değil etrafına dökülür. Böylece püre ve kaşar ıslanmadan kızarır, köftenin alt kısmı ise sosla pişip sulu kalır.
+faq:
+- q: Hasanpaşa köfte neden adını almış?
+  a: Adının bir Osmanlı paşasından geldiği anlatılır; kesin kaynağı bilinmiyor.
+- q: Hasanpaşa köfte kaç derecede pişer?
+  a: 200°C fırında, kaşar kızarana kadar yaklaşık 25-30 dakika.
+- q: Püre hazır alınabilir mi?
+  a: Hazır püre kullanılabilir ama koyu kıvamda hazırlanmalı.
+- q: Önceden hazırlanır mı?
+  a: Köfteler doldurulup tepside buzdolabında bekletilebilir; sos fırına girmeden hemen önce eklenir.
 ---
 
-Hem köfte hem püre sevenleri aynı tabakta buluşturan bir lokanta klasiği.
+Hasanpaşa köfte, ortası çukurlaştırılan köftelerin patates püresiyle doldurulup üzerine kaşar serpilerek salçalı sosta fırınlandığı bir lokanta yemeği. Köftenin, kremamsı pürenin ve kızarmış kaşarın aynı lokmada buluşması onu hem çocukların hem yetişkinlerin sevdiği bir tabak yapar.
+
+Bu tarifte patatesler haşlanıp tereyağı ve sıcak sütle püre haline getiriliyor. Köfte harcı avuç içi büyüklüğünde yuvarlanıp ortaları kaşıkla açılıyor, püreyle dolduruluyor; salçalı sos tepsiye dökülüp köfteler 200°C fırında kaşar kızarana kadar pişiriliyor.
+
+Dört kişilik tarif yaklaşık 1 saatte hazır.

@@ -85,6 +85,31 @@ tips:
 - Patatesin kabuğu kuru olmalı; ıslak sarılırsa haşlanmış gibi olur.
 - Kaşarı patates sıcakken ezersen ipek gibi bir kıvam alır.
 - Vejetaryen için sosis yerine mantar sote kullan.
+updated: '2026-11-05'
+editorNote: Kaşarın patates sıcakken ezilmesini ipucu olarak yazdık; kumpirin akışkan ve uzayan iç dokusu bu adımdan geliyor.
+notes:
+- t: Patates seçimi
+  d: |
+    Kumpir için iri ve nişastası yüksek patatesler tercih edilir. Bu patatesler fırında pişince içleri un gibi dağılır ve tereyağıyla kolayca ezilir.
+- t: Neden çatalla delinir?
+  d: |
+    Pişerken patatesin içindeki su buhara dönüşür. Çatalla açılan küçük delikler buharın çıkmasını sağlar; böylece patatesin içi kuru ve kabarık kalır.
+- t: Sıcakken ezmek
+  d: |
+    Patates fırından yeni çıkmışken eklenen tereyağı ve kaşar hızla erir ve patatesle birleşir. Soğumaya başlayan patateste kaşar erimez ve topaklanır.
+faq:
+- q: Kumpir patatesi kaç dakika pişer?
+  a: 200°C fırında yaklaşık 55-60 dakika; bıçak kolayca giriyorsa hazırdır.
+- q: Kumpir airfryer'da yapılır mı?
+  a: Evet; folyosuz olarak 200°C'de yaklaşık 40-45 dakika.
+- q: Kumpire neler konur?
+  a: Rus salatası, mısır, zeytin, turşu, sosis, mantar ve soslar; tamamen isteğe bağlı.
+- q: Vejetaryen kumpir yapılır mı?
+  a: Sosis yerine mantar sote kullanılarak.
 ---
 
-Ortaköy’ün meşhur kumpiri evde: Fırın patatesi işi kolaylaştırır, dolgu kısmı tamamen sana kalmış.
+Kumpir, fırında pişirilen iri patatesin içinin tereyağı ve kaşarla ezilip üzerine çeşitli dolgular eklendiği bir yemek. İstanbul'da Ortaköy'le özdeşleşen kumpir, evde fırınla kolayca yapılabilir ve dolgularıyla herkesin kendi tabağını hazırlamasına imkan tanır.
+
+Bu tarifte patatesler yıkanıp çatalla delinerek folyoya sarılıyor ve 200°C fırında yaklaşık bir saat pişiriliyor. Üstü boydan boya kesilip açılan patatesin içi tereyağı, kaşar ve tuzla eziliyor; ardından Rus salatası, mısır, zeytin, turşu ve sosis gibi dolgular ekleniyor.
+
+Dört kişilik tarif yaklaşık 75 dakikada hazır.

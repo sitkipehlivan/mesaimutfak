@@ -93,6 +93,31 @@ steps:
 tips:
 - Sos ne kadar uzun pişerse o kadar derinleşir.
 - Fazla sosu porsiyonlayıp dondurabilirsin.
+updated: '2026-11-05'
+editorNote: Sebzelerin "çok ince" doğranmasını özellikle belirttik; bu sebzeler sosta görünmemeli, pişerek sosun içinde erimeli.
+notes:
+- t: Soğan, havuç ve kereviz
+  d: |
+    Bu üçlü İtalyan mutfağında soffritto olarak bilinir ve birçok sosun temelini oluşturur. Yavaşça yumuşatılan sebzeler sosa doğal bir tatlılık ve derinlik katar.
+- t: Uzun pişirme
+  d: |
+    Bolonez sosu acele ile pişirilmez. Kısık ateşte uzun süre pişen sosun tatları birbirine karışır ve koyulaşır. Ertesi gün ısıtılan sos genellikle daha lezzetlidir.
+- t: Bol tuzlu su
+  d: |
+    Makarnanın kendisi ancak haşlama suyundan tuz alır. Bol ve iyi tuzlanmış suda haşlanan makarna sosla birleştiğinde tat dengesi daha iyi olur.
+faq:
+- q: Bolonez sosu ne kadar pişer?
+  a: Kıyma eklendikten sonra en az 30 dakika; daha uzun pişirmek tadı derinleştirir.
+- q: Bolonez sos dondurulur mu?
+  a: Evet; porsiyonlanıp 3 aya kadar dondurulabilir.
+- q: Kereviz olmazsa olur mu?
+  a: Olur; tarifte isteğe bağlı olarak verildi.
+- q: Spagetti yerine hangi makarna kullanılır?
+  a: Tagliatelle, penne ya da fettuccine.
 ---
 
-Pazar akşamı ağır ateşte pişen, hafta içi dondurucudan kurtaran bir sos.
+Spagetti bolonez, kıymanın soğan, havuç ve kerevizle birlikte domates sosunda uzun süre pişirildiği bir et sosuyla servis edilen makarna. Adını İtalya'nın Bologna şehrinden alır; orada bu sos ragù adıyla bilinir ve geleneksel olarak daha geniş makarnalarla yenir.
+
+Bu tarifte çok ince doğranmış soğan, havuç ve kereviz sapı zeytinyağında yumuşatılıyor. Kıyma suyunu çekene kadar pişirilip sarımsak ve salça ekleniyor; domates ve kekikle kısık ateşte koyulaşana kadar pişirilen sos, bol tuzlu suda haşlanmış spagettiyle karıştırılıyor.
+
+Dört kişilik tarif yaklaşık 1 saatte hazır.

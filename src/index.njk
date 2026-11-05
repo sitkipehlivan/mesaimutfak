@@ -4,10 +4,11 @@ isHome: true
 ---
 {%- set wk = weekly if (weekly and weekly.hero) else { hero: home.hero.slug, heroEyebrow: home.hero.eyebrow, picks: [], popular: home.popular } -%}
 {%- set heroR = collections.tarifler | bySlug(wk.hero) -%}
+{%- if not heroR -%}{%- set heroR = (collections.tarifler | bySlugs(wk.picks))[0] or collections.tarifler[0] -%}{%- endif -%}
 
 {# 1. Haftanın tarifleri: slider, her pazartesi otomatik yenilenir #}
 {%- set slides = [heroR] -%}
-{%- for r in (collections.tarifler | bySlugs(wk.picks)) -%}{%- if loop.index <= 5 -%}{%- set _x = slides.push(r) -%}{%- endif -%}{%- endfor -%}
+{%- for r in (collections.tarifler | bySlugs(wk.picks)) -%}{%- if r != heroR and slides.length < 6 -%}{%- set _x = slides.push(r) -%}{%- endif -%}{%- endfor -%}
 <h1 class="sr-only">Mesai Mutfak: pratik ve kolay yemek tarifleri</h1>
 <div class="wrap hero-solo hero-ad">
   <div class="hslider" id="hslider" aria-roledescription="carousel" aria-label="Haftanın tarifleri">

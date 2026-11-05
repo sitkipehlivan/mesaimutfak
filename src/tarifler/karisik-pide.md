@@ -121,6 +121,31 @@ tips:
 - Domatesin suyu fazlaysa doğradıktan sonra süzgeçte beklet; sulu harç hamuru hamurlaştırır.
 - Tepsiyi önceden ısıtmak tabanın taş fırındaki gibi çıtır olmasını sağlar.
 - Hamuru bir gece önceden yoğurup buzdolabında yavaş mayalandırırsan daha lezzetli olur.
+updated: '2026-11-05'
+editorNote: Domatesin suyunu süzmeyi ilk ipucu olarak yazdık; sulu harç pidenin ortasını hamurlaştıran en yaygın sebep.
+notes:
+- t: Hamura süt eklemek
+  d: |
+    Hamura katılan süt, pidenin kenarlarının daha yumuşak olmasını ve fırında daha güzel renk almasını sağlar. Yalnızca suyla yapılan hamur biraz daha sert ve çıtır olur.
+- t: Harcı ince yaymak
+  d: |
+    Kalın yayılan harç fırındaki kısa sürede pişemez ve pidenin ortası ıslak kalır. Kenarlarda iki parmak boşluk bırakarak ince bir tabaka halinde yaymak, hem harcın hem hamurun aynı anda pişmesini sağlar.
+- t: Neden önceden ısıtılmış tepsi?
+  d: |
+    Hamur kızgın tepsiye değdiğinde tabanı hemen pişmeye başlar ve taş fırındaki gibi çıtır olur. Soğuk tepside pişen pidenin altı genellikle soluk ve yumuşak kalır.
+faq:
+- q: Karışık pidede neler olur?
+  a: Bu tarifte kıymalı harç, sucuk ve kaşar peyniri var. Pideciler bazen pastırma ya da yumurta da ekler.
+- q: Pide neden hamur kalır?
+  a: Harç sulu olduğunda, kalın yayıldığında ya da fırın yeterince sıcak olmadığında.
+- q: Hangi kaşar kullanılır?
+  a: Eriyebilen taze kaşar uygundur. Rendelenmiş olarak eşit dağıtılır.
+- q: Pide ertesi gün nasıl ısıtılır?
+  a: Önceden ısıtılmış fırında 180°C'de birkaç dakika; mikrodalga hamuru yumuşatır.
 ---
 
-Pideci tadını evde yakalamanın püf noktası çok sıcak fırın ve ince yayılmış harç. Kıyma, sucuk ve kaşar bir arada olunca herkesin sevdiği karışık pide çıkıyor.
+Karışık pide, kıymalı harcın üzerine sucuk ve kaşar eklenerek hazırlanan, pidecilerin en çok sipariş edilen çeşidi. Kıymanın, sucuğun ve eriyen kaşarın bir araya geldiği bu pide, ev fırınında da doğru sıcaklık ve ince yayılmış harçla pideci tadına çok yaklaşır.
+
+Bu tarifte süt ve suyla yumuşak bir hamur yoğruluyor, harç çiğ olarak hazırlanıp ince yayılıyor. Kaşar ve sucuk eklendikten sonra pideler kayık şeklinde kapatılıyor, kenarlarına yumurta sarısı sürülüp önceden ısıtılmış tepside 250°C'de pişiriliyor.
+
+Dört pide için mayalanma hariç yaklaşık 45 dakika gerekiyor.

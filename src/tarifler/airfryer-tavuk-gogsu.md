@@ -70,6 +70,31 @@ tips:
 - Kalınlığı eşitlemek kurumanın önündeki en büyük adım.
 - Yoğurt eti yumuşatır, kızarmasını da kolaylaştırır.
 - Haftalık hazırlık için üç-dört göğüs birden pişirip salatalara kullan.
+updated: '2026-11-05'
+editorNote: Pişme noktası için iç sıcaklığı (74°C) yazdık; mutfak termometresi olanlar için tavuğun hem güvenli hem sulu olduğu kesin nokta bu.
+notes:
+- t: Kalınlığı eşitlemek
+  d: |
+    Tavuk göğsünün bir ucu kalın, diğer ucu incedir. Bu haliyle pişirildiğinde ince uç kururken kalın uç pişmemiş olabilir. Et döveriyle ya da tavanın tabanıyla bastırarak kalınlığı eşitlemek, filetonun her yerinin aynı anda pişmesini sağlar.
+- t: Dinlendirme
+  d: |
+    Pişen tavuk hemen kesilirse sıcaklıkla hareketlenen suyu tabağa akar. Beş dakika beklemek bu suyun et içinde yeniden dağılmasını sağlar.
+- t: Toplu hazırlık
+  d: |
+    Aynı anda birkaç göğüs pişirilip buzdolabında saklanabilir. Dilimlenmiş tavuk salatalarda, dürümlerde ve makarnalarda hafta boyunca kullanılabilir.
+faq:
+- q: Airfryer'da tavuk göğsü kaç dakika pişer?
+  a: 190°C'de 14-16 dakika; ortasında çevrilir.
+- q: Tavuk göğsü neden kurur?
+  a: Kalınlık eşit olmadığında, marine edilmediğinde ya da fazla pişirildiğinde.
+- q: Marine etmeden olur mu?
+  a: Olur, ama yoğurtlu marine eti daha yumuşak ve sulu yapar.
+- q: Tavuk göğsü buzdolabında ne kadar saklanır?
+  a: Pişmiş olarak kapalı kapta 3 gün.
 ---
 
-Diyet listelerinin klasiği kuru ve sıkıcı olmak zorunda değil. Yoğurtlu marine ve doğru süreyle sulu sulu.
+Airfryer'da tavuk göğsü, yoğurt ve baharatlarla marine edilen tavuk göğsünün sıcak hava fritözünde kısa sürede pişirildiği pratik bir ana yemek. Tavuk göğsü yağsız bir et olduğu için kolayca kurur; bu tarifteki iki teknik, kalınlığı eşitlemek ve yoğurtlu marine, sulu kalmasını sağlar.
+
+Bu tarifte tavuk göğüslerinin kalın uçları bastırılarak yaklaşık 2 santim kalınlığa getiriliyor. Yoğurt, zeytinyağı ve baharatlarla ovulup en az 15 dakika bekletiliyor; 190°C'de 14-16 dakika, arada çevrilerek pişiriliyor ve dilimlenmeden önce 5 dakika dinlendiriliyor.
+
+İki kişilik tarif yaklaşık 26 dakikada hazır.

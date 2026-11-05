@@ -64,6 +64,31 @@ steps:
 tips:
 - Geleneksel olarak buz ile soğutulup buz parçalarıyla servis edilir.
 - Sütsüz ve yumurtasız olduğu için vegan bir tatlı.
+updated: '2026-11-05'
+editorNote: Nişastanın soğukken çırpılmasını ilk adıma yazdık; sıcak suya eklenen nişasta anında topaklanır.
+notes:
+- t: Nişasta neden soğuk sıvıyla karıştırılır?
+  d: |
+    Nişasta sıcak sıvıyla temas ettiği anda dış yüzeyi jelleşir ve içi kuru kalan topaklar oluşur. Soğuk suda önce tamamen çözülüp sonra ısıtıldığında pürüzsüz bir kıvam elde edilir.
+- t: Şeffaflaşma ne anlama gelir?
+  d: |
+    Nişasta piştikçe beyaz ve bulanık görünümünü kaybedip şeffaflaşır. Bu, nişastanın tam piştiğinin işaretidir; şeffaflaşmadan ocaktan alınan muhallebi unlu bir tat bırakır.
+- t: Gül suyu
+  d: |
+    Gül suyu güçlü bir aromadır; az miktarda kullanılır. Muhallebinin içine değil, servis ederken üzerine gezdirmek kokusunu daha belirgin kılar.
+faq:
+- q: Su muhallebisi vegan mı?
+  a: Evet; süt ve yumurta içermez.
+- q: Su muhallebisi neden topaklanır?
+  a: Nişasta sıcak suya eklendiğinde ya da pişerken karıştırılmadığında.
+- q: Gül suyu yerine ne kullanılır?
+  a: Portakal çiçeği suyu ya da sade şekerle servis edilebilir.
+- q: Ne kadar saklanır?
+  a: Buzdolabında kapalı kapta 2 gün.
 ---
 
-Eski İstanbul’un yaz sıcağında yenen, en hafif muhallebisi.
+Su muhallebisi, süt yerine suyla ve nişastayla pişirilen, gül suyu ve pudra şekeriyle servis edilen bir Osmanlı tatlısı. Eski İstanbul'da yaz aylarında soğuk ve hafif bir tatlı olarak sevilirdi; sütsüz ve yumurtasız olduğu için vegan beslenenler için de uygun bir sütlü tatlı alternatifidir.
+
+Bu tarifte su, mısır nişastası ve şeker soğukken çırpılıyor, sürekli karıştırılarak koyulaşıp şeffaflaşana kadar pişiriliyor. Islatılmış kaba dökülüp soğutulan muhallebi küp küp kesilip gül suyu ve pudra şekeriyle servis ediliyor.
+
+Altı kişilik tarif 20 dakikada hazırlanıyor; servis için soğuması gerekiyor.

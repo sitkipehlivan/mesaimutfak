@@ -60,6 +60,31 @@ tips:
 - İki kez kızartma, lokantalardaki çıtırlığın sırrıdır.
 - Patates kuru olmazsa yağ köpürür ve sıçrar.
 - Airfryer’da 1 kaşık yağla 200°C’de 18-20 dakika, arada sallayarak da yapılır.
+updated: '2026-11-05'
+editorNote: Sıcaklıkları derece olarak verdik; termometre yoksa ilk kızartmada yağ hafif köpürmeli, ikincisinde ise patates girer girmez güçlü bir cızırtı olmalı.
+notes:
+- t: Neden soğuk suda bekletilir?
+  d: |
+    Doğranan patatesin yüzeyindeki nişasta kızartma sırasında patateslerin birbirine yapışmasına ve yüzeyin hızla koyulaşmasına neden olur. Soğuk su bu nişastanın bir kısmını alır; ardından patatesin iyice kurulanması gerekir, aksi halde yağ sıçrar.
+- t: Çift kızartmanın mantığı
+  d: |
+    İlk kızartmada düşük sıcaklık patatesin içini pişirir ama dışını kızartmaz. Dinlendirme sırasında yüzey biraz kurur. İkinci kızartmadaki yüksek sıcaklık ise bu kurumuş yüzeyi hızla çıtır bir kabuğa dönüştürür.
+- t: Tuz ne zaman eklenir?
+  d: |
+    Tuz kızartmadan hemen sonra, patates sıcakken eklenir; böylece yüzeye yapışır. Kızartmadan önce eklenen tuz patatesin su salmasına neden olur.
+faq:
+- q: Patates kızartması neden yumuşak olur?
+  a: Patatesler kurulanmadığında, tavaya çok fazla patates konduğunda ya da yağ yeterince sıcak olmadığında.
+- q: Patates kızartması için hangi patates iyi?
+  a: Nişastası yüksek, kumlu dokulu patatesler daha çıtır olur.
+- q: Airfryer'da patates kızartması nasıl yapılır?
+  a: Bir kaşık yağla 200°C'de 18-20 dakika, arada sepeti sallayarak.
+- q: Kızartma yağı tekrar kullanılır mı?
+  a: Süzülüp serin bir yerde saklanırsa birkaç kez kullanılabilir; koyulaşmış ve kokan yağ atılmalı.
 ---
 
-Herkesin bildiği ama çoğu zaman yumuşak çıkan tabak. İki küçük kural, soğuk su ve çift kızartma, sonucu tamamen değiştirir.
+Patates kızartması evde en sık yapılan ama çoğu zaman yumuşak çıkan yemeklerden biri. Lokantalardaki çıtırlığın arkasında iki basit teknik var: patatesin nişastasını almak ve patatesi iki farklı sıcaklıkta iki kez kızartmak.
+
+Bu tarifte patatesler 1 cm kalınlığında çubuklar halinde doğranıp 30 dakika soğuk suda bekletiliyor ve iyice kurulanıyor. Önce 150°C yağda renk almadan yumuşayana kadar, dinlendirildikten sonra 180°C yağda altın rengi olana kadar kızartılıyor.
+
+Dört kişilik tarif bekletme hariç yaklaşık 30 dakikada hazır. Airfryer'da tek kaşık yağla da yapılabiliyor.

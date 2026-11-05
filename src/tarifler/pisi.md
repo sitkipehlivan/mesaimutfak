@@ -70,6 +70,31 @@ steps:
 tips:
 - Ortadaki delik pişinin eşit kızarmasını sağlar.
 - Peynir ve reçelle sıcak sıcak servis et; bekleyince sertleşir.
+updated: '2026-11-05'
+editorNote: Ortadaki deliği ipucu olarak açıkladık; çoğu kişinin süs sandığı bu delik pişinin eşit pişmesini sağlıyor.
+notes:
+- t: Ortadaki delik ne işe yarar?
+  d: |
+    Pişinin ortası kenarlarından daha kalın kalma eğilimindedir. Ortaya açılan delik, sıcak yağın hamurun merkezine de ulaşmasını ve pişinin her yerinin aynı sürede pişmesini sağlar.
+- t: Yağlı eller
+  d: |
+    Pişi hamuru yumuşak ve hafif yapışkandır. Elleri yağlamak hamuru unlamadan şekillendirmeyi kolaylaştırır; un kullanılırsa kızartma yağında yanarak yağı karartır.
+- t: Sıcak servis
+  d: |
+    Pişi soğudukça yumuşaklığını kaybeder ve sertleşir. Kızarır kızarmaz kâğıt havluya alıp sıcak servis etmek en iyi sonucu verir.
+faq:
+- q: Pişi hamuru ne kadar mayalanır?
+  a: Ilık ortamda yaklaşık 45-60 dakika, iki katına çıkana kadar.
+- q: Pişi neden yağ çeker?
+  a: Yağ yeterince sıcak olmadığında ya da hamur çok kalın açıldığında.
+- q: Pişi hamuru önceden hazırlanır mı?
+  a: Buzdolabında bir gece yavaş mayalandırılabilir.
+- q: Pişinin yanına ne gider?
+  a: Beyaz peynir, reçel, bal ya da kaymak.
 ---
 
-Pazar kahvaltısını bayrama çeviren basit bir hamur. Bekleme süresi dışında yirmi dakikalık iş.
+Pişi, mayalı yumuşak hamurdan koparılan parçaların elle inceltilip ortası delinerek kızgın yağda kızartıldığı bir kahvaltı hamuru. Dışı hafif çıtır, içi yumuşak ve kabarık olan pişi, peynir, reçel ya da balla sıcak servis edilir.
+
+Bu tarifte süt, su, maya ve şekerle karıştırılan un yumuşak bir hamur halinde yoğruluyor ve iki katına çıkana kadar mayalandırılıyor. Yağlanmış ellerle koparılan parçalar avuç içinde açılıp ortası delinerek kızgın yağda iki yüzü kabarıp kızarana kadar pişiriliyor.
+
+Altı kişilik tarif mayalanma hariç yaklaşık 30 dakikada hazır.

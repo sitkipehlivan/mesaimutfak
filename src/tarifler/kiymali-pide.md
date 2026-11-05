@@ -107,6 +107,31 @@ steps:
 tips:
 - Tepsiyi fırında önceden ısıtırsan altı daha çıtır olur.
 - Kıymalı harca bir avuç kaşar ekleyerek karışık pide yapabilirsin.
+updated: '2026-11-05'
+editorNote: Harcın çiğ olarak yayılmasını özellikle belirttik; önceden pişirilen kıyma fırında kurur ve pidenin tabanına su vermez.
+notes:
+- t: Harç neden çiğ yayılır?
+  d: |
+    Pidecilerde kıymalı harç fırına çiğ girer. Pişerken kıymanın ve domatesin suyu hamurun üst yüzeyine işler; bu, pidenin altı çıtır, üstü yumuşak ve lezzetli olmasını sağlar.
+- t: Kayık şekli nasıl verilir?
+  d: |
+    Oval açılan hamurun uzun kenarları harcın üzerine doğru katlanır, iki ucu parmaklarla bükülüp sıkıştırılır. Kenarlar sıkı kapanmazsa pişerken açılır ve harç tepsiye akar.
+- t: Fırın sıcaklığı
+  d: |
+    Pide yüksek ısıda kısa sürede pişmelidir. Ev fırınının en yüksek derecesi ve önceden ısıtılmış tepsi, taş fırına en yakın sonucu verir.
+faq:
+- q: Pide hamuru ne kadar mayalanır?
+  a: Ilık bir ortamda yaklaşık 45-60 dakika, hamur iki katına çıkana kadar.
+- q: Pide kaç derecede pişer?
+  a: 240-250°C'de, yaklaşık 10-15 dakika.
+- q: Kıymalı pideye yumurta konur mu?
+  a: İsteğe bağlı. Pişmenin son 3 dakikasında ortasına yumurta kırılabilir.
+- q: Pide hamuru önceden hazırlanır mı?
+  a: Evet; yoğrulan hamur buzdolabında bir gece yavaş mayalandırılabilir.
 ---
 
-Karadeniz pidecilerinin kayık şeklindeki pidesi. Hamuru bir kere ele alıştıktan sonra her hafta yapılır.
+Kıymalı pide, mayalı hamurun oval açılıp ortasına çiğ kıymalı harç yayılarak kayık şeklinde kapatıldığı ve çok sıcak fırında pişirildiği bir Karadeniz klasiği. Harç fırında hamurla birlikte piştiği için kıymanın suyu hamura geçer ve pideye kendine özgü tadını verir.
+
+Bu tarifte hamur iki katına çıkana kadar mayalandırılıyor. Soğan, domates, biber ve maydanoz ince doğranıp kıyma ve baharatlarla çiğ olarak yoğruluyor; pideler 240°C fırında kenarları kızarana kadar pişiriliyor.
+
+Dört pide için mayalanma süresi hariç yaklaşık 55 dakika gerekiyor. Fırından çıkınca kenarlara sürülen tereyağı pideye parlaklık verir.

@@ -62,6 +62,31 @@ steps:
 tips:
 - Peynir eklendikten sonra karıştırırsan topaklanır; sabırla bekle.
 - Tuzu peynirin tuzuna göre ayarla.
+updated: '2026-11-05'
+editorNote: Peynir eklendikten sonra karıştırmamayı ilk ipucu olarak yazdık; kuymakta peynirin topaklanmasının en sık sebebi bu.
+notes:
+- t: Peynir seçimi
+  d: |
+    Kuymağın uzayan dokusunu eriyip ip gibi çekilen peynirler verir. Trabzon'un kolot peyniri ya da tel peyniri bu yüzden tercih edilir. Kaşar da eriyebilir ama aynı uzamayı sağlamaz.
+- t: Yağın ayrılması
+  d: |
+    Kuymak pişince peynirin ve tereyağının yağı yüzeye çıkar. Bu, kuymağın hazır olduğunun işaretidir. Yağ ayrılmadan ocaktan alınan kuymak hamurumsu kalır.
+- t: Mısır ununu kavurmak
+  d: |
+    Mısır unu tereyağında kavrulduğunda çiğ un tadı gider ve kuymağa hafif kavrulmuş, fındıksı bir aroma gelir.
+faq:
+- q: Kuymak ile mıhlama aynı mı?
+  a: Evet, yöreden yöreye değişen isimlerle aynı yemeği anlatır.
+- q: Kuymak hangi peynirle yapılır?
+  a: Kolot, tel peyniri ya da eriyebilen taze kaşar.
+- q: Kuymak neden uzamaz?
+  a: Eriyip uzamayan bir peynir kullanıldığında ya da peynir karıştırıldığında.
+- q: Kuymak glutensiz mi?
+  a: Mısır unuyla yapıldığı için glutensizdir.
 ---
 
-Yayla sabahlarının ısıtan kahvaltısı. Ekmeği banıp çekince uzayan peynir, işin en keyifli kısmı.
+Kuymak, tereyağında kavrulan mısır ununun sıcak suyla pişirilip içinde kolot ya da tel peyniri eritilerek yapıldığı bir Karadeniz kahvaltılığı. Yöreye göre muhlama ya da mıhlama adlarıyla da bilinir; sahanda sıcak servis edilir ve ekmekle yenir, peynirin uzaması işin en keyifli kısmıdır.
+
+Bu tarifte tereyağı sahanda eritilip mısır unu kokusu çıkana kadar kavruluyor. Sıcak su eklenip sürekli karıştırılarak koyulaşana kadar pişiriliyor; peynir eklendikten sonra kısık ateşte karıştırılmadan erimesi ve yağın yüzeye çıkması bekleniyor.
+
+İki kişilik tarif yaklaşık 17 dakikada hazır.

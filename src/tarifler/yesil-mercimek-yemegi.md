@@ -83,6 +83,31 @@ steps:
 tips:
 - Ön haşlama mercimeğin acı suyunu alır ve kararmasını önler.
 - Üzerine limon sıkarsan çok yakışır.
+updated: '2026-11-05'
+editorNote: Tuzu pişirmenin sonunda eklemeyi ayrıca belirttik; erken eklenen tuz mercimeğin kabuğunu sertleştirip pişme süresini uzatabilir.
+notes:
+- t: Ön haşlama neden yapılır?
+  d: |
+    Yeşil mercimeği ayrı suda kısa süre haşlayıp suyunu dökmek, yemeğin kararmasını önler ve mercimeğin kendine özgü hafif acımsı tadını azaltır. Böylece yemeğin suyu daha berrak ve kırmızı renkli kalır.
+- t: Bulgur ne katar?
+  d: |
+    Az miktarda bulgur yemeğe kıvam verir ve mercimeği tek başına yemekten daha doyurucu hale getirir. Bulgur pişerken suyu çektiği için yemek fazla sulu kalmaz.
+- t: Kıvam ayarı
+  d: |
+    Mercimekler yumuşadığında yemeğin suyu biraz azalmış ama kurumamış olmalı. Fazla koyulaşırsa bir miktar sıcak su eklenebilir; soğuk su eklemek mercimeğin pişmesini yavaşlatır.
+faq:
+- q: Yeşil mercimek ıslatılır mı?
+  a: Zorunlu değil. Bu tarifte ıslatmak yerine 10 dakika ön haşlanıp süzülüyor.
+- q: Yeşil mercimek ne kadar pişer?
+  a: Ön haşlamadan sonra kısık ateşte yaklaşık 25-30 dakika. Mercimekler parmak arasında kolayca eziliyorsa hazırdır.
+- q: Yeşil mercimek yemeği etli yapılır mı?
+  a: Evet; kavurma aşamasına kuşbaşı et ya da kıyma eklenebilir. Bu tarif etsiz ve vegan.
+- q: Yanına ne gider?
+  a: Pirinç pilavı, turşu ve bir dilim limon klasik eşleşmedir.
 ---
 
-Bütçe dostu, protein dolu ve tenceresi iki gün yeten bir ev yemeği.
+Yeşil mercimek yemeği, mercimeğin salçalı ve soğanlı bir tabanda az bulgurla pişirildiği, kuru baklagil yemeklerinin en pratiklerinden biri. Ekonomik, doyurucu ve bitkisel protein açısından zengin olduğu için ev mutfağında sık yapılır; etsiz hazırlandığı için vegan beslenenlere de uygundur.
+
+Bu tarifte mercimek önce 10 dakika ön haşlanıp süzülüyor. Zeytinyağında soğan, sarımsak ve salçalar kavruluyor, mercimek ve bulgur sıcak suyla kısık ateşte pişiriliyor; nane ve pul biber en sonda ekleniyor.
+
+Dört kişilik tarif yaklaşık 50 dakikada hazır. Bir gün beklediğinde tadı daha da oturur.

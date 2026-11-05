@@ -85,6 +85,31 @@ steps:
 tips:
 - Harca bir avuç sıcak su eklersen dolma daha yumuşak olur.
 - Düdüklüde 15 dakika yeterli.
+updated: '2026-11-05'
+editorNote: Biberleri "dörtte üçüne kadar" doldurmayı özellikle belirttik; pirinç pişerken şiştiği için ağzına kadar doldurulan biberler patlar ve harç taşar.
+notes:
+- t: Neden tamamen doldurulmaz?
+  d: |
+    Pirinç pişerken suyu çekip hacmini neredeyse iki katına çıkarır. Biberlerin üst kısmında boşluk kalmazsa harç kapakları iterek dışarı taşar ya da biberler yarılır.
+- t: Harca su eklemek ne sağlar?
+  d: |
+    Harca eklenen birkaç kaşık su ya da rendelenmiş domates, pirincin pişmesine yardımcı olur ve dolmanın içinin kuru değil yumuşak kalmasını sağlar.
+- t: Biber seçimi
+  d: |
+    Etli ve düz tabanlı dolmalık biberler tencerede dik durur. İnce kabuklu biberler daha çabuk pişer; pişme süresi biberin kalınlığına göre birkaç dakika değişebilir.
+faq:
+- q: Etli biber dolması kaç dakika pişer?
+  a: Kısık ateşte yaklaşık 40-45 dakika, düdüklü tencerede 15 dakika.
+- q: Biber dolması neden patlar?
+  a: Biberler ağzına kadar doldurulduğunda pirinç pişerken genişler ve biberi yarar. Dörtte üçüne kadar doldurmak yeterli.
+- q: Etli dolmaya hangi pirinç kullanılır?
+  a: Baldo ya da osmancık pirinç kullanılabilir. Yıkanıp süzülerek harca katılır.
+- q: Etli biber dolması dondurulur mu?
+  a: Pişmiş dolma hava almayan bir kapta dondurulabilir. Buzdolabında çözdürüp kısık ateşte ısıtmak gerekir.
 ---
 
-Ev yemeklerinin baş tacı. Yanına yoğurt ve kızarmış ekmek yeter.
+Etli biber dolması, dolmalık biberlerin kıymalı ve pirinçli harçla doldurulup salçalı suda pişirildiği, Türk ev mutfağının en sık yapılan yemeklerinden biri. Biberin kendi tadı pişerken harca geçer, salçalı suyu da yemeğin sosu olur.
+
+Bu tarifte kıyma, pirinç, rendelenmiş soğan ve domates, biber salçası, maydanoz, nane ve pul biber yoğruluyor. Biberler dörtte üçüne kadar dolduruluyor, ağızları kendi kapaklarıyla ya da domates dilimiyle kapatılıyor ve tencereye dik dizilerek kısık ateşte pişiriliyor.
+
+Dört kişilik tarif yaklaşık 75 dakikada hazır. Yoğurt ve kızarmış ekmekle servis edilir.

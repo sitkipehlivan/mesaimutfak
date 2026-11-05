@@ -82,6 +82,31 @@ steps:
 tips:
 - Yağ çok sıcaksa dışı yanar, içi çiğ kalır; orta-yüksek ateş idealdir.
 - İzmir usulü servis için tarçın serp.
+updated: '2026-11-05'
+editorNote: Hamurun cıvık ve yapışkan olması gerektiğini adımda açıkça yazdık; ekmek hamuru kıvamında yapılan lokma kızarınca sert ve yoğun olur.
+notes:
+- t: Cıvık hamur
+  d: |
+    Lokma hamuru yoğrulmaz, çırpılır. Bol suyla hazırlanan akışkan hamur mayalanınca içi boşluklu, hafif bir doku oluşturur. Kızarırken bu boşluklar lokmanın içinin yumuşak, dışının çıtır olmasını sağlar.
+- t: Yağ sıcaklığı
+  d: |
+    Yağ çok sıcak olursa lokmanın dışı hızla kararır ama içi çiğ kalır; düşük sıcaklıkta ise lokma yağ çeker. Orta-yüksek ateşte kızartmak ve lokmaları sık sık çevirmek eşit renk verir.
+- t: Islak kaşık
+  d: |
+    Hamur yapışkan olduğu için kaşığa yapışır. Kaşığı her seferinde suya batırmak hamurun kolayca yağa bırakılmasını sağlar ve lokmaların yuvarlak kalmasına yardımcı olur.
+faq:
+- q: Lokma neden yağ çeker?
+  a: Yağ yeterince sıcak olmadığında. Orta-yüksek ateş idealdir.
+- q: Lokma neden içi çiğ kalır?
+  a: Yağ çok sıcak olduğunda dışı hızla pişer ama içi pişmez.
+- q: Şerbet sıcak mı soğuk mu olmalı?
+  a: Lokma sıcak, şerbet soğuk olmalı.
+- q: Lokmaya tarçın konur mu?
+  a: İzmir usulünde servis ederken tarçın serpilir.
 ---
 
-Hayır lokmasının evdeki hali; dışı çıtır, içi yumuşak, şerbeti dengeli.
+Lokma, akışkan mayalı hamurun küçük toplar halinde yağda kızartılıp şerbete batırıldığı bir tatlı. Özellikle Ege'de hayır için büyük kazanlarda dökülüp dağıtılır; evde de az malzemeyle, dışı çıtır içi yumuşak lokma yapmak mümkün.
+
+Bu tarifte önce şerbet kaynatılıp soğutuluyor. Un, maya, şeker, tuz ve ılık suyla cıvık bir hamur hazırlanıp üzeri kabarcıklanana kadar mayalandırılıyor; hamur avuçta sıkılarak çıkan toplar ıslak kaşıkla kızgın yağa bırakılıyor ve sıcak lokmalar soğuk şerbete atılıyor.
+
+Altı kişilik tarif mayalanma hariç yaklaşık 35 dakikada hazır.

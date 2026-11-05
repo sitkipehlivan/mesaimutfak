@@ -78,6 +78,31 @@ steps:
 tips:
 - Kabağın suyunu sıkmazsan mücver dağılır.
 - Fırında yapmak için harcı yağlı kalıplara koy, 200°C’de 25 dakika pişir.
+updated: '2026-11-05'
+editorNote: Kabağın suyunu sıkma adımını ilk ipucu olarak öne çıkardık; mücverin tavada dağılmasının neredeyse tek nedeni bu.
+notes:
+- t: Neden tuzlanıp sıkılır?
+  d: |
+    Kabak büyük oranda sudan oluşur. Tuz kabağın suyunu dışarı çeker; bu su sıkılmazsa harç cıvık olur, mücver tavada yayılır ve kızarmak yerine haşlanır.
+- t: Unun miktarı
+  d: |
+    Un harcı bağlar ama fazlası mücveri hamurumsu yapar. Kabağın suyu iyi sıkıldıysa tarifteki un yeterlidir; harç kaşıktan akmayıp yavaşça düşmelidir.
+- t: Tava sıcaklığı
+  d: |
+    Orta-yüksek ateşte kızartılan mücverin dışı kızarıp içi pişer. Çok yüksek ateşte dışı yanar, içi çiğ kalır; çok düşük ateşte ise yağ çeker.
+faq:
+- q: Mücver neden dağılır?
+  a: Kabağın suyu sıkılmadığında. Tuzlayıp bekletip iyice sıkmak gerekir.
+- q: Mücver fırında yapılır mı?
+  a: Evet; yağlı kalıplarda 200°C'de yaklaşık 25 dakika.
+- q: Mücvere hangi peynir konur?
+  a: Beyaz peynir; istenirse bir kısmı kaşarla değiştirilebilir.
+- q: Mücver yanına ne gider?
+  a: Sarımsaklı yoğurt.
 ---
 
-Yaz kabağının en sevilen hali. Sarımsaklı yoğurtla meze, kahvaltıda başrol.
+Kabak mücveri, rendelenmiş kabağın yumurta, beyaz peynir, yeşil soğan, dereotu ve unla karıştırılıp tavada kızartıldığı bir ara sıcak. Yaz kabağının en sevilen hallerinden biri olan mücver, sarımsaklı yoğurtla meze olarak ya da kahvaltıda servis edilir.
+
+Bu tarifte kabaklar rendelenip tuzlanıyor ve 10 dakika bekletildikten sonra suyu iyice sıkılıyor. Yumurta, ezilmiş peynir, yeşillikler, un ve karabiberle karıştırılan harç kaşıkla tavaya dökülüp iki yüzü kızarana kadar pişiriliyor.
+
+Dört kişilik tarif yaklaşık 30 dakikada hazır. Fırında ya da airfryer'da da yapılabilir.

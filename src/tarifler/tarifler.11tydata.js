@@ -6,6 +6,8 @@ export default {
   eleventyComputed: {
     // Tarifte ayrıca belirtilmemişse editör kontrolü Mesai Mutfak editör ekibine aittir (src/_data/authors.json)
     editor: d => d.editor || 'editor-ekibi',
+    // Editör içeriği eklenmemiş tarifler zenginleştirilene kadar arama motorlarına kapalı
+    noindex: d => d.noindex || !(d.editorNote || d.yayin === true),
     seoTitle: d => `${d.title} tarifi: Nasıl yapılır?`,
     seoDesc: d => {
       const total = (d.prep || 0) + (d.cook || 0);

@@ -78,6 +78,31 @@ steps:
 tips:
 - Tamamen kuruttuğun erişteyi bez torbada aylarca saklayabilirsin.
 - Bir kısmını tepside kavurup çorbalara at.
+updated: '2026-11-05'
+editorNote: Yufkaların kesmeden önce hafif kurutulmasını ayrı adım olarak yazdık; taze ve nemli yufka kesilirken şeritler birbirine yapışıyor.
+notes:
+- t: Sert hamurun önemi
+  d: |
+    Erişte hamuru ekmek hamurundan çok daha serttir. Sert hamur ince açılabilir, kesildiğinde şeklini korur ve haşlanırken dağılmaz. Dinlendirmek hamurun açılmasını kolaylaştırır.
+- t: Kurutma
+  d: |
+    Açılan yufkalar kuru bir örtü üzerinde kenarları hafif sertleşene kadar bekletilir. Bu sayede üst üste konup kesildiğinde yapışmaz. Uzun süre saklanacak erişte ise kesildikten sonra tamamen kurutulur.
+- t: Saklama
+  d: |
+    Tamamen kurumuş erişte bez torbada, serin ve kuru bir yerde aylarca saklanabilir. Nemli ortamda saklanan erişte küflenebilir.
+faq:
+- q: Ev eriştesi ne kadar haşlanır?
+  a: Bol tuzlu suda 8-10 dakika.
+- q: Erişte nasıl kurutulur?
+  a: Kesilen erişteler temiz bir örtüye serilip birkaç gün havadar bir yerde kurutulur.
+- q: Erişte ne kadar saklanır?
+  a: Tamamen kurutulmuşsa bez torbada aylarca.
+- q: Eriştenin yanına ne gider?
+  a: Cevizli tereyağı ve rendelenmiş tulum ya da beyaz peynir.
 ---
 
-Anadolu’nun yaz sonu hazırlığı: bir kere açarsın, bütün kış yersin.
+Ev eriştesi, yumurtalı sert hamurun oklavayla çok ince açılıp kurutulduktan sonra şeritler halinde kesildiği bir hamur işi. Anadolu'da yaz sonunda topluca yapılıp kurutulur ve kış boyunca kullanılır; haşlanıp tereyağında kavrulmuş ceviz ve peynirle servis edilir.
+
+Bu tarifte un, yumurta, süt ve tuzla sert bir hamur yoğrulup 20 dakika dinlendiriliyor. Dört parçaya bölünen hamur çok ince açılıp kenarları hafif sertleşene kadar kurutuluyor, şeritler halinde kesiliyor. Bir kısmı bol tuzlu suda haşlanıp cevizli tereyağında çevriliyor ve peynirle servis ediliyor.
+
+Altı kişilik tarif yaklaşık 75 dakikada hazırlanıyor; kurutulan erişte aylarca saklanabiliyor.

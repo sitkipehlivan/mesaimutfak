@@ -94,6 +94,31 @@ steps:
 tips:
 - İşkembeyi kasaptan temizlenmiş ve haşlamaya hazır al; kokusu ve emeği azalır.
 - Sarımsaklı sirkeyi herkes kendi tabağına damak tadına göre eklesin.
+updated: '2026-11-05'
+editorNote: Kasaptan temizlenmiş işkembe almayı ilk ipucu olarak yazdık; evde işkembe temizlemek hem uzun hem de kokulu bir iş.
+notes:
+- t: İşkembe neden sirkeli suyla yıkanır?
+  d: |
+    Sirkeli su işkembenin kendine özgü kokusunu azaltır. Temizlenmiş işkembe bile birkaç kez yıkanıp durulandığında çorbanın kokusu daha hafif olur.
+- t: Haşlama süresi
+  d: |
+    İşkembe sert bir dokudur ve yumuşaması uzun sürer. Normal tencerede 2,5 saate kadar haşlamak gerekir; düdüklü tencere bu süreyi yaklaşık bir saate indirir. Haşlama suyu çorbanın tabanı olacağı için atılmaz.
+- t: Sarımsaklı sirke ayrı servis edilir
+  d: |
+    Sarımsaklı sirke işkembe çorbasının imzasıdır ama miktarı kişiden kişiye değişir. Çorbaya katmak yerine ayrı kasede sunmak herkesin kendi damak tadına göre eklemesini sağlar.
+faq:
+- q: İşkembe ne kadar haşlanır?
+  a: Normal tencerede yaklaşık 2,5 saat, düdüklü tencerede 1 saat. Çatalla kolayca kesilebiliyorsa hazırdır.
+- q: İşkembe çorbasının kokusu nasıl azaltılır?
+  a: İşkembeyi sirkeli suyla birkaç kez yıkamak ve haşlarken köpüğünü almak kokuyu azaltır.
+- q: İşkembe çorbasına süt konur mu?
+  a: Bu tarifte terbiyeye süt ekleniyor; çorbaya daha yumuşak bir tat ve beyaz bir renk verir. Bazı tariflerde yalnızca yumurta ve limon kullanılır.
+- q: İşkembe çorbası nasıl servis edilir?
+  a: Pul biberli tereyağı gezdirilerek, yanında sarımsaklı sirkeyle servis edilir.
 ---
 
-Hazırlığı uzun, sevenleri sadık bir çorba. Düdüklü tencere işi yarıya indirir.
+İşkembe çorbası, haşlanmış işkembenin meyaneli et suyunda pişirilip yumurta sarısı, süt ve limonla terbiye edildiği, sarımsaklı sirke ve pul biberli tereyağıyla servis edilen bir çorba. Özellikle İstanbul'daki işkembecilerle özdeşleşmiş, sevenlerinin sadık olduğu bir lezzet.
+
+Bu tarifte işkembe sirkeli suyla yıkanıp düdüklü ya da normal tencerede haşlanıyor, şeritler halinde doğranıyor. Tereyağında kavrulan unla meyane yapılıyor, terbiye ılıştırılarak ekleniyor.
+
+Altı kişilik tarif normal tencerede yaklaşık 3 saat, düdüklü tencereyle 1,5 saatte hazır. Hazırlığın büyük kısmı haşlama süresi.

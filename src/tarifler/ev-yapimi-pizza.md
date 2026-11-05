@@ -110,6 +110,31 @@ steps:
 tips:
 - Az malzeme koy; çok malzeme hamuru ıslatır.
 - Hamuru bir gece buzdolabında mayalandırırsan daha lezzetli ve kolay açılır olur.
+updated: '2026-11-05'
+editorNote: Az malzeme koymayı ilk ipucu yaptık; ev pizzasının ortasının hamur kalmasının en sık nedeni fazla malzeme ve fazla sos.
+notes:
+- t: Sos neden pişirilmez?
+  d: |
+    Pişirilmemiş domates sosu fırında hamurla birlikte pişerken tazeliğini korur. Önceden pişirilip koyulaştırılan sos ise fırında daha da koyulaşır ve ağır bir tat verebilir.
+- t: Kızgın tepsi
+  d: |
+    Pizza tabanının çıtır olması için hamurun çok sıcak bir yüzeye değmesi gerekir. Fırınla birlikte ısıtılan tepsiye kaydırılan hamur, taş fırına benzer şekilde alttan hızla pişer.
+- t: Yavaş mayalanma
+  d: |
+    Hamur bir gece buzdolabında bekletildiğinde maya yavaş çalışır ve hamur daha aromatik olur. Soğuk hamur ayrıca daha kolay açılır ve geri çekmez.
+faq:
+- q: Pizza hamuru ne kadar mayalanır?
+  a: Ilık ortamda yaklaşık 1 saat; buzdolabında bir gece.
+- q: Ev fırınında pizza kaç derecede pişer?
+  a: En yüksek derecede, genellikle 250°C, 10-12 dakika.
+- q: Pizzanın altı neden pişmez?
+  a: Tepsi önceden ısıtılmadığında ya da çok malzeme konduğunda.
+- q: Mozzarella yerine kaşar olur mu?
+  a: Olur; mozzarella daha az yağ salar ve daha iyi uzar.
 ---
 
-Hafta sonu herkesin kendi pizzasını süslediği eğlenceli bir akşam yemeği. Hamuru öğlen yap, akşam fırınla.
+Ev yapımı pizza, mayalı hamurun ince açılıp pişirilmemiş domates sosu, mozzarella ve sebzelerle kaplandığı ve en yüksek fırın ısısında kısa sürede pişirildiği bir yemek. Ev fırınları pizza fırınları kadar ısınmaz; önceden ısıtılmış tepsi bu farkı önemli ölçüde kapatır.
+
+Bu tarifte hamur 8-10 dakika yoğrulup iki katına çıkana kadar mayalandırılıyor. Domates püresi sarımsak, kekik, zeytinyağı ve tuzla karıştırılarak çiğ sos hazırlanıyor; hamur pişirme kâğıdı üzerinde açılıp malzemeler diziliyor ve kâğıtla birlikte 250°C'de kızgın tepsiye kaydırılıyor.
+
+İki pizza için mayalanma hariç yaklaşık 45 dakika gerekiyor.

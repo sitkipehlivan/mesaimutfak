@@ -79,6 +79,31 @@ steps:
 tips:
 - Düdüklüde 25 dakikada pişer.
 - Yanına pirinç pilavı ve turşu, klasik esnaf lokantası tabağıdır.
+updated: '2026-11-05'
+editorNote: Tuzu son 15 dakikada eklemeyi tarifte ayrıca yazdık; tuz erken eklenince nohut daha geç yumuşar.
+notes:
+- t: Nohut neden bir gece ıslatılır?
+  d: |
+    Kuru nohut suyu yavaşça çeker. Bir gece suda bekletmek pişme süresini belirgin şekilde kısaltır ve nohutların eşit pişmesini sağlar. Islatma suyu dökülür, nohut yeni suyla pişirilir.
+- t: Eti önce kavurmak
+  d: |
+    Kuşbaşı et kendi suyunu salıp bu suyu çekene kadar kavrulduğunda yüzeyi hafif kızarır ve yemeğe daha derin bir et tadı verir. Et haşlanır gibi pişerse aynı tat oluşmaz.
+- t: Ertesi gün daha lezzetli
+  d: |
+    Nohutlar dinlendikçe sosu emer; bu yüzden etli nohut ertesi gün çoğu zaman daha lezzetli bulunur. Isıtırken bir miktar sıcak su eklemek kıvamı korur.
+faq:
+- q: Nohut kaç saat ıslatılmalı?
+  a: En az 8 saat, ideal olarak bir gece. Islatma suyu atılır.
+- q: Etli nohut düdüklüde kaç dakika pişer?
+  a: Islatılmış nohutla düdüklü tencerede yaklaşık 25 dakika.
+- q: Nohut neden geç pişer?
+  a: Yeterince ıslatılmadığında, tuz erken eklendiğinde ya da nohut eski olduğunda geç pişer.
+- q: Konserve nohutla yapılır mı?
+  a: Yapılabilir; haşlanmış nohut son 15 dakikada eklenir ve su miktarı azaltılır.
 ---
 
-Pilavın yanında olmazsa olmaz. Bir tencere yap, ertesi gün daha da güzel.
+Etli nohut, bir gece ıslatılmış nohudun kuşbaşı etle tereyağı ve salçalı bir sosta pişirildiği, esnaf lokantalarının vazgeçilmez tabağı. Pirinç pilavıyla birlikte servis edilmesi o kadar yaygındır ki "nohut pilav" ikilisi kendi başına bir yemek adı olmuştur.
+
+Bu tarifte ıslatılmış nohut kısa bir ön haşlamadan geçiyor. Et tereyağında suyunu çekene kadar kavruluyor, soğan ve salçalar ekleniyor; nohut sıcak suyla birlikte kısık ateşte yumuşayana kadar pişiriliyor.
+
+Altı kişilik tarif ıslatma süresi hariç yaklaşık 1,5 saatte hazır; düdüklü tencerede pişirme 25 dakikaya iner.

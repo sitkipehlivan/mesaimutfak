@@ -103,6 +103,31 @@ tips:
 - Harcın tutmadığını görürsen 15 dakika daha buzdolabında beklet; soğuk harç şişte daha iyi durur.
 - Ustalar soğanı çoğu zaman hiç koymaz; koyarsan mutlaka suyunu çok iyi sık.
 - Döküm tavada pişirirken tavayı yağlama; kebabın kendi yağı yeter.
+updated: '2026-11-05'
+editorNote: Harcı dinlendirme adımını ve sebzelerin suyunu sıkmayı ayrı adımlar olarak yazdık; evde yapılan Adana kebabın şişten düşmesinin en sık iki nedeni bunlar.
+notes:
+- t: Kıymanın yağ oranı neden önemli?
+  d: |
+    Kebabı şişte tutan ve sulu kılan şey yağdır. Yağsız kıymayla yapılan harç yoğrulurken bağlanmaz, pişerken kurur ve dağılır. Kasaptan kebaplık, en az yüzde 20 yağlı kıyma istemek ya da kıymaya bir miktar kuyruk yağı çektirmek bu yüzden önemli.
+- t: Yoğurma ne işe yarar?
+  d: |
+    Uzun süre yoğrulan kıymada proteinler birbirine bağlanır ve harç yapışkan bir hal alır. Harcın rengi biraz açılıp eline yapışmaya başladığında yeterince yoğrulmuş demektir. Bu bağlanma sayesinde kebap yumurta ya da ekmek içi gibi bağlayıcılara gerek kalmadan şişte durur.
+- t: Şiş yoksa ne yapılır?
+  d: |
+    Yassı kebap şişi yoksa harç avuç içinde 15-20 santim uzunluğunda yassı köfteler halinde şekillendirilebilir. Üzerine parmaklarla bastırılarak oluşturulan boğumlar hem görüntüyü verir hem de pişerken yüzeyin daha eşit kızarmasını sağlar.
+faq:
+- q: Adana kebap hangi etten yapılır?
+  a: Geleneksel tarifte erkek kuzu eti ve kuyruk yağı kullanılır. Evde en az yüzde 20 yağlı kuzu ya da dana kıyma ile yapılabilir.
+- q: Adana kebap neden şişten düşer?
+  a: Genellikle kıyma yağsız olduğu, harç yeterince yoğrulmadığı ya da sebzelerin suyu sıkılmadığı için. Harcı buzdolabında dinlendirmek de şişte durmasına yardımcı olur.
+- q: Adana kebap fırında yapılır mı?
+  a: Evet. Fırını ızgara modunda 250°C'ye ayarlayıp kebapları üst rafta, her yüzü 4-5 dakika pişirebilirsin. Altına akan yağ için bir tepsi koymak gerekir.
+- q: Adana ile Urfa kebap arasındaki fark nedir?
+  a: İkisi de kıymalı şiş kebaptır; Adana kebap pul biberle acılı hazırlanır, Urfa kebap ise acısızdır.
 ---
 
-Mangal kokusunu evde aynen yakalamak zor ama yağlı kıyma, iyi yoğurma ve kızgın bir tava ile çok yaklaşabilirsin. İşin sırrı harcı sabırla yoğurup soğutmakta.
+Adana kebap, elle çekilmiş ya da kebaplık çekilmiş yağlı kıymanın pul biberle yoğrulup yassı şişlere sarılmasıyla yapılan, Adana mutfağının en bilinen yemeği. Coğrafi işaretli bir lezzet olduğu için asıl tarifte erkek kuzu eti ve kuyruk yağı kullanılır; evde ise en az yüzde 20 yağlı kuzu ya da dana kıyma iyi bir sonuç verir.
+
+Bu tarifte kapya biber ve soğanın suyu iyice sıkılıyor, harç 8-10 dakika yoğrulup buzdolabında dinlendiriliyor. Kebaplar şişe ya da avuç içinde şekillendirilip çok sıcak döküm tavada veya fırının ızgara modunda pişiriliyor.
+
+Dört kişilik tarif yaklaşık 40 dakikada hazır; dinlendirme süresi buna dahil değil. Lavaş, közlenmiş domates-biber ve sumaklı soğanla servis ediliyor.

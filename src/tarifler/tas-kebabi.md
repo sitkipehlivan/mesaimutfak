@@ -83,6 +83,31 @@ steps:
 tips:
 - Düdüklü tencerede pişirme süresi 25 dakikaya iner.
 - Sonradan eklenen küp patatesle tek tencere yemeğe dönüşür.
+updated: '2026-11-05'
+editorNote: Tuzu son yarım saatte eklemeyi tarifte belirttik; uzun pişen etlerde erken eklenen tuz etin daha sert kalmasına yol açabiliyor.
+notes:
+- t: Mühürleme
+  d: |
+    Et yüksek ateşte önce su salar, ardından bu suyu çekip kızarmaya başlar. Bu kızarma tas kebabına derin, kavrulmuş bir et tadı verir. Tencere kalabalıksa et haşlanır; gerekirse iki parti halinde kavurmak gerekir.
+- t: Kısık ateş ve kapalı kapak
+  d: |
+    Kuşbaşı et uzun süre düşük ısıda piştiğinde lifleri gevşer ve yumuşar. Yüksek ateşte kaynatılan et ise sertleşir. Kapağın kapalı olması suyun buharlaşmasını yavaşlatır.
+- t: Patatesli versiyon
+  d: |
+    Son yarım saatte eklenen küp patates sosu emer ve tas kebabını tek tencerede tam bir öğüne dönüştürür.
+faq:
+- q: Tas kebabı hangi etten yapılır?
+  a: Dana ya da kuzu kuşbaşıdan.
+- q: Tas kebabı ne kadar pişer?
+  a: Kısık ateşte yaklaşık 1,5 saat; düdüklüde 25 dakika.
+- q: Et neden sert kalır?
+  a: Yüksek ateşte kaynatıldığında ya da pişirme süresi kısa tutulduğunda.
+- q: Tas kebabının yanına ne gider?
+  a: Pirinç pilavı ya da patates püresi.
 ---
 
-Esnaf lokantalarının tencere yemeği. Uzun pişirmesi dışında hiçbir zorluğu yok.
+Tas kebabı, kuşbaşı etin soğan, domates ve salçayla tencerede kısık ateşte uzun süre pişirildiği bir esnaf lokantası yemeği. Adını eskiden pişirildiği taslardan alır; hazırlığı kolaydır, lezzeti ise sabırlı pişirmeden gelir.
+
+Bu tarifte et tereyağı ve sıvı yağda yüksek ateşte suyunu salıp çekene kadar kavruluyor. Soğan pembeleşene kadar çevriliyor, salça ve rendelenmiş domates ekleniyor; sıcak su eklenip kapağı kapalı ve kısık ateşte et yumuşayana kadar pişiriliyor.
+
+Dört kişilik tarif yaklaşık 1 saat 45 dakikada hazır; düdüklü tencerede süre 25 dakikaya iniyor.

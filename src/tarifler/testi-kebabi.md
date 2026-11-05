@@ -93,6 +93,31 @@ steps:
 tips:
 - Toprak kabı soğuk fırına koy, ani ısı farkı çatlatır.
 - Fırından çıkınca 10 dakika kapağı açmadan bekletirsen sos koyulaşır.
+updated: '2026-11-05'
+editorNote: Toprak kabı soğuk fırına koymayı ipucu olarak yazdık; sıcak fırına giren toprak testi ani ısı farkından çatlayabiliyor.
+notes:
+- t: Kapalı pişirmenin etkisi
+  d: |
+    Testinin ağzı kapatıldığı için içerideki buhar dışarı çıkamaz. Et ve sebzeler kendi suyunda, yavaşça pişer; et lif lif ayrılacak kadar yumuşar ve sebzelerin tadı sosa geçer.
+- t: Soğuk fırından başlamak
+  d: |
+    Toprak kaplar ısıyı yavaş iletir ve ani sıcaklık değişimine dayanıksızdır. Soğuk fırında birlikte ısınan testi hem çatlamaz hem de içindekileri yavaşça ısıtarak pişirir.
+- t: Testi yoksa
+  d: |
+    Kapaklı bir toprak güveç ya da döküm tencere aynı işi görür. Önemli olan kabın sıkıca kapalı olması; kapağın altına folyo koymak buharın kaçmasını önler.
+faq:
+- q: Testi kebabı ne kadar pişer?
+  a: 180°C fırında yaklaşık 2 saat.
+- q: Testi yoksa ne kullanılır?
+  a: Kapaklı güveç ya da döküm tencere.
+- q: Testi neden çatlar?
+  a: Sıcak fırına konduğunda ya da sıcakken soğuk zemine bırakıldığında.
+- q: Testi kebabı hangi etle yapılır?
+  a: Dana ya da kuzu kuşbaşıyla.
 ---
 
-Kapadokya gezisinin en akılda kalan yemeği evde de yapılabiliyor; testi yoksa güveç kabı aynı işi görür.
+Testi kebabı, et ve sebzelerin toprak bir testi içinde ağzı kapatılarak uzun süre pişirildiği bir Kapadokya yemeği. Geleneksel sunumda testi sofrada kırılarak açılır; evde ise testi yerine kapaklı bir güveç kabı da aynı sonucu verir.
+
+Bu tarifte dana kuşbaşı, soğan, sarımsak, domates, biberler, arpacık soğan, salça, tereyağı ve baharatlar karıştırılıyor. Karışım testiye ya da güvece doldurulup ağzı sıkıca kapatılıyor; soğuk fırına konup 180°C'de et iyice yumuşayana kadar pişiriliyor.
+
+Dört kişilik tarif yaklaşık 2,5 saatte hazır; pişirme süresinin büyük kısmında yapılacak bir şey yok.

@@ -86,6 +86,31 @@ steps:
 tips:
 - Harcı çiğ koymak bu böreğin adını veren şeydir; içerde buharla pişer.
 - Yağ yeterince kızgın değilse börek kabarmaz ve yağ çeker.
+updated: '2026-11-05'
+editorNote: Harca soğuk su eklemenin nedenini adımın içinde açıkladık; bu su eklenmezse börek kabarmaz ve içi kuru kalır.
+notes:
+- t: Harç neden sulu olur?
+  d: |
+    Harca eklenen soğuk su kızartma sırasında buhara dönüşür. Kapalı hamurun içinde biriken buhar böreği şişirir ve kıymayı kendi suyunda pişirir. Bu yüzden çiğ böreğin içi sulu, kabuğu ince ve çıtır olur.
+- t: Hamurun inceliği
+  d: |
+    Hamur ne kadar ince açılırsa börek o kadar çıtır ve hafif olur. Kalın hamur kızgın yağda kabarmaz ve yağ çeker.
+- t: Kenarları kapatmak
+  d: |
+    Kenarlar iyi kapatılmazsa buhar dışarı kaçar ve börek kabarmaz; ayrıca harç yağa karışabilir. Tırtıklı bir bardak ya da çatalla bastırmak kenarları sıkıca mühürler.
+faq:
+- q: Çiğ börek neden kabarmaz?
+  a: Yağ yeterince kızgın olmadığında ya da kenarlar iyi kapatılmadığında.
+- q: Çiğ böreğin içi pişer mi?
+  a: Evet; ince yayılan harç kızartma sırasında buharla tamamen pişer.
+- q: Çiğ börek fırında yapılır mı?
+  a: Geleneksel olarak kızartılır; fırında aynı kabarıklık ve doku oluşmaz.
+- q: Çiğ börek nerenin yemeği?
+  a: Kırım Tatarlarına ait bir börektir; Türkiye'de en çok Eskişehir'le anılır.
 ---
 
-Eskişehir’in Kırım Tatarlarından kalma mirası. Kızgın yağda balon gibi kabaran sulu bir börek.
+Çiğ börek, ince açılan hamurun içine çiğ ve sulu kıymalı harç konup kızgın yağda kızartıldığı, Eskişehir ile özdeşleşen bir Kırım Tatar böreği. Harç çiğ olarak konduğu için kızartma sırasında içindeki su buhara dönüşür ve börek balon gibi kabarır.
+
+Bu tarifte un, su, tuz ve yağla yumuşak bir hamur yoğrulup dinlendiriliyor. Kıyma, rendelenmiş soğan, soğuk su ve baharatlarla sulu bir harç hazırlanıyor; ince açılan hamurun yarısına harç yayılıp kapatılıyor ve bol kızgın yağda kızartılıyor.
+
+Dört kişilik tarif yaklaşık 1 saatte hazır.

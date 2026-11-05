@@ -80,6 +80,31 @@ steps:
 tips:
 - Kaselerin dibine bisküvi yerine kek dilimi de koyabilirsin.
 - Bitter çikolata oranını artırdıkça tatlı yoğunlaşır.
+updated: '2026-11-05'
+editorNote: Çikolatayı ocaktan aldıktan sonra eklemeyi özellikle belirttik; doğrudan ateşte eriyen çikolata kolayca yanar ve tatlıya acı bir tat verir.
+notes:
+- t: Un ve nişasta birlikte
+  d: |
+    Un pudinge daha dolgun bir kıvam, nişasta ise parlak ve pürüzsüz bir doku verir. İkisinin birlikte kullanılması muhallebici supanglesine benzer yoğunluğu sağlar.
+- t: Sıcak pudingin bisküviye dökülmesi
+  d: |
+    Puding sıcakken bisküvilerin üzerine döküldüğünde bisküviler hafifçe yumuşar ve tatlıyla bütünleşir. Soğuduktan sonra dökülürse bisküvi sert kalır.
+- t: Kaynamaya kadar pişirmek
+  d: |
+    Pudingin bir iki fokurdaması nişastanın tam piştiğini gösterir. Kaynamadan alınan puding soğuyunca sulanabilir.
+faq:
+- q: Supangle neden sulanır?
+  a: Puding yeterince pişmeden, kaynamadan ocaktan alındığında.
+- q: Bisküvi yerine ne konur?
+  a: Kakaolu kek dilimleri kullanılabilir.
+- q: Supangle ne kadar bekletilmeli?
+  a: Buzdolabında en az 2 saat.
+- q: Bitter yerine sütlü çikolata olur mu?
+  a: Olur; tatlı daha şekerli ve açık renkli olur.
 ---
 
-Muhallebicilerin çikolatalı tatlısı. Bisküvi altta, puding üstte, mutlu çocuklar masada.
+Supangle, kakao ve bitter çikolatayla yapılan yoğun bir pudingin bisküvi ya da kek üzerine dökülmesiyle hazırlanan bir sütlü tatlı. Muhallebicilerin klasik çikolatalı tatlısı olan supangle, evde yaklaşık 25 dakikada yapılabilir.
+
+Bu tarifte süt, şeker, un, nişasta ve kakao topaksız çırpılıp sürekli karıştırılarak koyulaşana kadar pişiriliyor. Ocaktan alınınca bitter çikolata ve tereyağı ekleniyor; sıcak puding kaselerin dibine konan bisküvilerin üzerine dökülüp soğutuluyor.
+
+Altı kişilik tarif yaklaşık 25 dakikada hazırlanıyor.

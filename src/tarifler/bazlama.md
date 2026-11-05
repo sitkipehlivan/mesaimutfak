@@ -76,6 +76,31 @@ steps:
 tips:
 - Tava çok kızgınsa dışı yanar içi çiğ kalır; orta ateş ideal.
 - Sıcakken ikiye ayırıp tereyağı ve bal sür, ya da kaşarlı tost yap.
+updated: '2026-11-05'
+editorNote: Pişen bazlamaların temiz bir bezin arasında bekletilmesini son adım olarak ekledik; bez buharı tutarak bazlamaların yumuşak kalmasını sağlıyor.
+notes:
+- t: Yoğurdun katkısı
+  d: |
+    Hamura eklenen yoğurt bazlamaya hafif ekşimsi bir tat ve daha yumuşak, nemli bir iç verir. Yoğurttaki asit mayanın çalışmasını da destekler.
+- t: Bezeleri dinlendirmek
+  d: |
+    Yuvarlanan bezeler 10 dakika dinlendirildiğinde hamurdaki gluten gevşer ve açarken geri çekmez. Böylece bazlamalar eşit kalınlıkta açılır.
+- t: Orta ateş
+  d: |
+    Bazlama kalın bir ekmek olduğu için içinin pişmesi zaman alır. Tava çok kızgın olursa dışı yanar ama içi hamur kalır. Orta ateşte alt yüzü kızarıp üstü kabardığında çevirmek doğru zamanlamadır.
+faq:
+- q: Bazlama hangi tavada pişer?
+  a: Döküm ya da kalın tabanlı yapışmaz tavada, yağsız olarak.
+- q: Bazlama neden içi çiğ kalır?
+  a: Tava çok kızgın olduğunda ya da hamur çok kalın açıldığında.
+- q: Bazlama dondurulur mu?
+  a: Evet; soğuduktan sonra poşetlenip dondurulabilir, tavada ısıtılır.
+- q: Yoğurtsuz yapılır mı?
+  a: Yapılabilir ama bazlama daha kuru ve az yumuşak olur.
 ---
 
-Fırına bile gerek yok: bir tava, biraz sabır ve sabah sofrasında dumanı tüten ekmek.
+Bazlama, yoğurtlu mayalı hamurun kalın açılıp yağsız tavada pişirildiği yumuşak bir köy ekmeği. Fırına gerek kalmadan, yalnızca kalın tabanlı bir tavayla yapılabildiği için evde taze ekmek yapmanın en pratik yollarından biridir.
+
+Bu tarifte süt, su, yoğurt, maya ve şekerle un yumuşak ve hafif yapışkan bir hamur halinde yoğruluyor, iki katına çıkana kadar mayalandırılıyor. Altı parçaya bölünüp dinlendirilen bezeler 1 cm kalınlığında açılıyor ve yağsız tavada orta ateşte iki yüzü de pişiriliyor.
+
+Altı bazlama için mayalanma hariç yaklaşık 35 dakika gerekiyor.

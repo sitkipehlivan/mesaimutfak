@@ -110,6 +110,31 @@ steps:
 tips:
 - Haşlama gerektirmeyen lazanya yaprakları işi kolaylaştırır; sos biraz sulu olmalı.
 - Bir gün önceden hazırlayıp buzdolabında bekletip fırınlayabilirsin.
+updated: '2026-11-05'
+editorNote: Kesmeden önce dinlendirme adımını ayrı yazdık; fırından çıkar çıkmaz kesilen lazanyada katlar kayar ve sos tabağa yayılır.
+notes:
+- t: Beşamelin pürüzsüzlüğü
+  d: |
+    Un tereyağında kokusu çıkana kadar kavrulduktan sonra süt azar azar ve sürekli çırparak eklenir. Sütün tamamı birden dökülürse beşamel topaklanır.
+- t: Sosun kıvamı
+  d: |
+    Haşlama gerektirmeyen lazanya yaprakları fırında sostan nem çekerek pişer. Bu yüzden kıymalı sos biraz sulu bırakılmalıdır; çok koyu sos yaprakların sert kalmasına neden olur.
+- t: Folyo ile başlamak
+  d: |
+    Pişirmenin ilk yarısında folyo, lazanyanın içinin buharla pişmesini sağlar. Folyo açıldıktan sonra üstteki peynir kızarır ve hafif çıtır bir kabuk oluşur.
+faq:
+- q: Lazanya yaprakları haşlanır mı?
+  a: Paketin üzerinde belirtilir; haşlama gerektirmeyen yapraklar doğrudan kullanılır.
+- q: Lazanya önceden hazırlanır mı?
+  a: Evet; dizilip buzdolabında bir gün bekletilebilir, sonra fırınlanır.
+- q: Lazanya neden sulu olur?
+  a: Dinlendirilmeden kesildiğinde ya da sos çok sulu olduğunda.
+- q: Lazanya dondurulur mu?
+  a: Pişmiş lazanya porsiyonlar halinde dondurulabilir.
 ---
 
-Hafta sonu emek verilen, kesildiğinde kat kat görünen bir fırın klasiği.
+Lazanya, lazanya yaprakları arasına kıymalı domates sosu, beşamel ve peynir katlanarak fırında pişirilen bir İtalyan yemeği. Hazırlığı biraz emek ister ama önceden hazırlanabildiği ve kalabalık doyurduğu için hafta sonu ve misafir sofraları için uygundur.
+
+Bu tarifte soğan, havuç ve sarımsakla kavrulan kıyma domatesle 20 dakika pişiriliyor. Tereyağında kavrulan un sütle çırpılıp muskatlı bir beşamel hazırlanıyor; yapraklar, sos, beşamel ve peynir dört kat diziliyor ve önce folyoyla kapalı, sonra açık olarak 190°C fırında pişiriliyor.
+
+Sekiz kişilik tarif yaklaşık 1,5 saatte hazır; kesmeden önce 15 dakika dinlendirilmesi gerekiyor.

@@ -107,6 +107,31 @@ tips:
 - Tava yeterince kızgın değilse et haşlanır; partiler hâlinde kavurmak en iyi sonucu verir.
 - Kuzu kuşbaşı ile de çok yakışır; pişme süresini birkaç dakika kısalt.
 - Acı seviyorsan sivri biberin bir kısmını acı biberle değiştir.
+updated: '2026-11-05'
+editorNote: Malzemeleri sırayla eklemeyi ayrı adımlar halinde yazdık; hepsi birden tavaya girerse sebzeler su salar ve et kavrulmak yerine haşlanır.
+notes:
+- t: Tavanın sıcaklığı her şeyi belirler
+  d: |
+    Et tavaya girdiğinde cızırdamalı. Tava yeterince sıcak değilse et suyunu bırakır ve kızarmak yerine kendi suyunda haşlanır. Eti iki parti halinde kavurmak, tavanın sıcaklığının düşmesini önler.
+- t: Sebzelerin sırası
+  d: |
+    Soğan en uzun pişen sebze olduğu için önce eklenir. Biberler parlaklaşıp hafif solunca yeterlidir; domates ise suyunu çekecek kadar pişirilir. Bu sıralama, her sebzenin dokusunu korur.
+- t: Tereyağı sonda
+  d: |
+    Tereyağı yüksek ateşte kolayca yanar. Pişirmenin sonunda baharatlarla birlikte eklendiğinde hem yemeğe aroma verir hem de baharatların kokusunu açar.
+faq:
+- q: Saç tava hangi etten yapılır?
+  a: Dana ya da kuzu kuşbaşıdan. Kuzu etiyle pişirme süresi birkaç dakika kısalır.
+- q: Saç yoksa ne kullanılır?
+  a: Geniş döküm tava ya da wok. Önemli olan tavanın çok iyi ısınması.
+- q: Saç tava neden sulu olur?
+  a: Tava yeterince sıcak olmadığında ya da çok fazla et aynı anda konduğunda et su salar.
+- q: Saç tavanın yanına ne gider?
+  a: Lavaş, bulgur ya da pirinç pilavı ve cacık.
 ---
 
-Tek tavada, yarım saatte, misafir sofrasına yakışan bir et yemeği. Doğru sonuç için tek şart var: tava çok sıcak olacak.
+Saç tava, küçük doğranmış etin sebzelerle birlikte çok yüksek ateşte, geniş ve sığ bir sacda hızla kavrulduğu bir et yemeği. Doğu ve Güneydoğu Anadolu'da sacın altında yakılan ateşle pişirilen bu yemek, evde döküm tava ya da geniş bir wok ile aynı mantıkla yapılabilir.
+
+Bu tarifte kuşbaşı et kızgın tavada önce mühürlenip suyunu çekene kadar kavruluyor. Ardından soğan, biberler, sarımsak, salça ve domates sırayla ekleniyor; en sonda tereyağı ve baharatlarla tamamlanıyor.
+
+Dört kişilik tarif yaklaşık 45 dakikada hazır. Tava doğrudan masaya getirilip lavaş ya da pilavla servis edilir.

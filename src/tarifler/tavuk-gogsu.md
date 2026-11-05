@@ -70,6 +70,31 @@ steps:
 tips:
 - Tavuk tadı hissedilmez; yalnızca kendine has elastik bir doku verir.
 - Liflerin ince olması tatlının kalitesini belirler.
+updated: '2026-11-05'
+editorNote: Tavuğun "lif lif" ayrılmasına özellikle vurgu yaptık; tatlının kalitesi ve dokusu büyük ölçüde liflerin inceliğine bağlı.
+notes:
+- t: Tavuk neden yıkanır?
+  d: |
+    Haşlanan tavuk sıcak suyla birkaç kez yıkandığında yağı ve et kokusu azalır. Bu adım atlanırsa tatlıda istenmeyen bir et tadı kalabilir.
+- t: İnce lifler nasıl elde edilir?
+  d: |
+    Haşlanmış göğüs eti önce elle didiklenir, ardından havanda dövülerek ya da iki çatalla çekiştirilerek saç teli inceliğinde liflere ayrılır. Lifler muhallebiye eklendikten sonra mikserle çırpmak onları eşit şekilde dağıtır.
+- t: Pirinç unu ve nişasta
+  d: |
+    Pirinç unu tatlıya pürüzsüz bir kıvam, nişasta ise kesildiğinde formunu koruyan bir sertlik verir. İkisinin dengesi, tatlının rulo yapılabilecek kadar esnek olmasını sağlar.
+faq:
+- q: Tavuk göğsü tatlısında tavuk tadı olur mu?
+  a: Hayır. Tavuk iyi haşlanıp yıkandığında tadı hissedilmez, yalnızca dokuya katkı sağlar.
+- q: Tavuk göğsü ile kazandibi farkı nedir?
+  a: Kazandibi, tavuk göğsü muhallebisinin tabanı karamelize edilerek yapılan halidir.
+- q: Tavuk göğsü ne kadar bekletilmeli?
+  a: Buzdolabında en az 4 saat; bir gece beklerse daha kolay dilimlenir.
+- q: Tavuksuz yapılır mı?
+  a: Tavuksuz yapılan hali sade muhallebidir; tavuk göğsüne özgü doku oluşmaz.
 ---
 
-Yabancı misafirlerin “tatlıda tavuk mu?” diye şaşırdığı, ama tadınca hayran kaldığı bir klasik.
+Tavuk göğsü, haşlanıp ince lifler halinde ayrılan tavuk etinin sütlü bir muhallebinin içine karıştırılmasıyla yapılan, Osmanlı saray mutfağından gelen bir sütlü tatlı. Tavuğun tadı tatlıda hissedilmez; yalnızca muhallebiye kendine özgü, hafif lifli ve esnek bir doku verir.
+
+Bu tarifte tavuk tuzsuz suda haşlanıp birkaç kez yıkanıyor, didiklenip havanda dövülerek tel tel ayrılıyor. Süt, şeker, pirinç unu ve nişasta koyulaşana kadar pişiriliyor, tavuk eklenip çırpılıyor ve tatlı soğumaya bırakılıyor.
+
+Sekiz kişilik tarif yaklaşık 70 dakikada hazırlanıyor; servis öncesi en az 4 saat buzdolabında beklemesi gerekiyor.

@@ -86,6 +86,31 @@ tips:
 - Tahta şiş kullanıyorsan yarım saat suda beklet, yanmasın.
 - But eti göğüsten daha sulu kalır.
 - Bir gece marinede bekletirsen çok daha yumuşak olur.
+updated: '2026-11-05'
+editorNote: Marine süresini "en az 2 saat" olarak yazdık ve bir gecelik bekletmeyi ayrıca önerdik; kısa marinede yoğurdun yumuşatıcı etkisi tam oluşmaz.
+notes:
+- t: Yoğurtlu marine ne işe yarar?
+  d: |
+    Yoğurttaki hafif asit tavuk etinin dokusunu yumuşatır ve pişerken etin daha sulu kalmasına yardımcı olur. Limon suyu da aynı etkiyi destekler; ancak çok uzun süre yalnızca limonla bekletilen tavuk dokusunu kaybedebilir.
+- t: But mu, göğüs mü?
+  d: |
+    Tavuk but daha fazla yağ içerdiği için ızgarada kurumadan pişer. Göğüs eti daha yağsızdır; kullanılacaksa marine süresi uzun tutulmalı ve pişirme süresi kısa olmalı.
+- t: Kenarların hafif kararması
+  d: |
+    Marinedeki yoğurt ve salça pişerken karamelize olur ve kenarlarda hafif koyu lekeler oluşturur. Bu, ızgara tadını veren şeydir; ancak tamamen yanmaması için ara ara çevirmek gerekir.
+faq:
+- q: Tavuk şiş ne kadar marine edilmeli?
+  a: En az 2 saat; bir gece bekletmek daha yumuşak sonuç verir.
+- q: Tavuk şiş fırında kaç dakika pişer?
+  a: 220°C fırında, ara ara çevirerek yaklaşık 15-20 dakika.
+- q: Tahta şiş yanar mı?
+  a: Kullanmadan önce yarım saat suda bekletilirse yanması önlenir.
+- q: Tavuk şiş airfryer'da yapılır mı?
+  a: Evet; 200°C'de 12-15 dakika, yarısında çevirerek pişirilebilir.
 ---
 
-Mangalın en sevilenlerinden. Marineyi sabah hazırla, akşam fırında bile yapılır.
+Tavuk şiş, yoğurtlu ve salçalı bir marinede bekletilen tavuk parçalarının şişe dizilip ızgarada ya da fırında pişirildiği bir kebap. Marine sayesinde tavuk hem yumuşar hem de baharatın tadını içine alır; bu yüzden tavuk şişin lezzeti büyük ölçüde bekletme süresine bağlıdır.
+
+Bu tarifte tavuk küpleri yoğurt, biber salçası, zeytinyağı, sarımsak, kekik, pul biber ve limon suyuyla en az 2 saat marine ediliyor. Ardından biber ve soğanla şişlere dizilip ızgarada ya da 220°C fırında pişiriliyor.
+
+Dört kişilik tarif, marine süresi hariç yaklaşık 30 dakikada hazır.

@@ -78,6 +78,31 @@ steps:
 tips:
 - Bademleri kabuklu kullanırsan kaynar suda beklet, kabuklarını soy.
 - Glutensiz yapmak için nişastayı mısır nişastasıyla değiştir.
+updated: '2026-11-05'
+editorNote: Bademin kabuğunu soyma yöntemini ipucu olarak ekledik; kabuklu badem keşküle hem koyu renk hem de hafif buruk bir tat verir.
+notes:
+- t: Bademin hazırlanması
+  d: |
+    Badem kaynar suda birkaç dakika bekletildiğinde kabuğu kolayca soyulur. Soyulmuş badem ince çekilerek kullanılır; ne kadar ince çekilirse muhallebinin dokusu o kadar pürüzsüz olur.
+- t: Yumurta sarısının görevi
+  d: |
+    Yumurta sarısı keşküle hafif sarımsı bir renk ve daha kadifemsi bir kıvam verir. Soğukken diğer malzemelerle çırpıldığı için pişerken pıhtılaşmaz.
+- t: Sürekli karıştırmak
+  d: |
+    Sütlü tatlılar tencerenin dibine kolayca tutar. Orta ateşte ve tahta kaşıkla sürekli karıştırmak hem yanmayı hem de topaklanmayı önler.
+faq:
+- q: Keşkül ile muhallebi farkı nedir?
+  a: Keşkülde çekilmiş badem ve yumurta sarısı bulunur; sade muhallebide bulunmaz.
+- q: Keşkül glutensiz yapılır mı?
+  a: Buğday nişastası mısır nişastasıyla değiştirilirse glutensiz olur.
+- q: Hazır badem unu kullanılır mı?
+  a: Evet; kabuksuz badem unu doğrudan kullanılabilir.
+- q: Keşkül ne kadar saklanır?
+  a: Buzdolabında 2-3 gün.
 ---
 
-Adını dervişlerin sadaka kâsesinden alan, bademli zarif bir muhallebi.
+Keşkül, sütün çekilmiş badem, pirinç unu ve yumurta sarısıyla pişirildiği, fıstık ve hindistan ceviziyle süslenen bir sütlü tatlı. Adının, dervişlerin taşıdığı ve sadaka topladığı keşkül kâsesinden geldiği anlatılır; bademin verdiği yoğun aroma onu diğer muhallebilerden ayırır.
+
+Bu tarifte süt, şeker, çekilmiş badem, pirinç unu, nişasta ve yumurta sarısı soğukken çırpılıyor, orta ateşte sürekli karıştırılarak koyulaşana kadar pişiriliyor. Vanilin eklenip kâselere paylaştırılıyor ve soğuduktan sonra fıstık ve hindistan ceviziyle süsleniyor.
+
+Altı kişilik tarif yaklaşık 30 dakikada hazırlanıyor.

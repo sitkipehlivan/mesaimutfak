@@ -56,6 +56,31 @@ steps:
 tips:
 - Sucuk zaten tuzlu, yumurtaya tuz ekleme.
 - Beyazlar pişip sarılar çiğ kalsın istiyorsan kapağı kapat; buhar üstü pişirir.
+updated: '2026-11-05'
+editorNote: Yumurtaya tuz eklememeyi ilk ipucu olarak yazdık; sucuk zaten yeterince tuzlu ve baharatlı.
+notes:
+- t: Sucuğun zarı
+  d: |
+    Sucuğun dış zarı pişince büzülür ve sertleşir. Zarı soyup dilimlemek, sucuğun eşit kızarmasını sağlar ve yerken daha yumuşak bir doku verir.
+- t: Kapağın görevi
+  d: |
+    Kapak kapatıldığında tavadaki buhar yumurtanın üst yüzeyini pişirir. Böylece yumurtayı çevirmeden beyazlar tamamen pişer, sarılar ise akışkan kalır.
+- t: Sucuğun yağı
+  d: |
+    Sucuk kızarırken kendi yağını ve baharatını tavaya bırakır. Yumurtalar bu yağda pişerek sucuğun aromasını alır; bu yüzden tereyağı az kullanılır.
+faq:
+- q: Sucuklu yumurtaya tuz konur mu?
+  a: Genellikle gerek yoktur; sucuk yeterince tuzludur.
+- q: Yumurta sarısı nasıl akışkan kalır?
+  a: Kapak kapatılıp beyazlar pişer pişmez ocaktan alınırsa.
+- q: Sucuklu yumurta glutensiz mi?
+  a: Malzemeleri glutensizdir; kullanılan sucuğun etiketini kontrol etmek gerekir.
+- q: Hangi tavada yapılır?
+  a: Geleneksel olarak bakır ya da döküm sahanda.
 ---
 
-Pazar sabahının kokusu. Beş dakikada hazır, ekmeği banmak serbest.
+Sucuklu yumurta, ince dilimlenmiş sucuğun tereyağında hafifçe kızartılıp üzerine yumurta kırılarak sahanda pişirildiği bir kahvaltı klasiği. Yalnızca birkaç malzeme ve birkaç dakikayla hazırlanır; kahvaltı sofralarının ve hafta sonu sabahlarının vazgeçilmezlerindendir.
+
+Bu tarifte sucuğun zarı soyulup ince dilimleniyor ve tereyağında iki yüzü hafif kızarana kadar çevriliyor. Yumurtalar sucukların üzerine kırılıp kapak kapatılıyor; beyazlar pişip sarılar akışkan kaldığında pul biber serpilerek sahanda servis ediliyor.
+
+İki kişilik tarif yaklaşık 8 dakikada hazır.

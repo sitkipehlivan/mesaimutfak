@@ -29,7 +29,12 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection('photos', api => api.getFilteredByGlob('src/tarifler/*.md').filter(r => r.data.image && r.data.imageCredit).sort((a, b) => a.data.title.localeCompare(b.data.title, 'tr')));
   eleventyConfig.ignores.add('src/admin/**');
 
+  // Yayındaki tarifler: editör içeriği (editorNote) olan ya da açıkça yayin: true işaretlenen tarifler.
+  // Diğerleri sayfası derlenir ama noindex olur; listelerde, aramada, site haritasında ve araçlarda yer almaz.
+  const isLive = r => !!r.data.editorNote || r.data.yayin === true;
   eleventyConfig.addCollection('tarifler', api =>
+    api.getFilteredByGlob('src/tarifler/*.md').filter(isLive).sort((a, b) => b.date - a.date));
+  eleventyConfig.addCollection('tumTarifler', api =>
     api.getFilteredByGlob('src/tarifler/*.md').sort((a, b) => b.date - a.date));
 
   eleventyConfig.addFilter('link', function (to) { return relLink(this.page?.url || '/', to); });

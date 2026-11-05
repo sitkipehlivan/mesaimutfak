@@ -1,23 +1,23 @@
 {
   "week": "2026-H45",
-  "hero": "zeytinyagli-yerelmasi",
-  "heroEyebrow": "Haftanın tarifi · Zeytinyağlılar",
+  "hero": "etli-nohut",
+  "heroEyebrow": "Haftanın tarifi · Ana Yemekler",
   "picks": [
-    "testi-kebabi",
-    "macar-gulas",
-    "dugun-corbasi",
-    "havuclu-tarcinli-kek",
-    "ev-eristesi",
-    "ozbek-pilavi",
+    "kabak-tatlisi",
+    "pirasa-koftesi",
+    "iskembe-corbasi",
     "kuymak",
-    "pirasa-koftesi"
+    "ozbek-pilavi",
+    "zeytinyagli-yerelmasi",
+    "ev-eristesi",
+    "macar-gulas"
   ],
   "popular": [
-    "kirmizi-mercimek-corbasi",
-    "sac-tava",
-    "airfryer-tavuk-gogsu",
-    "karisik-pide"
+    "kadinbudu-kofte",
+    "kiymali-pide",
+    "su-boregi",
+    "firinda-somon"
   ],
-  "popularSource": "goruntulenme",
-  "updated": "2026-11-02"
+  "popularSource": "secki",
+  "updated": "2026-11-05"
 }

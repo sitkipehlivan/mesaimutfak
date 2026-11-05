@@ -93,6 +93,31 @@ steps:
 tips:
 - Pirinci ekledikten sonra karıştırma; katmanlar ayrı pişmeli.
 - Sarı havuç bulursan geleneksel tada daha yakın olur.
+updated: '2026-11-05'
+editorNote: Pirinç eklendikten sonra karıştırmamayı ipucu olarak öne çıkardık; Özbek pilavında et-sebze tabanı ve pirinç ayrı katmanlarda pişip ancak servis ederken birleşir.
+notes:
+- t: Zirvak nedir?
+  d: |
+    Zirvak, Özbek pilavının et, soğan, havuç ve baharatlarla pişirilen tabanıdır. Pilavın bütün lezzeti bu katmandan gelir; pirinç bu tabanın buharı ve yağıyla pişer.
+- t: Havucun doğranışı
+  d: |
+    Havucun kibrit çöpü şeklinde doğranması geleneksel yöntemdir. İnce şeritler pişerken pirinçle uyumlu bir doku verir ve tatlılığını pilava yayar.
+- t: Bütün sarımsak
+  d: |
+    Pirincin ortasına gömülen bütün sarımsak başı pişerken yumuşar ve hafif bir aroma verir. Servis sırasında dişleri ayrılıp pilavla yenebilir.
+faq:
+- q: Özbek pilavı hangi etle yapılır?
+  a: Geleneksel olarak kuzu etiyle; dana etiyle de yapılabilir.
+- q: Özbek pilavına neden havuç konur?
+  a: Havuç pilavın temel malzemelerindendir; tatlılık ve renk verir.
+- q: Pirinç neden karıştırılmaz?
+  a: Katmanların ayrı pişmesi ve pirincin lapalaşmaması için.
+- q: Hangi pirinç kullanılır?
+  a: Baldo pirinç; ıslatılıp süzülerek eklenir.
 ---
 
-İpek Yolu’nun pilavı. Havucun tatlılığı ve kimyonun kokusuyla bambaşka bir pirinç deneyimi.
+Özbek pilavı, kuzu eti, havuç, soğan, nohut ve kuru üzümle pişirilen, kimyonla tatlandırılan bir Orta Asya pilavı. Özbekistan'da plov adıyla bilinir ve büyük döküm kazanlarda pişirilir; havucun tatlılığı ve kimyonun kokusu onu bildiğimiz pilavlardan ayırır.
+
+Bu tarifte et döküm tencerede kızarana kadar mühürleniyor, soğan ve kibrit doğranmış havuç ekleniyor. Baharatlar, nohut, üzüm ve az suyla zirvak denen taban pişiriliyor; ıslatılmış pirinç karıştırılmadan üzerine yayılıp ortasına bütün sarımsak gömülüyor, kısık ateşte pişirilip demlendiriliyor.
+
+Altı kişilik tarif yaklaşık 1,5 saatte hazır.

@@ -69,6 +69,31 @@ steps:
 tips:
 - Kadayıfı ne kadar bastırırsan o kadar düzgün dilimlenir.
 - Cevizli de yapılabilir.
+updated: '2026-11-05'
+editorNote: Şerbetin soğuk, kadayıfın sıcak olmasını tarifte açıkça yazdık; şerbetli tatlılarda kıvamı belirleyen en önemli kural bu.
+notes:
+- t: Sıcak tatlı, soğuk şerbet
+  d: |
+    Fırından çıkan sıcak kadayıfa soğuk şerbet döküldüğünde şerbet yavaşça emilir ve tatlı çıtırlığını korur. İkisi de sıcak olursa kadayıf şerbeti hızla çekip yumuşar ve hamurlaşır.
+- t: Kadayıfı açmak
+  d: |
+    Paketten çıkan kadayıf birbirine yapışık olur. Elle tel tel ayırmak tereyağının her tele eşit dağılmasını sağlar; bu da kadayıfın her yerinin eşit kızarmasını getirir.
+- t: Bastırmanın önemi
+  d: |
+    Tepsiye iyice bastırılan kadayıf pişince yekpare bir katman oluşturur ve düzgün dilimlenir. Gevşek bırakılan kadayıf kesilirken dağılır.
+faq:
+- q: Tel kadayıf neden hamur olur?
+  a: Şerbet sıcakken döküldüğünde ya da fazla şerbet kullanıldığında.
+- q: Kadayıf kaç derecede pişer?
+  a: 180°C'de, altı ve üstü kızarana kadar yaklaşık 35-40 dakika.
+- q: Fıstık yerine ceviz olur mu?
+  a: Evet, cevizli kadayıf da yaygın bir çeşittir.
+- q: Kadayıf ne kadar saklanır?
+  a: Oda sıcaklığında üstü kapalı 2-3 gün.
 ---
 
-Bayram sofralarının çıtır, fıstıklı klasiği.
+Fıstıklı tel kadayıf, ince tel tel ayrılan kadayıfın tereyağıyla harmanlanıp iki katının arasına Antep fıstığı serpilerek fırınlandığı ve soğuk şerbetle tatlandırıldığı bir şerbetli tatlı. Bayram sofralarının ve özel günlerin klasiklerindendir.
+
+Bu tarifte önce şerbet kaynatılıp tamamen soğutuluyor. Kadayıf elle açılıp eritilmiş tereyağıyla harmanlanıyor, tepsiye bastırılarak yayılıyor; fıstıklar serpilip kalan kadayıfla kapatılıyor ve 180°C fırında iki yüzü kızarana kadar pişiriliyor.
+
+Sekiz kişilik tarif yaklaşık 1 saatte hazır; şerbetini çekmesi için 2 saat beklemesi gerekiyor.

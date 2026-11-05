@@ -79,6 +79,31 @@ steps:
 tips:
 - Yer elması çabuk kararır; soyar soymaz limonlu suya at.
 - Kerevizle yarı yarıya da yapılabilir.
+updated: '2026-11-05'
+editorNote: Portakal suyunu bu tarifin ayırt edici malzemesi olarak koruduk; yer elmasının tatlımsı tadını dengeleyen ferahlığı veriyor.
+notes:
+- t: Yer elması neden kararır?
+  d: |
+    Soyulan yer elması havayla temas edince hızla kararır. Soyulur soyulmaz limonlu suya atmak rengini korur. Pişirme suyundaki limon ve portakal suyu da aynı işi görür.
+- t: Dağılmadan pişirmek
+  d: |
+    Yer elması çabuk pişer ve fazla pişince dağılır. Bıçak ucu kolayca girdiğinde ocaktan almak, parçaların bütün kalmasını sağlar; soğurken kalan ısıyla pişmeye devam eder.
+- t: Kerevizle karışık
+  d: |
+    Yer elması yarı yarıya kerevizle de pişirilebilir. Kereviz daha belirgin bir aroma, yer elması ise daha yumuşak ve tatlımsı bir tat katar.
+faq:
+- q: Yer elması nedir?
+  a: Ayçiçeği ailesinden bir bitkinin yenilebilir yumrusudur; kışın pazarlarda bulunur.
+- q: Yer elması kabuğuyla pişer mi?
+  a: İyi fırçalanırsa kabuğuyla pişebilir; zeytinyağlıda genellikle soyulur.
+- q: Yer elması ne kadar pişer?
+  a: Yaklaşık 20-25 dakika; bıçak kolayca giriyorsa hazırdır.
+- q: Zeytinyağlı yer elması ne kadar saklanır?
+  a: Buzdolabında kapalı kapta 3 gün.
 ---
 
-Pazarda pek göze çarpmayan ama bir kez deneyince vazgeçilmeyen bir kış sebzesi.
+Zeytinyağlı yer elması, kış sebzesi yer elmasının havuç ve soğanla birlikte zeytinyağında, portakal ve limon suyuyla pişirildiği bir zeytinyağlı. Yer elması, ayçiçeği ailesinden bir bitkinin yumrusudur; hafif tatlı ve fındıksı tadıyla kereviz ve enginar arasında bir lezzet verir.
+
+Bu tarifte yer elmaları soyulup iri doğranıyor ve kararmaması için hemen limonlu suya alınıyor. Zeytinyağında soğan ve havuç yumuşatılıyor; yer elması, portakal ve limon suyu, şeker, tuz ve sıcak suyla yumuşayana ama dağılmayana kadar pişirilip dereotuyla soğuk servis ediliyor.
+
+Dört kişilik tarif yaklaşık 50 dakikada hazır.

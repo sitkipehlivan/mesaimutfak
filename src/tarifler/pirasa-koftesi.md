@@ -83,6 +83,31 @@ steps:
 tips:
 - Pırasanın suyunu iyice sıkmazsan köfteler dağılır.
 - Etsiz versiyonu için kıyma yerine haşlanmış patates kullan.
+updated: '2026-11-05'
+editorNote: Pırasanın suyunu sıkma adımını haşlama adımına dahil ettik; köftenin tavada dağılmasının en yaygın sebebi pırasada kalan su.
+notes:
+- t: Pırasanın suyunu sıkmak
+  d: |
+    Haşlanmış pırasa çok su tutar. Süzgeçte bekletip elle ya da bir bezle sıkmak harcın bağlanmasını sağlar. Su kalırsa köfteler yumuşak olur ve tavada dağılır.
+- t: Galeta ununun görevi
+  d: |
+    Galeta unu kalan nemi çekerek harcı bağlar. Harç hâlâ çok yumuşaksa bir kaşık daha eklenebilir; ancak fazlası köfteyi kuru ve sert yapar.
+- t: Limonla servis
+  d: |
+    Pırasa köftesi bol limonla yenir. Limon, kızartmanın ağırlığını dengeler ve pırasanın tatlımsı tadını öne çıkarır.
+faq:
+- q: Pırasa köftesi neden dağılır?
+  a: Pırasanın suyu iyi sıkılmadığında.
+- q: Etsiz pırasa köftesi yapılır mı?
+  a: Evet; kıyma yerine haşlanmış patates kullanılabilir.
+- q: Pırasa köftesi fırında yapılır mı?
+  a: Yağlı tepside 200°C fırında yapılabilir; kızartma kadar renk almaz.
+- q: Sıcak mı soğuk mu yenir?
+  a: Genellikle ılık servis edilir.
 ---
 
-İstanbul Sefarad mutfağının bayram köftesi; pırasayı sevmeyenleri bile şaşırtır.
+Pırasa köftesi, haşlanıp ince kıyılan pırasanın kıyma, yumurta ve galeta unuyla yoğrulup una ve yumurtaya bulanarak kızartıldığı bir köfte. İstanbul Sefarad mutfağında bayram sofralarının köftesi olarak bilinir; limonla ılık servis edilir.
+
+Bu tarifte pırasalar doğranıp yumuşayana kadar haşlanıyor, suyu iyice sıkılıp ince kıyılıyor. Kıyma, bir yumurta, galeta unu ve baharatlarla yoğrulan harçtan yassı köfteler yapılıp una ve çırpılmış yumurtaya bulanıyor ve orta ateşte kızartılıyor.
+
+Dört kişilik tarif yaklaşık 50 dakikada hazır.

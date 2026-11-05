@@ -96,6 +96,31 @@ steps:
 tips:
 - Kıvamı soğudukça koyulaşır; tencerede biraz sulu görünmeli.
 - Muharrem ayında komşulara dağıtmak için büyük tencerede yapılır.
+updated: '2026-11-05'
+editorNote: Aşurenin tencerede biraz sulu görünmesi gerektiğini ipucu olarak yazdık; buğday nişastası soğudukça koyulaştığı için ocakta kıvamlı görünen aşure kasede taş gibi olur.
+notes:
+- t: Buğdayın nişastası
+  d: |
+    Aşurenin kıvamını buğday verir. Uzun süre pişen buğday nişastasını suya salar ve tatlıya kendine özgü yoğun, hafif yapışkan dokusunu kazandırır. Bu yüzden buğdayın iyice yumuşaması beklenir.
+- t: Baklagillerin önceden haşlanması
+  d: |
+    Nohut ve kuru fasulye buğdaydan farklı sürede pişer. Önceden ayrı haşlanıp eklendiklerinde taneler bütün kalır ve aşure bulanmaz.
+- t: Kuru meyveler tatlandırır
+  d: |
+    Kayısı, incir ve üzüm pişerken tatlılıklarını aşureye verir. Portakal kabuğu ise tatlıya ferahlık katar; kabuğun beyaz kısmı acı olduğu için yalnızca turuncu kısmı rendelenir.
+faq:
+- q: Aşurelik buğday ıslatılmalı mı?
+  a: Evet, bir gece ıslatmak pişme süresini kısaltır.
+- q: Aşure vegan mı?
+  a: Bu tarif süt ve hayvansal ürün içermediği için vegandır.
+- q: Aşure neden çok koyulaşır?
+  a: Buğday nişastası soğudukça koyulaşır. Ocakta biraz sulu bırakmak gerekir.
+- q: Aşure ne kadar saklanır?
+  a: Buzdolabında kapalı kapta 4-5 gün.
 ---
 
-Paylaşmak için yapılan tatlı. Bir tencere aşure, bir apartman dolusu kase.
+Aşure, buğdayın nohut, kuru fasulye ve kuru meyvelerle uzun süre pişirildiği, ceviz, fındık, nar ve tarçınla süslenen bir tatlı. Geleneksel olarak Muharrem ayında büyük tencerelerde pişirilip komşulara dağıtılır; bu yüzden "paylaşmak için yapılan tatlı" olarak bilinir. Hayvansal ürün içermediği için vegandır.
+
+Bu tarifte bir gece ıslatılmış aşurelik buğday, yumuşayıp nişastasını salana kadar pişiriliyor. Doğranmış kayısı, incir ve üzüm, ardından haşlanmış nohut, fasulye, şeker ve portakal kabuğu rendesi ekleniyor; kıvam alınca kaselere paylaştırılıp soğutuluyor.
+
+On iki kişilik tarif ıslatma hariç yaklaşık 2 saatte hazır.

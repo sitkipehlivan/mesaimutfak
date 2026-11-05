@@ -94,6 +94,31 @@ steps:
 tips:
 - Muhallebi çok sıcakken yufkaya dökülürse yufka hamur olur.
 - Rize’de muhallebiye bir tutam tarçın da konur.
+updated: '2026-11-05'
+editorNote: Muhallebinin ılıtılarak kullanılmasını ipucu olarak yazdık; çok sıcak muhallebi yufkayı yumuşatır ve tatlının alt katı hamur kalır.
+notes:
+- t: Muhallebinin kıvamı
+  d: |
+    Laz böreğinin muhallebisi kaşıkla alındığında akmayacak kadar koyu olmalıdır. Sulu muhallebi fırında yufkaların arasından taşar ve tatlı dilimlendiğinde dağılır.
+- t: Streç filmin görevi
+  d: |
+    Muhallebinin yüzeyine yapıştırılan streç film, soğurken üstünde kabuk oluşmasını önler. Böylece muhallebi yufkaya pürüzsüz yayılır.
+- t: Şerbetin ölçüsü
+  d: |
+    Laz böreği baklavadan daha az şerbet çeker çünkü içindeki muhallebi zaten nemlidir. Şerbet yavaşça dökülmeli ve tatlının üstü ıslak kalmamalıdır.
+faq:
+- q: Laz böreği tatlı mı tuzlu mu?
+  a: Tatlıdır; muhallebili ve şerbetlidir.
+- q: Laz böreği sıcak mı yenir?
+  a: Ilık ya da soğuk servis edilir; şerbetini çektikten sonra dilimlenir.
+- q: Hangi yufka kullanılır?
+  a: İnce baklavalık yufka.
+- q: Laz böreği ne kadar saklanır?
+  a: Buzdolabında 2-3 gün.
 ---
 
-Rize’nin tatlısı; içi muhallebi, dışı baklava gibi çıtır.
+Laz böreği, baklava yufkaları arasına muhallebi konup fırında pişirildikten sonra şerbetle tatlandırılan bir Rize tatlısı. Dışı baklava gibi çıtır, içi yumuşak muhallebili olan bu tatlı, sütlü tatlılarla şerbetli tatlıları bir araya getirir.
+
+Bu tarifte önce şerbet kaynatılıp soğutuluyor. Süt, şeker, un, nişasta ve yumurta sarısıyla koyu bir muhallebi pişirilip ılınmaya bırakılıyor. Tereyağı sürülen yufkalar tepsiye seriliyor, muhallebi yayılıp üst katlar diziliyor; tatlı 180°C fırında kızarınca soğuk şerbet dökülüyor.
+
+On kişilik tarif yaklaşık 70 dakikada hazırlanıyor.

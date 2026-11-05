@@ -92,6 +92,31 @@ steps:
 tips:
 - Patlıcanları fazla ince kesme, köfteyle birlikte pişerken dağılır.
 - Lavaş ve ayranla servis et.
+updated: '2026-11-05'
+editorNote: Patlıcanları kabuklu ve 2 cm kalınlığında kesmeyi tarifte belirttik; ince ve soyulmuş dilimler köfteyle aynı sürede pişerken dağılıyor.
+notes:
+- t: Neden kabuklu?
+  d: |
+    Patlıcan kabuğu pişerken dilimin şeklini korur. Kabuksuz patlıcan fırında suyunu salarak dağılır ve tepside lapa olur.
+- t: Folyo ile pişirmek
+  d: |
+    Pişirmenin ilk aşamasında folyo, patlıcanların ve köftelerin buharla yumuşamasını sağlar. Folyo açıldıktan sonra köftelerin ve patlıcanların üstü kızarır ve sos koyulaşır.
+- t: Köfte ile patlıcanın uyumu
+  d: |
+    Köftenin yağı pişerken patlıcana geçer ve patlıcanı yumuşatıp lezzetlendirir. Bu yüzden köfte ve patlıcan dilimleri birbirine yaslanacak şekilde sık dizilir.
+faq:
+- q: Patlıcan kebabı kaç derecede pişer?
+  a: 200°C'de; 25 dakika folyolu, 15 dakika açık.
+- q: Patlıcanlar tuzlu suda bekletilmeli mi?
+  a: İsteğe bağlı; acısını azaltmak için 15 dakika bekletilip kurulanabilir.
+- q: Patlıcan kebabı şişte yapılır mı?
+  a: Evet, geleneksel yöntem budur; mangalda ya da fırında şişte pişirilebilir.
+- q: Yanına ne gider?
+  a: Lavaş, ayran ve sumaklı soğan.
 ---
 
-Gaziantep’in kebap kültüründen evin fırınına. Şiş yerine tepsiye dizmek işi kolaylaştırıyor.
+Patlıcan kebabı, patlıcan dilimleri ile köftelerin sırayla dizilip fırında birlikte pişirildiği bir Gaziantep yemeği. Geleneksel olarak şişe dizilip közde pişirilir; bu tarifte ise tepsiye dik sıralar halinde dizilerek ev fırınına uyarlanıyor.
+
+Bu tarifte kıyma, rendelenmiş soğan ve baharatlarla yoğrulup yassı köfteler yapılıyor. Kabuklu patlıcan dilimleri, köfteler ve domates dilimleri tepsiye sırayla diziliyor, biberler aralara yerleştiriliyor; salçalı su dökülüp önce folyoyla, sonra açık olarak 200°C fırında pişiriliyor.
+
+Dört kişilik tarif yaklaşık 70 dakikada hazır.

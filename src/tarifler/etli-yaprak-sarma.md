@@ -99,6 +99,31 @@ steps:
 tips:
 - Etli sarma sıcak yenir; zeytinyağlının aksine soğuk servis edilmez.
 - Pişirme suyuna bir kaşık limon suyu eklemek yaprakların rengini korur.
+updated: '2026-11-05'
+editorNote: Sarmaların üzerine ters tabak kapatmayı ayrıca yazdık; pişerken açılıp dağılmalarını önleyen en basit yöntem bu.
+notes:
+- t: Salamura yaprak nasıl hazırlanır?
+  d: |
+    Salamura yapraklar tuzlu suda saklandığı için doğrudan kullanılırsa sarma çok tuzlu olur. Sıcak suda birkaç dakika bekletip süzmek hem tuzunu alır hem de yaprakları yumuşatarak sarmayı kolaylaştırır. Çok kalın ya da yırtık yapraklar tencerenin dibine serilerek değerlendirilebilir.
+- t: Pirinç neden yıkanır?
+  d: |
+    Yıkanan pirincin yüzeyindeki nişasta azalır ve iç pişerken lapalaşmaz. Pirinç sarmanın içinde pişip şişeceği için iç çok sıkı doldurulmamalı; her yaprağa bir tatlı kaşığı iç yeterli.
+- t: Neden kısık ateşte pişer?
+  d: |
+    Yüksek ateşte su hızla kaynar, sarmalar tencerede hareket eder ve açılır. Kısık ateşte ve üzerinde tabakla pişen sarmalar yerinden oynamaz, pirinç de eşit şekilde pişer.
+faq:
+- q: Etli sarma ne kadar pişer?
+  a: Kısık ateşte yaklaşık 45-50 dakika. Bir sarmayı açıp pirincin tamamen yumuşadığını kontrol edebilirsin.
+- q: Etli sarma soğuk yenir mi?
+  a: Genellikle yenmez; içindeki et ve tereyağı soğuyunca donar. Sıcak ya da ılık servis edilir.
+- q: Sarmalar neden açılır?
+  a: Gevşek sarıldıklarında, tencereye seyrek dizildiklerinde ya da yüksek ateşte pişirildiklerinde açılır. Sık dizip üzerine ters bir tabak kapatmak bunu önler.
+- q: Etli sarma dondurulur mu?
+  a: Pişmemiş sarmalar tepsiye tek kat dizilip dondurulabilir, sonra poşete alınır. Pişirirken çözdürmeden tencereye dizilir, süre biraz uzar.
 ---
 
-Zeytinyağlı sarmanın kış kuzeni. Sıcak sıcak, yoğurtla.
+Etli yaprak sarma, salamura asma yaprağına kıymalı ve pirinçli iç sarılarak tencerede pişirilen bir ana yemek. Zeytinyağlı sarmadan farkı içindeki kıyma ve tereyağı; bu yüzden soğuk değil, sıcak ve yanında sarımsaklı yoğurtla yenir.
+
+Bu tarifte kıyma, pirinç, rendelenmiş soğan, domates ve biber salçası, maydanoz ve nane birlikte yoğruluyor. Yaprakların sert damarları içe gelecek şekilde sıkıca sarılıyor, sarmalar tencereye sık dizilip üzerine ters bir tabak kapatılıyor ve kısık ateşte pişiriliyor.
+
+Altı kişilik tarif hazırlığıyla birlikte yaklaşık 1 saat 40 dakika sürüyor. En çok emek sarma aşamasında; iç önceden hazırlanırsa iş bölünebilir.

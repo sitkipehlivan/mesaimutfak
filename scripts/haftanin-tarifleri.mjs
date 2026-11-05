@@ -8,8 +8,8 @@ const cats = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/_data/categories.js
 const label = Object.fromEntries([...cats.types, ...cats.diets].map(c => [c.k, c.l]));
 const recipes = fs.readdirSync(path.join(ROOT, 'src/tarifler')).filter(f => f.endsWith('.md')).map(f => {
   const d = yaml.load(fs.readFileSync(path.join(ROOT, 'src/tarifler', f), 'utf8').split(/^---\s*$/m)[1]);
-  return { s: f.slice(0, -3), cats: d.cats || [], img: !!d.image, draft: !!d.draft };
-}).filter(r => r.img && !r.draft);
+  return { s: f.slice(0, -3), cats: d.cats || [], img: !!d.image, draft: !!d.draft, live: !!d.editorNote || d.yayin === true };
+}).filter(r => r.img && !r.draft && r.live);
 
 // İstanbul saatine göre ISO hafta
 const now = new Date(Date.now() + 3 * 3600e3);

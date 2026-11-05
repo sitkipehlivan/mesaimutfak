@@ -101,6 +101,31 @@ steps:
 tips:
 - İç harcı tam doldurma, pirinç pişince şişer.
 - Bir dilim domatesi kapak yerine kullanabilirsin.
+updated: '2026-11-05'
+editorNote: İç harcı biberlere doldurmadan önce yarı pişirmeyi tarifte ayrı adım olarak yazdık; zeytinyağlı dolmada pirincin tam pişmesi için bu ön pişirme gerekli.
+notes:
+- t: Pirinci kavurmak
+  d: |
+    Pirinç zeytinyağında şeffaflaşana kadar kavrulduğunda taneleri yağla kaplanır ve pişerken birbirine yapışmaz. Bu, zeytinyağlı dolmanın tane tane iç pilavını sağlar.
+- t: Tatlı baharatlar
+  d: |
+    Tarçın, yenibahar ve kuş üzümü zeytinyağlı dolmaların klasik tatlandırıcılarıdır. Az miktarda kullanılır; amaç tatlı bir yemek değil, sıcak ve yuvarlak bir aroma vermektir.
+- t: Neden soğuk servis edilir?
+  d: |
+    Zeytinyağı soğuk havada ağır bir tat vermez, aksine aromayı taşır. Dolmalar tencerede soğurken iç harç kalan suyu emer ve lezzet oturur.
+faq:
+- q: Zeytinyağlı biber dolması sıcak yenir mi?
+  a: Geleneksel olarak soğuk ya da oda sıcaklığında yenir.
+- q: Kuş üzümü konmazsa olur mu?
+  a: Olur; ancak dolmanın klasik tatlı-tuzlu dengesi değişir.
+- q: Dolma ne kadar saklanır?
+  a: Buzdolabında kapalı kapta 3-4 gün.
+- q: Etli dolmadan farkı nedir?
+  a: Zeytinyağlı dolmada et yoktur, soğuk yenir ve iç harç önceden yarı pişirilir.
 ---
 
-Zeytinyağlı sarmanın iç pilavıyla doldurulmuş biberler. Misafir sofrasının soğuk klasiği.
+Zeytinyağlı biber dolması, dolmalık biberlerin baharatlı, fıstıklı ve kuş üzümlü iç pilavla doldurulup zeytinyağında pişirildiği soğuk bir yemek. Zeytinyağlı sarmayla aynı iç harcı kullanılır; tarçın, yenibahar ve kuş üzümünün verdiği hafif tatlı tat bu dolmanın imzasıdır.
+
+Bu tarifte soğan zeytinyağında kavrulup fıstık ve pirinç ekleniyor, pirinç şeffaflaşana kadar çevriliyor. Kuş üzümü, rendelenmiş domates ve baharatlarla az suda pişirilip yeşillikler katılıyor; harç biberlere dörtte üçüne kadar doldurulup kısık ateşte pişiriliyor.
+
+Altı kişilik tarif yaklaşık 70 dakikada hazır; tencerede soğutulup servis ediliyor.

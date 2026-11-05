@@ -85,6 +85,31 @@ steps:
 tips:
 - Patlıcanları kızartmak yerine fırınlamak yemeği hafifletir.
 - Yanına pilav ve cacık klasik eşleşmedir.
+updated: '2026-11-05'
+editorNote: Patlıcanları kızartmak yerine fırınlamayı tercih ettik; patlıcan kızartılırken çok yağ çeker ve yemeği ağırlaştırır.
+notes:
+- t: Patlıcan neden tuzlu suda bekletilir?
+  d: |
+    Tuzlu su patlıcanın acımsı suyunu kısmen alır ve pişerken daha az yağ çekmesini sağlar. Bekletmeden sonra patlıcanları iyice kurulamak, fırında buharlaşmak yerine renk almalarına yardım eder.
+- t: Alacalı soymak
+  d: |
+    Patlıcan kabuğunun tamamen soyulması dilimlerin dağılmasına, hiç soyulmaması ise sert kalmasına neden olabilir. Şerit şerit, alacalı soymak dilimlerin şeklini korurken yumuşak pişmelerini sağlar.
+- t: Sosun kıvamı
+  d: |
+    Fırına girmeden önce eklenen sıcak su, patlıcanların sosu emmesini sağlar. Fırından çıktığında tepside az miktarda koyu sos kalmalıdır; çok sulu ise birkaç dakika daha pişirilebilir.
+faq:
+- q: Musakkaya beşamel sos konur mu?
+  a: Türk usulü musakkada konmaz. Beşamelli versiyon Yunan mutfağına aittir.
+- q: Patlıcan kızartmadan musakka olur mu?
+  a: Evet; bu tarifte patlıcanlar fırında pişiriliyor, yemek daha hafif oluyor.
+- q: Musakka kaç derecede pişer?
+  a: Katlar dizildikten sonra 190°C'de, sos azalana kadar yaklaşık 25-30 dakika.
+- q: Musakkanın yanına ne gider?
+  a: Pirinç pilavı ve cacık.
 ---
 
-Türk usulü musakka, Yunan versiyonundaki beşamel sos olmadan; hafif ve bol domatesli.
+Patlıcan musakka, fırınlanmış patlıcan dilimlerinin kıymalı ve domatesli sosla kat kat dizilip fırında pişirildiği bir yaz yemeği. Türk usulü musakka, Yunan versiyonundaki beşamel sos olmadan yapılır; bu yüzden daha hafif ve bol domatesli bir tabaktır.
+
+Bu tarifte patlıcanlar alacalı soyulup tuzlu suda bekletiliyor, kızartmak yerine az zeytinyağıyla fırında pişiriliyor. Kıyma soğanla kavrulup biber, salça ve domatesle sos haline getiriliyor; katlar halinde dizilip 190°C fırında sosu azalana kadar pişiriliyor.
+
+Dört kişilik tarif yaklaşık 70 dakikada hazır. Pilav ve cacıkla servis edilir.

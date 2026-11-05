@@ -78,6 +78,31 @@ steps:
 tips:
 - Bir tutam şeker domatesin ekşiliğini dengeler, fasulyenin rengini de korur.
 - Et yerine kıyma kullanırsan pişme süresi 10 dakika kısalır.
+updated: '2026-11-05'
+editorNote: Fasulyenin kenar liflerini almayı ilk adımda belirttik; ayıklanmayan lifler pişse bile sert kalır ve yerken rahatsız eder.
+notes:
+- t: Fasulye nasıl ayıklanır?
+  d: |
+    Fasulyenin iki ucu kesilir ve kenar boyunca uzanan ince, sert lif çekilerek çıkarılır. Taze ve ince fasulyelerde bu lif az olur; kalın ve olgun fasulyelerde mutlaka ayıklanmalıdır.
+- t: Neden bir tutam şeker?
+  d: |
+    Domates ve salça yemeğe ekşilik verir. Bir tutam şeker bu ekşiliği dengeler ve yemeğin tadını yuvarlar; yemek tatlı olmaz.
+- t: Kapağı kapalı pişirmek
+  d: |
+    Kapağı kapalı pişen fasulye kendi buharında yumuşar ve az suyla pişebilir. Böylece yemeğin sosu sulanmaz, koyu ve lezzetli kalır.
+faq:
+- q: Etli taze fasulye ne kadar pişer?
+  a: Et kavrulduktan sonra kısık ateşte yaklaşık 35-40 dakika.
+- q: Taze fasulye neden sert kalır?
+  a: Lifleri ayıklanmadığında ya da pişirme süresi kısa tutulduğunda.
+- q: Kıymayla yapılır mı?
+  a: Evet; kıymayla pişirme süresi yaklaşık 10 dakika kısalır.
+- q: Dondurulmuş fasulye kullanılır mı?
+  a: Kullanılabilir; çözdürmeden eklenir, su miktarı biraz azaltılır.
 ---
 
-Zeytinyağlısının yanında bir de etlisi var; yaz akşamlarının sıcak yemeği.
+Etli taze fasulye, kuşbaşı etin domates ve salçayla taze fasulyeyle birlikte pişirildiği bir yaz yemeği. Zeytinyağlı versiyonu soğuk servis edilirken etli taze fasulye sıcak yenir ve pilavla birlikte tam bir öğün olur.
+
+Bu tarifte fasulyeler ayıklanıp 3-4 santim boyunda doğranıyor. Et yağda suyunu çekene kadar kavruluyor, soğan, salça ve rendelenmiş domates ekleniyor; fasulye bir tutam şeker ve sıcak suyla kapağı kapalı, kısık ateşte yumuşayana kadar pişiriliyor.
+
+Dört kişilik tarif yaklaşık 70 dakikada hazır.

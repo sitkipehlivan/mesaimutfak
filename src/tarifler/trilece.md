@@ -88,6 +88,31 @@ steps:
 tips:
 - Kek ne kadar kabarık olursa sütü o kadar iyi çeker.
 - Bir gece bekletirsen çok daha lezzetli olur.
+updated: '2026-11-05'
+editorNote: Yumurta ve şekerin 8-10 dakika çırpılmasını süre olarak yazdık; trileçede kekin sütü çekebilmesi bu kabarıklığa bağlı.
+notes:
+- t: Kabarık kek neden önemli?
+  d: |
+    Trileçenin keki sünger gibi çalışır. Yumurta ve şeker uzun süre çırpılınca içinde bol hava kabarcığı olan, hafif bir kek oluşur. Bu boşluklar ıslatma karışımını emer; yoğun bir kek sütü çekemez ve tatlı ıslak kalır.
+- t: Unu spatulayla katmak
+  d: |
+    Un eklendikten sonra mikserle çırpmak içerideki havayı kaçırır. Unu eleyerek ekleyip spatulayla alttan üste doğru katlayarak karıştırmak kekin kabarıklığını korur.
+- t: Karamel sos
+  d: |
+    Karamele eklenen krema soğuksa karamel aniden sertleşebilir. Ilık krema yavaşça eklendiğinde akışkan ve pürüzsüz bir sos oluşur.
+faq:
+- q: Trileçe neden sütü çekmez?
+  a: Kek yeterince kabarık olmadığında. Yumurta ve şekeri uzun çırpmak gerekir.
+- q: Trileçe ne kadar bekletilir?
+  a: En az 4 saat; bir gece bekletmek daha lezzetli olur.
+- q: Trileçe ile tres leches aynı mı?
+  a: Aynı kökenden gelir; trileçe karamel sosla servis edilen Balkan ve Türk versiyonudur.
+- q: Trileçe ne kadar saklanır?
+  a: Buzdolabında 2-3 gün.
 ---
 
-Balkanlardan gelip pastanelerimizin vitrinine yerleşmiş, sütlü ve hafif bir tatlı.
+Trileçe, kabarık bir pandispanyanın süt ve kremalı bir karışımla ıslatılıp üzerine karamel sos dökülerek servis edildiği bir tatlı. Adı İspanyolca "üç süt" anlamına gelen tres leches'ten gelir; Türkiye'ye Balkanlar üzerinden ulaşmış ve pastane vitrinlerinin sevilen tatlılarından biri olmuştur.
+
+Bu tarifte yumurta ve şeker iyice kabarana kadar çırpılıyor, un ve kabartma tozu katılıp kek 170°C fırında pişiriliyor. Ilık keke ısıtılmış süt, krema ve şeker karışımı dökülüyor; şekerden karamel yapılıp ılık kremayla açılıyor ve servis öncesi kekin üzerine ekleniyor.
+
+On kişilik tarif yaklaşık 50 dakikada hazırlanıyor; sütü çekmesi için en az 4 saat bekletiliyor.

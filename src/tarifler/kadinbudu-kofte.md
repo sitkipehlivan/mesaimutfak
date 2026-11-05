@@ -90,6 +90,31 @@ steps:
 tips:
 - Kıymanın yarısını pişirmek köftenin yumuşak dokusunun sırrı.
 - Kızartmak yerine yağlı tepside 200°C fırında da pişirebilirsin, yumurta kaplama yine kızarır.
+updated: '2026-11-05'
+editorNote: Kıymanın yarısını önceden pişirme adımını ayrı yazdık; kadınbudu köfteyi sıradan köfteden ayıran yumuşak doku bu adımdan geliyor.
+notes:
+- t: Kıymanın yarısı neden pişirilir?
+  d: |
+    Pişmiş kıyma çiğ kıymaya karıştırıldığında harcın dokusu gevşer ve köfte kızarırken sertleşmez. Pirinçle birlikte bu karışım, ağızda dağılan yumuşak bir iç oluşturur. Pişen kıymanın soğuması beklenmelidir; sıcak kıyma çiğ kıymayı pişirmeye başlar.
+- t: Pirinç tamamen haşlanır
+  d: |
+    Köfte kısa sürede kızartıldığı için pirincin içinde pişmesine zaman yoktur. Bu yüzden pirinç önceden yumuşayana kadar haşlanıp iyice süzülür; sulu pirinç harcı dağıtır.
+- t: Un ve yumurta kaplama
+  d: |
+    Köfteler önce una bulanınca yüzeyleri kurur, böylece yumurta eşit şekilde yapışır. Yumurta kaplama kızarırken altın rengi, ince ve yumuşak bir kabuk oluşturur.
+faq:
+- q: Kadınbudu köfte neden dağılır?
+  a: Pirinç iyi süzülmediğinde ya da harç yeterince yoğrulmadığında. Harcı 15 dakika buzdolabında dinlendirmek şekil vermeyi kolaylaştırır.
+- q: Kadınbudu köfte fırında yapılır mı?
+  a: Evet; yağlı tepside 200°C fırında, yaklaşık 20-25 dakika.
+- q: Hangi pirinç kullanılır?
+  a: Baldo ya da osmancık pirinç uygundur.
+- q: Kadınbudu köftenin yanına ne gider?
+  a: Patates püresi, pilav ya da domates salatası.
 ---
 
-Osmanlı saray mutfağından kalma, adı kadar zarif bir köfte. İçi pirinçli ve yumuşak, dışı yumurtalı ve altın renkli.
+Kadınbudu köfte, kıymanın bir kısmının pişirilip pirinçle yoğrulduğu, una ve yumurtaya bulanarak kızartılan yumuşak dokulu bir köfte. Osmanlı saray mutfağından günümüze gelen bu köfte, adını yumuşaklığından alır ve klasik Türk köfteleri arasında en emek isteyenlerden biridir.
+
+Bu tarifte pirinç önce haşlanıyor, kıymanın yarısı soğanla tereyağında pişirilip soğutuluyor. Pişmiş ve çiğ kıyma, pirinç, maydanoz ve baharatlarla yoğrulup yassı oval köfteler yapılıyor; köfteler una ve yumurtaya bulanıp orta ateşte kızartılıyor.
+
+Dört kişilik tarif yaklaşık 50 dakikada hazır. Fırında pişirmek de mümkün.

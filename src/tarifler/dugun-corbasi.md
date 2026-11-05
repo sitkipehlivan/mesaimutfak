@@ -87,6 +87,31 @@ steps:
 tips:
 - Terbiyeli çorbayı kaynayana kadar karıştırmayı bırakma; yoğurt kesilmesin.
 - Et suyunu bir gün önce hazırlarsan çorba yarım saate iner.
+updated: '2026-11-05'
+editorNote: Terbiyeyi ılıştırma adımını ayrı yazdık; düğün çorbasında en sık yaşanan sorun, yoğurdun sıcak suya doğrudan dökülüp kesilmesi.
+notes:
+- t: Terbiye neden ılıştırılır?
+  d: |
+    Yoğurt ve yumurta sarısı birden yüksek sıcaklıkla karşılaşırsa proteinleri pıhtılaşır ve çorba kesilmiş, taneli bir görünüm alır. Terbiyeye kepçe kepçe sıcak et suyu ekleyerek sıcaklığını yavaşça yükseltmek bunu önler.
+- t: Un ne işe yarar?
+  d: |
+    Terbiyedeki un hem çorbaya kıvam verir hem de yoğurdun kesilmesine karşı koruyucu görev görür. Unun topaklanmaması için terbiyeyi önce pürüzsüz olana kadar çırpmak gerekir.
+- t: Kemikli et mi, kemiksiz et mi?
+  d: |
+    Kemikli et, haşlanırken et suyuna daha fazla tat ve hafif bir kıvam verir. Kemiksiz etle de yapılabilir ama çorbanın tadı biraz daha hafif olur.
+faq:
+- q: Düğün çorbası neden kesilir?
+  a: Terbiye ılıştırılmadan sıcak suya döküldüğünde ya da çorba kaynarken karıştırılmadığında kesilir. Terbiyeyi ılıştırıp çorbayı kaynayana kadar karıştırmak gerekir.
+- q: Düğün çorbası hangi etle yapılır?
+  a: Kemikli kuzu ya da dana etiyle. Kemikli et çorbaya daha yoğun bir tat verir.
+- q: Düğün çorbası ile yayla çorbası arasındaki fark nedir?
+  a: İkisi de yoğurtlu terbiyeyle yapılır; düğün çorbasında et ve et suyu, yayla çorbasında pirinç kullanılır.
+- q: Düğün çorbası ertesi gün ısıtılır mı?
+  a: Evet, kısık ateşte ve karıştırarak ısıtılır. Kaynatmadan ısıtmak kesilmesini önler.
 ---
 
-Anadolu düğünlerinin açılış tabağı. Terbiyesi ince işçilik, gerisi kolay.
+Düğün çorbası, et suyuyla hazırlanıp yoğurt, un ve yumurta sarısıyla terbiye edilen, üzerine naneli ve pul biberli tereyağı gezdirilen bir Anadolu çorbası. Adını düğün sofralarında ilk ikram edilen yemek olmasından alır; yöreye göre kemikli kuzu ya da dana etiyle yapılır.
+
+Bu tarifte et tuzlu suda yumuşayana kadar haşlanıp didikleniyor. Yoğurtlu terbiye sıcak et suyuyla ılıştırılarak tencereye ekleniyor ve çorba sürekli karıştırılarak pişiriliyor.
+
+Altı kişilik tarif etin haşlanmasıyla birlikte yaklaşık 1 saat 45 dakika sürüyor; et suyu önceden hazırsa yarım saatte biter.

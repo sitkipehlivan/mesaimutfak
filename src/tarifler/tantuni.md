@@ -91,6 +91,31 @@ steps:
 tips:
 - Eti ne kadar ince doğrarsan o kadar Mersin’e yaklaşırsın.
 - Lavaşı tavadaki yağa bastırmak tantuninin imzası.
+updated: '2026-11-05'
+editorNote: Önce haşlayıp sonra kavurma adımını, Mersin'deki yapılış şeklini yansıttığı için ayrı ayrı yazdık; bu sıralama etin hem yumuşak hem lezzetli olmasını sağlıyor.
+notes:
+- t: Eti ince doğramak
+  d: |
+    Tantuninin dokusu etin inceliğinden gelir. Et buzlukta yarım saat bekletilip hafifçe sertleştiğinde çok ince şeritler halinde kesmek çok daha kolay olur.
+- t: Neden önce haşlanır?
+  d: |
+    Haşlama eti yumuşatır ve kavurma süresini kısaltır. Ardından tavada kavrulan et, baharatlarla kaplanır ve hafif kızarır. Sadece kavrulan et ise daha sert olur.
+- t: Lavaşı yağa bastırmak
+  d: |
+    Tavada kalan baharatlı yağa bastırılan lavaş hem ısınır hem de etin aromasını alır. Tantuniyi sıradan bir et dürümünden ayıran en belirgin özellik budur.
+faq:
+- q: Tantuni hangi etten yapılır?
+  a: Dana but ya da kontrfile gibi yağı az etlerden.
+- q: Tantuni neden önce haşlanır?
+  a: Eti yumuşatmak ve kavurma süresini kısaltmak için.
+- q: Tantuni tavuktan yapılır mı?
+  a: Evet; tavuk göğsüyle de yapılır, haşlama süresi kısalır.
+- q: Tantuninin yanına ne gider?
+  a: Ayran, turşu ve közlenmiş acı biber.
 ---
 
-Mersin sokaklarının dürümü. Eti ince doğramak işin yarısı, gerisi on dakikalık bir tava.
+Tantuni, çok ince doğranan etin önce haşlanıp sonra geniş tavada pul biberle kavrulduğu ve lavaşa sarılarak servis edildiği bir Mersin sokak lezzeti. Mersin'deki tantunicilerde et, ortası çukur geniş bir sacda pişirilir ve lavaş etin yağına bastırılarak ısıtılır.
+
+Bu tarifte et yarı donmuşken kibrit çöpü inceliğinde doğranıyor ve tuzlu suda 10 dakika haşlanıyor. Ardından geniş tavada pul biber ve kimyonla kavrulup az suyla suyunu çekene kadar çevriliyor; lavaş tavadaki yağa bastırılıp et ve sumaklı salatayla dürüm yapılıyor.
+
+Dört kişilik tarif yaklaşık 35 dakikada hazır.

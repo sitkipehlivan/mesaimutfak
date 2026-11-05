@@ -64,6 +64,31 @@ steps:
 tips:
 - Rengi kabuklar ve çekirdekler verir; ne kadar uzun pişerse o kadar koyulaşır.
 - Kaymakla servis edersen vegan olmaz; vegan için hindistan cevizi kreması dene.
+updated: '2026-11-05'
+editorNote: Kabukları ve çekirdekleri atmamayı ilk adımda vurguladık; ayva tatlısının kırmızı rengini veren onlar.
+notes:
+- t: Rengi ne verir?
+  d: |
+    Ayva çekirdekleri ve kabukları pişerken şerbete renk verir. Pişirme süresi uzadıkça renk açık pembeden koyu kızıla döner. Bu yüzden folyo son aşamada açılıp tatlı birkaç kez kendi şerbetiyle sulanır.
+- t: Neden folyoyla pişirilir?
+  d: |
+    Folyo ayvaların buharla yavaş ve eşit pişmesini sağlar, şerbetin hızla buharlaşmasını önler. Son 15 dakikada açılması ayvanın üstünün hafif parlak bir renk almasını sağlar.
+- t: Limonun görevi
+  d: |
+    Limon suyu hem şerbetin kristalleşmesini önler hem de ayvanın tatlılığını dengeler.
+faq:
+- q: Ayva tatlısı neden kırmızı olmaz?
+  a: Kabuklar ve çekirdekler kullanılmadığında ya da pişirme süresi kısa tutulduğunda.
+- q: Ayva tatlısı tencerede yapılır mı?
+  a: Evet, kapağı kapalı kısık ateşte pişirilebilir; renk fırında daha eşit olur.
+- q: Ayva tatlısı nasıl servis edilir?
+  a: Soğuk olarak, kaymak ve dövülmüş ceviz ya da fıstıkla.
+- q: Vegan mı?
+  a: Tarifin kendisi vegandır; kaymakla servis edilirse değildir.
 ---
 
-Kasım akşamlarının tatlısı. Fırında yavaş pişen ayva kendi çekirdekleriyle kızıla döner.
+Ayva tatlısı, ikiye kesilip oyulan ayvaların şekerli şerbette, kendi kabukları ve çekirdekleriyle birlikte fırında yavaşça pişirildiği bir sonbahar tatlısı. Ayvanın karakteristik kızıl rengi boya ya da katkıdan değil, çekirdekleri ve kabuklarında bulunan maddelerin uzun pişirmede renk vermesinden gelir.
+
+Bu tarifte ayvalar soyulup çekirdek yatakları oyuluyor, tepsiye diziliyor ve kabuklarla çekirdekler aralarına yerleştiriliyor. Şerbet ve karanfil eklenip üzeri folyoyla kapatılıyor, 180°C fırında yumuşayıp renk alana kadar pişiriliyor.
+
+Dört kişilik tarif yaklaşık 75 dakikada hazır. Kaymak ya da dövülmüş cevizle servis edilir.

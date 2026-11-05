@@ -83,6 +83,31 @@ steps:
 tips:
 - Konserve barbunyayla pişirme süresi 20 dakikaya iner.
 - Soğuk servis edilir; limon sıkmak çok yakışır.
+updated: '2026-11-05'
+editorNote: Tuzu son 10 dakikada eklemeyi yazdık; kuru baklagillerde erken eklenen tuz pişmeyi yavaşlatabiliyor.
+notes:
+- t: Islatma ve ön haşlama
+  d: |
+    Kuru barbunya bir gece suda bekletilip ardından taze suda kısa süre haşlanır. Bu iki adım pişme süresini kısaltır ve fasulyelerin eşit pişmesini sağlar. Haşlama suyu dökülür.
+- t: Kabukların bütün kalması
+  d: |
+    Barbunya hızlı kaynatılırsa kabukları soyulur ve yemek bulanıklaşır. Kısık ateşte, hafif fokurdayarak pişirmek tanelerin bütün kalmasını sağlar.
+- t: Limonla servis
+  d: |
+    Soğuk barbunyanın üzerine sıkılan limon, zeytinyağının ağırlığını dengeler ve yemeğe tazelik katar.
+faq:
+- q: Barbunya kaç saat ıslatılır?
+  a: En az 8 saat, tercihen bir gece.
+- q: Konserve barbunya kullanılır mı?
+  a: Evet; pişirme süresi yaklaşık 20 dakikaya iner.
+- q: Zeytinyağlı barbunya ne kadar saklanır?
+  a: Buzdolabında kapalı kapta 3 gün.
+- q: Taze barbunyayla yapılır mı?
+  a: Yapılabilir; ıslatma gerekmez, pişirme süresi kısalır.
 ---
 
-Meyhane sofralarından ev mutfağına. Dolapta üç gün bozulmaz.
+Zeytinyağlı barbunya, kuru barbunyanın havuç, patates ve salçayla zeytinyağında pişirilip soğuk servis edildiği bir meze ve ana yemek. Meyhane sofralarının klasiklerinden biridir; buzdolabında birkaç gün dayandığı için önceden hazırlanmaya da uygundur.
+
+Bu tarifte bir gece ıslatılmış barbunya 20 dakika ön haşlanıp süzülüyor. Zeytinyağında soğan, sarımsak ve salça kavruluyor; barbunya, küp doğranmış havuç ve patatesle birlikte kısık ateşte yumuşayana kadar pişiriliyor ve maydanozla servis ediliyor.
+
+Altı kişilik tarif ıslatma hariç yaklaşık 75 dakikada hazır.

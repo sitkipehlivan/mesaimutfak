@@ -72,6 +72,31 @@ tips:
 - Yumurtayı fazla çırpmak kabarcıklı, delikli bir doku verir.
 - Su banyosu muhallebinin pütür pütür olmasını önler.
 - Tam pişmiş krem karamel kalıp sallandığında jöle gibi hafifçe titrer.
+updated: '2026-11-05'
+editorNote: Karışımın süzgeçten geçirilmesini ayrı bir işlem olarak yazdık; bu küçük adım pürüzsüz, kabarcıksız bir doku için belirleyici.
+notes:
+- t: Su banyosu neden şart?
+  d: |
+    Yumurtalı karışım doğrudan fırın sıcaklığına maruz kalırsa kenarları hızla pişer, içinde küçük delikler oluşur ve doku pütür pütür olur. Kapların etrafındaki sıcak su sıcaklığı yumuşatır ve tatlının eşit, yavaş pişmesini sağlar.
+- t: Karamelin rengi
+  d: |
+    Karamel açık sarıyken alınırsa tatsız, koyu kahveye döndüğünde ise acı olur. Kehribar rengi doğru noktadır. Şeker karıştırılmadan, tava çevrilerek eritilir; kaşıkla karıştırmak kristalleşmeye yol açabilir.
+- t: Köpürtmeden karıştırmak
+  d: |
+    Yumurta çırpılırken içine giren hava pişince kabarcık bırakır. Malzemeleri yalnızca birleşene kadar karıştırmak ve süzgeçten geçirmek pürüzsüz bir yüzey verir.
+faq:
+- q: Krem karamel neden delikli olur?
+  a: Yumurta fazla çırpıldığında ya da fırın çok sıcak olduğunda.
+- q: Krem karamel pişti mi nasıl anlaşılır?
+  a: Kap hafifçe sallandığında ortası jöle gibi titriyorsa hazırdır.
+- q: Karamel neden kristalleşir?
+  a: Eritirken kaşıkla karıştırıldığında. Tavayı çevirerek eritmek gerekir.
+- q: Krem karamel ne kadar bekletilmeli?
+  a: En az 4 saat; bir gece bekletmek ters çevirmeyi kolaylaştırır.
 ---
 
-Pastanelerin klasiği, 2023’te Google’da en çok aranan tariflerden biri. Beş malzemeyle yapılır, sırrı karamelin rengi ve su banyosu.
+Krem karamel, karamelize şekerle kaplı kaplarda su banyosunda pişirilen, yumurtalı ve sütlü bir puding. Ters çevrildiğinde üstünden akan karamel sosu ve pürüzsüz dokusuyla pastanelerin klasik tatlılarından biridir; yalnızca beş temel malzemeyle yapılır.
+
+Bu tarifte şeker ve su karıştırılmadan kehribar rengi olana kadar eritilip kapların tabanına paylaştırılıyor. Yumurta, şeker ve vanilin köpürtmeden karıştırılıp ılık sütle açılıyor, süzgeçten geçirilip kaplara dökülüyor ve 160°C fırında su banyosunda pişiriliyor.
+
+Altı kişilik tarif yaklaşık 65 dakikada hazırlanıyor; servis öncesi en az 4 saat buzdolabında beklemesi gerekiyor.

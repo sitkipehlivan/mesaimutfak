@@ -69,6 +69,31 @@ steps:
 tips:
 - İrmik kavurma işini acele etme; helvanın rengi ve kokusu buradan gelir.
 - Sıcak servis edilir; dondurmayla harika bir ikili olur.
+updated: '2026-11-05'
+editorNote: Şerbetin sıcak olması gerektiğini ve dökerken fokurdayacağını özellikle belirttik; soğuk şerbet irmiği topaklaştırır, sıcak şerbet ise sıçrayabilir.
+notes:
+- t: Kavurma süresi
+  d: |
+    Helvanın rengi ve kokusu irmiğin kavrulmasından gelir. Kısık ateşte ve sürekli karıştırarak kavrulan irmik yavaşça altın rengine döner ve fındıksı bir koku çıkar. Acele edilirse irmik çiğ kalır, yüksek ateşte ise yanar.
+- t: Neden demlendirilir?
+  d: |
+    Şerbet eklendikten sonra irmik suyu çekmeye devam eder. Kapağın altına kâğıt havlu koyup demlendirmek, buharın helvaya geri damlamasını önler ve tanelerin dağınık kalmasını sağlar.
+- t: Süt ve su dengesi
+  d: |
+    Yalnızca sütle yapılan helva daha yumuşak ve kremamsı, yalnızca suyla yapılan helva daha tane tane olur. Bu tarifteki eşit oran ikisinin arasında bir doku verir.
+faq:
+- q: İrmik helvası neden topaklanır?
+  a: Şerbet soğukken eklendiğinde ya da irmik yeterince kavrulmadığında.
+- q: İrmik helvası sıcak mı yenir?
+  a: Genellikle sıcak ya da ılık servis edilir.
+- q: Fıstık yerine ne konur?
+  a: Çam fıstığı yerine ceviz ya da badem kullanılabilir.
+- q: Helva ne kadar saklanır?
+  a: Oda sıcaklığında kapalı kapta 2 gün; servis öncesi hafifçe ısıtılabilir.
 ---
 
-Kandil gecelerinin, misafir sofralarının sıcak tatlısı. Mutfağa yayılan tereyağlı irmik kokusu her şeye değer.
+İrmik helvası, irmiğin tereyağında fıstıkla birlikte kokusu çıkana kadar kavrulup sıcak sütlü şerbetle demlendirildiği geleneksel bir tatlı. Kandil gecelerinde, taziyelerde ve misafir sofralarında ikram edilir; sıcak servis edildiğinde yanına dondurma çok yakışır.
+
+Bu tarifte süt, su ve şeker ayrı bir tencerede ısıtılıp sıcak tutuluyor. Tereyağında irmik ve fıstık kısık ateşte sürekli karıştırılarak altın rengi olana kadar kavruluyor; sıcak şerbet dikkatlice eklenip ocak kapatılıyor ve helva kapağın altında demlendiriliyor.
+
+Altı kişilik tarif yaklaşık 30 dakikada hazır.

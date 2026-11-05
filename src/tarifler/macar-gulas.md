@@ -93,6 +93,31 @@ steps:
 tips:
 - Paprika yağda yakılırsa acılaşır; ocağı kıs.
 - Bir kaşık ekşi krema ve ekmekle servis et.
+updated: '2026-11-05'
+editorNote: Paprikayı eklemeden önce ocağı kısmayı adımın içine yazdık; paprika yüksek ısıda saniyeler içinde yanıp acılaşıyor ve gulaşın tadını bozuyor.
+notes:
+- t: Paprikanın önemi
+  d: |
+    Gulaşın rengi ve karakteristik tadı tatlı toz kırmızı biberden gelir. Paprika yağda kısa süre çevrildiğinde aroması açılır; ancak yüksek ısıda hızla yanar. Bu yüzden ocak kısılarak eklenir.
+- t: Soğanı uzun kavurmak
+  d: |
+    Gulaşta soğan miktarı fazladır ve altın rengi olana kadar kavrulur. Uzun kavrulan soğan tatlanır ve pişerken dağılarak yahniye kıvam verir.
+- t: Sebzeleri sonradan eklemek
+  d: |
+    Et uzun süre pişmesi gerektiği için patates ve havuç son 25 dakikada eklenir. Baştan eklenen sebzeler et yumuşayana kadar dağılır.
+faq:
+- q: Gulaş çorba mı yemek mi?
+  a: Macaristan'da sulu bir yahni olarak, çorba gibi kâsede servis edilir.
+- q: Paprika yerine ne kullanılır?
+  a: Tatlı toz kırmızı biber; acı istemiyorsanız pul biber kullanılmamalı.
+- q: Gulaş hangi etle yapılır?
+  a: Dana kuşbaşıyla; uzun pişmeye uygun kas etleri tercih edilir.
+- q: Gulaşın yanına ne gider?
+  a: Ekmek ve bir kaşık ekşi krema.
 ---
 
-Budapeşte’nin kırmızı, paprikalı ve doyurucu et yahnisi.
+Macar gulaşı, dana etinin bol soğan ve tatlı toz kırmızı biberle (paprika) uzun süre pişirilip patates ve havuçla tamamlandığı bir Macar yahnisi. Macaristan'da gulyás adıyla bilinen bu yemek aslında çorbaya yakın bir yahnidir; adını bozkırlarda sığır güden çobanlardan alır.
+
+Bu tarifte soğanlar altın rengi olana kadar kavruluyor, et eklenip mühürleniyor. Ocak kısılıp paprika, kimyon ve sarımsak ekleniyor; salça, kapya biber, defne ve sıcak suyla kapağı kapalı bir saat pişiriliyor, ardından patates ve havuç eklenip 25 dakika daha pişiriliyor.
+
+Dört kişilik tarif yaklaşık 1 saat 50 dakikada hazır.
