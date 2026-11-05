@@ -108,6 +108,7 @@ faq:
   a: İkisi de yoğurtlu terbiyeyle yapılır; düğün çorbasında et ve et suyu, yayla çorbasında pirinç kullanılır.
 - q: Düğün çorbası ertesi gün ısıtılır mı?
   a: Evet, kısık ateşte ve karıştırarak ısıtılır. Kaynatmadan ısıtmak kesilmesini önler.
+aramaBasligi: "Düğün çorbası tarifi: Terbiyesi kesilmeden, etli"
 ---
 
 Düğün çorbası, et suyuyla hazırlanıp yoğurt, un ve yumurta sarısıyla terbiye edilen, üzerine naneli ve pul biberli tereyağı gezdirilen bir Anadolu çorbası. Adını düğün sofralarında ilk ikram edilen yemek olmasından alır; yöreye göre kemikli kuzu ya da dana etiyle yapılır.

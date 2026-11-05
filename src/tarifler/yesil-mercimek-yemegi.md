@@ -104,6 +104,7 @@ faq:
   a: Evet; kavurma aşamasına kuşbaşı et ya da kıyma eklenebilir. Bu tarif etsiz ve vegan.
 - q: Yanına ne gider?
   a: Pirinç pilavı, turşu ve bir dilim limon klasik eşleşmedir.
+aramaBasligi: "Yeşil mercimek yemeği tarifi: Tencerede, 50 dakikada"
 ---
 
 Yeşil mercimek yemeği, mercimeğin salçalı ve soğanlı bir tabanda az bulgurla pişirildiği, kuru baklagil yemeklerinin en pratiklerinden biri. Ekonomik, doyurucu ve bitkisel protein açısından zengin olduğu için ev mutfağında sık yapılır; etsiz hazırlandığı için vegan beslenenlere de uygundur.

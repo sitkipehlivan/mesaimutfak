@@ -94,6 +94,8 @@ notes:
   d: 'Ocakta ters çevirmek zor gelirse künefe 200°C fırında da pişirilebilir. Tava fırına uygun olmalı; alt kısım kızardığında üst kısmın da kızarması için son birkaç dakika üst ızgarayı açabilirsin.
 
     '
+editorNote: Künefeyi iki kişilik, küçük tava ölçüsünde yazdık; künefenin en iyi hali sıcakken ve hemen yenen hali olduğu için büyük tepsi yerine porsiyonluk yapmak daha iyi sonuç veriyor. Tuzlu peynir uyarısını da bu yüzden en başa koyduk.
+aramaBasligi: "Künefe tarifi: Evde tavada çıtır künefe, 35 dakikada"
 faq:
 - q: Künefeye hangi peynir konur?
   a: Tuzsuz künefe peyniri ya da Hatay peyniri. Bu peynirler ısıtıldığında uzar ve yağ salmaz. Bulunamazsa taze kaşar ya da mozzarella kullanılabilir.
@@ -103,7 +105,8 @@ faq:
   a: Evet. Fırına uygun bir tavada 200°C'de alt ve üstü kızarana kadar pişirilebilir; ters çevirmeye gerek kalmaz.
 - q: Künefe önceden hazırlanır mı?
   a: Kadayıf ve peynir tavaya dizilip buzdolabında birkaç saat bekletilebilir. Ancak pişirme ve şerbetleme servis anında yapılmalı; künefe sıcak yenir.
-editorNote: Künefeyi iki kişilik, küçük tava ölçüsünde yazdık; künefenin en iyi hali sıcakken ve hemen yenen hali olduğu için büyük tepsi yerine porsiyonluk yapmak daha iyi sonuç veriyor. Tuzlu peynir uyarısını da bu yüzden en başa koyduk.
+- q: Airfryer’da künefe nasıl yapılır?
+  a: 'Künefe airfryer’da da yapılabilir: 14-16 cm metal kalıba dizilen künefe 180°C’de 8 dakika pişirilir, ters çevrilip 6-7 dakika daha pişirilir. Ayrıntılar “Airfryer’da künefe” tarifimizde.'
 ---
 
 Künefe, tel kadayıf ve tuzsuz peynirin tereyağıyla kızartılıp şerbetle buluştuğu, Hatay mutfağının en ünlü tatlısı. Sıcakken kesildiğinde uzayan peynir ve çıtır kadayıf, künefeyi diğer şerbetli tatlılardan ayırıyor.

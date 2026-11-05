@@ -99,6 +99,7 @@ faq:
   a: Evet; kıymayla pişirme süresi yaklaşık 10 dakika kısalır.
 - q: Dondurulmuş fasulye kullanılır mı?
   a: Kullanılabilir; çözdürmeden eklenir, su miktarı biraz azaltılır.
+aramaBasligi: "Etli taze fasulye tarifi: Tencerede yumuşacık"
 ---
 
 Etli taze fasulye, kuşbaşı etin domates ve salçayla taze fasulyeyle birlikte pişirildiği bir yaz yemeği. Zeytinyağlı versiyonu soğuk servis edilirken etli taze fasulye sıcak yenir ve pilavla birlikte tam bir öğün olur.

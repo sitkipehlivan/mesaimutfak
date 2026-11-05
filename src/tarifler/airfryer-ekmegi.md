@@ -70,13 +70,6 @@ tips:
 - Üstü erken kızarırsa son 10 dakika üzerine folyo kapat.
 - Yarısı tam buğday unuyla da yapılır; suyu bir iki kaşık artır.
 aramaBasligi: "Airfryer’da ekmek tarifi: Kaç derece, kaç dakika?"
-faq:
-- q: "Airfryer’da ekmek kaç derecede kaç dakika pişer?"
-  a: "180°C’de önce 20 dakika pişer; ters çevrilip 8-10 dakika daha pişirilir. Toplam 28-30 dakika."
-- q: "Airfryer’ı ekmekten önce ısıtmak gerekir mi?"
-  a: "Evet, 180°C’de 3 dakika ısıtmak yeterli."
-- q: "Ekmeğin piştiğini nasıl anlarım?"
-  a: "Altına vurduğunda boş ses gelmeli. Kesmeden önce ızgara üzerinde en az 20 dakika soğutun."
 editorNote: "Pişirmeyi iki aşamaya böldük: ekmek önce 20 dakika üstten pişiyor, sonra ters çevrilip altı kızarıyor. Airfryer ısıyı yukarıdan verdiği için tek seferde pişirilen ekmeğin altı genelde soluk ve nemli kalır."
 notes:
 - t: "Somun neden küçük tutuluyor?"
@@ -84,6 +77,15 @@ notes:
 - t: "Ekmek neden sıcakken kesilmez?"
   d: "Fırından çıkan ekmeğin içinde pişme bir süre daha devam eder ve buhar yavaş yavaş dışarı çıkar. Sıcakken kesilen ekmeğin içi hamurumsu ve yapışkan görünür. En az 20 dakika ızgara üzerinde beklemek dokunun yerleşmesini sağlar."
 updated: '2026-11-05'
+faq:
+- q: Airfryer’da ekmek kaç derecede kaç dakika pişer?
+  a: 180°C’de önce 20 dakika pişer; ters çevrilip 8-10 dakika daha pişirilir. Toplam 28-30 dakika.
+- q: Airfryer’ı ekmekten önce ısıtmak gerekir mi?
+  a: Evet, 180°C’de 3 dakika ısıtmak yeterli.
+- q: Ekmeğin piştiğini nasıl anlarım?
+  a: Altına vurduğunda boş ses gelmeli. Kesmeden önce ızgara üzerinde en az 20 dakika soğutun.
+- q: Airfryer’da mayasız ekmek yapılır mı?
+  a: Evet. Maya beklemek istemiyorsan “Airfryer’da mayasız yoğurtlu ekmek” tarifimiz 190°C’de toplam 12-13 dakikada pişiyor; kabartma tozu ve yoğurtla kabarıyor.
 ---
 
 Evde ekmek yapmak için fırını bir saat çalıştırmaya gerek yok. Airfryer küçük somunlar için ideal; kabuğu fırındakinden bile çıtır olur.

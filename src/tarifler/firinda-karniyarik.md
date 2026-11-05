@@ -151,6 +151,7 @@ faq:
 - q: Karnıyarık bir gün önceden hazırlanır mı?
   a: Evet. Patlıcanları közleyip harcı hazırlayabilir, doldurulmuş tepsiyi buzdolabında bekletip ertesi gün salçalı suyu ekleyerek fırına verebilirsin. Pişirme süresine 5-10 dakika ekle.
 editorNote: 'Karnıyarığı fırın versiyonuyla yayınlamamızın sebebi basit: klasik tarifte patlıcanları tek tek kızartmak hem yarım litreye yakın yağ hem de ocak başında yarım saat demek. Fırında közlenen patlıcan aynı yumuşaklığı veriyor, tadı daha hafif ve bulaşığı yarı yarıya az.'
+aramaBasligi: "Fırında karnıyarık tarifi: Patlıcanı kızartmadan"
 ---
 
 Karnıyarık, adını patlıcanın "karnının yarılıp" içine kıymalı harç doldurulmasından alır ve yaz sofralarının en bilinen ana yemeklerindendir. Geleneksel tarifte patlıcanlar bütün olarak yağda kızartılır; bu versiyonda ise fırında közleniyor.

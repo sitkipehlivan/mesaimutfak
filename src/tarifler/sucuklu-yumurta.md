@@ -77,6 +77,7 @@ faq:
   a: Malzemeleri glutensizdir; kullanılan sucuğun etiketini kontrol etmek gerekir.
 - q: Hangi tavada yapılır?
   a: Geleneksel olarak bakır ya da döküm sahanda.
+aramaBasligi: "Sucuklu yumurta tarifi: Sarısı akışkan, 8 dakikada"
 ---
 
 Sucuklu yumurta, ince dilimlenmiş sucuğun tereyağında hafifçe kızartılıp üzerine yumurta kırılarak sahanda pişirildiği bir kahvaltı klasiği. Yalnızca birkaç malzeme ve birkaç dakikayla hazırlanır; kahvaltı sofralarının ve hafta sonu sabahlarının vazgeçilmezlerindendir.

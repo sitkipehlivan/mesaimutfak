@@ -134,6 +134,7 @@ faq:
 - q: İzmir köfte yanına ne yapılır?
   a: Pirinç pilavı ve cacık klasik eşlikçiler.
 editorNote: İzmir köfteyi patates ve köftenin önceden pişirilip fırında sosla birleştiği şekilde yazdık; böylece patatesler hamur kalmıyor, köfteler de dağılmıyor. Köfte harcını buzdolabında dinlendirme önerisi de şekil vermeyi kolaylaştırmak için.
+aramaBasligi: "İzmir köfte tarifi: Fırında patatesli ve soslu"
 ---
 
 İzmir köfte, parmak şeklinde köftelerin patates, domates ve biberle birlikte salçalı sosta fırında pişirildiği, Ege mutfağının en sevilen ev yemeklerinden biri.

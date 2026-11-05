@@ -114,6 +114,7 @@ faq:
   a: Katmanların ayrı pişmesi ve pirincin lapalaşmaması için.
 - q: Hangi pirinç kullanılır?
   a: Baldo pirinç; ıslatılıp süzülerek eklenir.
+aramaBasligi: "Özbek pilavı tarifi: Etli, havuçlu, tane tane"
 ---
 
 Özbek pilavı, kuzu eti, havuç, soğan, nohut ve kuru üzümle pişirilen, kimyonla tatlandırılan bir Orta Asya pilavı. Özbekistan'da plov adıyla bilinir ve büyük döküm kazanlarda pişirilir; havucun tatlılığı ve kimyonun kokusu onu bildiğimiz pilavlardan ayırır.

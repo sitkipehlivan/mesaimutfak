@@ -6,12 +6,14 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'src
 for slug, d in DATA.items():
     p = ROOT + slug + '.md'; s = open(p).read()
     _, fm, body = s.split('---', 2)
-    for k in ('notes', 'faq', 'updated', 'editorNote'):
+    for k in ('notes', 'faq', 'updated', 'editorNote', 'aramaBasligi'):
         fm = re.sub(r'^%s:[^\n]*\n(?:(?:[ \t]|- )[^\n]*\n|\n)*' % k, '', fm, flags=re.M)
     o = {'updated': str(d.get('updated') or os.environ.get('BUGUN', '2026-10-30')), 'notes': d['notes'], 'faq': d['faq']}
     if d.get('editorNote'): o['editorNote'] = d['editorNote'].strip()
+    if d.get('aramaBasligi'): o['aramaBasligi'] = d['aramaBasligi'].strip()
     extra = yaml.safe_dump(o, allow_unicode=True, sort_keys=False, width=1000)
     fm = fm.rstrip('\n') + '\n' + extra
     yaml.safe_load(fm)
-    open(p, 'w').write('---' + fm + '---\n\n' + d['intro'].strip() + '\n')
+    if d.get('intro'): body = '\n\n' + d['intro'].strip() + '\n'
+    open(p, 'w').write('---' + fm + '---' + body)
     print('✓', slug)

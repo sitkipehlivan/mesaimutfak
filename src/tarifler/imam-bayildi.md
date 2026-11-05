@@ -109,6 +109,7 @@ faq:
 - q: Patlıcan kızartılmadan imam bayıldı yapılır mı?
   a: Evet. Bu tarifte patlıcanlar az zeytinyağıyla fırında yumuşatılıyor. Kızartmaya göre çok daha hafif bir sonuç verir.
 editorNote: İmam bayıldıyı karnıyarık gibi fırında közlenen patlıcanla yazdık; klasik tarifte patlıcan bolca zeytinyağında kızartılır. Bol soğanı ise özellikle vurguladık, çünkü bu yemeğin tatlılığı ve gövdesi oradan geliyor.
+aramaBasligi: "İmam bayıldı tarifi: Kızartmadan, fırında zeytinyağlı"
 ---
 
 İmam bayıldı, Osmanlı mutfağından günümüze gelen en bilinen zeytinyağlılardan biri. Adının, yemeğin tadına ya da içine konan zeytinyağı miktarına hayran kalıp bayılan bir imamdan geldiği anlatılır.

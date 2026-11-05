@@ -85,6 +85,7 @@ faq:
   a: Soğuk olarak, kaymak ve dövülmüş ceviz ya da fıstıkla.
 - q: Vegan mı?
   a: Tarifin kendisi vegandır; kaymakla servis edilirse değildir.
+aramaBasligi: "Ayva tatlısı tarifi: Fırında kıpkırmızı, karanfilli"
 ---
 
 Ayva tatlısı, ikiye kesilip oyulan ayvaların şekerli şerbette, kendi kabukları ve çekirdekleriyle birlikte fırında yavaşça pişirildiği bir sonbahar tatlısı. Ayvanın karakteristik kızıl rengi boya ya da katkıdan değil, çekirdekleri ve kabuklarında bulunan maddelerin uzun pişirmede renk vermesinden gelir.

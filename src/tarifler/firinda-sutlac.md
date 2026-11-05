@@ -100,6 +100,8 @@ notes:
   d: 'Buzdolabında, üzeri streç filmle örtülü olarak 3 gün taze kalır. Dondurmayı önermiyoruz; süt ve nişasta çözülürken ayrışır ve doku bozulur.
 
     '
+editorNote: Sütlaç tarifinde ölçüleri sabit tutup pirinç ununu ayrı açmayı özellikle yazdık; kıvamın topaklanmadan oturmasını sağlayan adım bu. Bir gün önceden yapılmasını önermemizin sebebi de tadının ve kıvamının bir gecede yerine oturması.
+aramaBasligi: "Fırında sütlaç tarifi: Üstü kızarmış, kıvamlı (60 dk)"
 faq:
 - q: Fırında sütlacın üstü nasıl kızartılır?
   a: Fırını en yüksek sıcaklıkta sadece üst ızgara konumuna al, kapları su dolu tepsiye dizip üst rafa koy. Üstü benek benek kızarana kadar, genelde 10-15 dakika pişir.
@@ -109,7 +111,8 @@ faq:
   a: Isıya dayanıklı cam ya da toprak kaseler idealdir. Porselen kâse kullanacaksan fırına uygun olduğundan emin ol; ani ısı farkına dayanıksız kaseler çatlayabilir.
 - q: Sütlaç sıcak mı yenir, soğuk mu?
   a: Fırında sütlaç geleneksel olarak soğuk yenir. En az 4 saat buzdolabında dinlenince kıvamı oturur ve tadı belirginleşir; üzerine tarçın ya da dövülmüş fındık serpebilirsin.
-editorNote: Sütlaç tarifinde ölçüleri sabit tutup pirinç ununu ayrı açmayı özellikle yazdık; kıvamın topaklanmadan oturmasını sağlayan adım bu. Bir gün önceden yapılmasını önermemizin sebebi de tadının ve kıvamının bir gecede yerine oturması.
+- q: Fırında sütlaç kaç dakikada kızarır?
+  a: Kaplara paylaştırılan sütlaç fırının üst ızgarasında yaklaşık 15 dakikada kızarır; üstü yer yer koyulaşınca çıkarılır.
 ---
 
 Fırında sütlaç, Türk tatlıcılığının en sevilen sütlü tatlılarından biri. Ocakta pişen sütlacın üstü fırının üst ızgarasında kızartılarak o tanıdık benekli, hafif karamelize kabuk elde ediliyor.

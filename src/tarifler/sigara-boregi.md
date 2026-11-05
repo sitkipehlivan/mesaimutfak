@@ -93,6 +93,7 @@ faq:
 - q: Sigara böreği için hangi yufka kullanılır?
   a: Normal hazır yufka kullanılır. Baklavalık yufka çok ince olduğu için kızartırken kolayca yanar ve yırtılır.
 editorNote: Sigara böreğinde sardıktan sonra 10 dakika buzdolabında bekletmeyi püf noktası olarak ekledik; kızartırken açılmalarının önüne geçen en basit adım bu. Airfryer seçeneğini de daha hafif bir versiyon isteyenler için tarifin içinde tuttuk.
+aramaBasligi: "Sigara böreği nasıl yapılır? Açılmadan çıtır sarma"
 ---
 
 Sigara böreği, beyaz peynirli harcın yufkaya ince ince sarılıp kızartıldığı, misafir sofralarının ve çay saatlerinin en hızlı hamur işlerinden biri. Adını incecik sarılmış sigara şeklinden alıyor.
