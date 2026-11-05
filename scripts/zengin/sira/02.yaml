@@ -1,0 +1,1240 @@
+talas-boregi:
+  aramaBasligi: 'Talaş böreği tarifi: Milföyde kuşbaşı etli ve sebzeli'
+  intro: 'Talaş böreği, milföy hamurunun içine kuşbaşı etli ve sebzeli bir harç konup zarf gibi kapatıldığı, eski İstanbul pastanelerinin vitrinlerinden tanıdık bir börek. Fırında kat kat kabaran hamuru, ısırınca ince yapraklar halinde dağılıyor.
+
+
+    Bu tarifte harç, tereyağında kavrulan küçük doğranmış dana kuşbaşı, soğan ve domates salçasıyla başlıyor. Yarım su bardağı suyla 20 dakika pişen ete havuç, patates ve bezelye ekleniyor; sebzeler yumuşayıp su çekilene kadar pişiriliyor ve harç tamamen soğutuluyor. Hazır milföy kareleri hafifçe inceltilip doldurulduktan sonra üzerine yumurta sarısı ve susam geliyor. Börekler 200°C fırında 20-25 dakika pişiyor.
+
+
+    Hazırlık ve pişirme toplam 70 dakika, tarif 6 kişilik.
+
+    '
+  editorNote: 'Harcın suyunu tamamen çekene kadar pişirilmesini ve soğutulmasını şart olarak yazdık; sulu ya da sıcak harç milföyün katlarını bozuyor ve börek kabarmıyor. Kuşbaşını küçük seçtik ki her lokmada et, sebze ve hamur bir arada gelsin.
+
+    '
+  notes:
+  - t: Harç neden kuru ve soğuk olmalı
+    d: 'Milföy hamuru kat kat kabarmasını katlar arasındaki yağa borçlu. Fırında bu yağ eriyip buhar oluşturur ve katları ayırır. Sıcak harç bu yağı önceden eritir, sulu harç ise hamurun alt katlarını ıslatır; ikisinde de börek kabarmaz ve altı hamur kalır. Harcı suyunu tamamen çekene kadar pişir, geniş bir kaba yayarak soğut. Zamanın azsa harcı bir gün önceden hazırlayıp buzdolabında bekletmek en kolay yol.
+
+      '
+  - t: Milföyle çalışmak
+    d: 'Dondurulmuş milföyü kısa süre tezgahta çözdür; fazla bekleyip yumuşayan hamur yapışır ve kabarma gücünü kaybeder. Kareleri biraz inceltirken merdaneyi hafif bastırarak kullan. Dört köşeyi ortada birleştirirken kenarları sıkıca bastır ki harç pişerken taşmasın. Yumurta sarısını sürerken kesik kenarlara bulaştırmamaya çalış; yumurta kenardaki katları birbirine yapıştırır ve açılmalarını engeller. Doldurulmuş börekleri tepsiye aralıklı diz; fırında kabardıkça genişlerler ve birbirine değenler yanlardan kızarmaz. Fırını önceden 200°C''ye ısıtmak da kabarmanın şartı.
+
+      '
+  - t: Malzeme alternatifleri
+    d: 'Dana eti yerine kuzu eti kullanabilirsin; tavuk but da olur, ama tavukta harcın pişirme süresi yarıya iner. Patates yerine tatlı patates daha yumuşak ve hafif tatlı bir harç verir, pişme süresi biraz kısalır. Dondurulmuş bezelye kullanıyorsan harcın pişirmesinin son 10 dakikasında ekle, yoksa ezilir. Talaş böreği en iyi sıcak yenir; artanları fırında birkaç dakika ısıtırsan hamur yeniden çıtırlaşır, mikrodalga ise yumuşatır.
+
+      '
+  faq:
+  - q: Talaş böreği kaç dakika pişer?
+    a: 200°C fırında, kabarıp kızarana kadar 20-25 dakika pişer. Harcın pişirilmesi ise yaklaşık 35 dakika sürer.
+  - q: Talaş böreği neden kabarmaz?
+    a: En sık neden harcın sıcak ya da sulu konmasıdır; milföydeki yağ fırından önce erir. Fazla bekleyip yumuşayan milföy de iyi kabarmaz.
+  - q: Talaş böreği tavukla yapılır mı?
+    a: Evet, dana kuşbaşı yerine tavuk but kullanılabilir. Tavuk daha çabuk piştiği için harcın pişirme süresini yarıya indir.
+  - q: Talaş böreği önceden hazırlanır mı?
+    a: Harcı bir gün önceden pişirip buzdolabında saklayabilirsin. Milföye doldurma ve pişirme işini servis gününe bırakmak kabarmayı korur.
+milfoy-borek:
+  aramaBasligi: 'Peynirli milföy böreği tarifi: Hazır milföyle 30 dakikada'
+  intro: 'Peynirli milföy böreği, hazır milföy karelerinin beyaz peynirli harçla doldurulup fırında kabartıldığı hızlı bir börek. Yufka açmak ya da hamur mayalamak gerekmediği için misafir geldiğinde ya da kahvaltıya kısa sürede bir şey çıkarmak istediğinde işe yarıyor.
+
+
+    Harç ezilmiş beyaz peynir, maydanoz ve yumurta beyazından oluşuyor; yumurtanın sarısı ise üzerine sürülmek için ayrılıyor. Milföy karelerinin ortasına harç konup üçgen şeklinde kapatılıyor ve kenarları çatalla bastırılıyor. Susam ve çörek otu serpilen börekler 200°C fırında 18-20 dakika pişiyor.
+
+
+    Hazırlık 10, pişirme 20 dakika; toplam 30 dakikada 6 kişilik börek hazır. Airfryer''da pişirmek istersen ayarlar da tarifte.
+
+    '
+  editorNote: 'Tek yumurtayı ikiye ayırdık: beyazı harcı bağlıyor, sarısı üzerine renk veriyor. Kenarları çatalla bastırmayı adım olarak yazdık, çünkü üçgenler fırında açılırsa peynir taşıp tepside yanıyor.
+
+    '
+  notes:
+  - t: Milföyü soğuk tut
+    d: 'Milföy, katları arasındaki yağ fırında erip buhar oluşturduğu için kabarır. Hamur oda sıcaklığında uzun bekleyip yumuşarsa bu yağ önceden erir ve börek yassı kalır. Kareleri ayırıp hemen doldur; mutfak çok sıcaksa doldurduğun börekleri tepsiyle birlikte birkaç dakika buzdolabına koy, sonra fırına ver. Fırının tam ısınmış olması da önemli: 200°C''ye ulaşmadan fırına giren milföy yağ salar ve kabarmak yerine yayılır. Tepsiye yağlı kağıt sermek böreklerin altının yapışmasını önler.
+
+      '
+  - t: Peynir harcı
+    d: 'Beyaz peynirin tuzu çok değişkendir; bu yüzden tarifte harca ayrıca tuz eklenmiyor. Peynir çok tuzluysa bir süre suda bekletip süzebilirsin. Peyniri çatalla iyice ez ki harç düzgün yayılsın, iri parçalar hamuru zorlar. Yumurta beyazı peyniri bağlar ve pişerken harcın akmasını önler. Harcı karelerin tam ortasına, kenarlara bulaştırmadan koy; kenarda kalan peynir yapışmayı engeller ve börek fırında açılır. Maydanozu yıkadıktan sonra iyice kurula; ıslak yeşillik harcı sulandırır.
+
+      '
+  - t: Farklı harçlar
+    d: 'Aynı yöntemle farklı harçlar da deneyebilirsin. Beyaz peynir yerine tuzlanmış lor daha hafif, tulum peyniri daha keskin bir tat verir. Harca rendelenmiş kaşar ve ince doğranmış sucuk ekleyerek daha doyurucu bir börek elde edersin. Hangi harcı seçersen seç, miktarı artırma; fazla harç kapanmayı zorlaştırır ve kenarlardan taşar. Börekler en iyi sıcak yenir, artanları fırında birkaç dakika ısıtarak tazeleyebilirsin. Peynirli harca biraz pul biber ya da kuru nane eklemek de tadı değiştirmenin kolay bir yolu.
+
+      '
+  faq:
+  - q: Milföy böreği kaç dakika pişer?
+    a: 200°C fırında kabarıp kızarana kadar 18-20 dakika pişer. Airfryer'da 180°C'de 12-14 dakika yeterli.
+  - q: Milföy neden kabarmaz?
+    a: Hamur fazla bekleyip yumuşadığında ya da fırın yeterince ısınmadan pişirildiğinde kabarmaz. Milföyü soğukken doldurup tam ısınmış fırına ver.
+  - q: Milföy böreğine beyaz peynir yerine ne konur?
+    a: Tuzlanmış lor ya da tulum peyniri kullanabilirsin. Kaşar ve sucuk ekleyerek de yapılabilir.
+  - q: Milföy böreğinin üzerine ne sürülür?
+    a: Yumurta sarısı sürülür, ardından susam ve çörek otu serpilir. Sarı, böreğe parlak ve kızarmış bir renk verir.
+gul-boregi:
+  aramaBasligi: 'Gül böreği tarifi: Kıymalı, sütlü sosla hazır yufkadan'
+  intro: 'Gül böreği, sosla ıslatılmış yufkanın harçla doldurulup rulo yapıldığı, ardından dilimlenip tepsiye dik dizildiği bir börek. Fırında dilimlerin katları hafifçe açılıyor ve her parça küçük bir gül gibi görünüyor; bu yüzden misafir tabaklarında sık tercih ediliyor.
+
+
+    Bu tarifte 4 hazır yufka kullanılıyor. Harç için soğan kavrulup kıymayla pişiriliyor, tuz ve karabiberle tatlandırılıp soğutuluyor. Yumurta, süt ve sıvı yağ çırpılarak hazırlanan sos her yufkaya sürülüyor, harç yayılıp rulo yapılıyor. Rulolar 5 cm''lik dilimlere kesilip yağlı tepsiye dik diziliyor, üzerine yumurta sarısı ve susam geliyor. Börek 190°C fırında 35 dakika pişiyor.
+
+
+    Hazırlık ve pişirme toplam 60 dakika, tarif 8 kişilik. Aynı yöntemle peynirli harç da kullanılabiliyor.
+
+    '
+  editorNote: 'Dilimlerin arasında boşluk bırakmayı özellikle yazdık; sık dizilen dilimler yanlara açılamıyor ve gül görüntüsü yerine düz bir tepsi böreği çıkıyor. Harcı yufkaya koymadan önce soğutmayı da adımın içine ekledik, çünkü sıcak harç yufkayı yumuşatıp yırtıyor.
+
+    '
+  notes:
+  - t: Sosu eşit sürmek
+    d: 'Yumurta, süt ve yağdan oluşan sos yufkayı yumuşatır ve fırında katların kızarmasını sağlar. Sosu yufkanın tamamına bir fırçayla ya da elinle ince ve eşit sür. Fazla sos rulonun içinde birikir ve dilimlerin altında hamurlaşma yapar; az sos ise yufkanın kuru ve kırılgan kalmasına neden olur. Sosun bir kısmını dilimleri dizdikten sonra aralarına gezdirmek için ayırabilirsin. Yufkalar paketten çıkıp bir süre beklediyse kuruyabilir; üzerlerini nemli bir bezle örtmek, sos sürülürken çatlamalarını önler.
+
+      '
+  - t: Harcı soğutmak ve yaymak
+    d: 'Kıymalı harç sıcakken yufkaya yayılırsa yufka yumuşar ve rulo yaparken yırtılır. Harcı pişirdikten sonra geniş bir tabağa yayıp soğut. Yufkaya yayarken harcı ince ve eşit dağıt; kalın harç rulonun ortasında toplanır ve dilimler kesilirken dağılır. Dilimleri keskin bir bıçakla, bastırmadan kes. Kıyma yerine haşlanmış yeşil mercimek ya da ince doğranmış mantar kullanarak etsiz bir versiyon da yapabilirsin. Mercimekli harçta tuzu ve karabiberi biraz artırmak gerekebilir.
+
+      '
+  - t: Gül görüntüsü için
+    d: 'Dilimleri tepsiye kesik yüzleri yukarı bakacak şekilde dik koy. Aralarında biraz boşluk bırakırsan fırında katlar dışa doğru açılır ve gül şekli belirginleşir. 190°C''de 35 dakika pişen börek, üzeri ve kenarları kızarınca hazır. Fırından çıkınca birkaç dakika dinlendir, sonra tepsiden spatulayla al. Artanları buzdolabında saklayabilir, fırında birkaç dakika ısıtarak yeniden çıtırlaştırabilirsin. Dilimleri dizmeden önce tepsiyi iyice yağlamak alt yüzlerin yapışmasını önler.
+
+      '
+  faq:
+  - q: Gül böreği kaç dakika pişer?
+    a: 190°C fırında, üzeri kızarana kadar yaklaşık 35 dakika pişer.
+  - q: Gül böreği sosu nasıl yapılır?
+    a: 1 yumurta, 1 su bardağı süt ve yarım su bardağı sıvı yağ çırpılır. Bu sos her yufkaya sürüldükten sonra harç yayılır.
+  - q: Gül böreği neden açılmaz?
+    a: Dilimler tepsiye çok sık dizildiğinde katlar açılacak yer bulamaz. Dilimlerin arasında biraz boşluk bırak.
+  - q: Gül böreği peynirli yapılır mı?
+    a: Evet, kıymalı harç yerine peynirli harçla da aynı şekilde yapılır. Rulo, dilimleme ve pişirme adımları değişmez.
+firin-mantisi:
+  aramaBasligi: 'Fırın mantısı tarifi: Et sulu, yoğurtlu ve tereyağlı sosla'
+  intro: 'Fırın mantısı, mantının haşlanmak yerine önce fırında kızartıldığı, ardından et suyuyla yumuşatıldığı tepsi hali. Bu iki aşamalı pişirme mantıya hem kızarmış kenarlar hem de suyu çekmiş yumuşak bir iç kazandırıyor.
+
+
+    Bu tarifte hamur un, yumurta, su ve tuzla yoğrulup 20 dakika dinlendiriliyor. İnce açılan hamur 3 cm''lik karelere kesiliyor, her karenin ortasına rendelenmiş soğanlı kıyma harcı konup iki karşı köşe birleştirilerek açık kayık şekli veriliyor. Mantılar tereyağlı tepsiye sık dizilip 200°C fırında üzerleri kızarana kadar yaklaşık 20 dakika pişiyor. Sonra sıcak et suyu dökülüyor ve mantılar suyu çekene kadar 15-20 dakika daha fırında kalıyor.
+
+
+    Hazırlık 60, pişirme 40 dakika; toplam 1 saat 40 dakikada 6 kişilik bir tepsi çıkıyor. Servis sarımsaklı yoğurt ve salçalı, pul biberli tereyağıyla yapılıyor.
+
+    '
+  editorNote: 'Mantıları kapalı bohça yerine açık kayık şeklinde yazdık; üstü açık kalan mantı fırında daha iyi kızarıyor ve et suyunu daha eşit çekiyor. Şekillendirmeye ayrıca süre verdik, çünkü bu tarifin en uzun kısmı mantı kapatmak.
+
+    '
+  notes:
+  - t: Hamuru ince açmak
+    d: 'Fırın mantısında hamur ince olmalı; kalın hamur et suyunu çekmekte zorlanır ve pişse bile hamurumsu kalır. Hamuru 20 dakika dinlendirmek açmayı kolaylaştırır, hamur geri çekilmez. Tezgahı az unla, oklavayla aç. Kesmeden önce hamurun her yerinin aynı kalınlıkta olduğundan emin ol. Kareleri keskin bir bıçak ya da pizza kesiciyle kes; 3 cm''lik kareler küçük görünse de bu boyut mantının hem çabuk kızarmasını hem de et suyunu eşit çekmesini sağlar.
+
+      '
+  - t: İki aşamalı pişirme
+    d: 'İlk 20 dakikada mantılar kuru ısıda kızarır; et suyu eklenmeden önce üzerlerinin ve kenarlarının renk alması gerekir. Renk almadan su dökülürse mantılar haşlanmış gibi soluk kalır. Et suyunun sıcak olması önemli: soğuk sıvı tepsinin ısısını düşürür ve pişmeyi uzatır. Suyu mantıların üzerine değil, aralarına dök. Mantılar suyu tamamen çekince fırından al; tepside fazla bekletirsen dipler kurur. Tepside kuru kalmış mantı görürsen üzerine bir iki kaşık sıcak et suyu daha ekleyebilirsin.
+
+      '
+  - t: Önceden hazırlamak
+    d: 'Mantıyı şekillendirmek zaman aldığı için bir gün önceden hazırlayıp dondurabilirsin. Şekillendirdiğin mantıları unlanmış bir tepsiye birbirine değmeyecek şekilde diz, donunca poşete aktar. Pişirirken çözdürmeden tereyağlı tepsiye diz; kızarma süresi birkaç dakika uzayabilir. Et suyun yoksa sıcak suya bir tatlı kaşığı tereyağı ve bir tutam tuz ekleyebilir ya da yarım bulyon kullanabilirsin. Yoğurdu oda sıcaklığında servis et. Buzdolabından yeni çıkmış yoğurt sıcak mantının ısısını hemen düşürür ve tereyağlı sos da çabuk donar.
+
+      '
+  faq:
+  - q: Fırın mantısı kaç dakika pişer?
+    a: Önce 200°C fırında yaklaşık 20 dakika kızartılır, ardından sıcak et suyu eklenip 15-20 dakika daha pişirilir.
+  - q: Fırın mantısında et suyu yerine ne konur?
+    a: Sıcak suya bir tatlı kaşığı tereyağı ve bir tutam tuz ekleyerek kullanabilirsin. Yarım bulyon da et suyunun yerini tutar.
+  - q: Fırın mantısı dondurulur mu?
+    a: Evet, şekillendirilmiş çiğ mantıları dondurabilirsin. Unlanmış tepside dondurup poşete aktarmak birbirine yapışmalarını önler.
+  - q: Fırın mantısı sosu nasıl yapılır?
+    a: Tereyağında 1 yemek kaşığı domates salçası ve 1 tatlı kaşığı pul biber çevrilir. Mantılar sarımsaklı yoğurtla tabağa alınıp üzerine bu sos gezdirilir.
+hingel:
+  aramaBasligi: 'Hingel tarifi: Patatesli ve lorlu, soğanlı tereyağıyla'
+  intro: 'Hingel, içi patates ve peynirle doldurulan yarım ay şeklindeki hamur bohçalarının haşlanıp yoğurt ve soğanlı tereyağıyla servis edildiği bir hamur yemeği. Doğu Anadolu''da, özellikle Kars ve Ardahan''da bilinen hingel mantıya benziyor, ama daha büyük ve etsiz.
+
+
+    Bu tarifte hamur un, yumurta, ılık su ve tuzla yoğrulup 20 dakika dinlendiriliyor. İç harç ezilmiş haşlanmış patates, lor ya da çökelek, tuz ve karabiberden oluşuyor. İnce açılan hamur bardakla yuvarlak kesiliyor, harç konup yarım ay şeklinde kapatılıyor. Hingeller bol tuzlu kaynar suda yüzeye çıktıktan sonra 3-4 dakika daha haşlanıyor. Üzerine sarımsaklı yoğurt ve tereyağında kızartılmış yarım ay soğan geliyor.
+
+
+    Hazırlık ve pişirme toplam 60 dakika, tarif 4 kişilik.
+
+    '
+  editorNote: 'Haşlama süresini yüzeye çıktıktan sonra 3-4 dakika diye yazdık; yüzeye çıkmak hamurun tam piştiğini göstermiyor. Soğanı tereyağıyla ayrı kızartmayı seçtik, çünkü bu tabağın tadını soğanın tatlılığı tamamlıyor.
+
+    '
+  notes:
+  - t: Kenarları sıkı kapatmak
+    d: 'Hingelin en sık sorunu haşlarken açılması. Yuvarlakların kenarına harç bulaşırsa hamur birbirine yapışmaz ve kaynar suda ayrılır. Harcı ortaya koy, kenarlarda temiz bir alan bırak. Kapattıktan sonra kenarları parmaklarınla iyice bastır ya da çatalla sıkıştır. Hamur kuruyup yapışmıyorsa kenarına parmağınla biraz su sür. Harcı fazla koyma; şişkin hingel kapanırken gerilir ve haşlanırken patlayabilir. Hingelleri kaynar suya az az at ve tencereyi kalabalık etme; birbirine değen hingeller yapışabilir.
+
+      '
+  - t: Harcın kıvamı
+    d: 'Patatesleri haşladıktan sonra iyice süz ve sıcakken ez; soğuyan patates topaklanır. Harç sulu olmamalı, yoksa hamuru içeriden ıslatır. Lor ya da çökelek tuzluysa harca eklediğin tuzu azalt. Lor bulamazsan ricotta ya da ezilmiş tuzsuz beyaz peynir kullanabilirsin. Harcı hamura koymadan önce tadına bak; hamur ve yoğurt tadı yumuşatacağı için karabiberi biraz belirgin tutmak iyi sonuç verir. Harcı bir gün önceden hazırlayıp buzdolabında saklayabilirsin.
+
+      '
+  - t: Dondurmak ve servis
+    d: 'Hingeli şekillendirdikten sonra haşlamadan dondurabilirsin. Unlanmış bir tepsiye birbirine değmeden diz, donunca poşete al. Pişirirken çözdürmeden doğrudan kaynar suya at; süre birkaç dakika uzayabilir. Servis ederken yoğurdu oda sıcaklığında tut ki sıcak hingelin üzerinde sulanmasın. Kars ve Ardahan''da üzerine kurutulmuş nane de serpilir. Soğanlı tereyağını servisten hemen önce kızdırıp sıcakken gezdir. Soğanı tereyağında orta ateşte, kenarları kızarıp tatlanana kadar pişirmek tabağın lezzetini belirler.
+
+      '
+  faq:
+  - q: Hingel kaç dakika haşlanır?
+    a: Bol tuzlu kaynar suda yüzeye çıktıktan sonra 3-4 dakika daha haşlanır. Toplam haşlama yaklaşık 8 dakika sürer.
+  - q: Hingel ile mantı arasındaki fark nedir?
+    a: Mantı küçük kesilir ve içi kıymalıdır. Hingel daha büyük, yarım ay şeklindedir ve içinde patates ile lor ya da çökelek vardır.
+  - q: Hingel dondurulur mu?
+    a: Evet, haşlamadan önce dondurulabilir. Donmuş hingelleri çözdürmeden kaynar suya atabilirsin.
+  - q: Hingelde lor yerine ne kullanılır?
+    a: Lor ya da çökelek yerine ricotta veya ezilmiş tuzsuz beyaz peynir kullanabilirsin.
+acili-ezme:
+  aramaBasligi: 'Acılı ezme tarifi: Kebapçı usulü, nar ekşili, bıçakla kıyılmış'
+  intro: 'Acılı ezme, domates, biber, soğan ve maydanozun çok ince kıyılıp biber salçası, nar ekşisi ve isotla karıştırıldığı bir meze. Kebapçılarda yemekten önce küçük kaselerde gelen bu ezme, kebabın, lavaşın ve ızgara etlerin yanında sofranın klasiği.
+
+
+    Bu tarifin yaklaşımı basit: tüm sebzeler robot yerine bıçakla kıyılıyor. Bıçak sebzeleri ezmeden küçültüyor ve ezmenin dokulu kalmasını sağlıyor. Domatesin çekirdekleri çıkarılıyor, kıyılan sebzeler süzgeçte fazla suyundan arındırılıyor, ardından salça, nar ekşisi, zeytinyağı, isot ve tuzla karıştırılıyor. 10 dakika dinlenen ezmenin lezzeti oturuyor.
+
+
+    Pişirme gerektirmeyen tarif 15 dakikada hazır ve 4 kişilik. Tamamen bitkisel ve glutensiz.
+
+    '
+  editorNote: 'Süzme adımını ayrı yazdık; domates ve biberin suyu süzülmezse ezme tabakta sulanıyor ve sos sebzeye tutunmuyor. Robot yerine bıçağı seçtik, çünkü kebapçı ezmesinin dokusu ancak böyle çıkıyor.
+
+    '
+  notes:
+  - t: Bıçakla kıymanın farkı
+    d: 'Robot sebzeleri parçalarken dokularını da ezer; domates ve biber suyunu salar ve ezme kısa sürede sulanır. Keskin bir bıçakla kıyınca sebzeler küçülür ama suyunu daha çok tutar. Önce her sebzeyi ince doğra, sonra hepsini tahtada bir araya getirip bıçağın ucunu sabit tutarak ileri geri kıy. Soğanı en ince şekilde kıy; iri soğan parçaları ezmede keskin kalır. Bu adım zaman alır, ama ezmenin dokusu buna bağlı.
+
+      '
+  - t: Acılık ve ekşilik dengesi
+    d: 'Ezmenin acılığını sivri biber ve isot belirler. Sivri biberler çok acıysa birini az kullan ya da kapya biberin oranını artır. İsot bulamazsan pul biber ve bir tutam füme paprika kullanabilirsin. Nar ekşisi ekşiliğin yanında hafif tatlılık da verir; yoksa limon suyuna bir tatlı kaşığı bal ya da pekmez ekle. Karıştırdıktan sonra 10 dakika beklet ve tadına bak; tuzu ve nar ekşisini bu aşamada ayarlamak daha doğru sonuç verir.
+
+      '
+  - t: Saklama ve servis
+    d: 'Acılı ezme buzdolabında ağzı kapalı bir kapta 2 gün dayanır. Bekledikçe sebzeler biraz daha su salar; servis etmeden önce karıştırıp gerekirse fazla suyunu süz. Kebap, köfte, lahmacun ya da ızgara tavukla servis edebilirsin; lavaşa sürüp dürüm içine koymak da yaygın. Ezmeyi dondurma; çözündüğünde sebzeler dağılır ve doku kaybolur. Servis kasesine aldıktan sonra üzerine biraz zeytinyağı gezdirmek ezmeye parlaklık verir ve yüzeyin kurumasını önler.
+
+      '
+  faq:
+  - q: Acılı ezme nasıl sulanmaz?
+    a: Domatesin çekirdeklerini çıkar, sebzeleri robot yerine bıçakla kıy ve kıydıktan sonra süzgeçte fazla suyunu süz.
+  - q: Acılı ezmede nar ekşisi yerine ne kullanılır?
+    a: Limon suyu ve bir tatlı kaşığı bal ya da pekmez kullanabilirsin. Bu karışım nar ekşisinin ekşi-tatlı dengesine yakın bir tat verir.
+  - q: Acılı ezme buzdolabında kaç gün durur?
+    a: Ağzı kapalı bir kapta buzdolabında 2 gün dayanır. Servis etmeden önce karıştırıp fazla suyunu süzebilirsin.
+  - q: Acılı ezmede isot yoksa ne konur?
+    a: İsot yerine pul biber ve bir tutam füme paprika kullanabilirsin.
+saksuka:
+  aramaBasligi: 'Şakşuka tarifi: Kızarmış patlıcan ve kabakla sarımsaklı meze'
+  intro: 'Şakşuka, Türk meze sofrasında kızartılmış patlıcan, kabak ve biberin sarımsaklı domates sosuyla buluştuğu soğuk bir meze. Aynı adı taşıyan, domates sosunda yumurta pişirilen Kuzey Afrika yemeğinden farklı; buradaki şakşuka yumurtasız ve meyhane masalarının renkli tabaklarından biri.
+
+
+    Bu tarifte patlıcan ve kabak küp, biberler iri doğranıyor. Patlıcan kızartılmadan önce tuzlu suda 15 dakika bekletilip kurulanıyor. Sebzeler kızgın yağda parti parti kızartılıp kağıt havluya alınıyor. Sos için zeytinyağında sarımsak 30 saniye çevrilip salça ve rendelenmiş domatesle koyulaşana kadar pişiriliyor. Sebzeler tabağa alınıp üzerine sos dökülüyor ve soğuk servis ediliyor.
+
+
+    Hazırlık ve pişirme toplam 45 dakika, tarif 4 kişilik.
+
+    '
+  editorNote: 'Sebzeleri parti parti kızartmayı adımın içine yazdık; tavaya bir kerede atılan sebzeler yağın ısısını düşürüp kızarmak yerine yağ çekiyor. Soğuk servis önerdik, çünkü şakşuka sosla bekledikçe daha lezzetli oluyor.
+
+    '
+  notes:
+  - t: Patlıcanı tuzlu suda bekletmek
+    d: 'Patlıcanı küp doğradıktan sonra tuzlu suda 15 dakika bekletmek, rengini korumasına ve kızartmada daha az yağ çekmesine yardım eder; bazı patlıcanlardaki acılığı da azaltabilir. Sudan çıkardıktan sonra patlıcanı temiz bir bez ya da kağıt havluyla iyice kurula. Islak patlıcan kızgın yağa girince yağ sıçratır ve kızarmak yerine buharda pişer. Kabağı tuzlu suya koymana gerek yok, doğrayıp doğrudan kızartabilirsin. Biberleri de yıkadıktan sonra iyice kurula; ıslak biber kızgın yağda sıçrar.
+
+      '
+  - t: Kızartma ve daha hafif seçenek
+    d: '1 su bardağı yağı iyice kızdır, sebzeleri tavaya az az koy ve her partiyi altın rengi alınca çıkar. Kızaranları kağıt havluya almak fazla yağı çeker. Patlıcan, kabak ve biberin pişme süreleri farklı olduğu için hepsini ayrı partilerde kızartmak daha eşit sonuç verir. Daha hafif bir şakşuka istersen sebzeleri zeytinyağıyla harmanlayıp fırında kızart; doku biraz daha yumuşak olur ama tat benzer kalır.
+
+      '
+  - t: Önceden hazırlamak
+    d: 'Şakşuka bir gün önceden yapılırsa sos sebzelere iyice işler ve tat daha dengeli hale gelir. Hazırladıktan sonra soğumasını bekle, ağzı kapalı bir kapta buzdolabına koy. Servis etmeden önce bir süre oda sıcaklığında bekletmek zeytinyağının donukluğunu giderir. Sarımsaklı yoğurtla servis etmek de yaygındır; yoğurdu sosun üzerine değil, yanına koyarsan iki tat da belirgin kalır. Sostaki şeker domatesin ekşiliğini dengelemek için var; domatesler çok tatlıysa azaltabilirsin.
+
+      '
+  faq:
+  - q: Şakşuka için patlıcan neden tuzlu suda bekletilir?
+    a: Tuzlu suda 15 dakika bekleyen patlıcan kızartmada daha az yağ çeker ve rengini korur. Kızartmadan önce iyice kurulamak gerekir.
+  - q: Şakşuka sıcak mı soğuk mu yenir?
+    a: Soğuk servis edilir. Bir gün önceden hazırlanırsa daha lezzetli olur.
+  - q: Şakşuka fırında yapılır mı?
+    a: Evet, sebzeleri zeytinyağıyla harmanlayıp fırında kızartabilirsin. Bu yöntem daha hafif bir şakşuka verir.
+  - q: Şakşukaya yumurta konur mu?
+    a: Bu tarifteki meze usulü şakşukaya yumurta konmaz; kızartılmış sebzeler ve domates sosundan oluşur. Domates sosunda yumurta pişirilen versiyon, aynı adı taşıyan Kuzey Afrika yemeğidir.
+cerkez-tavugu:
+  aramaBasligi: 'Çerkez tavuğu tarifi: Cevizli sos ve kırmızı biber yağıyla'
+  intro: 'Çerkez tavuğu, haşlanıp didiklenmiş tavuğun ceviz, ekmek içi ve sarımsakla hazırlanan koyu bir sosla karıştırıldığı soğuk bir meze. Adından da anlaşıldığı gibi Çerkes mutfağından geliyor ve İstanbul sofralarında misafir mezeleri arasında yerleşmiş bir tabak.
+
+
+    Bu tarifte tavuk göğüsleri tuzlu suda yaklaşık 30 dakika haşlanıyor ve didikleniyor; haşlama suyu sos için saklanıyor. Sos, tavuk suyunda ıslatılmış bayat ekmek içi, ceviz, sarımsak ve tuzun rondoda pürüzsüz çekilmesiyle hazırlanıyor. Tavuğun büyük kısmı sosun yarısıyla karıştırılıp tabağa alınıyor, kalan sosla kaplanıyor. Üzerine ılık yağda açılan toz kırmızı biber gezdiriliyor.
+
+
+    Hazırlık ve pişirme toplam 55 dakika, tarif 6 kişilik.
+
+    '
+  editorNote: 'Sosu tavuğun kendi haşlama suyuyla açtık; sade suyla açılan sos daha yavan kalıyor. Biber yağında yağı kızdırmadan ılıtmayı vurguladık, çünkü kırmızı biber kızgın yağda kısa sürede yanıp kararıyor.
+
+    '
+  notes:
+  - t: Sosun kıvamı
+    d: 'Çerkez tavuğunun sosu koyu bir krema kıvamında olmalı; tavuğu sarmalı ama akmamalı. Kıvamı ekmek içi ve tavuk suyu belirler. Ekmeği tavuk suyunda ıslattıktan sonra hafifçe sık, sonra cevizle birlikte rondoya koy. Sos fazla koyuysa kaşık kaşık tavuk suyu ekleyerek aç; sulandıysa biraz daha ceviz ya da ekmek içi ekle. Cevizi çok uzun süre çekersen yağını salar ve sos ağırlaşır, bu yüzden pürüzsüzleşince dur.
+
+      '
+  - t: Cevizin tadı
+    d: 'Sosun ana lezzeti ceviz olduğu için taze ceviz kullan. Bayatlamış cevizin acımsı tadı sosa geçer ve sarımsakla daha da belirginleşir. Cevizleri kuru tavada hafifçe kavurursan aroması artar; kavurduktan sonra soğumasını bekle. Ceviz yerine fındık ya da badem kullanabilirsin, ama tat değişir. Biber yağı için tarifte ceviz yağı ya da zeytinyağı var; ceviz yağı sosun tadını tamamlar, zeytinyağı ise daha kolay bulunur.
+
+      '
+  - t: Önceden hazırlamak ve saklamak
+    d: 'Çerkez tavuğu bir gün önceden hazırlanabilir ve soğuk servis edilir. Bekledikçe sos tavuğa işler ve tat yerleşir. Buzdolabında ağzı kapalı bir kapta sakla; biber yağını servis etmeden hemen önce hazırlayıp gezdir, önceden dökülürse sosa işler ve rengi solar. Tavuk göğsü yerine tavuk but kullanırsan et daha sulu kalır. Ekmek dilimleri, kraker ya da marul yapraklarıyla servis edebilirsin. Tabağa aldıktan sonra sosun yüzeyini kaşığın arkasıyla düzeltmek biber yağının eşit dağılmasını sağlar.
+
+      '
+  faq:
+  - q: Çerkez tavuğu sosu nasıl yapılır?
+    a: 1,5 su bardağı ceviz, tavuk suyunda ıslatılmış 3 dilim bayat ekmek içi, 2 diş sarımsak ve tuz rondoda pürüzsüz olana kadar çekilir. Kıvamı koyu bir krema gibi olmalı.
+  - q: Çerkez tavuğunda ceviz yerine ne kullanılır?
+    a: Fındık ya da badem kullanabilirsin. Tat cevizdeki kadar belirgin olmaz ama sos aynı yöntemle hazırlanır.
+  - q: Çerkez tavuğu sıcak mı soğuk mu yenir?
+    a: Soğuk servis edilir. Bir gün önceden hazırlanıp buzdolabında bekletilebilir.
+  - q: Çerkez tavuğu için tavuk kaç dakika haşlanır?
+    a: Tavuk göğüsleri tuzlu suda yaklaşık 30 dakika haşlanır. Haşlama suyu sosu açmak için saklanır.
+fava:
+  aramaBasligi: 'Fava tarifi: Kuru bakla püresi, dereotu ve kırmızı soğanla'
+  intro: 'Fava, kabuksuz kuru baklanın zeytinyağı ve soğanla pişirilip püre haline getirildiği, soğuyunca dilimlenecek kadar koyulaşan bir meze. Ege meyhanelerinde zeytinyağı, dereotu ve kırmızı soğanla servis edilen sarı dilimleriyle tanınır.
+
+
+    Bu tarifte bakla birkaç saat ıslatılıp süzülüyor. Zeytinyağının yarısında soğan yumuşatılıyor, bakla, sıcak su, şeker ve tuz eklenip kısık ateşte bakla tamamen dağılana kadar yaklaşık 45 dakika pişiriliyor. Ardından blenderdan geçirilip kalan zeytinyağı ve limon suyu ekleniyor. Yağlanmış kaba dökülen püre buzdolabında 3 saat bekleyip donuyor.
+
+
+    Hazırlık ve pişirme toplam 55 dakika; buna ıslatma ve 3 saatlik soğutma ekleniyor. Tarif 6 kişilik, tamamen bitkisel ve glutensiz.
+
+    '
+  editorNote: 'Zeytinyağını ikiye böldük: yarısı pişirmede soğana, yarısı püreye sonradan giriyor ve favaya taze zeytinyağı tadı veriyor. Pişip pişmediğini süreyle değil baklanın tamamen dağılmasıyla tarif ettik, çünkü baklanın pişme süresi değişebiliyor.
+
+    '
+  notes:
+  - t: Kıvamı tutturmak
+    d: 'Favanın dilimlenebilmesi için püre koyu olmalı. Ocaktan almadan önce kaşıkla tencerenin dibinde bir çizgi çek; çizgi hemen kapanmıyorsa kıvam yeterli. Sulu kalırsa blenderdan geçirdikten sonra tencereye geri al ve kısık ateşte karıştırarak biraz daha pişir. Fava soğudukça daha da koyulaşır, bu yüzden sıcakken hafif yumuşak görünmesi normaldir. Pişerken dibi tutmaması için ara ara karıştırmak bu tarifte şart. Ateşi yükseltmek pişirmeyi hızlandırmaz, yalnızca dibin tutmasına neden olur.
+
+      '
+  - t: Kuru baklayı seçmek ve ıslatmak
+    d: 'Tarif kabuksuz kuru bakla ile yazıldı; kabuklu bakla kullanırsan kabukları ayıklaman gerekir, yoksa püre pürüzlü olur. Baklayı birkaç saat ıslatmak pişme süresini kısaltır ve dağılmasını kolaylaştırır. Islattıktan sonra suyunu dök ve baklayı bir kez daha yıka. Kuru bakla bulamazsan kabuksuz sarı bezelye (yarım bezelye) kullanabilirsin; pişirme süresi biraz kısalır, yöntem aynı kalır. Baklayı yıkarken suyun yüzüne çıkan kabuk parçalarını ve kusurlu taneleri ayıkla; pürüzsüz bir püre için en kolay yol bu.
+
+      '
+  - t: Kalıplama ve servis
+    d: 'Püreyi yağlanmış bir kaba dök, yüzeyini kaşığın arkasıyla düzelt ve buzdolabında 3 saat beklet. Donan favayı ters çevirerek tabağa al ve dilimle. Üzerine zeytinyağı gezdir, ince kıyılmış dereotu ve kırmızı soğan serp. Dereotu yoksa maydanoz ve biraz taze nane kullanabilirsin. Ege''de yanına közlenmiş biber ve zeytin de konur. Fava buzdolabında ağzı kapalı bir kapta birkaç gün saklanabilir. Dilimlerken bıçağı sıcak suya batırıp silersen kesikler düzgün olur.
+
+      '
+  faq:
+  - q: Fava kaç saatte donar?
+    a: Yağlanmış kaba dökülen fava buzdolabında yaklaşık 3 saatte donar ve dilimlenebilir hale gelir.
+  - q: Fava neden donmaz?
+    a: Püre yeterince koyu pişirilmediğinde donmaz. Kıvam sulu kalırsa ocakta karıştırarak biraz daha pişir.
+  - q: Fava için kuru bakla ıslatılır mı?
+    a: Evet, kabuksuz kuru bakla birkaç saat ıslatılıp süzülür. Bu, pişme süresini kısaltır ve baklanın kolay dağılmasını sağlar.
+  - q: Fava için kuru bakla yerine ne kullanılır?
+    a: Kabuksuz sarı bezelye kullanabilirsin. Pişirme süresi biraz kısalır, yöntem aynı kalır.
+tarama:
+  aramaBasligi: 'Tarama tarifi: Balık yumurtası ve ekmek içiyle pembe meze'
+  intro: 'Tarama, tuzlanmış balık yumurtasının ıslatılmış ekmek içi, limon ve soğanla çekilip yağla mayonez kıvamına getirildiği kremamsı bir meze. Rum meyhane geleneğiyle özdeşleşmiş bu pembe ezme, ekmeğe sürülerek ya da diğer mezelerin yanında servis ediliyor.
+
+
+    Bu tarifte 3 yemek kaşığı hazır pembe tarama kullanılıyor. Ekmek içi suda ıslatılıp iyice sıkılıyor ve tarama, limon suyu ve rendelenmiş soğanla rondoda çekiliyor. Ardından motor çalışırken ayçiçek yağı ve zeytinyağı ince bir sızıntı halinde eklenerek mayonez kıvamı elde ediliyor. Taramanın kendisi tuzlu olduğu için tarifte tuz yok.
+
+
+    Pişirme gerektirmeyen tarif 15 dakikada hazır ve 6 kişilik. Servisten önce buzdolabında soğutulması gerekiyor.
+
+    '
+  editorNote: 'Yağı ince bir sızıntıyla eklemeyi ayrı bir adım olarak yazdık; taramanın kremamsı dokusu, mayonezde olduğu gibi bu yavaş eklemeden geliyor. Tuzu bilerek tarife koymadık, çünkü hazır tarama zaten yeterince tuzlu.
+
+    '
+  notes:
+  - t: Yağı yavaş eklemek
+    d: 'Tarama, mayonez gibi bir emülsiyondur: ekmek içi ve balık yumurtası yağı küçük damlalar halinde tutar ve kremamsı bir doku oluşur. Yağı bir kerede dökersen emülsiyon oluşmaz, tarama sulu ve yağlı kalır. Rondonun motoru çalışırken yağı ince bir iplik gibi akıt; bu birkaç dakika sürer. Kıvam çok koyulaşırsa bir kaşık soğuk su ekle ve çekmeye devam et; su dokuyu yumuşatır. El blenderi kullanacaksan dar ve uzun bir kap seç; malzeme bıçağın çevresinde toplanır ve emülsiyon daha kolay oluşur.
+
+      '
+  - t: Ekmek içi ve limon
+    d: 'Bayat ekmek içi taramanın gövdesini oluşturur. Ekmeği suda ıslattıktan sonra avuçlarının arasında iyice sık; fazla su kalırsa tarama sulanır ve yağı tutmakta zorlanır. Kabukları kullanma, pürüzsüz dokuyu bozar. Limon suyu hem ekşilik verir hem de balık yumurtasının keskin tadını dengeler. Tarifte bir limonun suyu var; tadına bakarak azaltabilirsin. Limon yoksa misket limonu ya da yarı ölçü elma sirkesi kullan. Rendelenmiş soğanın suyunu hafifçe sıkmak, taramadaki keskin soğan tadını azaltır.
+
+      '
+  - t: Saklama ve servis
+    d: 'Tarama buzdolabında soğuduktan sonra hem kıvamı sıkılaşır hem de tadı dengelenir. Servis ederken kaseye al, yüzeyine zeytinyağı gezdir. Taze ekmek, kızarmış ekmek dilimleri ya da çiğ sebze çubuklarıyla servis edebilirsin. Ağzı kapalı bir kapta buzdolabında sakla; içinde çiğ soğan ve balık yumurtası olduğu için kısa sürede tüketmek en doğrusu. Dondurma; çözünce emülsiyon bozulur ve yağ ayrılır. Servis etmeden önce kaşıkla hafifçe karıştırmak yüzeydeki kurumayı giderir.
+
+      '
+  faq:
+  - q: Tarama nereden alınır?
+    a: Pembe tarama, süpermarketlerin şarküteri bölümünde bulunur. Tuzlu olduğu için tarifte ayrıca tuz kullanılmaz.
+  - q: Tarama neden sulu olur?
+    a: Yağ bir kerede eklendiğinde emülsiyon oluşmaz ve tarama sulu kalır. Ekmek içi iyi sıkılmadığında da kıvam bozulur; yağı rondo çalışırken ince bir sızıntıyla ekle.
+  - q: Tarama çok koyu olursa ne yapılır?
+    a: Bir kaşık soğuk su ekleyip rondoda çekmeye devam et. Su kıvamı yumuşatır.
+  - q: Tarama mezesi nasıl servis edilir?
+    a: Buzdolabında soğutulduktan sonra üzerine zeytinyağı gezdirilip ekmekle servis edilir.
+girit-ezmesi:
+  aramaBasligi: 'Girit ezmesi tarifi: Cevizli ve fesleğenli, 10 dakikada'
+  editorNote: 'Ezmeyi rondo yerine çatalla ezmeyi seçtik; makinede peynir macun kıvamına geliyor, ceviz ve fıstık da toz oluyor ve ezmenin tanecikli dokusu kayboluyor.
+
+    '
+  intro: 'Girit ezmesi, beyaz peynir ve lorun zeytinyağı, ceviz ve taze otlarla ezildiği bir Ege mezesi. Ayvalık ve Cunda''ya yerleşen Giritli ailelerin mutfağıyla bilinen bu meze, bugün Ege''nin meze tabaklarında sık görülüyor.
+
+
+    Bu tarifte tuzlu beyaz peynirin keskinliğini tuzsuz lor yumuşatıyor; iri kıyılmış ceviz ve antep fıstığı dokuya çıtırlık katıyor. Sarımsak ve taze fesleğen aromayı tamamlıyor, fesleğen bulamazsan kuru nane de kullanılabiliyor. Ocak hiç yanmıyor, her şey bir kasede çatalla karıştırılıyor.
+
+
+    4 kişilik ezme 10 dakikada hazır ve hazırlık için tek bir kase ile çatal yeterli. Kızarmış ekmekle meze olarak sunabilir ya da kahvaltıda ekmeğe sürerek yiyebilirsin.
+
+    '
+  notes:
+  - t: Peynirin tuzunu ayarlamak
+    d: 'Girit ezmesinin tadını en çok beyaz peynirin tuzu belirler. Peynir çok tuzluysa ezmeden önce birkaç saat suda bekletmek fazla tuzu alır; suyu arada bir değiştirmek işi hızlandırır. Lor tuzsuz olduğu için karışımı dengeler, bu yüzden tarife ayrıca tuz eklenmiyor. Karıştırdıktan sonra tadına bak; hâlâ tuzlu geliyorsa biraz daha lor eklemek, ezmeyi sulandırmadan dengelemenin en kolay yolu. Lor yerine ricotta ya da ezilmiş tuzsuz beyaz peynir de aynı işi görür.
+
+      '
+  - t: Kuruyemişleri iri kıymak
+    d: 'Ceviz ve antep fıstığını iri kıymak ezmenin karakterini veren ayrıntı. Çok ince kıyılan kuruyemiş peynirin içinde kaybolur, iri parçalar ise her lokmada hissedilir. Fıstığın bir kısmını servis için ayırırsan tabağın üzerine serptiğinde hem renk hem doku katar. Antep fıstığı yoksa ceviz ya da fındık, ceviz yerine de fındık ya da badem kullanabilirsin. Tat biraz değişir ama yöntem aynı kalır. Sarımsağı ise ince ezerek ekle ki lokmada keskin bir parça kalmasın.
+
+      '
+  - t: Saklama ve servis
+    d: 'Ezmeyi hazırladıktan sonra buzdolabında kapalı bir kapta bekletebilirsin; sarımsak ve fesleğenin aroması bekledikçe peynire geçer. Taze fesleğen zamanla kararabileceği için ezmeyi uzun süre saklayacaksan otları servisten kısa süre önce eklemek daha iyi sonuç verir. Servis ederken ezmeyi tabağa yay, üzerine zeytinyağı gezdir ve ayırdığın fıstığı serp. Kızarmış ekmek, galeta ya da çiğ sebzelerle iyi gider; kahvaltı tabağında da sürmelik olarak kullanılabilir.
+
+      '
+  faq:
+  - q: Girit ezmesi nasıl yapılır?
+    a: 'Beyaz peynir ve lor çatalla ezilir; iri kıyılmış ceviz ve antep fıstığı, ezilmiş sarımsak, kıyılmış fesleğen ve zeytinyağı eklenip karıştırılır. Tamamı 10 dakika sürer.
+
+      '
+  - q: Girit ezmesinde lor yerine ne kullanılır?
+    a: 'Ricotta ya da ezilmiş tuzsuz beyaz peynir kullanabilirsin. Amaç, tuzlu beyaz peyniri yumuşatacak tuzsuz ve yumuşak bir peynir eklemek.
+
+      '
+  - q: Girit ezmesine fesleğen yerine ne konur?
+    a: 'Tarifte 5 yaprak taze fesleğen yerine 1 tatlı kaşığı kuru nane kullanılabiliyor. Nane ezmeye daha ferah bir tat verir.
+
+      '
+  - q: Girit ezmesi önceden hazırlanır mı?
+    a: 'Evet, buzdolabında kapalı kapta bekletebilirsin; tatlar birbirine geçer. Taze fesleğen zamanla kararacağı için aynı gün tüketmeni öneririz.
+
+      '
+patates-salatasi:
+  aramaBasligi: 'Patates salatası tarifi: Mayonezsiz, limonlu ve dereotlu'
+  editorNote: 'Patatesleri soyup doğradıktan sonra değil, kabuklarıyla bütün haşlamayı seçtik; böylece patates su çekip dağılmıyor ve sos ılık patatesin içine işliyor.
+
+    '
+  intro: 'Patates salatası, haşlanmış patatesin yeşil soğan, maydanoz ve dereotuyla, zeytinyağlı ve limonlu bir sosta buluştuğu bir salata. Bu tarif mayonezsiz, Türk usulü versiyon: sosun temelini zeytinyağı ve limon oluşturuyor, pul biber ve kimyon tadı derinleştiriyor.
+
+
+    Patatesleri kabuklarıyla haşlamak bu tarifin temel tercihi. Kabuk patatesin fazla su çekmesini engelliyor, küp doğradığında parçalar dağılmıyor. Sosu patatesler henüz ılıkken eklemek de önemli, çünkü ılık patates sosu daha iyi çekiyor.
+
+
+    4 kişilik salata toplam 35 dakikada hazır; bunun 20 dakikası haşlama. Piknik sepetine de uygun bu salataya haşlanmış yumurta ekleyerek doyurucu bir öğle yemeğine çevirebilirsin.
+
+    '
+  notes:
+  - t: Kabuklu haşlamanın nedeni
+    d: 'Soyulmuş ve doğranmış patates haşlanırken suyu doğrudan içine çeker; dışı dağılırken içi pişmeye devam eder. Kabuklu haşlanan patates ise daha dengeli pişer ve dokusunu korur. Pişip pişmediğini anlamak için bir bıçak ucunu batır; zorlanmadan giriyorsa hazırdır. Haşlama yaklaşık 20 dakika sürer ama patatesin boyuna göre değişebilir, bu yüzden süreden çok bıçak testine güven. Soyma işini patatesler eline yakmayacak kadar ılıyınca yap; kabuk bu sıcaklıkta kolayca ayrılır.
+
+      '
+  - t: Sosu ılıkken eklemek
+    d: 'Ilık patates sosu soğuk patatese göre çok daha iyi emer; zeytinyağı, limon ve baharatlar patatesin içine işler. Patatesleri tamamen soğuttuktan sonra soslarsan sos yüzeyde kalır ve salata yavan olur. Sosu ayrı bir kasede çırpmak tuzun ve baharatların eşit dağılmasını sağlar. Yeşillikleri ise en son ekle; sıcak patatesle uzun süre temas eden dereotu ve maydanoz solar. Dereotu bulamazsan maydanoz ve biraz taze nane, limon yerine misket limonu ya da yarı ölçü elma sirkesi kullanabilirsin.
+
+      '
+  - t: Karıştırma ve saklama
+    d: 'Haşlanmış patates kolay dağılır. Yeşillikleri ekledikten sonra kaşıkla bastırarak karıştırmak yerine geniş bir spatulayla alttan üste doğru nazikçe çevir. Küpleri çok küçük doğramamak da salatanın görüntüsünü korur. Salatayı buzdolabında kapalı bir kapta saklayabilirsin; soğuk patates sosu biraz daha çeker, servis etmeden önce bir kaşık zeytinyağı ve birkaç damla limonla tazeleyebilirsin. Haşlanmış yumurta eklemek salatayı tek başına bir öğle yemeğine dönüştürür.
+
+      '
+  faq:
+  - q: Patates salatası için patates kaç dakika haşlanır?
+    a: 'Orta boy patatesler kabuklarıyla yaklaşık 20 dakikada yumuşar. Bıçak ucu zorlanmadan giriyorsa patates hazırdır.
+
+      '
+  - q: Patates salatası mayonezsiz nasıl yapılır?
+    a: 'Bu tarif zaten mayonezsiz. Sos 4 yemek kaşığı zeytinyağı, 1 limonun suyu, tuz, pul biber ve kimyon çırpılarak hazırlanıyor.
+
+      '
+  - q: Patates salatası neden dağılır?
+    a: 'Patatesler soyulup doğranarak haşlanırsa ya da fazla pişerse dağılır. Kabuklu haşlayıp ılıyınca doğramak ve nazikçe karıştırmak bunu önler.
+
+      '
+  - q: Patates salatasında dereotu yerine ne kullanılır?
+    a: 'Maydanoz ve biraz taze nane kullanabilirsin. Tarifte zaten maydanoz olduğu için miktarını biraz artırmak yeterli.
+
+      '
+rus-salatasi:
+  aramaBasligi: 'Rus salatası tarifi: Yoğurtlu hafif sosla, 6 kişilik'
+  editorNote: 'Sosta mayonezin bir kısmının yerine yoğurt koyduk; salata daha hafif ve ferah oluyor, sebzelerin tadı da sosun altında kaybolmuyor.
+
+    '
+  intro: 'Rus salatası, haşlanmış patates, havuç ve bezelyenin kornişon turşu ve haşlanmış yumurtayla mayonezli bir sosta birleştiği soğuk bir salata. Rusya''da Olivier salatası olarak bilinen yemeğin bir türevi; Türkiye''de şarküteri vitrinlerinin ve sandviçlerin tanıdık salatası.
+
+
+    Bu tarifte sosu yalnızca mayonezle değil, mayonez ve yoğurdu karıştırarak hazırlıyoruz; limon suyu ve dereotu ferahlık katıyor. Patates ve havuç küp doğranıp birlikte haşlanıyor, bezelye son 3 dakikada ekleniyor. Böylece sebzeler aynı anda pişiyor ama dağılmıyor.
+
+
+    6 kişilik salata toplam 40 dakikada hazır. Soğuk servis edildiği için önceden yapıp buzdolabında bekletmek pratik bir seçenek; misafir masasında da sandviç içinde de kullanılabiliyor.
+
+    '
+  notes:
+  - t: Sebzeleri lapa yapmadan haşlamak
+    d: 'Rus salatasının en sık bozulduğu yer haşlama. Patates ve havucu benzer büyüklükte küçük küpler halinde doğramak eşit pişmelerini sağlar. Küpler bıçak ucuyla kolayca delinecek kadar yumuşadığında ocaktan al; fazla haşlanan patates karıştırırken ezilir ve salata lapa olur. Bezelyeyi son 3 dakikada eklemek rengini ve tanesini korur. Süzdükten sonra sebzeleri geniş bir tepsiye yayarsan daha hızlı soğur ve kendi buharıyla pişmeye devam etmez.
+
+      '
+  - t: Sosu soğuk sebzeyle birleştirmek
+    d: 'Mayonezli sos sıcak sebzeye eklenirse yağı ayrışır ve salata sulanır. Bu yüzden sebzelerin tamamen soğumasını beklemek önemli. Turşu ve yumurtayı da sebzelerle benzer boyda, küçük küp doğra; böylece her kaşıkta tüm malzemeler bir arada gelir. Kornişon turşunun suyunu iyice süz, aksi halde sos incelir. Sosu ayrı bir kasede karıştırıp sonra sebzelere eklemek dereotunun ve limonun eşit dağılmasını sağlar. Karıştırdıktan sonra salatayı buzdolabında soğutmak tatların oturmasına yardım eder.
+
+      '
+  - t: Alternatifler ve saklama
+    d: 'Daha da hafif bir salata istersen mayonezin yerine süzme yoğurt kullanabilirsin. Patates yerine tatlı patates de olur; pişme süresi biraz kısalır. Taze bezelye yoksa dondurulmuş bezelye kullanabilirsin. Dereotu yerine maydanoz ve biraz taze nane koyabilirsin. Mayonez ve yoğurt içerdiği için salatayı buzdolabında kapalı kapta sakla ve oda sıcaklığında uzun süre bekletme. Sandviç içi olarak kullanacaksan salatayı ekmeğe servis anında sür ki ekmek ıslanmasın.
+
+      '
+  faq:
+  - q: Rus salatası için sebzeler kaç dakika haşlanır?
+    a: 'Küp doğranmış patates ve havuç yaklaşık 15 dakika haşlanır, bezelye son 3 dakikada eklenir.
+
+      '
+  - q: Rus salatası mayonezsiz yapılır mı?
+    a: 'Evet, mayonez yerine süzme yoğurt kullanabilirsin; salata daha hafif olur. Bu tarifte zaten sosun bir kısmı yoğurt.
+
+      '
+  - q: Rus salatası neden sulanır?
+    a: 'Sebzeler sıcakken sosla karıştırılırsa ya da turşunun suyu süzülmezse salata sulanır. Sebzeleri tamamen soğut ve turşuyu iyice süz.
+
+      '
+  - q: Rus salatası önceden hazırlanır mı?
+    a: 'Evet, soğuk servis edilen bir salata. Hazırlayıp buzdolabında soğutmak tatların oturmasını sağlar.
+
+      '
+mevsim-salatasi:
+  aramaBasligi: 'Mevsim salatası tarifi: Nar ekşili sosla, 10 dakikada'
+  editorNote: 'Kırmızı lahanayı ovma adımını ayrı yazdık, çünkü çiğ lahana sert ve keskin kalıyor; bu kısa adım salatanın dokusunu en çok değiştiren kısım.
+
+    '
+  intro: 'Mevsim salatası; marul, roka, havuç, kırmızı lahana ve salatalık gibi yeşilliklerin limonlu, zeytinyağlı bir sosla buluştuğu, lokantalarda hemen her yemeğin yanında gelen salata. Adından da anlaşılacağı gibi sabit bir malzeme listesi yok; tezgâhta ne varsa onunla yapılabiliyor.
+
+
+    Bu tarifin ayırt edici adımı kırmızı lahanayı bir tutam tuz ve limonla ovmak. Ovulan lahana yumuşuyor, acılığı azalıyor ve rengi parlıyor. Sosta limonun yanına eklenen nar ekşisi hafif ekşi-tatlı bir derinlik katıyor. Turp ise isteğe bağlı.
+
+
+    4 kişilik salata 10 dakikada hazır. Sosu servisten hemen önce eklemek, yaprakların çıtırlığını korumanın en güvenli yolu.
+
+    '
+  notes:
+  - t: Lahanayı ovmanın faydası
+    d: 'Çok ince kıyılmış kırmızı lahanaya bir tutam tuz ve biraz limon suyu ekleyip elinle ovduğunda tuz lahananın suyunu çıkarır ve lifler yumuşar. Lahana hem daha kolay çiğnenir hem de keskin tadı azalır. Limonun asidi kırmızı lahananın rengini de canlandırır. Ovduktan sonra çıkan mor suyu dökebilirsin; salataya karışırsa diğer yaprakları da boyar. Lahanaya eklediğin tuzu hesaba katarak sosa koyacağın tuzu biraz azaltabilirsin.
+
+      '
+  - t: Yaprakları çıtır tutmak
+    d: 'Marul ve roka yıkandıktan sonra iyice kurutulmazsa üzerindeki su sosu inceltir ve yapraklar çabuk solar. Yaprakları salata kurutucusunda ya da temiz bir bezde kurula. Marulu ve rokayı iri doğramak yaprakların ezilmesini azaltır. Sosu servisten hemen önce dök; zeytinyağı ve limon yapraklarla uzun süre temas ederse salata suyunu salar. Önceden hazırlamak istiyorsan doğranmış sebzeleri ve çırpılmış sosu ayrı kaplarda buzdolabında beklet, masaya gelmeden birleştir.
+
+      '
+  - t: Mevsime göre değiştirmek
+    d: 'Bu salatanın gücü esnekliği. Sonbahar ve kışın nar taneleri ya da ceviz, yazın mısır eklemek tabağı mevsime uydurur. Roka bulamazsan tere ya da semizotu kullanabilirsin. Nar ekşisi yoksa limon suyuna bir tatlı kaşığı bal ya da pekmez ekleyerek benzer bir ekşi-tatlı denge kurabilirsin; limon yerine misket limonu ya da yarı ölçü elma sirkesi de olur. Turp isteğe bağlı; eklersen ince dilimle, salataya hafif acılık ve çıtırlık katar.
+
+      '
+  faq:
+  - q: Mevsim salatası sosu nasıl yapılır?
+    a: '4 yemek kaşığı zeytinyağı, 1 limonun suyu, 1 tatlı kaşığı nar ekşisi ve 1 tatlı kaşığı tuz çırpılarak hazırlanır.
+
+      '
+  - q: Kırmızı lahana salatada nasıl yumuşar?
+    a: 'İnce kıyılmış lahanayı bir tutam tuz ve limonla ovarsan yumuşar, acılığı azalır ve rengi parlar.
+
+      '
+  - q: Mevsim salatasında nar ekşisi yerine ne kullanılır?
+    a: 'Limon suyu ve bir tatlı kaşığı bal ya da pekmez kullanabilirsin.
+
+      '
+  - q: Mevsim salatası önceden hazırlanır mı?
+    a: 'Sebzeleri doğrayıp sostan ayrı saklayabilirsin, ama sosu servisten hemen önce eklemelisin. Aksi halde yapraklar solar ve salata su salar.
+
+      '
+yunan-salatasi:
+  aramaBasligi: 'Yunan salatası tarifi: Bütün dilim beyaz peynir ve kekikle'
+  editorNote: 'Peyniri ufalamak yerine bütün dilim olarak bıraktık; Yunan usulünün tanınan hali bu ve peynir sebzelerin suyuyla karışıp bulanmadan tabakta ayrı kalıyor.
+
+    '
+  intro: 'Yunan salatası, Yunanistan''da "horiatiki" yani köy salatası olarak bilinen; domates, salatalık, yeşil biber, kırmızı soğan, zeytin ve beyaz peynirden oluşan bir yaz salatası. Ege''nin iki yakasında da benzer malzemelerle yapılan çoban salatasının yakın akrabası sayılabilir.
+
+
+    Yunan usulünü ayıran iki ayrıntı var: sebzeler iri doğranıyor ve marul kullanılmıyor, beyaz peynir de ufalanmadan kalın bir dilim halinde salatanın üzerine konuyor. Sos yalnızca zeytinyağı ile kırmızı şarap sirkesi ya da limondan oluşuyor; üzerine serpilen kekik tadı tamamlıyor.
+
+
+    2 kişilik salata 10 dakikada hazır. Pişirme yok; tabağın dibinde kalan sosa ekmek bandırmak da bu salatanın bir parçası.
+
+    '
+  notes:
+  - t: Sebzeleri iri doğramak
+    d: 'Yunan salatasında domatesler iri parçalara, salatalık yarım aylara, biber ve soğan halkalara doğranır. İri parçalar suyunu daha yavaş salar, böylece salata tabakta uzun süre sulanmadan kalır. Domatesin olgun ama sert olması önemli; çok yumuşak domates doğrarken ezilir. Kırmızı soğanın keskinliği sana fazla geliyorsa halkaları doğradıktan sonra kısa bir süre soğuk suda bekletip süzebilirsin. Sebzeleri karıştırmadan tabağa dizmek, peynirin üstte bütün kalmasını da kolaylaştırır.
+
+      '
+  - t: Peynir ve zeytin seçimi
+    d: 'Salatanın tuzu büyük ölçüde peynir ve zeytinden geldiği için tarifte ayrıca tuz yok. Kalın dilim beyaz peynirin tuzlu, kremsi tadı sebzeleri dengeler. Kalamata zeytini salataya meyvemsi bir tat verir; bulamazsan siyah zeytin de olur. Beyaz peynir yerine tuzlanmış lor ya da tulum peyniri kullanabilirsin, ancak bu peynirler dağıldığı için bütün dilim görüntüsü olmaz. Peynirin üzerine de biraz zeytinyağı ve kekik gezdirmeyi unutma; kekik en çok peynirin üstünde hissedilir.
+
+      '
+  - t: Sos ve servis
+    d: 'Sos çok basit: 4 yemek kaşığı zeytinyağı ve 1 yemek kaşığı kırmızı şarap sirkesi ya da limon. Sirke daha keskin, limon daha ferah bir tat verir. Sosu salatanın üzerine doğrudan gezdirmek yeterli, ayrıca çırpman gerekmez. Salatayı servisten hemen önce hazırla; bekledikçe domates ve salatalık su salar. Tabağın dibinde biriken zeytinyağlı sebze suyu, ekmek bandırmak için salatanın en sevilen kısmıdır. Izgara balık ya da etin yanında hafif bir eşlikçi olur.
+
+      '
+  faq:
+  - q: Yunan salatasında marul olur mu?
+    a: 'Geleneksel Yunan salatasında marul kullanılmaz. Sebzeler iri doğranır ve peynir bütün dilim olarak konur.
+
+      '
+  - q: Yunan salatası sosu nasıl yapılır?
+    a: '4 yemek kaşığı zeytinyağı ve 1 yemek kaşığı kırmızı şarap sirkesi ya da limon salatanın üzerine gezdirilir, üzerine 1 tatlı kaşığı kekik serpilir.
+
+      '
+  - q: Yunan salatasında hangi peynir kullanılır?
+    a: 'Kalın dilim beyaz peynir kullanılır; tarifte 150 gram. Yerine tuzlanmış lor ya da tulum peyniri de olur.
+
+      '
+  - q: Yunan salatası ile çoban salatası arasındaki fark nedir?
+    a: 'Yunan salatasında sebzeler daha iri doğranır, zeytin ve bütün dilim beyaz peynir eklenir, üzerine kekik serpilir. Çoban salatası ise daha ince doğranır ve genellikle peynirsiz yapılır.
+
+      '
+ton-balikli-salata:
+  aramaBasligi: 'Ton balıklı salata tarifi: Hardallı sosla, 10 dakikada'
+  editorNote: 'Ton balığını sebzelerle karıştırmak yerine en son üzerine koymayı seçtik; balık parça parça kalıyor ve her tabağa eşit miktarda düşüyor.
+
+    '
+  intro: 'Ton balıklı salata, konserve ton balığının marul, domates, salatalık, mısır, kırmızı soğan ve siyah zeytinle buluştuğu, tek başına öğün olabilen bir salata. Ocak yakmadan hazırlandığı için akşam yorgun geldiğin günler ya da ertesi günün öğle yemeği için pratik bir seçenek.
+
+
+    Bu tarifte sosu hardalla bağlıyoruz: zeytinyağı, limon suyu, hardal ve tuz çırpıldığında hardal yağla limonun ayrışmasını engelliyor ve sos yapraklara eşit dağılıyor. Sebzeler önce sosla karıştırılıyor; ton balığı, mısır ve zeytin en son üzerine yerleştiriliyor. Böylece ton balığı ezilip dağılmıyor.
+
+
+    2 kişilik salata 10 dakikada hazır. Haşlanmış yumurta ve patates eklersen daha doyurucu bir tabak olur.
+
+    '
+  notes:
+  - t: Ton balığını süzmek
+    d: 'Kutudaki sıvı iyice süzülmezse salatanın tabanında birikir ve yaprakları ağırlaştırır. Ton balığını süzgece alıp hafifçe bastırmak yeterli; çok bastırırsan balık kurur. Zeytinyağlı ton balığı salataya daha yumuşak bir tat verir. Balığı tabağa koyarken çatalla iri parçalara ayır, ezme kıvamına getirme. Konserve mısırın suyunu da süz ve istersen kısaca durula. Zeytinleri çekirdeksiz kullanırsan salatayı yemek, özellikle iş yerinde, daha rahat olur.
+
+      '
+  - t: Hardalın sosa katkısı
+    d: 'Zeytinyağı ve limon suyu tek başına çırpıldığında kısa sürede ayrışır. Az miktarda hardal ikisini birbirine bağlayan bir emülgatör gibi çalışır; sos hafifçe koyulaşır ve yapraklara tutunur. 1 tatlı kaşığı hardal bu iş için yeterli, daha fazlası tadı baskılar. Sosu ayrı bir kasede ya da kapaklı bir kavanozda çalkalayarak hazırlamak en kolay yol. Limon yerine misket limonu ya da yarı ölçü elma sirkesi kullanabilirsin. Ton balığı ve zeytin tuzlu olduğu için tuzu bir tutamda bırak.
+
+      '
+  - t: Öğle yemeği olarak taşımak
+    d: 'Salatayı ertesi gün iş yerine götüreceksen sosu ayrı bir kapta taşı ve yemeden hemen önce ekle; sosla bekleyen marul solar. Domatesi ayrı tutmak ya da kabın en üstüne koymak da sulanmayı azaltır. Daha doyurucu bir öğün istersen haşlanmış yumurta ve haşlanmış patates ekle; bu haliyle Fransız niçoise salatasına yaklaşır. Konserve mısır yerine haşlanıp tanelenmiş taze mısır da kullanabilirsin. Kırmızı soğanı ince doğramak, kapalı kapta kokunun baskın olmasını azaltır.
+
+      '
+  faq:
+  - q: Ton balıklı salata sosu nasıl yapılır?
+    a: '3 yemek kaşığı zeytinyağı, 1 limonun suyu, 1 tatlı kaşığı hardal ve bir tutam tuz çırpılarak hazırlanır.
+
+      '
+  - q: Ton balıklı salatada hangi ton balığı kullanılır?
+    a: 'Zeytinyağlı konserve ton balığı tercih edilir ve kullanmadan önce iyice süzülür. Tarifte 160 gramlık 1 kutu yeterli.
+
+      '
+  - q: Ton balıklı salata önceden hazırlanır mı?
+    a: 'Sebzeleri ve ton balığını önceden hazırlayabilirsin, sosu ise servisten hemen önce ekle; yoksa marul solar.
+
+      '
+  - q: Ton balıklı salataya ne eklenir?
+    a: 'Haşlanmış yumurta ve haşlanmış patates ekleyebilirsin. Bu haliyle salata niçoise salatasına yaklaşır.
+
+      '
+makarna-salatasi:
+  aramaBasligi: 'Makarna salatası tarifi: Yoğurtlu, mısırlı ve turşulu'
+  editorNote: 'Burgu makarnayı seçtik; kıvrımları sosu ve küçük doğranmış turşuyu içinde tutuyor, düz bir makarnada bunlar tabağın dibinde kalırdı.
+
+    '
+  intro: 'Makarna salatası, haşlanıp soğutulan burgu makarnanın mısır, kornişon turşu, rendelenmiş havuç ve dereotuyla yoğurtlu mayonezli bir sosta karıştırıldığı soğuk bir salata. Çay saatlerinin, altın günlerinin ve kalabalık misafir masalarının en tanıdık tabaklarından biri.
+
+
+    Bu tarifte sosu yoğurt ağırlıklı hazırlıyoruz: 4 yemek kaşığı yoğurda 3 yemek kaşığı mayonez ve bir diş ezilmiş sarımsak. Makarnayı haşladıktan sonra soğuk sudan geçirmek yüzeydeki nişastayı alıyor; böylece taneler birbirine yapışmıyor ve sos her parçaya eşit dağılıyor.
+
+
+    6 kişilik salata toplam 25 dakikada hazır; bunun 10 dakikası makarnanın haşlanması. Buzdolabında soğudukça tatlar oturduğu için bir gün önceden hazırlanabiliyor.
+
+    '
+  notes:
+  - t: Makarnayı soğuk sudan geçirmek
+    d: 'Sıcak yemeklerde makarnayı yıkamak önerilmez, çünkü yüzeydeki nişasta sosu bağlar. Soğuk salatada ise durum tersi: soğuyan nişasta makarnayı yapışkan yapar ve taneler topaklanır. Haşladığın makarnayı soğuk sudan geçirip iyice süzmek hem pişmeyi durdurur hem de yapışmayı önler. Makarnayı fazla yumuşatma; soğuyunca ve sosla bekleyince biraz daha yumuşar. Süzdükten sonra suyunun tamamen akmasını bekle, yoksa sos sulanır ve salata kıvamını kaybeder.
+
+      '
+  - t: Malzemeleri küçük doğramak
+    d: 'Turşuları küçük küp doğramak ve havucu rendelemek, her çatala makarnayla birlikte biraz turşu ve havuç gelmesini sağlar. Kornişon turşunun ekşiliği yoğurtlu sosun yumuşaklığını dengeler; suyunu iyice süzersen sos incelmez. Mısırın da suyunu süz. Dereotunu ince kıy ve en son ekle. Sarımsağı ezerek sosa katmak tadın sosa eşit yayılmasını sağlar; iri doğranmış sarımsak lokmada keskin kalır. Sosu önce ayrı bir kasede karıştırıp sonra makarnaya eklemek daha eşit bir sonuç verir.
+
+      '
+  - t: Saklama ve çeşitleme
+    d: 'Salata buzdolabında soğudukça tatlar oturur, bu yüzden bir gün önceden hazırlanabilir. Bekledikçe makarna sosu biraz çeker; servisten önce kuru görünürse bir kaşık yoğurtla açabilirsin. Yoğurt ve mayonez içerdiği için oda sıcaklığında uzun süre bekletme. Daha hafif bir sos için mayonez yerine süzme yoğurt kullanabilirsin. Ton balığı eklersen salata tek başına bir öğle yemeğine dönüşür. Dereotu yerine maydanoz ve biraz taze nane de olur.
+
+      '
+  faq:
+  - q: Makarna salatası için makarna kaç dakika haşlanır?
+    a: 'Burgu makarna yaklaşık 10 dakika haşlanır. Ardından soğuk sudan geçirip iyice süz.
+
+      '
+  - q: Makarna salatası neden yapışır?
+    a: 'Haşlanan makarna soğuk sudan geçirilmezse yüzeyindeki nişasta soğudukça taneleri birbirine yapıştırır.
+
+      '
+  - q: Makarna salatası mayonezsiz yapılır mı?
+    a: 'Evet, mayonez yerine süzme yoğurt kullanabilirsin; salata daha hafif olur.
+
+      '
+  - q: Makarna salatası bir gün önceden yapılır mı?
+    a: 'Evet, buzdolabında kapalı kapta bekletebilirsin. Soğudukça tatlar oturur; kuruduysa servisten önce bir kaşık yoğurtla aç.
+
+      '
+kiymali-makarna:
+  aramaBasligi: 'Kıymalı makarna tarifi: Domatesli sosla, 30 dakikada'
+  editorNote: 'Makarnayı 1 dakika erken süzüp sosun içinde bitirmeyi seçtik; makarna sosun tadını çekiyor ve tabağa geldiğinde aşırı yumuşamış olmuyor.
+
+    '
+  intro: 'Kıymalı makarna, kalem ya da burgu makarnanın soğan, sarımsak, salça ve rendelenmiş domatesle pişen kıyma sosuyla buluştuğu, evlerin en pratik akşam yemeklerinden biri. Dolapta bir paket makarna ve biraz kıyma varsa ayrıca alışveriş gerektirmiyor.
+
+
+    Bu tarifte makarnayı paketteki süreden 1 dakika az haşlıyor, son pişirmeyi sosun içinde tamamlıyoruz. Ayırdığın bir kupa haşlama suyu sosu makarnaya bağlıyor ve kurumasını engelliyor. Sos 250 gram dana kıymayla hazırlanıyor; kekik ve karabiber domatesin tadını tamamlıyor.
+
+
+    4 kişilik yemek toplam 30 dakikada hazır. Kaşar rendesiyle sıcak servis edebilir ya da fırın kabına alıp üzerine kaşar yayarak fırın makarnaya çevirebilirsin.
+
+    '
+  notes:
+  - t: Kıymayı doğru kavurmak
+    d: 'Kıymayı soğan ve sarımsak yumuşadıktan sonra ekle ve topaklanmaması için kaşıkla dağıtarak kavur. Kıyma önce suyunu salar; bu su çekilip kıyma kızarmaya başlamadan salça eklenirse sos haşlanmış et tadında kalır. Salçayı kıymayla birlikte kısa süre çevirmek çiğ tadını alır. Rendelenmiş domatesi ekledikten sonra sosu 8 dakika pişirmek, domatesin suyunu çekip sosun koyulaşması için yeterli. Tuzu kıyma kavrulduktan sonra eklemek ayarı kolaylaştırır.
+
+      '
+  - t: Haşlama suyunun görevi
+    d: 'Makarna haşlanırken suya geçen nişasta, sosu makarnaya bağlayan doğal bir kıvam verici gibi çalışır. Makarnayı süzmeden önce bir kupa suyunu ayırmak bu yüzden önemli. Makarnayı sosa ekledikten sonra birkaç kaşık haşlama suyuyla 1 dakika çevirdiğinde sos parlak bir kıvam alır ve makarnaya tutunur. Haşlama suyu tuzlu olduğu için ekledikçe tadına bak. Sos kuru görünürse biraz daha ekle; makarna bekledikçe sosu çektiği için hafif sulu bırakmak iyi bir fikir.
+
+      '
+  - t: Malzeme alternatifleri
+    d: 'Kışın taze domates tatsız olabilir; o zaman rendelenmiş domates yerine konserve küp doğranmış domates daha iyi sonuç verir. Salça kullanmak istemezsen 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates ekleyip pişirme süresini 5 dakika uzatabilirsin. Kuru soğan yerine arpacık ya da mor soğan daha tatlı bir sos verir. Kaşar yerine mozzarella ya da tost peyniri gibi eriyen herhangi bir peynir kullanabilirsin. Kalem ve burgu makarna sosu iyi tuttuğu için bu tarifte ikisi de uygun.
+
+      '
+  faq:
+  - q: Kıymalı makarna sosu kaç dakika pişer?
+    a: 'Soğan, sarımsak ve kıyma kavrulduktan sonra salça ve domatesle 8 dakika pişer. Sos aşamasının tamamı yaklaşık 15 dakika sürer.
+
+      '
+  - q: Kıymalı makarna neden kuru olur?
+    a: 'Makarna haşlama suyu olmadan sosa eklenirse sos makarnaya tutunmaz ve yemek kuru kalır. Birkaç kaşık haşlama suyuyla 1 dakika çevirmek bunu önler.
+
+      '
+  - q: Kıymalı makarna fırında nasıl yapılır?
+    a: 'Sosla karıştırdığın makarnayı fırın kabına al, üzerine kaşar yayıp 10 dakika fırınla.
+
+      '
+  - q: Kıymalı makarnada kaşar yerine ne kullanılır?
+    a: 'Mozzarella ya da tost peyniri kullanabilirsin; eriyen herhangi bir peynir olur.
+
+      '
+carbonara:
+  aramaBasligi: 'Spagetti carbonara tarifi: Kremasız, yumurtalı Roma usulü'
+  editorNote: 'Birleştirme adımında ocağı kapatıp 1 dakika beklemeyi ayrıca yazdık; carbonaranın başarısı bu bekleme süresine bağlı, tava çok sıcakken eklenen yumurta pıhtılaşıyor.
+
+    '
+  intro: 'Carbonara, Roma mutfağının bilinen makarnalarından biri: spagetti, yumurta, rendelenmiş peynir, karabiber ve kızartılmış et. Sosun kremamsı kıvamı kremadan değil, sıcak makarnanın ısısıyla hafifçe pişen yumurta ve peynirden geliyor.
+
+
+    Orijinali guanciale denen domuz yanağıyla yapılıyor; bu tarifte yerine dana füme ya da dana jambon kullanıyoruz. Sosta 2 yumurta sarısı ve 1 bütün yumurta var; sarılar kıvamı zenginleştiriyor, bütün yumurta sosu biraz daha akışkan tutuyor. Peynir olarak parmesan, bulamazsan eski kaşar kullanabilirsin.
+
+
+    2 kişilik tarif toplam 25 dakikada hazır. Tek kritik nokta, yumurtalı karışımı ocak kapalıyken eklemek; böylece sos omlete dönmeden ipeksi bir kıvam alıyor.
+
+    '
+  notes:
+  - t: Yumurtayı pıhtılaştırmamak
+    d: 'Carbonarada sosu pişiren şey ocağın ateşi değil, sıcak makarnanın kendisi. Fümeyi kızarttıktan sonra ocağı kapat, süzdüğün makarnayı tavaya al ve 1 dakika bekle. Bu kısa süre tavanın ısısını yumurtanın pıhtılaşmayacağı seviyeye indirir. Ardından yumurtalı karışımı ekleyip hızla karıştır. Karışımı tava ocaktayken eklersen yumurta taneciklenip omlete döner. Sos fazla akışkan kalırsa karıştırmaya devam et; makarnanın ısısı onu yavaş yavaş koyulaştırır. Sabırlı olmak burada aceleden daha iyi sonuç verir.
+
+      '
+  - t: Haşlama suyuyla kıvam ayarlamak
+    d: 'Haşlama suyundaki nişasta, yumurta ve peyniri birbirine bağlayıp parlak, kremamsı bir sos oluşturur. Bu yüzden makarnayı süzmeden önce bir kupa suyunu ayır. Yumurtalı karışımla birlikte birkaç kaşık ekleyip karıştır; sos koyu ve topaklı görünüyorsa biraz daha ekle. Su aynı zamanda sosun sıcaklığını dengeler. Makarnayı bol tuzlu suda haşladığın ve peynir de tuzlu olduğu için sosa ayrıca tuz eklenmiyor; gerekirse servis sırasında tadına bakarak ayarla.
+
+      '
+  - t: Peynir ve et seçimi
+    d: 'Parmesanı ince rendelemek, sıcakta hızla erimesini ve topaklanmamasını sağlar; iri rendelenmiş peynir sosun içinde ipliklenir. Parmesan yerine eski kaşar ya da kuru tulum peyniri kullanabilirsin. Dana fümeyi tavada çıtırlaşana kadar kızartmak önemli; bu çıtırlık yumuşak sosun karşısında doku farkı yaratır. Karabiberi iri çekilmiş kullanmak carbonaranın tanınan aromasını verir. Yemek bekledikçe sos koyulaşıp kuruduğu için tabağa alır almaz servis et; tabakları önceden ılıtmak da yardımcı olur.
+
+      '
+  faq:
+  - q: Carbonara kremalı mı yapılır?
+    a: 'Roma usulü carbonarada krema kullanılmaz. Kremamsı kıvamı yumurta, peynir ve haşlama suyu verir.
+
+      '
+  - q: Carbonarada yumurta neden omlet olur?
+    a: 'Yumurtalı karışım tava ocaktayken ya da çok sıcakken eklenirse pıhtılaşır. Ocağı kapatıp makarnayı tavaya aldıktan sonra 1 dakika beklemek bunu önler.
+
+      '
+  - q: Carbonarada guanciale yerine ne kullanılır?
+    a: 'Bu tarifte dana füme ya da dana jambon kullanılıyor; şerit doğranıp tavada çıtırlaşana kadar yaklaşık 4 dakika kızartılıyor.
+
+      '
+  - q: Carbonara için spagetti kaç dakika haşlanır?
+    a: 'Spagetti bol tuzlu suda al dente olana kadar, yaklaşık 9-10 dakika haşlanır.
+
+      '
+fettuccine-alfredo:
+  aramaBasligi: 'Fettuccine alfredo tarifi: Kremalı ve parmesanlı, 20 dakika'
+  editorNote: 'Parmesanı kaynayan kremaya değil, ocağı kıstıktan sonra eklemeyi ayrı bir adım olarak yazdık; yüksek ısıda peynir topaklanıyor ve sos yağ salıyor.
+
+    '
+  intro: 'Fettuccine alfredo, yassı fettuccine makarnanın tereyağı ve parmesanla hazırlanan bir sosla karıştırıldığı İtalyan kökenli bir makarna. Roma''da ortaya çıkan ilk hali yalnızca tereyağı ve peynirle yapılıyordu; kremalı versiyonu sonradan yaygınlaştı ve bugün en çok bilinen hali oldu.
+
+
+    Bu tarif kremalı versiyonu izliyor. Tereyağında 30 saniye çevrilen sarımsağın üzerine krema ekleniyor, 3 dakika kaynatılıp hafifçe koyulaştırılıyor; ardından ocak kısılıp parmesan eritiliyor. Bir tutam muskat kremalı sosa sıcak bir aroma katıyor. Kıvamı ayarlamak için de haşlama suyundan yararlanıyoruz.
+
+
+    2 kişilik tarif toplam 20 dakikada hazır. Izgara tavuk dilimleri eklersen daha doyurucu bir akşam yemeği olur.
+
+    '
+  notes:
+  - t: Peyniri topaklanmadan eritmek
+    d: 'Parmesan yüksek ısıda hızla sıkılaşır; sonuçta sosun içinde lastik gibi topaklar ve ayrışan yağ oluşur. Kremayı 3 dakika kaynatıp hafifçe koyulaştırdıktan sonra ocağı kıs, peyniri azar azar ekleyip sürekli karıştırarak erit. Peyniri ince rendelemek erimesini hızlandırır. Hazır rendelenmiş peynirler bazen topaklanmayı önleyici katkı içerir ve sosun pürüzsüz olmasını zorlaştırabilir; mümkünse kalıp peyniri kendin rendele. Tuzu peynir eridikten sonra ayarla, çünkü parmesan da tuzludur.
+
+      '
+  - t: Kıvamı haşlama suyuyla ayarlamak
+    d: 'Alfredo sosu soğudukça hızla koyulaşır. Makarnayı süzmeden önce bir kupa haşlama suyunu ayırırsan, sos çok koyu kaldığında birkaç kaşıkla açabilirsin. Haşlama suyundaki nişasta sosun makarnaya tutunmasına yardım eder; sade su ise sosu yalnızca sulandırır. Makarnayı sosa ekledikten sonra kısa süre karıştır ve hemen servis et, çünkü bekleyen alfredo tabakta katılaşır. Tabakları önceden ılıtmak da sosun daha uzun süre akışkan kalmasına yardım eder.
+
+      '
+  - t: Alternatifler
+    d: 'Krema yerine bir su bardağı süte 2 yemek kaşığı tereyağı ekleyerek daha hafif bir sos yapabilirsin; ya da ocaktan aldıktan sonra süzme yoğurt ekleyebilirsin, ancak yoğurdu kaynatma. Parmesan yerine eski kaşar ya da kuru tulum peyniri kullanabilirsin. Fettuccine yerine tagliatelle, glutensiz bir seçenek için pirinç eriştesi olur. Tereyağı yerine zeytinyağı kullanacaksan ¾ ölçü yeterli. Tavuklu bir tabak için ızgara tavuk dilimlerini servis sırasında makarnanın üzerine yerleştir.
+
+      '
+  faq:
+  - q: Alfredo sosu nasıl yapılır?
+    a: 'Tereyağında sarımsak 30 saniye çevrilir, 200 ml krema eklenip 3 dakika kaynatılır. Ocak kısılıp 60 gram parmesan eritilir; tuz, karabiber ve muskatla tatlandırılır.
+
+      '
+  - q: Alfredo sosu neden topaklanır?
+    a: 'Parmesan yüksek ateşte eklenirse topaklanır. Peyniri eklemeden önce ocağı kıs ve eriyene kadar karıştır.
+
+      '
+  - q: Alfredo sosunda krema yerine ne kullanılır?
+    a: 'Bir su bardağı süte 2 yemek kaşığı tereyağı ekleyebilir ya da ocaktan aldıktan sonra süzme yoğurt kullanabilirsin; yoğurdu kaynatma.
+
+      '
+  - q: Fettuccine alfredo tavuklu yapılır mı?
+    a: 'Evet, ızgara tavuk dilimleri ekleyerek daha doyurucu bir akşam yemeği yapabilirsin.
+
+      '
+pesto-makarna:
+  aramaBasligi: 'Pesto soslu makarna tarifi: Taze fesleğenli, ev yapımı'
+  editorNote: 'Pestoyu tavada ısıtmak yerine sıcak makarnayla karıştırmayı seçtik; fesleğen ısıyla kararıyor ve sosun taze, yeşil tadı kayboluyor.
+
+    '
+  intro: 'Pesto, İtalya''nın Liguria bölgesinden, özellikle Cenova''dan bilinen; fesleğen, çam fıstığı, sarımsak, peynir ve zeytinyağıyla hazırlanan çiğ bir yeşil sos. Pişirilmeden, yalnızca sıcak makarnayla karıştırılarak kullanılıyor.
+
+
+    Bu tarifte 2 demet taze fesleğeni çam fıstığı ya da cevizle, sarımsak, parmesan ve tuzla rondoda çekiyor, zeytinyağını yavaş yavaş ekleyerek koyu bir sos elde ediyoruz. Çam fıstığı zor bulunuyorsa ceviz iyi bir alternatif. Makarna olarak burgu ya da linguine kullanabilirsin; birkaç kaşık haşlama suyu pestoyu inceltip makarnaya yayıyor.
+
+
+    2 kişilik tarif toplam 20 dakikada hazır. Fesleğenin bol olduğu yaz aylarında pestoyu fazla yapıp kavanozda saklamak da mümkün.
+
+    '
+  notes:
+  - t: Fesleğeni kararmadan çekmek
+    d: 'Fesleğen yaprakları ısıya ve ezilmeye hassastır; uzun süre çalışan bir rondo bıçağı yaprakları ısıtıp koyulaştırabilir. Malzemeleri kısa aralıklarla çekmek ve zeytinyağını makine çalışırken yavaş yavaş eklemek sosun rengini korur. Yaprakları yıkadıktan sonra iyice kurula; üzerinde kalan su sosu sulandırır. Kalın sapları ayıklayıp yalnızca yaprakları kullan, saplar sosa lifli bir doku verir. Peyniri ince rendelemek de sosun pürüzsüz olmasına yardım eder.
+
+      '
+  - t: Pestoyu makarnaya bağlamak
+    d: 'Pesto koyu ve yağlı bir sos olduğu için doğrudan makarnaya eklendiğinde topak topak kalabilir. Makarnayı süzmeden önce ayırdığın bir kupa haşlama suyundan birkaç kaşık eklemek sosu inceltir, nişasta sayesinde de makarnaya tutunmasını sağlar. Karıştırma işini ocak kapalıyken, geniş bir kasede ya da boş tencerede yap. Pestoyu pişirme; makarnanın sıcaklığı sosu ılıtmaya yeter. Makarna yaklaşık 9 dakikada haşlanır, kullandığın makarnanın paketindeki süreye de bak.
+
+      '
+  - t: Saklama ve alternatifler
+    d: 'Kalan pestoyu temiz bir kavanoza koyup üzerine ince bir kat zeytinyağı dökersen havayla teması azalır ve sos daha uzun süre yeşil kalır. Kavanozu buzdolabında sakla, her kullanımdan sonra yüzeyi yeniden zeytinyağıyla kapat. Pestoyu buz kalıbında porsiyonlar halinde dondurmak da yaygın bir yöntem. Parmesan yerine eski kaşar ya da kuru tulum peyniri, ceviz yerine fındık ya da badem kullanabilirsin. Her değişiklik tadı biraz değiştirir ama yöntem aynı kalır.
+
+      '
+  faq:
+  - q: Pesto sos nasıl yapılır?
+    a: 'Fesleğen yaprakları, çam fıstığı ya da ceviz, sarımsak, parmesan ve tuz rondoda çekilir; yarım su bardağı zeytinyağı yavaş yavaş eklenerek koyu bir sos elde edilir.
+
+      '
+  - q: Pesto sos ısıtılır mı?
+    a: 'Hayır, pesto pişirilmez. Isıtılırsa fesleğen kararır; sıcak makarnayla karıştırmak yeterli.
+
+      '
+  - q: Pestoda çam fıstığı yerine ne kullanılır?
+    a: 'Ceviz kullanabilirsin; ceviz yerine fındık ya da badem de olur.
+
+      '
+  - q: Pesto sos dondurulur mu?
+    a: 'Evet, buz kalıbında porsiyonlar halinde dondurabilirsin. Buzdolabında saklayacaksan kavanoza koyup üzerine zeytinyağı dök.
+
+      '
+penne-arrabbiata:
+  aramaBasligi: 'Penne arrabbiata tarifi: Sarımsaklı, acılı domates soslu'
+  editorNote: 'Pul biberi domatesle birlikte değil, sarımsakla zeytinyağında önce çevirmeyi seçtik; acı ve aroma yağa geçince sosun her yerine eşit dağılıyor.
+
+    '
+  intro: 'Penne arrabbiata, sarımsak, acı pul biber ve domatesle hazırlanan sade bir sosla karıştırılan İtalyan usulü bir makarna. "Arrabbiata" İtalyanca öfkeli anlamına geliyor; yemek adını sosun acılığından alıyor.
+
+
+    Bu tarifte sarımsak ve pul biberi zeytinyağında 1 dakika çevirip acıyı ve aromayı yağa geçiriyor, ardından domatesi ekleyip sosu 15 dakika koyulaşana kadar pişiriyoruz. 400 gram konserve domates ya da 4 olgun domates kullanabilirsin; kışın konserve domates daha dolgun bir tat veriyor. Tarifte peynir yok, bu haliyle vegan bir makarna.
+
+
+    2 kişilik tarif toplam 25 dakikada hazır. Sos pişerken makarnayı haşlayarak iki işi aynı anda bitirebilirsin.
+
+    '
+  notes:
+  - t: Sarımsağı yakmamak
+    d: 'İnce doğranmış sarımsak çok hızlı kızarır; yanan sarımsak sosa acı ve hoş olmayan bir tat bırakır. Zeytinyağını orta ateşte ısıt, sarımsak ve pul biberi ekleyip yalnızca 1 dakika, sarımsak kokusunu salana kadar çevir. Sarımsak renk almaya başladığı anda domatesi ekle; domatesin suyu tavayı soğutur ve sarımsağın yanmasını durdurur. Pul biber de uzun süre kızgın yağda kalırsa kararır ve yanık bir tat verir, bu yüzden bu adımı kısa tut.
+
+      '
+  - t: Acıyı ayarlamak
+    d: 'Arrabbiatanın karakteri acılığında, ama ne kadar acı olacağı damak tadına bağlı. Tarifte 1 tatlı kaşığı acı pul biber var; daha hafif istersen miktarı azalt. Pul biberlerin acılığı yöreden yöreye ve üründen ürüne değişir, bu yüzden ilk seferde biraz az koyup sos pişerken tadına bakmak daha güvenli. Acı fazla geldiyse servis sırasında biraz zeytinyağı gezdirmek yumuşatır. Vegan olması önemli değilse üzerine serpilen parmesan da acıyı dengeler.
+
+      '
+  - t: Makarnayı sosta bitirmek
+    d: 'Penneyi al dente, yani dişe hafif direnç gösterecek kıvamda haşla ve süzdükten sonra doğrudan sosun içine aktar. Makarna sosun içinde kısa bir süre çevrilirken domatesi çeker ve sos borucukların içine dolar. Sos fazla koyulaşırsa biraz haşlama suyu ekleyebilirsin; bu yüzden süzmeden önce bir miktar suyu ayırmak işine yarar. Maydanozu en son ekle ki rengini korusun. Tam buğday ya da glutensiz makarna kullanacaksan haşlama süresine paketten bak.
+
+      '
+  faq:
+  - q: Arrabbiata ne demek?
+    a: 'İtalyanca öfkeli demek. Sos adını sarımsak ve acı pul biberden gelen acılığından alıyor.
+
+      '
+  - q: Arrabbiata sosu kaç dakika pişer?
+    a: 'Sarımsak ve pul biber 1 dakika çevrildikten sonra domatesle birlikte 15 dakika, koyulaşana kadar pişer.
+
+      '
+  - q: Penne arrabbiata vegan mı?
+    a: 'Bu tarifte peynir olmadığı için vegan. İstersen servis sırasında parmesan serpebilirsin, ama o zaman vegan olmaz.
+
+      '
+  - q: Arrabbiata için taze domates mi konserve domates mi kullanılır?
+    a: 'İkisi de olur: 400 gram konserve domates ya da 4 olgun domates. Kışın konserve domates daha lezzetli sonuç verir.
+
+      '
+kremali-mantarli-makarna:
+  aramaBasligi: 'Kremalı mantarlı makarna tarifi: Parmesanlı, 20 dakikada'
+  editorNote: 'Mantarın tuzunu en sona bıraktık; erken eklenen tuz mantarın suyunu çıkarıyor ve mantar kızaracağına kendi suyunda haşlanıyor.
+
+    '
+  intro: 'Kremalı mantarlı makarna, tereyağında kızartılan kültür mantarının sarımsak, krema ve parmesanla kadifemsi bir sosa dönüştüğü bir makarna. Fettuccine ya da penneyle yapılabiliyor; ikisi de sosu iyi tutuyor.
+
+
+    Bu tarifin ana fikri mantarı yüksek ateşte, suyunu çekip kızarana kadar sotelemek. Kızaran mantar sosa derin bir lezzet veriyor; haşlanmış gibi kalan mantar ise kremanın içinde tatsız ve lastiğimsi oluyor. Krema 2 dakika kaynatılıp parmesanla bağlanıyor, kıvam da ayırdığın yarım bardak makarna suyuyla ayarlanıyor.
+
+
+    3 kişilik tarif toplam 20 dakikada hazır; makarna haşlanırken mantarı sotelersen iki iş aynı anda biter. Tavuk ya da ıspanak ekleyerek tabağı çeşitlendirebilirsin.
+
+    '
+  notes:
+  - t: Mantarı kızartmak
+    d: 'Kültür mantarı büyük ölçüde sudan oluşur. Tavaya atıldığında önce suyunu salar; bu su buharlaşıp çekildikten sonra mantar kızarmaya başlar. Yüksek ateş ve geniş bir tava bu süreci hızlandırır. Tavayı kalabalık edersen su buharlaşamaz ve mantar haşlanır, bu yüzden gerekirse iki parti halinde sotele. Mantarları yıkayacaksan kısa sürede durula ve iyice kurula. Sarımsağı mantar kızardıktan sonra ekle; baştan eklenirse mantarın piştiği sürede yanar.
+
+      '
+  - t: Sosu bağlamak
+    d: 'Kremayı mantarın üzerine ekleyip 2 dakika kaynatmak kremayı hafifçe koyulaştırır. Parmesanı ve baharatları bu aşamada kat; peynir eridikçe sos kadifemsi bir kıvam alır. Peyniri eklerken ateşi biraz kısmak topaklanmayı önler. Sos çok koyulaşırsa makarnayı haşlarken ayırdığın yarım bardak sudan azar azar ekle. Haşlama suyundaki nişasta sosu makarnaya tutundurur. Kremalı soslar beklerken katılaşır, bu yüzden makarnayı sosa aldıktan sonra fazla bekletmeden servis et.
+
+      '
+  - t: Alternatifler ve çeşitleme
+    d: 'Kültür mantarı yerine istiridye ya da kestane mantarı kullanırsan farklı bir aroma ve doku elde edersin. Parmesan yerine eski kaşar ya da kuru tulum peyniri olur. Tereyağı yerine zeytinyağı kullanacaksan ¾ ölçü yeterli. Fettuccine yerine tagliatelle, glutensiz bir tabak için pirinç eriştesi kullanabilirsin. Tavuk eklemek istersen mantardan önce ayrı pişirip sona ekle; ıspanağı ise kremayla birlikte koyup solmasını bekle. Maydanozu servis anında serp ki tazeliğini korusun.
+
+      '
+  faq:
+  - q: Kremalı makarna için mantar nasıl sotelenir?
+    a: 'Tereyağında yüksek ateşte, suyunu salıp çekene ve kızarana kadar yaklaşık 7 dakika sotelenir. Tuzu en sonda ekle.
+
+      '
+  - q: Mantar neden su salar?
+    a: 'Mantar büyük ölçüde sudan oluşur; erken eklenen tuz ve kalabalık tava bu suyun çıkmasını hızlandırır. Yüksek ateş ve geniş tava suyun çabuk buharlaşmasını sağlar.
+
+      '
+  - q: Kremalı makarna sosu nasıl koyulaşır?
+    a: 'Kremayı 2 dakika kaynatıp parmesanı katmak sosu koyulaştırır. Fazla koyulaşırsa makarna suyuyla açabilirsin.
+
+      '
+  - q: Kremalı mantarlı makarnaya ne eklenir?
+    a: 'Tavuk ya da ıspanak ekleyerek çeşitlendirebilirsin.
+
+      '
+mantarli-pilav:
+  aramaBasligi: 'Mantarlı pilav tarifi: Tereyağlı ve kekikli, tane tane'
+  editorNote: 'Mantarı pirinçle aynı anda değil, önce ayrı kavurmayı seçtik; böylece mantar suyunu salıp kızarıyor ve pilavın su oranı bozulmuyor.
+
+    '
+  intro: 'Mantarlı pilav, kavrulmuş kültür mantarı ve kekikle demlenen bir pirinç pilavı. Mantarın aroması pirince geçtiğinde sade pilav, tek başına da yenebilecek bir yemeğe dönüşüyor; et ve tavuk yemeklerinin yanında da iyi bir garnitür oluyor.
+
+
+    Bu tarifte mantarı ve pirinci ayrı ayrı kavuruyoruz. Mantarlar önce zeytinyağında yüksek ateşte suyunu salıp çekene kadar kavrulup kenara alınıyor; ardından tereyağında soğan yumuşatılıp baldo pirinç 3 dakika kavruluyor. Mantarlar sıcak suyla birlikte tencereye dönüyor ve pilav kısık ateşte pişiyor. 1,5 su bardağı pirince 2,25 su bardağı su oranı baldo pirinç için hesaplanmış.
+
+
+    4 kişilik pilav toplam 35 dakikada hazır. Pişirmeden sonra 10 dakika demlendirmek tanelerin ayrılması için şart.
+
+    '
+  notes:
+  - t: Mantarı ayrı kavurmanın nedeni
+    d: 'Mantar pirinçle birlikte çiğ halde tencereye girerse saldığı su pilavın su oranını değiştirir ve pirinç lapalaşabilir. Mantarı önce geniş bir tavada yüksek ateşte, suyunu salıp çekene kadar kavurmak hem bu sorunu ortadan kaldırır hem de mantara kızarmış, yoğun bir lezzet kazandırır. Tava kalabalıksa mantar haşlanır; gerekirse parti parti kavur. Kavrulan mantarı kenara al ve pirincin suyu eklendiğinde tencereye geri koy.
+
+      '
+  - t: Pirinci kavurmak ve su oranı
+    d: 'Pirinci tereyağında 3 dakika kavurmak tanelerin dışını yağla kaplar ve pişerken birbirine yapışmalarını azaltır. Taneler hafifçe şeffaflaşınca suyu ekle. Suyun sıcak olması önemli; soğuk su kavrulmuş pirincin ısısını düşürür ve pişme dengesini bozar. Tarifteki su oranı baldo pirinç için; osmancık pirinç kullanacaksan suyu bir parmak azalt. Pişerken kapağı sık sık açma, kaçan buhar üstteki tanelerin çiğ kalmasına yol açar. Su çekildiğinde yüzeyde küçük buhar delikleri görürsün.
+
+      '
+  - t: Demlendirme ve çeşitleme
+    d: 'Suyunu çeken pilavı ocaktan al ve kapağı kapalı 10 dakika demlendir. Bu sürede kalan buhar tanelerin ortasına kadar işler ve pilav tane tane olur. Demlendikten sonra pilavı kaşıkla alttan üste nazikçe karıştır. Kültür mantarı yerine istiridye ya da kestane mantarı kullanabilirsin. Kuru soğan yerine arpacık ya da mor soğan daha tatlı bir taban verir. Biraz krema eklersen risotto''ya yakın, kremalı bir pilav elde edersin.
+
+      '
+  faq:
+  - q: Mantarlı pilav kaç dakika pişer?
+    a: 'Pirinç sıcak su eklendikten sonra kısık ateşte yaklaşık 15 dakika pişer, ardından 10 dakika demlenir.
+
+      '
+  - q: Mantarlı pilav için kaç su bardağı su konur?
+    a: '1,5 su bardağı baldo pirinç için 2,25 su bardağı sıcak su kullanılır. Osmancık pirinçte suyu bir parmak azalt.
+
+      '
+  - q: Mantarlı pilav neden lapa olur?
+    a: 'Mantar çiğ halde pirinçle birlikte eklenirse saldığı su su oranını bozar. Mantarı önce ayrı kavurup suyunu çektirmek bunu önler.
+
+      '
+  - q: Mantarlı pilavda hangi mantar kullanılır?
+    a: 'Bu tarifte 250 gram kültür mantarı kullanılıyor; istiridye ya da kestane mantarı da olur.
+
+      '
+sebzeli-pilav:
+  aramaBasligi: 'Sebzeli pirinç pilavı tarifi: Havuç, bezelye ve mısırlı'
+  editorNote: 'Havucu diğer sebzelerden önce ayrı kavurmayı seçtik; havuç daha sert olduğu için aynı anda eklenirse bezelye ve mısır pişerken havuç çiğ kalıyor.
+
+    '
+  intro: 'Sebzeli pirinç pilavı, havuç, bezelye ve mısırla renklenen, zeytinyağıyla hazırlanan bir pirinç pilavı. Tavuk ya da et yemeklerinin yanında renkli bir garnitür olarak sofraya geliyor; içinde tereyağı olmadığı için vegan.
+
+
+    Bu tarifte önce küp doğranmış havuç zeytinyağında 3 dakika kavruluyor, çünkü havuç bezelye ve mısırdan daha geç pişiyor. Ardından bezelye, mısır ve yıkanıp süzülmüş pirinç ekleniyor; isteğe bağlı zerdeçal pilava sarı bir renk veriyor. 2 su bardağı baldo pirince 3 su bardağı sıcak su kullanılıyor.
+
+
+    4 kişilik pilav toplam 30 dakikada hazır. Donuk sebze karışımı kullanırsan doğrama işi de ortadan kalkıyor.
+
+    '
+  notes:
+  - t: Pirinci yıkamanın faydası
+    d: 'Pirincin yüzeyinde ince bir nişasta tabakası bulunur. Yıkanmadan pişirilen pirinçte bu nişasta suya karışır ve taneleri birbirine yapıştırır. Pirinci su berraklaşana kadar birkaç kez yıkayıp iyice süzmek pilavın tane tane olmasına yardım eder. Süzme aşamasını atlama; tanelerde kalan fazla su tarifteki su oranını değiştirir. Pirinci sebzelerle birlikte 2 dakika çevirmek de tanelerin dışını yağla kaplar ve pişerken dağılmalarını azaltır. Böylece sebzelerle birlikte eşit pişerler.
+
+      '
+  - t: Sebzeleri doğru sırayla eklemek
+    d: 'Havuç, bezelye ve mısır farklı sürelerde pişer. Küp doğranmış havucu önce zeytinyağında 3 dakika kavurmak onu yumuşatmaya başlar; bezelye ve mısır daha çabuk piştiği için sonra eklenir. Havucu çok iri doğrarsan pilav piştiğinde hâlâ sert kalabilir, bu yüzden küçük ve eşit küpler halinde doğra. Dondurulmuş bezelye ya da donuk sebze karışımı da kullanabilirsin. Konserve mısır kullanıyorsan suyunu iyice süz ki pilavın su oranı değişmesin.
+
+      '
+  - t: Pişirme ve demlendirme
+    d: 'Sıcak suyu ve tuzu ekledikten sonra kapağı kapalı, kısık ateşte yaklaşık 15 dakika, suyunu çekene kadar pişir. Ardından ocağı kapatıp 10 dakika demlendir; bu sürede kalan buhar tanelerin içine işler. Pişerken kapağı açıp karıştırmak pirinci kırar ve lapalaştırır. Zerdeçal isteğe bağlı; ekleyeceksen pirinçle birlikte çevir ki rengi eşit dağılsın. Osmancık pirinç kullanacaksan suyu bir parmak azalt. Demlendikten sonra kaşıkla nazikçe havalandırarak servis et.
+
+      '
+  faq:
+  - q: Sebzeli pilav kaç dakika pişer?
+    a: 'Su eklendikten sonra kısık ateşte yaklaşık 15 dakika pişer, ardından 10 dakika demlenir.
+
+      '
+  - q: Sebzeli pilav için kaç bardak su konur?
+    a: '2 su bardağı baldo pirince 3 su bardağı sıcak su konur.
+
+      '
+  - q: Sebzeli pilav donuk sebzeyle yapılır mı?
+    a: 'Evet, donuk sebze karışımıyla çok pratik olur ve doğrama işi ortadan kalkar.
+
+      '
+  - q: Pilava zerdeçal neden konur?
+    a: 'Zerdeçal pilava sarı bir renk ve hafif bir aroma verir. Bu tarifte isteğe bağlı; yarım çay kaşığı yeterli.
+
+      '
+bezelyeli-pilav:
+  aramaBasligi: 'Bezelyeli pilav tarifi: Tereyağlı ve havuçlu, 30 dakikada'
+  editorNote: 'Pişirme ve demlendirmeyi tek adımda topladık, çünkü bu pilavda ara bir işlem yok; önemli olan suyu ekledikten sonra kapağı açmadan beklemek.
+
+    '
+  intro: 'Bezelyeli pilav, bezelye ve küp doğranmış havuçla renklenen, tereyağıyla hazırlanan bir pirinç pilavı. Sade pilavın biraz daha renkli ve doyurucu hali; et, tavuk ve sebze yemeklerinin yanında garnitür olarak sofraya geliyor.
+
+
+    Bu tarifte havuç tereyağında 3 dakika çevrildikten sonra bezelye ekleniyor, ardından yıkayıp süzdüğün baldo pirinç 2 dakika kavruluyor. 1,5 su bardağı pirince 2,25 su bardağı sıcak su kullanılıyor; pilav kısık ateşte suyunu çekene kadar pişiyor ve 10 dakika demleniyor. Malzeme listesi kısa: pirinç, bezelye, havuç, tereyağı, su ve tuz.
+
+
+    4 kişilik pilav toplam 30 dakikada hazır. Dondurulmuş bezelyeyle de yapılabildiği için mevsim beklemeden hazırlanabiliyor.
+
+    '
+  notes:
+  - t: Tereyağını yakmamak
+    d: 'Tereyağı yüksek ateşte çabuk kararır ve pilava acımsı bir tat verir. Havucu orta ateşte çevir; tereyağı eriyip hafifçe köpürdüğünde havucu eklemek için doğru an. Havucu 3 dakika çevirmek onu yumuşatmaya başlar ve tereyağına hafif tatlı bir tat geçirir. Tereyağı yerine zeytinyağı kullanmak istersen ¾ ölçü yeterli; bu durumda pilav daha hafif olur ama tereyağının tanıdık kokusu olmaz. Havucu küçük ve eşit küpler halinde doğramak pirinçle aynı anda pişmesini sağlar.
+
+      '
+  - t: Su oranı ve pişirme
+    d: 'Tarifteki 1,5 su bardağı pirince 2,25 su bardağı su oranı baldo pirinç içindir. Osmancık pirinç daha az su çeker, bu yüzden suyu bir parmak azalt. Suyu sıcak eklemek kavrulmuş pirincin ısısının düşmemesini sağlar. Kısık ateşte, kapağı kapalı pişir ve pişerken açma; kaçan buhar üstteki tanelerin çiğ kalmasına yol açar. Suyunu çekip çekmediğini anlamak için pilavın yüzeyinde küçük buhar delikleri oluşmasını ve tencereden su sesi gelmemesini takip edebilirsin.
+
+      '
+  - t: Dondurulmuş bezelye ve servis
+    d: 'Dondurulmuş bezelye bu pilav için iyi bir seçenek; çözdürmeden doğrudan ekleyebilirsin. Taze bezelye kullanacaksan ayıklayıp yıka. Demlendirme süresini atlama; 10 dakika boyunca kalan buhar tanelerin ortasına kadar işler ve pilav tane tane olur. Demlendikten sonra kaşıkla alttan üste nazikçe karıştır. Bezelyenin yeşili ve havucun turuncusu çocuk tabaklarında da sevilen renkli bir görüntü verir. Kalan pilavı ısıtırken bir iki kaşık su eklemek kurumasını önler.
+
+      '
+  faq:
+  - q: Bezelyeli pilav kaç dakika pişer?
+    a: 'Su eklendikten sonra kısık ateşte suyunu çekene kadar pişer ve 10 dakika demlenir; bu adım toplam yaklaşık 20 dakika sürer.
+
+      '
+  - q: Bezelyeli pilava dondurulmuş bezelye konur mu?
+    a: 'Evet, dondurulmuş bezelyeyi çözdürmeden ekleyebilirsin.
+
+      '
+  - q: Bezelyeli pilav için kaç bardak su konur?
+    a: '1,5 su bardağı baldo pirince 2,25 su bardağı sıcak su konur. Osmancık pirinçte suyu bir parmak azalt.
+
+      '
+  - q: Bezelyeli pilav neden lapa olur?
+    a: 'Su fazla konursa ya da pilav pişerken kapak açılıp karıştırılırsa lapa olur. Ölçülü suyu kullan ve demlenene kadar karıştırma.
+
+      '
+meyhane-pilavi:
+  aramaBasligi: 'Meyhane pilavı tarifi: Domatesli ve biberli bulgur pilavı'
+  editorNote: 'Pilavı tamamen kuru değil, hafif sulu bırakmayı tarifin parçası olarak yazdık; meyhane pilavını sade bulgur pilavından ayıran şey bu domatesli, nemli doku.
+
+    '
+  intro: 'Meyhane pilavı, bulgurun soğan, sivri biber, domates ve biber salçasıyla pişirildiği, sulu kıvamlı bir bulgur pilavı. Meyhane sofralarında mezelerin yanında gelen bu pilav, sade bulgur pilavından daha domatesli ve daha nemli bir dokuya sahip.
+
+
+    Bu tarifte soğan ve biberler zeytinyağında 5 dakika kavrulup salçayla buluşuyor, ardından doğranmış domatesler 3 dakika pişiriliyor. Bulgur bu domatesli tabana eklenip 2 dakika karıştırılıyor ve 2,5 su bardağı sıcak suyla pişiyor. Pul biber ve kuru nane pilavın tadını tamamlıyor. Tereyağı kullanılmadığı için pilav vegan.
+
+
+    4 kişilik pilav toplam 35 dakikada hazır. Ertesi gün soğuk olarak da yenebiliyor.
+
+    '
+  notes:
+  - t: Domatesli tabanı hazırlamak
+    d: 'Meyhane pilavının tadı büyük ölçüde ilk adımlarda oluşur. Soğan ve biberleri zeytinyağında 5 dakika kavurup yumuşatmak tatlılıklarını ortaya çıkarır. Biber salçasını bu aşamada ekleyip kısa süre kavurmak çiğ tadını alır. Domatesleri ekledikten sonra 3 dakika pişirmek suyunu salmasını ve tabanın koyulaşmasını sağlar. Taze domates tatsızsa, özellikle kışın, konserve küp doğranmış domates daha iyi sonuç verir. Biber salçası yoksa domates salçası ve bir tatlı kaşığı pul biber kullanabilirsin.
+
+      '
+  - t: Bulgur seçimi ve kıvam
+    d: 'Bu tarif için pilavlık, yani iri taneli bulgur kullan; köftelik ince bulgur suyu hemen çeker ve lapa olur. Bulguru domatesli tabanda 2 dakika karıştırmak tanelerin sosla kaplanmasını sağlar. Meyhane pilavı biraz sulu olmalı; suyunu tamamen çektirmeden, tencerenin dibinde hafif bir nem kalmışken ocaktan alabilirsin. Kapağı kapalı 10 dakika demlendirmek tanelerin şişip yumuşamasını tamamlar. Glutensiz bir versiyon için bulgur yerine kinoa kullanabilirsin; su oranı aynı kalır.
+
+      '
+  - t: Servis ve saklama
+    d: 'Meyhane pilavı sıcak, ılık ya da soğuk yenebilir; ertesi gün soğuk olarak da lezzetlidir. Buzdolabında kapalı bir kapta saklayabilirsin. Isıtacaksan bir iki kaşık su ekleyerek kısık ateşte ısıt, çünkü bulgur bekledikçe suyu çeker ve kuruyabilir. Mezelerin, ızgara etlerin yanında ya da bir kase yoğurtla servis edebilirsin. Kuru soğan yerine arpacık ya da mor soğan kullanırsan pilav biraz daha tatlı olur. Kuru naneyi servis öncesi üzerine de serpebilirsin.
+
+      '
+  faq:
+  - q: Meyhane pilavı kaç dakika pişer?
+    a: 'Bulgur sıcak su eklendikten sonra kısık ateşte yaklaşık 15 dakika pişer, ardından 10 dakika demlenir.
+
+      '
+  - q: Meyhane pilavı ile bulgur pilavı arasındaki fark nedir?
+    a: 'Meyhane pilavı daha domatesli ve biraz sulu bir kıvamda pişirilir; suyunu tamamen çekmesi beklenmez.
+
+      '
+  - q: Meyhane pilavında hangi bulgur kullanılır?
+    a: 'Pilavlık bulgur kullanılır. 1,5 su bardağı bulgura 2,5 su bardağı sıcak su konur.
+
+      '
+  - q: Meyhane pilavı soğuk yenir mi?
+    a: 'Evet, ertesi gün soğuk olarak da yenir. Isıtacaksan biraz su ekleyerek kısık ateşte ısıt.
+
+      '
+arpa-sehriye-pilavi:
+  aramaBasligi: 'Arpa şehriye pilavı tarifi: Tereyağlı, tane tane, 20 dakika'
+  editorNote: 'Kavurma süresini 5 dakika ve altın rengi ölçüsüyle birlikte yazdık; şehriye bu noktadan sonra çok hızlı koyulaşıyor ve fazla kavrulunca pilava acı bir tat veriyor.
+
+    '
+  intro: 'Arpa şehriye pilavı, arpa tanesi biçimindeki küçük makarnanın tereyağında kızartılıp suyla pişirildiği, tane tane bir pilav. Pirinç pilavından daha kısa sürede pişiyor ve çocukların da sevdiği bir garnitür olarak biliniyor.
+
+
+    Bu tarifte 2 su bardağı arpa şehriyeyi tereyağı ve sıvı yağ karışımında, sürekli karıştırarak altın rengi olana kadar 5 dakika kavuruyoruz. Sıvı yağ tereyağının yanmasını geciktiriyor. Ardından 3 su bardağı sıcak tavuk suyu ya da su ekleniyor ve şehriye kısık ateşte suyunu çekene kadar pişiyor. Domates salçası isteğe bağlı; eklersen pilav hafif kırmızı ve daha belirgin bir tat alıyor.
+
+
+    4 kişilik pilav toplam 20 dakikada hazır; ardından 10 dakika demlendirmek yeterli.
+
+    '
+  notes:
+  - t: Şehriyeyi doğru kavurmak
+    d: 'Arpa şehriyenin kavrulması pilavın hem rengini hem tadını belirler. Şehriyeyi tereyağı ve sıvı yağda orta ateşte, sürekli karıştırarak kavur; karıştırmazsan alttaki taneler yanarken üsttekiler beyaz kalır. Taneler eşit şekilde altın rengi aldığında suyu eklemeye hazırsın. Kahverengiye dönen şehriye acılaşır ve pilavın tadını bozar. Tencereden yükselen hafif kızarmış ekmek kokusu, kavurmanın yeterli olduğuna dair iyi bir işarettir. Tencereyi ocaktan almadan suyu hazır tut ki şehriye beklerken kararmasın.
+
+      '
+  - t: Su, salça ve pişirme
+    d: 'Suyu sıcak eklemek önemli; kızgın yağa soğuk su eklenince şehriyenin ısısı aniden düşer. Tavuk suyu pilava daha dolgun bir tat verir, yoksa sade su da olur; sıcak suya bir tatlı kaşığı tereyağı ve bir tutam tuz eklemek ya da yarım bulyon kullanmak da bir seçenek. Salça kullanacaksan suyla birlikte ekle ve iyice karıştır. Şehriye kısık ateşte yaklaşık 10 dakikada suyunu çeker; bu sırada kapağı kapalı tut ve karıştırma.
+
+      '
+  - t: Demlendirme ve servis
+    d: 'Su çekildikten sonra ocağı kapat ve kapağı kapalı 10 dakika demlendir. Demlenme sırasında taneler kalan buharla şişer ve birbirinden ayrılır. Servis etmeden önce çatalla ya da kaşıkla hafifçe havalandır. Pilav sade de salçalı da iyi olur; sade hali kuru fasulye, nohut ya da tavuk yemeklerinin yanına yakışır. Tereyağı yerine zeytinyağı kullanacaksan ¾ ölçü yeterli. Kalan pilavı ısıtırken biraz su eklemek kurumasını önler.
+
+      '
+  faq:
+  - q: Arpa şehriye pilavı kaç dakika pişer?
+    a: 'Şehriye 5 dakika kavrulur, su eklendikten sonra kısık ateşte yaklaşık 10 dakika pişer ve 10 dakika demlenir.
+
+      '
+  - q: Arpa şehriye pilavı için kaç bardak su konur?
+    a: '2 su bardağı arpa şehriyeye 3 su bardağı sıcak tavuk suyu ya da su konur.
+
+      '
+  - q: Arpa şehriye neden acı olur?
+    a: 'Şehriye fazla kavrulup kahverengiye dönerse acılaşır. Altın rengi aldığında suyu ekle.
+
+      '
+  - q: Arpa şehriye pilavına salça konur mu?
+    a: 'Evet, 1 tatlı kaşığı domates salçası isteğe bağlı olarak suyla birlikte eklenebilir.
+
+      '
+etli-bulgur-pilavi:
+  aramaBasligi: 'Etli bulgur pilavı tarifi: Kuşbaşı etli ve domatesli'
+  editorNote: 'Eti yumuşatma adımını bulgurdan tamamen ayırdık; bulgur 20 dakikada pişiyor ama kuşbaşı et çok daha uzun süre istiyor, birlikte eklenirse ya et sert ya bulgur lapa kalıyor.
+
+    '
+  intro: 'Etli bulgur pilavı, kuşbaşı etin önce yumuşayana kadar pişirildiği, ardından aynı tencereye soğan, biber, domates ve bulgurun eklendiği doyurucu bir yemek. Et ve pilav bir arada piştiği için yanına bir kase yoğurt ya da cacıkla tek başına bir öğün oluyor.
+
+
+    Bu tarifte 300 gram dana kuşbaşı önce tereyağında kavrulup yarım su bardağı suyla, kapağı kapalı yumuşayana kadar pişiriliyor. Eti ayrıca haşlamadan aynı tencerede pişirmek, etin suyunun ve yağının bulgura geçmesini sağlıyor. Sonra sebzeler ve biber salçası, en son 1,5 su bardağı pilavlık bulgur ile 3 su bardağı sıcak su ekleniyor.
+
+
+    4 kişilik yemek toplam 75 dakikada hazır; sürenin büyük kısmı etin yumuşaması için.
+
+    '
+  notes:
+  - t: Eti yumuşatmak
+    d: 'Kuşbaşı etin yumuşaması zaman ister ve bu süre etin kesimine ve büyüklüğüne göre değişir. Eti önce tereyağında yüksek ateşte, suyunu salıp çekene ve yüzeyi kızarana kadar kavur; bu aşama etin lezzetini artırır. Ardından yarım su bardağı su ekle, kapağı kapat ve kısık ateşte yaklaşık 35 dakika pişir. Su erken biterse az az sıcak su ekle. Bulguru eklemeden önce bir parça et alıp kontrol et; çatalla kolayca bölünüyorsa hazırdır.
+
+      '
+  - t: Su oranını ayarlamak
+    d: 'Tarifteki 3 su bardağı su, etin pişme suyu çekildikten sonra eklenecek şekilde hesaplanmış. Et pişerken eklediğin su tamamen çekilmeden bulguru eklersen tencerede fazladan sıvı olur; bu durumda bulgurla eklediğin su miktarını azalt, aksi halde pilav lapa olur. Sebzeleri ekleyip salçayı ve rendelenmiş domatesi kısa süre pişirdikten sonra bulgur, tuz ve sıcak suyu ekle. Bulgur kısık ateşte yaklaşık 20 dakikada suyunu çeker.
+
+      '
+  - t: Et seçimi ve servis
+    d: 'Dana kuşbaşı yerine kuzu eti kullanırsan daha geleneksel bir tat elde edersin. Tavuk but da olur; tavuk daha çabuk piştiği için etin pişme süresini yarıya indir. Biber salçası yoksa domates salçası ve bir tatlı kaşığı pul biber kullanabilirsin. Pişirme bittikten sonra pilavı 10 dakika demlendir. Yanına yoğurt ve cacık yakışır. Kalan pilav buzdolabında saklanabilir; ısıtırken bir iki kaşık su eklemek bulgurun kurumasını önler.
+
+      '
+  faq:
+  - q: Etli bulgur pilavında et kaç dakika pişer?
+    a: 'Kuşbaşı et kavrulduktan sonra yarım su bardağı suyla, kapağı kapalı yaklaşık 35 dakika, yumuşayana kadar pişer.
+
+      '
+  - q: Etli bulgur pilavı için kaç bardak su konur?
+    a: '1,5 su bardağı pilavlık bulgur için 3 su bardağı sıcak su konur. Etin suyu çekilmediyse su miktarını azalt.
+
+      '
+  - q: Etli bulgur pilavı kuzu etiyle yapılır mı?
+    a: 'Evet, kuzu etiyle daha geleneksel olur. Tavuk but da kullanılabilir; tavukta pişme süresini yarıya indir.
+
+      '
+  - q: Etli bulgur pilavının yanına ne gider?
+    a: 'Yoğurt ve cacık en sık eşlik eden tabaklar.
+
+      '
+kestaneli-pilav:
+  aramaBasligi: 'Kestaneli pilav tarifi: Tarçınlı, yenibaharlı, kuş üzümlü'
+  editorNote: 'Demlendirmede kapağın altına havlu koymayı ayrıca yazdık; havlu yükselen buharı emiyor ve damlaların pilavın üzerine geri düşüp üst katmanı ıslatmasını önlüyor.
+
+    '
+  intro: 'Kestaneli pilav, kavrulmuş kestane, kuş üzümü ve tarçın, yenibahar gibi baharatlarla demlenen bir pirinç pilavı. Kış aylarında, özellikle yılbaşı sofralarında fırında hindi ya da tavukla birlikte servis edilen bir pilav olarak biliniyor.
+
+
+    Bu tarifte kestanelerin kabuğu çizilip fırında 15 dakika kavruluyor, sıcakken soyulup dörde bölünüyor. Hazır soyulmuş kestane kullanırsan bu adımı atlayabilirsin. Islatıp süzdüğün baldo pirinç tereyağında soğanla 3 dakika kavruluyor; kestane, kuş üzümü, baharatlar ve 3 su bardağı sıcak tavuk suyuyla kısık ateşte pişiyor. Son olarak kapağın altına havlu konup 15 dakika demlendiriliyor.
+
+
+    6 kişilik pilav toplam 50 dakikada hazır.
+
+    '
+  notes:
+  - t: Kestaneyi soymak
+    d: 'Kestanenin dış kabuğu sert, altındaki ince iç zar ise acımsıdır. Kabuğu bıçakla çizip fırında kavurmak, ısıyla kabuğun açılmasını ve soyulmasını kolaylaştırır. Kestaneyi sıcakken soy; soğudukça iç zar kestaneye yapışır ve çıkmaz. Ellerini korumak için kestaneleri temiz bir bezin içinde tutarak soyabilirsin. Bu adım zaman alıyorsa hazır soyulmuş kestane kullan; tarifte 250 gram kabuğu soyulmuş kestane gerekiyor. Kestaneleri dörde bölmek pilavın içine eşit dağılmalarını sağlar.
+
+      '
+  - t: Pirinci ıslatmak ve kavurmak
+    d: 'Bu tarifte pirinç ıslatılıp süzülerek kullanılıyor. Islatma, tanelerin yüzeyindeki nişastayı azaltır ve pilavın daha tane tane olmasına yardım eder. Pirinci iyice süz; tanelerde kalan su, 3 su bardağı tavuk suyunun oranını değiştirir. Tereyağında soğanı yumuşattıktan sonra pirinci ekleyip 3 dakika kavur ve tavuk suyunu sıcak ekle. Osmancık pirinç kullanacaksan suyu bir parmak azalt. Tavuk suyu yoksa sıcak suya bir tatlı kaşığı tereyağı ve bir tutam tuz ekleyebilir ya da yarım bulyon kullanabilirsin.
+
+      '
+  - t: Baharat dengesi ve servis
+    d: 'Tarçın ve yenibahar pilava iç pilavı andıran sıcak bir aroma verir, kuş üzümü ise hafif bir tatlılık katar. Baharatların ölçüsü birer çay kaşığı; daha fazlası kestanenin tadını bastırabilir. Yenibahar bulamazsan bir tutam tarçın ve bir tutam karanfil kullanabilirsin. Kuş üzümü yerine kıyılmış kuru üzüm ya da kuru kızılcık da olur. Pilav fırında hindi ya da tavukla iyi eşleşir; önceden hazırlayacaksan ısıtırken biraz tavuk suyu eklemek kurumasını önler.
+
+      '
+  faq:
+  - q: Kestaneli pilav için kestane nasıl soyulur?
+    a: 'Kabuğunu çizip fırında 15 dakika kavur ve sıcakken soy. Soğuyunca iç zar çıkmaz.
+
+      '
+  - q: Kestaneli pilav kaç dakika pişer?
+    a: 'Kestane, baharatlar ve tavuk suyu eklendikten sonra kısık ateşte yaklaşık 15 dakika pişer, ardından 15 dakika demlenir.
+
+      '
+  - q: Kestaneli pilava hazır kestane konur mu?
+    a: 'Evet, hazır soyulmuş kestane kullanabilirsin; bu durumda fırında kavurma adımını atlarsın.
+
+      '
+  - q: Kestaneli pilav neyin yanına yapılır?
+    a: 'Fırında hindi ya da tavukla çok iyi eşleşir; yılbaşı sofralarında sık hazırlanır.
+
+      '
