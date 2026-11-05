@@ -117,7 +117,7 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
   </div>
 </footer>
 {% if site.ga4 or site.ads.enabled %}<div class="consent" id="consent" hidden role="dialog" aria-label="Çerez tercihi">
-  <p>Siteyi geliştirmek için anonim ziyaret istatistikleri topluyor{% if site.ads.enabled %} ve ilgi alanına göre reklam gösteriyor{% endif %}uz. Hangisine izin veriyorsun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
+  <p>Siteyi geliştirmek için ziyaret istatistikleri topluyor{% if site.ads.enabled %} ve ilgi alanına göre reklam gösteriyor{% endif %}uz. Hangisine izin veriyorsun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
   <div class="consent-btns"><button type="button" class="btn" id="consentYes">Tümünü kabul et</button><button type="button" class="btn ghost" id="consentStat">Sadece istatistik</button><button type="button" class="btn cn-no" id="consentNo">Reddet</button></div>
 </div>{% endif %}
 <nav class="tabbar" aria-label="Uygulama menüsü">

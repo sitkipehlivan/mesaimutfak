@@ -516,7 +516,7 @@ html.ads-on .hero-ad:has(.ad-atf:not(.ad-off)) .feature .photo{aspect-ratio:16/9
 .grid-ad{grid-column:1/-1;display:flex;justify-content:center}
 html:not(.ads-on) .grid-ad{display:none}
 .ad-anchor{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--paper);border-top:1px solid var(--line);padding:4px 0 calc(4px + env(safe-area-inset-bottom,0px));gap:2px!important}
-.ad-anchor .ad-label{display:none}
+.ad-anchor .ad-label{position:absolute;top:3px;left:10px;font-size:9px;line-height:1} /* reklam ibaresi her alanda görünür */
 .ad-x{position:absolute;right:6px;top:-26px;width:26px;height:26px;border-radius:50%;border:1px solid var(--line);background:var(--paper);color:var(--ink);font-size:16px;line-height:1;cursor:pointer}
 html.has-anchor body{padding-bottom:64px}
 html.has-anchor .consent{bottom:72px}
@@ -805,8 +805,8 @@ nav.main a.talk-nav:hover{border-color:var(--ink)}
 /* v24 · çerez bandı: üç seçenek (Tümünü kabul et / Sadece istatistik / Reddet) */
 .consent .consent-btns{display:flex;flex-wrap:wrap;gap:8px}
 .consent .consent-btns .btn{flex:1 1 auto;padding:10px 14px;font-size:14.5px}
-.consent .btn.cn-no{background:transparent;border-color:var(--line);color:var(--ink-2)}
-.consent .btn.cn-no:hover{border-color:var(--ink);color:var(--ink)}
+/* KVKK Çerez Rehberi: kabul, istatistik ve reddet eşit görünürlükte (renk, boyut, yazı) */
+.consent .consent-btns .btn,.consent .consent-btns .btn.ghost,.consent .consent-btns .btn.cn-no{background:var(--ink);color:var(--paper);border:2px solid var(--ink);font-weight:700}
 @media (max-width:420px){.consent .consent-btns .btn{flex:1 1 100%}}
 
 /* v25 · Saat görünümü (Apple Watch / ≤272px): siyah zemin, büyük dokunma alanları, reklamsız */
