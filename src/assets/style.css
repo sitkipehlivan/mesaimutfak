@@ -940,3 +940,4 @@ html.ads-on .ad-rail_left:not(.adv-dolu),html.ads-on .ad-rail_right:not(.adv-dol
 .mm-tanitim:hover em{text-decoration:underline}
 .mm-tanitim{justify-content:flex-start!important;text-align:left}
 .mm-tanitim.genis .mt-yazi{max-width:52%}
+html.adv-skin-acik .ad-masthead{display:none!important} /* pageskin üst bandı masthead yerini alır */
