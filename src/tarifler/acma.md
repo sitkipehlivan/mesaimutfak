@@ -94,6 +94,35 @@ steps:
 tips:
 - Hamur yapışkan gelirse un eklemek yerine elini yağla.
 - İçine zeytin ezmesi ya da kaşar koyarak farklı açmalar yapabilirsin.
+updated: '2026-11-05'
+notes:
+- t: Ara yağın görevi
+  d: 'Açmanın içindeki ince katmanlar, rulo yaparken hamurun arasında kalan tereyağından oluşur. Tereyağı oda sıcaklığında, krem gibi sürülebilir olmalı. Buzdolabından yeni çıkmış yağ hamuru yırtar, eritilmiş yağ ise hamura işler ve katmanları birbirine yapıştırır. Yağı dikdörtgenin tamamına ince bir kat halinde sür, ama uzun kenarlardan birinde bir parmaklık boşluk bırak; rulo bu kenarda kapanırken yağsız hamur birbirine yapışır ve açılmaz. Mutfak çok sıcaksa tereyağı hızla yumuşar; bu durumda yağı sürdükten sonra beklemeden rulo yap.
+
+    '
+- t: Halka şeklini vermek
+  d: 'Rulo yaptığın hamuru iki ucundan tutup ters yönlere çevirerek bur; bu burgu açmanın üzerindeki spiral deseni verir. Sonra iki ucu üst üste getirip parmaklarınla sıkıca bastır. Uçları zayıf birleştirirsen ikinci mayalanmada ya da fırında halka açılır. Birleşim noktasını altta kalacak şekilde tepsiye yerleştir. Açmalar fırında büyüyeceği için tepsiye aralıklı diz; birbirine değenlerin yanları pişmez ve soluk kalır. İkinci mayalanma sırasında üzerlerini örtmeyi unutma; açıkta kalan hamurun yüzeyi kurur ve çatlar.
+
+    '
+- t: Varyasyonlar ve saklama
+  d: 'Tereyağını sürdükten sonra üzerine zeytin ezmesi ya da rendelenmiş kaşar ekleyerek farklı açmalar yapabilirsin; rulo ve burgu adımları aynı kalır. Pişmiş açmalar soğuduktan sonra ağzı kapalı bir poşette oda sıcaklığında bir iki gün yumuşak kalır. Dondurmak istersen tamamen soğumuş açmaları tek tek poşetle. Servisten önce fırında birkaç dakika ısıtmak, ilk günkü yumuşaklığı büyük ölçüde geri getirir. Kaşarlı açmaları sıcak servis etmek peynirin akışkan kalmasını sağlar.
+
+    '
+faq:
+- q: Açma kaç derecede pişer?
+  a: 180°C fırında, altın rengi olana kadar yaklaşık 25 dakika pişer. Airfryer'da 170°C'de 14-16 dakika yeterli.
+- q: Açma neden yumuşak olmaz?
+  a: Genellikle hamura fazla un eklendiğinde ya da açmalar fazla piştiğinde sertleşir. Hamur yapışkan gelirse un yerine elini yağla ve altın rengini alınca fırından çıkar.
+- q: Açma ile simit arasındaki fark nedir?
+  a: Simit sıkı bir hamurdan yapılır, pekmezle susama bulanır ve çıtırdır. Açmanın hamuru süt, yumurta ve yağla yumuşak yoğrulur, içinde tereyağı katmanları vardır.
+- q: Açmanın içine ne konur?
+  a: Sade açmanın içinde yalnızca tereyağı vardır. İstersen tereyağının üzerine zeytin ezmesi ya da kaşar ekleyebilirsin.
+editorNote: Ara yağ için eritilmiş değil, oda sıcaklığında tereyağı seçtik; sürülebilir kıvamdaki yağ hamurun katları arasında kalıyor, eritilmiş yağ ise hamura emiliyor. Hamur yapışırsa un yerine eli yağlamayı önerdik, çünkü fazla un açmanın yumuşaklığını götürüyor.
+aramaBasligi: 'Açma tarifi: Pastane usulü, tereyağlı ve yumuşacık'
 ---
 
-Sabah simitçinin yanında aldığın açmanın tadı evde. Mayalanmayı beklemek dışında zor bir yanı yok.
+Açma, simitçilerin ve pastanelerin kahvaltılık mayalı hamur işi; simitten farklı olarak yumuşak, hafif tatlımsı ve katmanlı bir dokusu var. Bu katmanlar, açılan hamurun üzerine tereyağı sürülüp rulo yapılmasından geliyor.
+
+Bu tarifte hamur ılık süt, su, instant maya, şeker, sıvı yağ ve yumurtayla 10 dakika yoğruluyor ve 45 dakika mayalanıyor. 12 parçaya bölünen hamurun her biri dikdörtgen açılıp oda sıcaklığında tereyağıyla kaplanıyor, rulo yapılıp kendi etrafında burularak halka şeklinde birleştiriliyor. 20 dakikalık ikinci mayalanmanın ardından üzerine yumurta sarısı ve susam geliyor, açmalar 180°C fırında 25 dakika pişiyor.
+
+Hazırlık ve pişirme toplam 55 dakika, mayalanma süreleri ayrı. Tarif 12 açma çıkarıyor, 12 kişilik.

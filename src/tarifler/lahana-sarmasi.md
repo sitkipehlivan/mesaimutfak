@@ -94,6 +94,43 @@ steps:
 tips:
 - Lahanayı bir gece dondurucuda bekletip çözdürürsen haşlamadan da yumuşar.
 - Karadeniz usulü için yanına kızarmış mısır ekmeği ve yoğurt koy.
+updated: '2026-11-05'
+notes:
+- t: Yaprakları yumuşatmak
+  d: 'Lahana sapı derince oyulursa kaynar suda yapraklar dipten gevşer ve tek tek ayrılması kolaylaşır. Dış yapraklar yumuşadıkça maşayla çıkar, iç kısmı suya geri bırak. Yaprakların kalın orta damarını bıçağı yatırarak incelt; aksi hâlde yaprak sarılırken kırılır ve pişerken açılır. Haşlamayla uğraşmak istemiyorsan lahanayı bir gece dondurucuda bekletip çözdürebilirsin; donup çözülen yapraklar haşlanmadan da yumuşar ve kolay sarılır. Yırtılan yaprakları atma; tencerenin dibine sermek için ayır.
+
+    '
+- t: Sıkı sarmak ve dizmek
+  d: 'Her yaprağa bir parmak kadar harç koy. Pirinç pişerken şiştiği için fazla harç koymak sarmanın patlamasına neden olur. Önce alt kenarı harcın üzerine kapat, sonra yanları içe katla ve sıkıca yuvarla. Tencerenin dibine artan ya da yırtılmış yaprakları sermek sarmaların dibe tutmasını önler. Sarmaları aralarında boşluk kalmayacak şekilde sık dizmek ve üzerine ters bir tabak kapatmak, pişerken kaymalarını ve açılmalarını engeller.
+
+    '
+- t: Pişirme ve servis
+  d: 'Sarmalar kısık ateşte, pirinç pişene kadar 45-50 dakika pişer. Suyun hızlı kaynaması sarmaları birbirine çarptırıp açabilir, bu yüzden kaynama başladıktan sonra ateşi kıs. Pişme kontrolü için bir sarmayı ortadan kesip pirincin yumuşadığından emin ol. Ocaktan aldıktan sonra kapağı kapalı biraz dinlendirmek kalan suyun sarmalara çekilmesini sağlar. Kıyma yerine kuzu kıyma da kullanabilirsin; etsiz bir versiyon için haşlanmış yeşil mercimek ya da ince doğranmış mantar olur.
+
+    '
+faq:
+- q: Lahana sarması kaç dakika pişer?
+  a: 'Sarmalar kısık ateşte, pirinç pişene kadar 45-50 dakika pişer. Lahananın haşlanması ayrıca yaklaşık 15 dakika sürer.
+
+    '
+- q: Lahana yaprağı nasıl yumuşar?
+  a: 'Sapını derince oyup lahanayı bütün olarak kaynar tuzlu suya at, yumuşayan yaprakları tek tek ayır. Bir gece dondurucuda bekletip çözdürmek de yaprakları haşlamadan yumuşatır.
+
+    '
+- q: Lahana sarması pişerken neden açılır?
+  a: 'Gevşek sarılan ya da tencereye seyrek dizilen sarmalar açılır. Sıkı sar, sık diz ve üzerine ters bir tabak kapat.
+
+    '
+- q: Lahana sarmasında biber salçası yerine ne kullanılır?
+  a: 'Biber salçası yerine domates salçası ve bir tatlı kaşığı pul biber kullanabilirsin.
+
+    '
+editorNote: Salçaların yarısını harca, yarısını pişirme suyuna ayırdık; böylece hem içteki pirinç hem dıştaki yaprak salçanın tadını alıyor, tencerenin dibindeki su da sos gibi koyulaşıyor.
+aramaBasligi: 'Etli lahana sarması tarifi: Kıymalı pirinçli, 6 kişilik'
 ---
 
-Sabır isteyen ama pişerken evi saran kokusuyla emeği unutturan bir kış yemeği.
+Etli lahana sarması, haşlanmış beyaz lahana yapraklarına kıymalı ve pirinçli bir harcın sarılıp salçalı suda pişirildiği bir kış yemeği. Yanına yoğurt ve kızarmış mısır ekmeği çok yakışıyor.
+
+Bu tarifte lahananın sapı derince oyulup bütün olarak kaynar tuzlu suya atılıyor ve yumuşayan yapraklar tek tek ayrılıyor. Harç dana kıyma, pirinç, rendelenmiş soğan, salçaların yarısı, kuru nane, pul biber ve yağla yoğruluyor. Sarmalar tencereye sıkıca dizilip kalan salça, sıcak su ve limon suyuyla, üzerine ters tabak kapatılarak kısık ateşte 45-50 dakika pişiyor.
+
+Hazırlık 50, pişirme 50 dakika; toplam 100 dakikada 6 kişilik bir tencere çıkıyor. En çok zaman alan kısım sarma; bunun için yaklaşık yarım saat ayır.

@@ -100,6 +100,43 @@ steps:
 tips:
 - Oyduğun kabak içini çöpe atma; mücver ya da kabak sote olur.
 - Tencereye ters tabak koymak dolmaların dağılmasını önler.
+updated: '2026-11-05'
+notes:
+- t: Kabağı oymak
+  d: 'Kabak duvarı çok kalın kalırsa harç ile kabak aynı anda pişmez; çok ince oyarsan da kabak pişerken yırtılır. Oyacağı sap tarafından sokup döndürerek ilerle ve dibe yaklaşınca yavaşla, tabanı delmemeye dikkat et. Her yerde eşit, ince bir duvar bırakmak dengeli sonuç verir. Oyulan iç kısmı çöpe atma; suyunu sıkıp mücvere ya da kabak soteye ekleyebilirsin. Dolmalık kabaklar kısa ve tombul olduğu için oyması normal kabağa göre daha kolaydır.
+
+    '
+- t: Harcın dengesi
+  d: 'Harçtaki pirinç, kabaktan çıkan suyu ve salçalı suyu çekerek pişer. Pirinci yıkamak fazla nişastasını alır ve harcın lapa olmasını önler. Rendelenmiş soğan ve domates harca nem verir; bu yüzden harca ayrıca su eklemeye gerek yok. Maydanoz, dereotu ve kuru nane dolmaya ferah bir tat katar; dereotu yoksa maydanoz ve biraz taze nane kullanabilirsin. Dana kıyma yerine kuzu kıyma da olur; etsiz bir harç için haşlanmış yeşil mercimek ya da ince doğranmış mantar kullanılabilir.
+
+    '
+- t: Pişirme ve servis
+  d: 'Kabakları tencereye dik ve birbirine yaslanacak şekilde dizmek devrilmelerini önler. Kalan salçayı sıcak suda açıp kabakların arasına dök, üzerlerine ters bir tabak kapat ve kapağı kapalı, kısık ateşte 45 dakika pişir. Ters tabak dolmaların yerinde kalmasını ve harcın dışarı taşmamasını sağlar. Pişme sonunda bir dolmayı kontrol et; pirinç tam yumuşamadıysa biraz sıcak su ekleyip birkaç dakika daha pişir. Sarımsaklı yoğurdu ayrı bir kapta servis et.
+
+    '
+faq:
+- q: Etli kabak dolması kaç dakika pişer?
+  a: 'Kapağı kapalı, kısık ateşte 45 dakika pişer. Hazırlıkla birlikte toplam süre 80 dakika.
+
+    '
+- q: Kabak dolması pişerken neden dağılır?
+  a: 'Kabaklar fazla doldurulunca ya da tencerede seyrek durunca dağılır. Dörtte üçüne kadar doldur, dik diz ve üzerine ters tabak kapat.
+
+    '
+- q: Kabak dolmasından çıkan iç ne yapılır?
+  a: 'Oyulan kabak içini mücver ya da kabak sote yapımında kullanabilirsin.
+
+    '
+- q: Kabak dolmasında kıyma yerine ne kullanılır?
+  a: 'Dana ve kuzu kıyma birbirinin yerine geçer. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar kullanabilirsin.
+
+    '
+editorNote: Doldurma ölçüsünü dörtte üç olarak açıkça yazdık; pirinç pişerken hacmini artırdığı için ağzına kadar doldurulan kabaklarda harç taşıyor ve kabak çatlayabiliyor.
+aramaBasligi: 'Etli kabak dolması tarifi: Kıymalı, yoğurtla 80 dakikada'
 ---
 
-Yaz sofralarının etli dolması. Oyması biraz zaman alır ama harcı kolaydır.
+Etli kabak dolması, oyulan dolmalık kabakların kıymalı ve pirinçli bir harçla doldurulup salçalı suda pişirildiği, yaz sofralarının sevilen ana yemeklerinden biri. Sarımsaklı yoğurtla sıcak servis ediliyor.
+
+Bu tarifte 8 dolmalık kabak oyacakla ince bir duvar kalacak şekilde oyuluyor. Harç dana kıyma, pirinç, rendelenmiş soğan ve domates, maydanoz, dereotu ve kuru naneyle hazırlanıyor. Kabaklar pirinç şişeceği için dörtte üçüne kadar dolduruluyor, tencereye dik diziliyor ve üzerine ters tabak kapatılarak kısık ateşte 45 dakika pişiriliyor.
+
+Hazırlık 35, pişirme 45 dakika; toplam 80 dakikada 4 kişilik dolma hazır. Oyduğun kabak içini mücver ya da kabak sote için ayırabilirsin.

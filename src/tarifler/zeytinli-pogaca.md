@@ -99,6 +99,35 @@ steps:
 tips:
 - Zeytinlerin suyunu iyice süz, hamur sulanmasın.
 - Kahvaltıdan önceki akşam şekillendirip buzdolabında bekletebilirsin; sabah doğrudan fırına.
+updated: '2026-11-05'
+notes:
+- t: Zeytinin suyu
+  d: 'Zeytinlerin salamura suyunu iyice süzmeden hamura eklersen hamur sulanır, ayrıca fazla tuz hamurun tadını bastırır. Doğradıktan sonra zeytinleri kağıt havluya yayıp birkaç dakika beklet. Zeytinlerin çok tuzlu olduğunu düşünüyorsan hamurdaki tuzu azaltabilirsin. Zeytini yoğurmanın sonunda ekle ve sadece eşit dağılacak kadar yoğur; uzun yoğrulursa zeytin ezilir ve hamuru mora boyar. Zeytini ince doğramak da önemli; iri parçalar şekillendirirken hamurdan dışarı çıkar ve fırında kurur. Kekik ve pul biberi zeytinle birlikte eklemek baharatın hamura eşit dağılmasını sağlar.
+
+    '
+- t: Yumuşak poğaçanın sırrı
+  d: 'Poğaça hamuru ekmek hamuru gibi uzun yoğrulmaz; amaç esnek değil, yumuşak ve kolay dağılan bir doku. Unu azar azar ekle ve hamur ele yapışmayı bıraktığı anda dur. Fazla un poğaçayı fırında kurutur ve ertesi gün sertleştirir. Tarif 4 su bardağı un veriyor ama unların su çekme oranı değişir, bu yüzden son yarım bardağı kontrollü ekle. Pişirme süresini de uzatma; üzeri kızarınca fırından çıkar.
+
+    '
+- t: Önceden hazırlamak ve saklamak
+  d: 'Poğaçaları akşamdan şekillendirip üzeri kapalı tepside buzdolabında bekletebilirsin. Sabah fırın ısınırken tepsiyi dışarı al, yumurta sarısını sür ve doğrudan pişir. Pişmiş poğaçalar soğuduktan sonra ağzı kapalı bir kapta oda sıcaklığında bir iki gün yumuşak kalır. Dondurmak istersen pişmiş ve tamamen soğumuş poğaçaları poşete koy; kullanmadan önce fırında birkaç dakika ısıtman yeterli. Buzdolabından çıkan çiğ poğaçalar soğuk olduğu için biraz daha uzun pişebilir; süreyi kızarmaya bakarak ayarla. Bu yöntem kalabalık kahvaltılarda sabah işini ciddi ölçüde kısaltır.
+
+    '
+faq:
+- q: Zeytinli poğaça kaç dakika pişer?
+  a: 180°C fırında, üzeri kızarana kadar 20-25 dakika pişer. Airfryer'da 170°C'de 14-16 dakika yeterli.
+- q: Poğaça nasıl yumuşak olur?
+  a: Unu azar azar ekleyip hamuru yumuşak bırakmak ve fazla pişirmemek gerekir. Tarifteki yoğurt ve sıvı yağ da poğaçanın yumuşak kalmasını sağlar.
+- q: Zeytinli poğaçaya hangi zeytin konur?
+  a: Çekirdeksiz siyah zeytin kullanılır. Suyunu iyice süzüp doğradıktan sonra hamura yedirmek gerekir.
+- q: Zeytinli poğaça dondurulur mu?
+  a: Evet, pişmiş poğaçalar soğuduktan sonra dondurulabilir. Kullanmadan önce fırında birkaç dakika ısıtmak yeterli.
+editorNote: Zeytini iç harç yerine hamura yedirmeyi seçtik; poğaçaları tek tek doldurmak zaman alıyor ve harç pişerken kenarlardan taşabiliyor. Yumurtanın beyazını hamura, sarısını üzerine ayırdık ki tek yumurtayla iki iş görülsün.
+aramaBasligi: 'Zeytinli poğaça tarifi: Kekikli, yumuşak ve mayalı'
 ---
 
-Pastanelerin klasik zeytinli poğaçası; kahvaltıda da, beş çayında da ilk biten.
+Zeytinli poğaça, pastane vitrinlerinin ve kahvaltı sofralarının klasik mayalı hamur işi. Bu tarifte doğranmış siyah zeytin, kekik ve pul biber iç harç olarak doldurulmuyor, doğrudan hamura yediriliyor; böylece her lokmada zeytin geliyor ve şekillendirme kolaylaşıyor.
+
+Hamur ılık süt, sıvı yağ, yoğurt ve yumurta beyazıyla yoğruluyor. Yoğurt hamura yumuşaklık, sıvı yağ ise poğaçanın tanıdık dağılan dokusunu veriyor. 30 dakika mayalanan hamurdan ceviz büyüklüğünde parçalar koparılıp yuvarlanıyor, 15 dakika daha dinlendiriliyor. Üzerine yumurta sarısı sürülüp çörek otu serpiliyor ve 180°C fırında 20-25 dakika pişiyor.
+
+Hazırlık ve pişirme toplam 55 dakika. Tarif 12 kişilik; kahvaltı ya da çay saati için bol çıkıyor.

@@ -80,6 +80,43 @@ steps:
 tips:
 - Eti tuzlu sotelersen suyunu salar, sertleşir; tuzu en sona bırak.
 - Bonfile yerine dana kontrfile de olur.
+updated: '2026-11-05'
+notes:
+- t: Tuzu sona bırakmak
+  d: 'Tuz etin yüzeyindeki suyu dışarı çeker. Eti tuzlu olarak tavaya atarsan et kısa sürede suyunu salar, tavada kızarmak yerine haşlanır ve sertleşir. Bu tarifte tuz, et ve sebzeler birleştikten sonra en sonda ekleniyor. Eti mühürlemeden önce kâğıt havluyla kurulamak da kızarmayı hızlandırır. Kekik gibi kuru otları da son aşamada eklemek, kokularının yüksek ateşte yanıp acılaşmasını önler. Tuzu ekledikten sonra yemeği uzun süre ocakta tutmadan hemen servis etmek en iyi sonucu verir.
+
+    '
+- t: Az az mühürlemek
+  d: 'Kızgın tava eti dışarıdan hızla kızartır ve içini sulu bırakır. Ancak tavaya bir anda çok et koyarsan tavanın ısısı düşer ve et suyunu salmaya başlar. Bu yüzden 500 gram eti tavanın büyüklüğüne göre birkaç partide, tek kat olacak şekilde sotele. Her parti 2-3 dakika sürer; et dışı renk alır almaz kenara al. İçinin hafif pembe kalması sorun değil, çünkü son aşamada sebzelerle birlikte 3 dakika daha pişecek.
+
+    '
+- t: Et seçimi ve alternatifler
+  d: 'Et sote kısa sürede pişen bir yemek olduğu için bonfile, antrikot ya da kontrfile gibi yumuşak parçalar gerekir. Eti liflerine dik olarak şerit doğramak çiğnemeyi kolaylaştırır. Dana eti yerine kuzu eti de kullanılabilir; tavuk but tercih edersen pişirme sürelerini yarıya indir. Kapya biber yerine kırmızı dolmalık biber ya da kavanozda közlenmiş biber olur. Kışın taze domates yerine konserve küp domates kullanabilirsin.
+
+    '
+faq:
+- q: Et sote kaç dakikada pişer?
+  a: 'Et 2-3 dakika mühürlenir, sebzeler 4 dakika sotelenir ve hepsi birlikte 3 dakika daha pişer. Hazırlıkla birlikte toplam 25 dakika.
+
+    '
+- q: Et sote nasıl yumuşak olur?
+  a: 'Bonfile ya da antrikot gibi yumuşak bir parça seç, kızgın tavada az az mühürle ve tuzu en sona bırak.
+
+    '
+- q: Et sote için hangi et alınır?
+  a: 'Dana bonfile, antrikot ya da kontrfile uygundur.
+
+    '
+- q: Et sote tavukla yapılır mı?
+  a: 'Yapılır. Tavuk but kullan ve pişirme süresini yarıya indir.
+
+    '
+editorNote: Eti önce sotelenip kenara alınacak şekilde yazdık; et sebzelerle birlikte baştan pişerse sebzeler yumuşayana kadar et fazla pişip sertleşiyor, ayrı mühürlenince ikisi de doğru noktada kalıyor.
+aramaBasligi: 'Et sote tarifi: Biberli, tavada 25 dakikada'
 ---
 
-İyi bir parça et ve kızgın tava: yirmi dakikada restoran tabağı.
+Et sote, şerit doğranmış etin kızgın tavada hızla mühürlenip biber, soğan ve domatesle birleştirildiği pratik bir ana yemek. Yüksek ateşte kısa süre piştiği için etin içi sulu, sebzeler diri kalıyor.
+
+Bu tarifte 500 gram dana bonfile ya da antrikot kullanılıyor. Et zeytinyağında az az, yüksek ateşte 2-3 dakika sotelenip kenara alınıyor. Aynı tavada tereyağında soğan, kapya ve sivri biberler 4 dakika çevriliyor, ardından et, doğranmış domates ve baharatlar eklenip 3 dakika daha pişiriliyor. Tuz en sonda giriyor.
+
+Hazırlık 10, pişirme 15 dakika; toplam 25 dakikada 3 kişilik bir tava çıkıyor. Pilav, bulgur ya da püreyle servis edebilirsin.

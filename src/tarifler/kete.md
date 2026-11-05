@@ -95,6 +95,35 @@ steps:
 tips:
 - İç harcı soğumadan koyarsan hamur erir.
 - Kars ve Erzurum’da yanına çay ve kaşar peyniri olur.
+updated: '2026-11-05'
+notes:
+- t: Unu doğru kavurmak
+  d: 'Ketenin lezzeti büyük ölçüde iç harçta. Tereyağını erittikten sonra unu ekle ve kısık ateşte, tahta kaşıkla hiç bırakmadan karıştır. Un önce topaklanır, sonra tereyağıyla birleşip ıslak kum kıvamına gelir; renk açık kahveye döndüğünde ve kavrulmuş bir koku yayıldığında ocaktan al. Yüksek ateşte un dipte yanar ve acı bir tat bırakır. Tavadan çıkardıktan sonra geniş bir kaba yay ki kendi sıcaklığıyla kavrulmaya devam etmesin.
+
+    '
+- t: Kat kat görünüm
+  d: 'Katlar, ince açılmış hamurun üzerine kavrulmuş un yayılıp sarılmasından oluşur. Hamuru ne kadar ince açarsan o kadar çok kat elde edersin. Harcı yayarken kenarlarda bir parmaklık boşluk bırak ki rulo kapanırken yapışsın. Ruloyu sıkı sar ama ezme; ardından salyangoz gibi kendi etrafında kıvırıp avucunla hafifçe bastır. Bastırırken harcın biraz kenardan çıkması normal. Dilimleyerek pişireceksen keskin bir bıçak kullan ki katlar ezilmesin.
+
+    '
+- t: Servis ve saklama
+  d: 'Kete hem sıcak hem soğuk yenebilir; sıcakken iç harç daha yumuşak, soğuyunca daha kıyır kıyırdır. Kars ve Erzurum''da yanına çay ve kaşar peyniri konur. Soğuduktan sonra ağzı kapalı bir kapta oda sıcaklığında birkaç gün saklanabilir. Daha uzun saklamak istersen pişmiş keteleri tek tek sarıp dondur; servis etmeden önce fırında birkaç dakika ısıtmak dokusunu geri getirir. Kesmeden önce ketenin tamamen soğumasını beklersen katlar daha düzgün ayrılır.
+
+    '
+faq:
+- q: Kete içi nasıl yapılır?
+  a: 150 g tereyağında 1 su bardağı un, kısık ateşte sürekli karıştırılarak açık kahve rengi olana kadar yaklaşık 12 dakika kavrulur. Yarım tatlı kaşığı tuz eklenip soğutulur.
+- q: Kete kaç derecede pişer?
+  a: Üzerine yumurta sarısı sürülüp çörek otu serpilen kete, 180°C fırında kızarana kadar 25-30 dakika pişer.
+- q: Ketenin katları neden kaybolur?
+  a: İç harç soğumadan hamura konduğunda tereyağı hamuru yumuşatır ve katlar birbirine karışır. Kavrulmuş unu tamamen soğuttuktan sonra kullan.
+- q: Kete tereyağı yerine margarinle yapılır mı?
+  a: Hamur işlerinde tereyağı yerine aynı ölçü margarin kullanılabilir. Ancak iç harçtaki kavrulmuş tereyağı aroması azalır.
+editorNote: İç harcın kıvamını ıslak kum olarak tarif ettik; renk kadar kıvam da harcın doğru kavrulduğunu gösteriyor. Harcı soğutma şartını ayrıca vurguladık, çünkü sıcak harç hamurun içinde eriyip katları yok ediyor.
+aramaBasligi: 'Kete tarifi: Kavrulmuş un içli, kat kat ve kıyır kıyır'
 ---
 
-Kahvaltı sofralarının kat kat, iç harcı kıtır kıtır çöreği.
+Kete, Doğu Anadolu'nun, özellikle Kars ve Erzurum kahvaltılarının bilinen çöreği. Onu sıradan bir mayalı çörekten ayıran, tereyağında kavrulmuş undan yapılan iç harç: bu harç fırında kıyır kıyır bir doku alıyor ve çöreğe kat kat bir görünüm veriyor.
+
+Bu tarifte hamur süt, yoğurt ve sıvı yağla yoğrulup 40 dakika mayalanıyor. İç harç için tereyağında un, kısık ateşte açık kahve rengi olana kadar yaklaşık 12 dakika kavruluyor ve soğutuluyor. Hamur 3 parçaya bölünüp ince açılıyor, harç yayılıp rulo yapılıyor ve salyangoz gibi sarılıyor. Üzerine yumurta sarısı sürülüp çörek otu serpilen keteler 180°C fırında 25-30 dakika pişiyor.
+
+Hazırlık ve pişirme toplam 70 dakika, tarif 10 kişilik.

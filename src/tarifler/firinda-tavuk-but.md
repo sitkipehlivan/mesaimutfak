@@ -76,6 +76,43 @@ steps:
 tips:
 - Yoğurt tavuğu yumuşatır; bir gece marine edersen etkisi ikiye katlanır.
 - Tepsiye iri doğranmış patates ve soğan eklersen tek tepside akşam yemeği olur.
+updated: '2026-11-05'
+notes:
+- t: Yoğurtlu marinasyon
+  d: 'Yoğurdun hafif asitli yapısı tavuğun yüzeyini yavaşça gevşeterek eti yumuşatır. Tarifte en az 30 dakika beklemek yeterli, ama butları bir gece önceden marine edersen etki çok daha belirgin olur. Marinasyonu mutlaka buzdolabında yap. Yoğurt yerine kefir ya da ayran da kullanılabilir. Sosun fazlası tepsiye akarsa fırında yanabilir, bu yüzden butları tepsiye dizerken üzerlerindeki fazla sosu hafifçe sıyırmak iyi olur. Pişirme kâğıdı da yanan sosun tepsiye yapışmasını önler.
+
+    '
+- t: Kızarmış deri ve pişme kontrolü
+  d: 'Butları tepside aralıklı dizmek, aralarında sıcak havanın dolaşmasını sağlar. Birbirine değen butlar buharda pişer ve derileri yumuşak kalır. Yarısında bir kez çevirmek iki tarafın da eşit renk almasını sağlar. Butun içinin pişip pişmediğini kemiğe yakın bir yerden keserek kontrol et; suyu berrak akıyorsa ve et pembe değilse hazırdır. Bütün butlar bagetlerden daha iri olduğu için sürenin üst sınırına, yani 50 dakikaya yakın pişmeleri gerekebilir.
+
+    '
+- t: Tek tepside akşam yemeği ve airfryer
+  d: 'Tepsiye iri doğranmış patates ve soğan eklersen butlardan akan yağ ve sosla birlikte pişerler ve ayrı bir garnitüre gerek kalmaz. Patatesleri butlarla aynı sürede pişecek büyüklükte doğra. Airfryer kullanacaksan marine edilmiş butları derisi yukarı gelecek şekilde diz, 190°C''de 22-25 dakika pişir; yarısında çevir ve son 3 dakika derili taraf üste gelsin. Biber salçan yoksa domates salçası ve bir tatlı kaşığı pul biber kullanabilirsin.
+
+    '
+faq:
+- q: Fırında tavuk but kaç dakikada pişer?
+  a: '200°C fırında, yarısında bir kez çevirerek 45-50 dakika pişer. Marinasyon için ayrıca en az 30 dakika gerekir.
+
+    '
+- q: Tavuk but airfryer'da kaç dakika pişer?
+  a: '190°C''de 22-25 dakika pişer. Yarısında çevir, son 3 dakika derili taraf üste gelsin.
+
+    '
+- q: Fırında tavuk but nasıl yumuşak olur?
+  a: 'Yoğurtlu sosla en az 30 dakika, mümkünse bir gece buzdolabında marine et. Yoğurt eti yumuşatır.
+
+    '
+- q: Tavuk but marinasyonunda yoğurt yerine ne kullanılır?
+  a: 'Kefir ya da ayran kullanabilirsin.
+
+    '
+editorNote: Butların derisini çatalla delmeyi marinasyon adımına ekledik; delinmeyen deri sosun ete geçmesini engelliyor ve yoğurtlu sos yalnızca yüzeyde kalıyor.
+aramaBasligi: 'Fırında tavuk but tarifi: Yoğurtlu marine, 200°C''de'
 ---
 
-Hazırlığı on dakika, gerisi fırının işi. Yoğun günlerin güvenilir tarifi.
+Fırında tavuk but, yoğurt, biber salçası ve baharatlarla marine edilen butların fırında derisi kızarana kadar pişirildiği pratik bir ana yemek. Yoğurt eti yumuşatıyor, salça ve toz kırmızı biber rengi veriyor.
+
+Bu tarifte 8 tavuk baget ya da 4 bütün but kullanılıyor. Butların derisi çatalla delinip yoğurt, salça, zeytinyağı, ezilmiş sarımsak, kimyon ve kekikli sosla ovuluyor ve en az 30 dakika buzdolabında bekletiliyor. Ardından pişirme kâğıdı serili tepsiye aralıklı dizilip 200°C fırında, yarısında bir kez çevrilerek 45-50 dakika pişiriliyor.
+
+Hazırlık 10, pişirme 50 dakika; toplam 1 saatte 4 kişilik tepsi hazır, buna marinasyon için en az 30 dakika ekle. Airfryer'da da pişirebilirsin.

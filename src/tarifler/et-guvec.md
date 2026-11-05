@@ -89,6 +89,43 @@ steps:
 tips:
 - Güveci her zaman soğuk fırına koy.
 - Bir gün sonra ısıtıldığında daha da lezzetli olur.
+updated: '2026-11-05'
+notes:
+- t: Soğuk fırın kuralı
+  d: 'Toprak güveç ısıyı yavaş alır ve yavaş verir. Önceden ısıtılmış fırına soğuk bir güveç koymak ya da sıcak güveci soğuk bir zemine bırakmak ani ısı farkı yaratır ve kabın çatlamasına neden olabilir. Bu yüzden güveç soğuk fırına yerleştirilip fırınla birlikte ısıtılır. Fırından çıkan güveci de mermer tezgâh yerine tahta bir nihale ya da katlanmış bir bezin üzerine koy. Toprak güvecin yoksa kapaklı bir fırın kabı ya da folyoyla örtülmüş bir kap da olur.
+
+    '
+- t: Uzun pişirmenin nedeni
+  d: 'Kuşbaşı doğranan dana eti genellikle bağ dokusu içeren bölgelerden gelir. Bu doku kısa sürede pişirilince sert kalır, kapalı kapta uzun süre pişince ise yumuşar. Bu tarifte 180°C''de yaklaşık 2 saat, etin çatalla kolayca ayrılacak kıvama gelmesi için gereken süre. Pişirmenin sonuna doğru bir parçayı kontrol et; hâlâ sertse kapağı kapatıp biraz daha pişir. Kapağı son 15 dakika açmak sosun koyulaşmasını ve üstün kızarmasını sağlar.
+
+    '
+- t: Sebzeler ve ertesi gün
+  d: 'Sebzeleri iri küp doğramak, uzun pişirmede tamamen dağılmalarını önler; patlıcan ve kabak yumuşar ama şeklini büyük ölçüde korur. Sarımsakları bütün bırakmak, pişerken yumuşayıp tatlanmalarını sağlar. Dana eti yerine kuzu eti kullanabilirsin; tavuk but tercih edersen süreyi yarıya indir. Güveç bir gün sonra ısıtıldığında tatlar birbirine daha çok geçer ve daha lezzetli olur. Kışın taze domates yerine konserve küp domates kullanabilirsin.
+
+    '
+faq:
+- q: Et güveç fırında kaç saat pişer?
+  a: '180°C''de, et yumuşayana kadar yaklaşık 2 saat pişer. Son 15 dakika kapağını açıp üzerini kızart.
+
+    '
+- q: Toprak güveç fırına nasıl konur?
+  a: 'Güveci her zaman soğuk fırına koy ve fırını sonra 180°C''ye ayarla. Önceden ısıtılmış fırın güveci çatlatabilir.
+
+    '
+- q: Et güveç tavukla yapılır mı?
+  a: 'Yapılır. Tavuk but kullan ve pişirme süresini yarıya indir.
+
+    '
+- q: Et güveç güveç kabı olmadan yapılır mı?
+  a: 'Yapılır. Kapaklı bir fırın kabında ya da üzerini folyoyla örttüğün bir kapta pişirebilirsin.
+
+    '
+editorNote: Güvecin soğuk fırına konmasını ayrıca vurguladık; toprak güveç önceden ısıtılmış fırına girince ani ısı farkından çatlayabiliyor.
+aramaBasligi: 'Et güveç tarifi: Fırında sebzeli, toprak güveçte 2 saat'
 ---
 
-Hazırlaması kolay, beklemesi uzun; fırın çalışırken sen başka işine bakarsın.
+Et güveç, kuşbaşı etin sebzelerle birlikte toprak güveçte, fırında uzun süre pişirildiği sulu bir yemek. Fırında yavaş pişen et yumuşarken patlıcan, kabak, domates ve biberin suyu güvecin içinde koyu bir sosa dönüşüyor.
+
+Bu tarifte 500 gram dana kuşbaşı; iri küp doğranmış patlıcan, kabak, domates, sivri biber, soğan ve bütün sarımsak dişleriyle salça, zeytinyağı ve baharatlarla karıştırılıyor. Güvece alınan karışıma bir su bardağı sıcak su ekleniyor, kapak kapatılıyor ve güveç soğuk fırına konup 180°C'ye ayarlanıyor. Et yumuşayana kadar yaklaşık 2 saat pişiyor; son 15 dakika kapak açılıp üzeri kızartılıyor.
+
+Hazırlık 20, pişirme 120 dakika; toplam 2 saat 20 dakikada 4 kişilik güveç hazır. Fırın çalışırken başka işlerine bakabilirsin.

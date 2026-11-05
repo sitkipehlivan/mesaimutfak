@@ -74,6 +74,43 @@ steps:
 tips:
 - Tavuk butu göğse göre daha sulu kalır; pirzolada but tercih et.
 - Yanına bulgur pilavı ve közlenmiş biber.
+updated: '2026-11-05'
+notes:
+- t: Tavayı iyice ısıtmak
+  d: 'Tavuğun dışının koyu, ızgara izine benzer bir renk alması için döküm tava ya da ızgara çok sıcak olmalı. Tavayı önceden iyice ısıt, pirzolaları koyduktan sonra hemen oynatma; et tavadan kendiliğinden ayrılınca çevirme zamanı gelmiştir. Fazla sosu tavaya koymadan önce sıyırmak, salçalı ve yoğurtlu sosun yanıp acılaşmasını önler. Tavaya sığmayan pirzolaları iki partide pişirmek sıcaklığın düşmesini engeller. Kalabalık tavada tavuk kızarmak yerine suyunu salıp haşlanır.
+
+    '
+- t: Pişme kontrolü
+  d: 'Her yüzü 5-6 dakika, ortalama kalınlıktaki kemiksiz but için genellikle yeterlidir. Emin olmak için en kalın yerinden kesip bak: et tamamen beyazlaşmış ve suyu berrak akıyorsa hazırdır. Pembe kalan tavuk yenmemelidir. Pirzolalar eşit kalınlıkta değilse, pişirmeden önce streç film arasında hafifçe döverek düzleştirmek eşit pişmelerini sağlar. İnceltilen pirzolalar daha kısa sürede pişer, bu yüzden süreyi kontrol ederek kısalt. Kesip kontrol ettikten sonra yine de 3 dakikalık dinlendirmeyi atlama.
+
+    '
+- t: Marinasyon ve airfryer
+  d: 'En az 15 dakikalık marinasyon tat için yeterlidir, ancak 2 saat bekleyen tavuk belirgin şekilde daha yumuşak olur. Akşam yemeği planlıyorsan eve gelir gelmez tavukları marine edip buzdolabına kaldırmak işini kolaylaştırır. Airfryer kullanacaksan pirzolaları sepete tek kat diz, 200°C''de 12-14 dakika pişir ve 7. dakikada çevir. Yoğurt yerine süzme yoğurt kullanabilirsin; biber salçan yoksa domates salçası ve bir tatlı kaşığı pul biber olur.
+
+    '
+faq:
+- q: Tavuk pirzola kaç dakikada pişer?
+  a: 'Döküm tavada her yüzü 5-6 dakika pişer. Ardından 3 dakika dinlendirip dilimle.
+
+    '
+- q: Tavuk pirzola nasıl yumuşak olur?
+  a: 'Yoğurtlu sosla en az 15 dakika, mümkünse 2 saat marine et ve pişirdikten sonra 3 dakika dinlendir.
+
+    '
+- q: Tavuk pirzola airfryer'da kaç dakika pişer?
+  a: '200°C''de 12-14 dakika pişer; 7. dakikada çevir.
+
+    '
+- q: Tavuk pirzola için göğüs mü but mu kullanılır?
+  a: 'Bu tarifte kemiksiz but kullanılıyor; but göğüs etine göre daha sulu kalır.
+
+    '
+editorNote: Dinlendirmeyi ayrı bir adım olarak yazdık; tavadan çıkan tavuk hemen kesilirse içindeki su tabağa akıyor, 3 dakika bekleyince et suyunu içinde tutuyor ve dilimler sulu kalıyor.
+aramaBasligi: 'Tavuk pirzola tarifi: Yoğurtlu, döküm tavada 25 dakikada'
 ---
 
-Mangalın tadını tavaya taşıyan, akşamları kurtaran bir tavuk tarifi.
+Izgara tavuk pirzola, kemiksiz tavuk butun yoğurtlu ve salçalı bir sosla marine edilip döküm tavada ya da ızgarada kızartıldığı hızlı bir ana yemek. Kemiksiz but, göğüs etine göre daha sulu kaldığı için pirzolada tercih ediliyor.
+
+Bu tarifte 600 gram tavuk pirzola yoğurt, zeytinyağı, biber salçası, sarımsak, toz kırmızı biber, karabiber ve kekikle ovuluyor. En az 15 dakika, mümkünse 2 saat buzdolabında bekledikten sonra iyice ısıtılmış tavada her yüzü 5-6 dakika pişiyor, ardından 3 dakika dinlendirilip dilimleniyor.
+
+Hazırlık 10, pişirme 15 dakika; toplam 25 dakikada 4 kişilik tabak hazır, marinasyon süresini de hesaba kat. Yanına bulgur pilavı ve közlenmiş biber yakışıyor.

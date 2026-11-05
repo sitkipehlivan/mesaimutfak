@@ -98,6 +98,35 @@ tips:
 - Harç ince yayılırsa et hamurla aynı anda pişer; kalın yayma.
 - Tepsiyi önceden ısıtmak taş fırının alttan çıtırlığını taklit eder.
 - Yanına ayran ve közlenmiş biber olmazsa olmaz.
+updated: '2026-11-05'
+notes:
+- t: Harcın kalınlığı
+  d: 'Etli ekmekte harç ince ve eşit yayılmalı. Kalın bir kat, 8-10 dakikalık kısa pişirmede ortası çiğ kalırken hamurun kenarlarının yanmasına yol açar. Harcı kenarlara kadar götür ve elinle bastırarak hamura yapıştır; böylece pişerken kıyma büzüşüp ortada toplanmaz. Domatesin kabuğunu soyup ince doğramak da bu yüzden önemli: iri domates parçaları su salar ve hamurun ortasını ıslatır. Orta yağlı kıyma seç; yağsız kıyma kuru kalır, çok yağlı kıyma ise yağ bırakır.
+
+    '
+- t: İncecik açmanın yolu
+  d: 'Hamuru doğrudan yağlı kağıdın üzerinde açmak, 60x20 cm gibi uzun ve ince bir şekli taşımayı kolaylaştırır; kağıtla birlikte sıcak tepsiye kaydırırsın. Hamur açarken geri çekiliyorsa birkaç dakika dinlendir, gluten gevşeyince kolayca uzar. Kenarları ortasından kalın bırakma, etli ekmeğin kenarı da incedir. Fırın tepsin daha kısaysa hamuru tepsi boyuna göre aç; burada ölçüden çok kalınlık önemli. Kağıdın üzerine az un serpmek hamurun kaymasını önler, ama fazlası pişerken alt yüzde kuruluk yapar.
+
+    '
+- t: Servis ve saklama
+  d: 'Etli ekmek fırından çıkar çıkmaz eritilmiş tereyağı sürülür; tereyağı hamuru yumuşatır ve kenarların kurumasını önler. Enine şeritler halinde dilimleyip sıcak servis et. Yanına ayran ve közlenmiş biber iyi gider. Artanı buzdolabında saklayabilirsin; yeniden ısıtırken mikrodalga hamuru lastikleştirir, önceden ısıtılmış fırında ya da kapağı kapalı tavada birkaç dakika ısıtmak daha iyi sonuç verir. Harcı önceden hazırlayacaksan buzdolabında beklet ve hamura yaymadan hemen önce çıkar.
+
+    '
+faq:
+- q: Etli ekmek kaç derecede pişer?
+  a: Fırının en yüksek derecesinde, yaklaşık 250°C'de pişer. Önceden ısıtılmış tepsiye kaydırılan etli ekmekler 8-10 dakikada hazır olur.
+- q: Etli ekmek harcı pişirilir mi?
+  a: Hayır, harç çiğ olarak hamura yayılır. Kıyma ince yayıldığı için hamurla aynı anda pişer.
+- q: Etli ekmek ile pide arasındaki fark nedir?
+  a: Etli ekmeğin hamuru pideden çok daha ince açılır ve harç kenarlara kadar yayılır. Pidenin kenarları ise kıvrılıp kabarık bırakılır.
+- q: Etli ekmek için hangi kıyma kullanılır?
+  a: Orta yağlı kuzu ya da dana kıyma kullanılır. İkisi birbirinin yerine geçer; önemli olan kıymanın çok yağsız olmaması.
+editorNote: Tepsiyi fırınla birlikte ısıtma adımını pişirme talimatının içine özellikle yazdık; taş fırının alttan verdiği çıtırlığa evde bu şekilde yaklaşılıyor. Harcı da çiğ bıraktık, çünkü ince yayılan kıyma hamurla aynı sürede pişiyor.
+aramaBasligi: 'Konya etli ekmek tarifi: Evde fırın tepsisinde, 250°C''de'
 ---
 
-Konya’nın bir metreye yaklaşan etli ekmeği; pideden ince, lahmacundan bol etli. Evde fırın tepsisine göre küçültülmüş haliyle.
+Etli ekmek, Konya'nın en bilinen yemeklerinden biri: uzun ve incecik açılmış hamurun üzerine kıymalı harç yayılıp taş fırında pişirilir. Pideden ince, lahmacundan bol etlidir; Konya'da boyu bir metreye yaklaşan etli ekmekler dilimlenip servis edilir.
+
+Bu tarifte etli ekmek ev fırınına göre küçültüldü. Hamur 40 dakika mayalandıktan sonra 4 parçaya bölünüp yağlı kağıt üzerinde 60x20 cm boyunda açılıyor. Harçta orta yağlı kıyma, rendelenmiş soğan, kabuğu soyulmuş domates, sivri biber ve maydanoz var; harç pişirilmeden, çiğ olarak hamura yayılıyor. Fırın en yüksek dereceye, 250°C'ye ısıtılırken tepsi de içeride ısınıyor ve etli ekmekler 8-10 dakikada pişiyor.
+
+Hazırlık ve pişirme toplam 55 dakika, tarif 4 kişilik.

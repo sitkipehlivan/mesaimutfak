@@ -95,6 +95,43 @@ steps:
 tips:
 - Sarmaları sıkı dizersen pişerken açılmaz.
 - Bir gece buzdolabında bekledikten sonra çok daha lezzetli olur.
+updated: '2026-11-05'
+notes:
+- t: İç pilavın tadı
+  d: 'İç pilavın karakteri tarçın, yenibahar ve kuş üzümünün dengesinden gelir. Çam fıstığını zeytinyağında hafif renk alana kadar kavurmak tadını belirginleştirir, ancak çok çabuk yandığı için başından ayrılma. Bir tatlı kaşığı şeker tatlılık için değil, baharatları ve limonun ekşiliğini dengelemek için var. Yenibahar yoksa bir tutam tarçın ve bir tutam karanfil kullanabilirsin. Kuş üzümü yerine kıyılmış kuru üzüm ya da kuru kızılcık, çam fıstığı yerine iri kıyılmış badem ya da kaju da olur.
+
+    '
+- t: Yaprak ve sarma
+  d: 'Lahananın sapını oyup kaynar suda yaprakları yumuşadıkça tek tek ayır; haşlama yaklaşık 15 dakika sürer. Kalın damarları bıçakla incelt, aksi hâlde yaprak sarılırken kırılır. Zeytinyağlı sarmalar soğuk yendiği için incelikleri önemlidir; harcı az koyup sıkı sararsan daha zarif ve düzgün görünürler. Sarmaları tencereye aralarında boşluk bırakmadan dizmek pişerken açılmalarını önler. Üzerine kapatılan tabak da sarmaları yerinde tutar. Yırtılan ya da küçük kalan yaprakları tencerenin dibine sermek de sarmaların dibe tutmasını önler.
+
+    '
+- t: Soğutma ve servis
+  d: 'Zeytinyağlılar sıcakken değil, oda sıcaklığında ya da soğuk servis edilir. Pişen sarmaları tencereden çıkarmadan kendi suyunda soğutmak hem şekillerini korur hem de kalan suyu çekip yumuşamalarını sağlar. Soğuduktan sonra kapalı bir kapta buzdolabına kaldır; bir gece bekleyen sarmaların tadı daha da oturur. Servis ederken üzerine biraz zeytinyağı gezdirip limon dilimleriyle sunabilirsin. Baldo yerine osmancık pirinç kullanırsan iç pilavın suyunu bir parmak azalt.
+
+    '
+faq:
+- q: Zeytinyağlı lahana sarması kaç dakika pişer?
+  a: 'Sarmalar kısık ateşte 45 dakika pişer, ardından tencerede soğutulur.
+
+    '
+- q: Zeytinyağlı lahana sarması sıcak mı yenir?
+  a: 'Soğuk ya da oda sıcaklığında yenir. Bir gece buzdolabında bekletirsen daha lezzetli olur.
+
+    '
+- q: Lahana sarmasında çam fıstığı yerine ne kullanılır?
+  a: 'İri kıyılmış badem ya da kaju kullanabilirsin.
+
+    '
+- q: Zeytinyağlı lahana sarması pişerken neden açılır?
+  a: 'Gevşek sarılan ya da tencereye seyrek dizilen sarmalar pişerken açılır. Sıkı sar, aralarında boşluk bırakmadan diz ve üzerine tabak kapat.
+
+    '
+editorNote: İç pilavı sarmadan önce suyunu çektirecek şekilde yazdık; pirinç tencereye yarı pişmiş girince sarmaların içi daha eşit pişiyor ve yaprak pirinçten önce dağılmıyor.
+aramaBasligi: 'Zeytinyağlı lahana sarması tarifi: Kuş üzümlü, fıstıklı'
 ---
 
-Yaprak sarmanın kışlık kardeşi; meze tabaklarının gözdesi.
+Zeytinyağlı lahana sarması, haşlanmış beyaz lahana yapraklarına baharatlı iç pilavın sarıldığı ve soğuk servis edilen bir zeytinyağlı. Yaprak sarmanın kışlık karşılığı sayılıyor; meze tabaklarında ve misafir sofralarında sıkça yer alıyor.
+
+İç pilav, zeytinyağında kavrulan çam fıstığı ve soğanla başlıyor. Baldo pirinç çevrildikten sonra kuş üzümü, tarçın, yenibahar, tuz, şeker ve yarım su bardağı suyla 15 dakikada suyunu çekiyor; dereotu ve nane en sonda ekleniyor. Sarmalar limon dilimleri ve sıcak suyla kısık ateşte 45 dakika pişiriliyor ve tencerede soğutuluyor.
+
+Hazırlık 50, pişirme 45 dakika; toplam 95 dakikada 6 kişilik bir tabak çıkıyor. Bir gece buzdolabında bekledikten sonra tadı daha da oturuyor.

@@ -92,6 +92,43 @@ steps:
 tips:
 - Kemiksiz but göğüs etine göre çok daha sulu kalır.
 - Küçük porsiyonluk güveç kaplarında pişirip ayrı ayrı servis edebilirsin.
+updated: '2026-11-05'
+notes:
+- t: Neden tavuk but
+  d: 'Tavuk göğsü yağsız olduğu için fırında uzun süre kalınca kuruyup lifli bir hâl alabilir. Kemiksiz but ise daha fazla yağ ve bağ dokusu içerdiğinden aynı sürede sulu ve yumuşak kalır. Güveçte tavuk, sebzelerden çıkan su ve salçayla birlikte pişer; butun yağı bu suyla birleşip lezzetli bir sos oluşturur. Göğüs kullanmak istersen parçaları iri doğra ve pişme durumunu kontrol ederek süreyi kısalt.
+
+    '
+- t: Sebzeleri doğramak
+  d: 'Sebzeleri küp doğramak ve mantarları dörde bölmek, fırında eşit pişmelerini ve fazla küçülmemelerini sağlar. Domatesler pişerken suyunu salar ve yarım su bardağı sıcak suyla birlikte güvecin sosunu oluşturur. Bu yüzden suyu artırmana gerek yok; fazla su yemeği haşlanmış gibi yapar. Mantar yerine istiridye ya da kestane mantarı, kapya biber yerine kırmızı dolmalık biber kullanabilirsin. Biber salçan yoksa domates salçası ve bir tatlı kaşığı pul biber olur.
+
+    '
+- t: Güveç ve fırın kabı
+  d: 'Toprak güveç ısıyı yavaş ve eşit dağıtır, ancak ani ısı değişiminde çatlayabilir. Toprak güveç kullanıyorsan soğuk fırına koyup fırınla birlikte ısıtmak daha güvenlidir; bu durumda fırının ısınma süresi pişirmeye eklenir, tavuğun pişip pişmediğini kontrol et. Cam ya da seramik bir fırın kabıyla da aynı tarifi yapabilirsin. Küçük porsiyonluk güveç kaplarında pişirip her kişiye ayrı servis etmek sofrada şık durur. Kaşar yerine mozzarella ya da tost peyniri de olur.
+
+    '
+faq:
+- q: Tavuk güveç fırında kaç dakika pişer?
+  a: '200°C fırında 40 dakika pişer, kaşar eklendikten sonra 10 dakika daha fırında kalır.
+
+    '
+- q: Tavuk güveç için göğüs mü but mu kullanılır?
+  a: 'Kemiksiz but daha uygun; göğüs etine göre çok daha sulu kalır.
+
+    '
+- q: Tavuk güveçte kaşar yerine ne kullanılır?
+  a: 'Mozzarella ya da tost peyniri gibi eriyen herhangi bir peynir kullanabilirsin.
+
+    '
+- q: Tavuk güveç güveç kabı olmadan yapılır mı?
+  a: 'Yapılır. Karışımı herhangi bir fırın kabında aynı sıcaklıkta pişirebilirsin.
+
+    '
+editorNote: Kaşarı en baştan değil son 10 dakikada eklenecek şekilde ayrı adım olarak yazdık; 50 dakika fırında kalan kaşar yanıp kuruyor, sonradan eklenince eriyip kızarıyor.
+aramaBasligi: 'Tavuk güveç tarifi: Fırında mantarlı ve kaşarlı'
 ---
 
-Tavuk sotenin fırında kaşarla taçlanmış hali. Hazırlığı yirmi dakika.
+Tavuk güveç, kuşbaşı tavuğun sebzelerle birlikte güveçte ya da fırın kabında pişirildiği, üzerine kaşar eritilen bir fırın yemeği. Malzemeler bir kapta karıştırılıp fırına verildiği için hazırlığı kısa.
+
+Bu tarifte göğüs eti yerine kemiksiz tavuk but kullanılıyor; but fırında daha sulu kalıyor. 500 gram tavuk; soğan, sivri ve kapya biber, mantar, domates, biber salçası, zeytinyağı ve baharatlarla karıştırılıyor, yarım su bardağı sıcak suyla 200°C fırında 40 dakika pişiyor. Ardından üzerine kaşar serpilip kaşar kızarana kadar 10 dakika daha fırında kalıyor.
+
+Hazırlık 20, pişirme 50 dakika; toplam 70 dakikada 4 kişilik güveç hazır. Küçük güveç kaplarında porsiyonluk da pişirebilirsin.

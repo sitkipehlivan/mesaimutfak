@@ -75,6 +75,43 @@ tips:
 - Büzerek sarmak dilimlerin üzerindeki o meşhur kırışık deseni verir.
 - Tereyağını sadece yağı alıp tortusunu bırakarak kullanırsan rengi daha parlak olur.
 - Şerbeti en az 3-4 saat çeksin; ertesi gün daha lezzetlidir.
+updated: '2026-11-05'
+notes:
+- t: Sıcak tatlı, soğuk şerbet
+  d: 'Şerbetli tatlılarda temel kural, tatlı ile şerbetin farklı sıcaklıkta olmasıdır. Fırından yeni çıkmış sıcak dilimlere soğumuş şerbet dökersen yufka şerbeti yavaş yavaş çeker ve katlar çıtır kalır. İkisi de sıcak olursa yufka hemen yumuşar ve dağılır. Şerbeti dökerken her dilimin üzerine eşit gelmesine dikkat et. Tatlıyı şerbeti çektikten sonra, en az 3-4 saat bekletip servis et; ertesi gün tadı daha da oturur.
+
+    '
+- t: Büzerek sarmak
+  d: 'Saray sarmasının tanınan kırışık deseni büzme aşamasından gelir. Üç kat yufkayı tereyağıyla yağlayıp uzun kenara ceviz serptikten sonra ince bir oklavaya sıkıca sar. Ardından oklavayı çekmeden ruloyu iki uçtan ortaya doğru bastırarak büz ve oklavayı yavaşça çıkar. Sıradaki yufkaları nemli bir bezle örtmek kuruyup kırılmalarını önler. Ruloyu 3 cm''lik dilimlere keserken bıçağı bastırmadan, ileri geri hareketle kesmek dilimlerin ezilmesini engeller.
+
+    '
+- t: Tereyağı ve renk
+  d: 'Yufka katlarının çıtır ve altın rengi olması tereyağına bağlıdır. Tereyağını eritip yalnızca üstteki sarı yağını alır, dipteki beyaz tortuyu bırakırsan tatlı daha parlak bir renk alır ve fırında daha geç yanar. Kalan tereyağını dilimlerin üzerine gezdirmeyi unutma; kuru kalan yufka beyaz ve sert kalır. 170°C''de 40-45 dakika, katların içine kadar eşit pişmesini sağlar. Ceviz yerine fındık ya da badem, süs için antep fıstığı yerine ceviz kullanabilirsin.
+
+    '
+faq:
+- q: Saray sarması kaç dakika pişer?
+  a: '170°C fırında altın rengi olana kadar 40-45 dakika pişer.
+
+    '
+- q: Saray sarmasına şerbet sıcak mı soğuk mu dökülür?
+  a: 'Sıcak tatlıya soğuk şerbet dökülür. Bu yüzden şerbeti en başta kaynatıp soğumaya bırakmak gerekiyor.
+
+    '
+- q: Saray sarması kaç saat şerbet çeker?
+  a: 'En az 3-4 saat beklemesi gerekir. Ertesi gün daha lezzetli olur.
+
+    '
+- q: Saray sarmasında ceviz yerine ne kullanılır?
+  a: 'Ceviz yerine fındık ya da badem kullanabilirsin.
+
+    '
+editorNote: Şerbeti ilk adım olarak yazdık; şerbetin tatlı fırından çıkana kadar tamamen soğuması gerekiyor ve en sona bırakılırsa sıcak tatlıya sıcak şerbet dökülüp yufka hamurlaşıyor.
+aramaBasligi: 'Saray sarması tarifi: Cevizli, baklavalık yufkayla'
 ---
 
-Bayram sofralarının baklavadan sonraki gözdesi. Hazır baklavalık yufkayla yapınca hem kolay hem pastane işi görünür.
+Saray sarması, baklavalık yufkaların cevizle rulo yapılıp büzüldükten sonra dilimlenerek fırınlandığı ve şerbetlendiği bir baklava çeşidi. Dilimlerin üzerindeki kırışık desen, sarma sırasında yufkanın oklava üzerinde büzülmesinden geliyor.
+
+Bu tarifte önce şeker, su ve limonla şerbet 15 dakika kaynatılıp soğumaya bırakılıyor. Üç yufka arasına eritilmiş tereyağı sürülerek üst üste konuyor, uzun kenara ceviz serpiliyor ve ince bir oklavayla rulo sarılıp iki uçtan büzülüyor. Rulolar 3 cm'lik dilimlere kesilip tepsiye dik diziliyor ve 170°C'de altın rengi olana kadar 40-45 dakika pişiyor. Sıcak tatlıya soğuk şerbet dökülüyor.
+
+Hazırlık 40, pişirme 45 dakika; toplam 85 dakikada 10 kişilik bir tepsi hazır. Şerbetin en az 3-4 saat çekmesini bekle.
