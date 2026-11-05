@@ -141,7 +141,7 @@
     });
     // mobil yapışkan alt bant: yalnız reklam dolunca görünür
     if (anchor && !live) { anchor.classList.add('anchor-bekle'); html.classList.remove('has-anchor'); }
-    document.addEventListener('adv-dolu', e => { const a = e.target.closest && e.target.closest('.ad'); if (a) { a.classList.add('adv-dolu'); a.classList.remove('ad-empty', 'ad-unfilled', 'anchor-bekle'); if (a === anchor && !a.classList.contains('ad-off')) html.classList.add('has-anchor'); } });
+    document.addEventListener('adv-dolu', e => { const a = e.target.closest && e.target.closest('.ad'); if (a) { a.classList.add('adv-dolu'); a.classList.remove('ad-empty', 'ad-unfilled', 'anchor-bekle', 'tanitim-dolu'); if (a === anchor && !a.classList.contains('ad-off')) html.classList.add('has-anchor'); } });
     // AdSense/Ad Manager açık değilse boş Advance alanları gizlenir
     // Sayfa açılışında görünen alanlar (masthead, tarif üstü 300x250) boş kalırsa yer kapanmaz; sitenin kendi tanıtımı
     // gösterilir. Böylece içerik zıplamaz (CLS). Diğer boş alanlar kapanır.
@@ -151,6 +151,8 @@
       box.innerHTML = '<a class="mm-tanitim' + (genis ? ' genis' : '') + '" href="/bugun-ne-pisirsem/"><b>Akşam ne pişirsem?</b><span>Elindeki malzemeleri söyle, 30 dakikalık tarif önerelim.</span><em>Tarif öner →</em></a>';
       a.classList.add('tanitim-dolu');
     };
+    // reklam sunucusu yüklenemese (engelleyici vb.) bile ayrılan yer boş kalmasın
+    if (!live) slots.forEach(el => { if ((el.dataset.ad === 'masthead' || el.dataset.ad === 'atf') && !el.classList.contains('ad-off')) tanitim(el); });
     document.addEventListener('adv-bos', e => { const a = e.target.closest && e.target.closest('.ad'); if (!a || live) return;
       if (a.classList.contains('ad-masthead') || a.classList.contains('ad-atf')) return tanitim(a);
       a.classList.add('ad-off'); if (a === anchor) html.classList.remove('has-anchor'); });
