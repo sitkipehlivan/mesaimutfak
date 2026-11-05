@@ -893,3 +893,4 @@ html.is-watch body{background:var(--w-bg);color:var(--w-txt);font-family:-apple-
 .vcard-tabs button{flex:1;font:inherit;font-size:13px;font-weight:700;padding:9px 6px;border:0;background:transparent;color:color-mix(in srgb,var(--paper) 65%,transparent);cursor:pointer;border-bottom:2px solid transparent}
 .vcard-tabs button.on{color:var(--paper);border-bottom-color:var(--sun)}
 .vcard-body{margin:0;padding:12px 14px;font-size:14.5px;line-height:1.45;min-height:3.2em}
+.ad .adv-etiket{display:none} /* sitenin kendi "Reklam" etiketi yeterli */
