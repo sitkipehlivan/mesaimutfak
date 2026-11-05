@@ -79,6 +79,35 @@ steps:
 tips:
 - Jelatini kaynayan kremaya katarsan gücünü kaybeder.
 - Helal jelatin ya da bitkisel agar kullanabilirsin; agarla mutlaka 2 dakika kaynat.
+updated: '2026-11-05'
+notes:
+- t: Jelatinin doğru kullanımı
+  d: 'Toz jelatin doğrudan sıcak kremaya dökülürse topaklanır ve tam erimez. Önce 3 yemek kaşığı soğuk suda 5 dakika şişirmek, taneciklerin suyu emip eşit erimesini sağlar. Krema, süt ve şeker yalnızca buhar çıkana kadar ısıtılmalı; kaynama noktasına gelirse jelatinin bağlama gücü azalır. Yaprak jelatin kullanıyorsan 4 yaprağı soğuk suda yumuşatıp suyunu sıkarak ekle. Karıştırırken tencerenin dibinde erimemiş jelatin parçası kalmadığından emin ol, sonra kalıplara paylaştır.
+
+    '
+- t: Agar ile vegan panna cotta
+  d: 'Jelatin yerine bitkisel agar agar kullanılabilir; 1 tatlı kaşığı agar yaklaşık 3 yaprak jelatine denk gelir. Agar jelatinden farklı çalışır: etkinleşmesi için sıvıyla birlikte en az 2 dakika kaynaması gerekir. Agarla yapılan panna cotta daha sıkı ve oda sıcaklığında da formunu koruyan bir doku alır, jelatinli olan kadar titrek olmaz. Krema yerine bitkisel krema, süt yerine yulaf ya da badem sütü kullanırsan tamamen vegan bir tatlı elde edersin.
+
+    '
+- t: Kalıptan çıkarma ve servis
+  d: 'Panna cottayı ters çevirip sunmak istiyorsan kalıbın dışını birkaç saniye sıcak suya batır, kenarını ince bir bıçakla hafifçe ayır ve servis tabağını üzerine kapatıp çevir. Fazla bekletirsen dış yüzey erir ve şekil bozulur. Daha zahmetsiz yol, tatlıyı doğrudan servis kâsesinde dondurup çilek sosunu üzerine dökmek. Çilek sosunu tamamen soğuduktan sonra kullan; sıcak sos panna cottanın yüzeyini eritir. Buzdolabında üzeri kapalı olarak saklanır.
+
+    '
+faq:
+- q: Panna cotta kaç saatte donar?
+  a: Buzdolabında en az 4 saat bekledikten sonra donar. Ters çevirip sunacaksan bir gece bekletmek daha garantili olur.
+- q: Panna cotta tarifi için jelatin yerine ne kullanılır?
+  a: Agar agar kullanılabilir; 1 tatlı kaşığı agar yaklaşık 3 yaprak jelatine denk gelir. Agarı karışımla birlikte mutlaka 2 dakika kaynatman gerekir.
+- q: Panna cotta neden donmaz?
+  a: En sık neden jelatinin kaynayan kremaya eklenmesidir; yüksek ısı jelatinin gücünü azaltır. Kremayı kaynatmadan ısıtıp ocaktan aldıktan sonra şişirilmiş jelatini ekle.
+- q: Panna cotta sosu nasıl yapılır?
+  a: 1 su bardağı çilek, 2 yemek kaşığı toz şeker ve 1 yemek kaşığı limon suyunu 5 dakika pişir, sonra soğut. Soğuk sosu panna cottanın üzerine dök.
+editorNote: Jelatini ayrı bir adımda şişirip kremayı ocaktan aldıktan sonra eklemeyi seçtik; kaynayan sıvıya giren jelatin gücünü kaybeder ve tatlı donmaz.
+aramaBasligi: 'Panna cotta tarifi: Çilek soslu, 15 dakikalık hazırlık'
 ---
 
-Hazırlığı on dakika, beklemesi dört saat; sofraya şık gelen bir tatlı.
+Panna cotta, kremanın jelatinle dondurulmasıyla yapılan bir İtalyan tatlısı. Adı "pişmiş krema" anlamına geliyor ama aslında krema kaynatılmıyor, yalnızca ısıtılıp şekerle tatlandırılıyor ve jelatinle bağlanıyor.
+
+Bu tarifte krema biraz sütle hafifletiliyor, vanilinle kokulanıyor ve kâse ya da kalıplarda buzdolabında donduruluyor. Yanına limonla birkaç dakika pişen taze bir çilek sosu geliyor; sosun ekşiliği kremanın yoğunluğunu dengeliyor.
+
+Hazırlık ve pişirme toplam 15 dakika, tarif 4 kişilik. Asıl bekleme buzdolabında: panna cottanın sertleşmesi için en az 4 saat gerekiyor. Bu yüzden akşam servis edeceksen sabah ya da bir gün önceden hazırlamak en kolayı.

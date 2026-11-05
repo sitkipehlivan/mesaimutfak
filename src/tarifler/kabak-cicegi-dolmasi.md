@@ -90,6 +90,35 @@ steps:
 tips:
 - Çiçekleri sabah erken, taze toplanmış al; öğleden sonra kapanırlar.
 - Pirinç şişeceği için fazla doldurma.
+updated: '2026-11-05'
+notes:
+- t: Çiçek seçimi ve ayıklama
+  d: 'Kabak çiçekleri sabah açıktır, öğleden sonra kapanır. Pazardan sabah erken, taze toplanmış çiçek almak doldurmayı çok kolaylaştırır; kapanmış çiçeği açmaya çalışırken yaprakları yırtılır. Çiçeğin içindeki erkek organı parmaklarınla nazikçe kopar ve dıştaki yeşil yaprakçıkları ayıkla. Çiçekleri yıkama; su yaprakları yumuşatıp yapıştırır. Nemli bir bezle silmek ya da hafifçe silkelemek yeterli. Hazırladığın çiçekleri üst üste yığmadan, tek kat halinde ve serin bir yerde beklet.
+
+    '
+- t: Harcı çiğ hazırlamak
+  d: 'Bu tarifte pirinç önceden kavrulmadan, çiğ olarak harca karışıyor. Çiçek ince ve kısa sürede piştiği için harcın da çiçekle birlikte tencerede pişmesi gerekiyor; önceden pişirilmiş pirinç ise çiçeğin içinde lapa olur. Rendelenmiş domates harca hem nem hem de hafif bir ekşilik verir. Dereotu bulamazsan maydanoz ve biraz taze nane kullanabilirsin. Osmancık pirinç kullanacaksan daha az su çektiği için tencereye eklediğin sıcak suyu bir parmak azalt.
+
+    '
+- t: Pişirme ve servis
+  d: 'Dolmaları tencereye birbirine yaslanacak şekilde, uç kısımları alta gelecek biçimde sıkıca diz; boşluk kalırsa pişerken açılırlar. Üzerlerine ters bir tabak kapatmak dolmaların suyun içinde yüzüp dağılmasını engeller. Kısık ateşte 30 dakika pişirdikten sonra tencereden hemen çıkarma; dolmalar tencerede soğurken zeytinyağını ve kalan suyu çekip toparlanır. Bütün zeytinyağlılar gibi soğuk servis edilir. Buzdolabında kapalı kapta saklanabilir, servisten önce biraz oda sıcaklığında bekletmek tadını açar.
+
+    '
+faq:
+- q: Kabak çiçeği dolması nasıl yapılır?
+  a: Ayıklanan çiçekler pirinç, soğan, domates, dereotu, nane ve zeytinyağıyla hazırlanan çiğ harçla yarısına kadar doldurulup uçları katlanır. Tencereye dizilip limon ve sıcak suyla, üzerine tabak kapatılarak kısık ateşte 30 dakika pişirilir.
+- q: Kabak çiçeği dolması kaç dakika pişer?
+  a: Kısık ateşte yaklaşık 30 dakika pişer. Pişince tencerede soğumaya bırakılır ve soğuk servis edilir.
+- q: Kabak çiçeği yıkanır mı?
+  a: Yıkanmaz; su narin yaprakları yumuşatıp yapıştırır. Nemli bir bezle silmek ya da hafifçe silkelemek yeterlidir.
+- q: Kabak çiçeği dolması neden açılır?
+  a: Çiçek fazla doldurulduğunda pirinç şişip çiçeği yırtar. Yarısına kadar harç koy, uçlarını içe katla ve dolmaları tencereye sıkıca dizip üzerine tabak kapat.
+editorNote: Çiçekleri yalnızca yarısına kadar doldurmayı özellikle belirttik; pirinç pişerken şişer ve fazla dolu çiçek pişerken yırtılıp harcını tencereye bırakır.
+aramaBasligi: 'Kabak çiçeği dolması tarifi: Zeytinyağlı, naneli iç harçla'
 ---
 
-Ege mutfağının en narin işi; çiçekleri kapanmadan sabah pazarından almak gerekir.
+Kabak çiçeği dolması, kabak bitkisinin çiçeklerinin pirinçli bir iç harçla doldurulup zeytinyağıyla pişirildiği bir Ege yemeği. Çiçekler çok narin olduğu için dolmaların en zahmetlisi sayılıyor; ama sonuç hafif ve ferah bir zeytinyağlı.
+
+Bu tarifte iç harç çiğ olarak hazırlanıyor: ince doğranmış soğan, baldo pirinç, rendelenmiş domates, dereotu, nane, baharatlar ve zeytinyağının yarısı karıştırılıyor. Ayıklanan çiçeklerin yarısına kadar harç konup uçları içe katlanıyor. Dolmalar tencereye dizilip kalan zeytinyağı, limon ve sıcak suyla, üzerine tabak kapatılarak kısık ateşte pişiriliyor.
+
+Hazırlık ve pişirme toplam 70 dakika, 20 çiçekten 4 kişilik porsiyon çıkıyor. Tarif vegan ve glutensiz; tencerede soğutulup soğuk servis ediliyor.

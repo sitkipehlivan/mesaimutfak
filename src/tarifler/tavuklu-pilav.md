@@ -73,6 +73,35 @@ steps:
 tips:
 - Tavukları kızgın tereyağında birkaç dakika çevirirsen sokak pilavcısı lezzeti alırsın.
 - Yanına turşu ve ayran.
+updated: '2026-11-05'
+notes:
+- t: Pirinç neden ıslatılır?
+  d: 'Baldo pirinci ılık tuzlu suda 20 dakika bekletmek, tanelerin dışındaki nişastayı yumuşatır ve suyu daha eşit çekmesini sağlar. Ardından berrak su akana kadar yıkamak yüzeydeki nişastayı alır; böylece pilav lapa olmaz, taneler birbirine yapışmaz. Islatılmış pirinci tereyağında şeffaflaşana kadar kavurmak da taneleri yağla kaplar. Osmancık pirinç kullanıyorsan su ihtiyacı daha az olduğu için tavuk suyunu bir parmak azalt; aksi halde taneler fazla yumuşar.
+
+    '
+- t: Su oranı ve pişirme
+  d: 'Bu tarifte 2 su bardağı pirince 3 su bardağı tavuk suyu kullanılıyor. Suyun sıcak olması önemli; soğuk su kavrulmuş pirincin ısısını düşürür ve tanelerin dışı erken yumuşar. Su ekledikten sonra kapağı kapatıp ateşi kısarak yaklaşık 15 dakika, suyunu çekene kadar pişir ve bu sırada karıştırma. Karıştırmak taneleri kırar. Pilav suyunu çektikten sonra ocağı kapatıp kapağı açmadan bir süre dinlendirirsen taneler daha diri ve ayrık olur.
+
+    '
+- t: Sokak pilavcısı lezzeti
+  d: 'Didiklenmiş tavukları pilavın üzerine koymadan önce kızgın tereyağında birkaç dakika çevirirsen dış yüzeyleri hafifçe kızarır ve sokak pilavcılarındaki o aroma oluşur. Tavuk göğsü yerine but kullanılmasının nedeni de bu: but haşlandıktan sonra kurumaz, daha sulu kalır. Kuru nohut haşlamak istemezsen konserve nohut kullanabilirsin; ıslatma adımını atlarsın. Tavuk suyun yetmezse sıcak suya bir tatlı kaşığı tereyağı ve bir tutam tuz ekleyerek tamamlayabilirsin. Yanına turşu ve ayran iyi gider.
+
+    '
+faq:
+- q: Tavuklu pilav nasıl yapılır?
+  a: Tavuk but tuzlu suda haşlanıp didiklenir, pirinç tereyağında kavrulup nohut ve sıcak tavuk suyuyla kısık ateşte pişirilir. Servis ederken tavuklar pilavın üzerine konur ve karabiber serpilir.
+- q: Tavuklu pilav tarifi için kaç su bardağı su konur?
+  a: 2 su bardağı baldo pirince 3 su bardağı sıcak tavuk suyu konur. Osmancık pirinç kullanırsan suyu bir parmak azalt.
+- q: Tavuklu pilav için tavuk kaç dakika haşlanır?
+  a: Tavuk butlar tuzlu suda yaklaşık 35 dakika haşlanır. Haşlama suyunu atma; pilavı bu suyla pişireceksin.
+- q: Tavuklu pilav neden lapa olur?
+  a: Pirinç ıslatılıp yıkanmadığında ya da pişerken karıştırıldığında nişasta açığa çıkar ve pilav lapalaşır. Pirinci 20 dakika ılık tuzlu suda bekletip yıka ve pişerken kapağı açma.
+editorNote: Tavuğu ayrı haşlayıp suyunu pilavda kullanmayı seçtik; hazır bulyon yerine tavuğun kendi suyu her taneye o tanıdık pilavcı lezzetini veriyor.
+aramaBasligi: 'Tavuklu pilav tarifi: Tavuk suyunda pişen, nohutlu'
 ---
 
-Sokak arabalarındaki o pilav. Tavuk suyunun lezzeti her tanede.
+Tavuklu pilav, haşlanmış tavuğun suyunda pişen tereyağlı pirinç pilavının üzerine didiklenmiş tavuk konarak hazırlanan, sokak pilavcılarıyla özdeşleşmiş bir tabak. Nohut ve karabiber de bu tabağın vazgeçilmez parçaları.
+
+Bu tarifte tavuk but önce tuzlu suda haşlanıyor; hem eti didiklenmeye hazır hale geliyor hem de pilavın suyu çıkıyor. Baldo pirinç ılık tuzlu suda bekletilip tereyağında kavruluyor, nohutla birlikte sıcak tavuk suyunda kısık ateşte pişiyor. Servisten önce tavuklar pilavın üzerine diziliyor.
+
+Hazırlık ve pişirme toplam 65 dakika sürüyor, tarif 4 kişilik. Sürenin büyük kısmı tavuğun haşlanmasına gidiyor; o sırada pirinci ıslatıp hazırlarsan iş hızlanır.

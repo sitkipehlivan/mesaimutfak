@@ -92,6 +92,43 @@ steps:
 tips:
 - Haşhaş ezmesi aktarlarda ve Afyon ürünleri satan marketlerde bulunur.
 - İç harca biraz ceviz eklersen çok yakışır.
+updated: '2026-11-05'
+notes:
+- t: Haşhaş ezmesi ve iç harç
+  d: 'Haşhaş ezmesi yoğun ve yağlıdır; şeker ve eritilmiş tereyağıyla karıştırıldığında hamura kolayca yayılan bir kıvam alır. Ezme çok katıysa biraz daha tereyağıyla açabilirsin. Harcı hamurun kenarlarına kadar yayma, bir parmak boşluk bırak; rulo yaparken harç dışarı taşmaz ve kenarlar birbirine yapışır. Haşhaş ezmesini aktarlarda ve Afyon ürünleri satan marketlerde bulabilirsin. İç harca ceviz eklemek de çöreğe yakışır. Harcı hamura sürmeden önce hazırlamak işini hızlandırır.
+
+    '
+- t: Kesip örmek
+  d: 'Ruloyu keskin bir bıçakla boyuna ikiye kes; kesilen yüzler yukarı bakacak şekilde iki parçayı birbirinin üzerinden geçirerek ör. Katmanların açık kalması pişince haşhaşın görünmesini sağlar. Uçları birleştirip halka yapabilir ya da tepside düz bırakabilirsin. Şekillendirdikten sonra 15 dakika dinlendirmek hamurun biraz daha kabarmasını sağlar; bu adımı atlarsan çörek fırında sıkı ve ağır olur. Kesme sırasında harç biraz dağılırsa, örerken eline alıp yeniden katların arasına yerleştir.
+
+    '
+- t: Pişme kontrolü ve saklama
+  d: 'Yumurta sarısı çöreğe parlak, koyu altın bir renk verir. 180°C fırında 25-30 dakika sonunda üstü kızarmalı ve tabanına vurduğunda boş bir ses gelmeli. Üst taraf çabuk kararıyorsa son dakikalarda üstünü folyoyla örtebilirsin. Soğuyan çöreği hava almayan bir kapta ya da streç filme sararak sakla, böylece kurumaz. Dilimleyip dondurucuda saklamak da mümkün; çözdükten sonra fırında birkaç dakika ısıtmak yeterli. Sıcakken dilimlemek spiralleri ezer; ılımasını bekle.
+
+    '
+faq:
+- q: Haşhaşlı çörek kaç dakikada pişer?
+  a: '180°C fırında 25-30 dakikada pişer. Üzeri kızardığında ve tabanı vurunca boş ses verdiğinde çörek hazırdır.
+
+    '
+- q: Haşhaşlı çörek hamuru kaç dakika mayalanır?
+  a: 'Hamur 45 dakika mayalanır. Şekillendirdikten sonra fırına vermeden önce 15 dakika daha dinlendirilir.
+
+    '
+- q: Haşhaş ezmesi nerede bulunur?
+  a: 'Aktarlarda ve Afyon ürünleri satan marketlerde bulunur. Bu tarifte 1 su bardağı haşhaş ezmesi kullanılıyor.
+
+    '
+- q: Haşhaşlı çörek dondurulur mu?
+  a: 'Evet. Soğuyan çöreği dilimleyip sıkıca sararak dondurabilirsin; çözdükten sonra fırında birkaç dakika ısıtman yeterli.
+
+    '
+editorNote: Ruloyu boyuna kesip örme adımını ayrı yazdık; düz rulo da olur, ama örme haşhaşlı katmanların dışarıdan görünmesini sağlıyor. Şekillendirdikten sonraki 15 dakikalık dinlendirmeyi atlanmasın diye adımın içine koyduk.
+aramaBasligi: 'Haşhaşlı çörek tarifi: 180°C''de 25-30 dakika pişer'
 ---
 
-Afyon’un tatlı-tuzlu kahvaltı çöreği; dilimlediğinde kahverengi spiralleriyle göz doldurur.
+Haşhaşlı çörek, mayalı hamurun tatlı haşhaş ezmesiyle sarılıp fırında pişirildiği bir çay ve kahvaltı çöreği. Haşhaş ekimiyle bilinen Afyon, bu çöreğin en çok anıldığı şehir.
+
+Bu tarifte sütlü, yumurtalı yumuşak bir hamur hazırlanıyor. İç harç haşhaş ezmesi, toz şeker ve eritilmiş tereyağıyla yapılıyor. Hamur dikdörtgen açılıp harçla rulo yapılıyor, rulo boyuna kesilip iki parça örgü gibi birbirine sarılıyor. Dilimlendiğinde görülen kahverengi spiraller bu sarma şeklinden geliyor.
+
+Tarif 10 kişilik. 40 dakika hazırlık ve 30 dakika pişirme süresine, hamurun 45 dakikalık mayalanmasını eklemelisin. Yumurta sarısı sürülen çörek 180°C fırında 25-30 dakikada kızarıyor.

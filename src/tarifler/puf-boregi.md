@@ -85,6 +85,43 @@ steps:
 tips:
 - Kenarları iyi kapat, kızarırken açılmasın.
 - Kıymalı ya da patatesli harçla da yapılır.
+updated: '2026-11-05'
+notes:
+- t: Börek neden kabarır
+  d: 'Hamurdaki kabartma tozu ve yoğurdun ekşiliği birlikte çalışarak hamurun içinde gaz oluşturur. Kızgın yağa giren hamurun içindeki nem de hızla buhara dönüşür ve börek şişer. Bunun için yağın yeterince sıcak olması şart. Yağ ılıksa börek kabarmadan yağ emer ve ağırlaşır. Bir parça hamur atarak dene; hamur hemen yüzeye çıkıp cızırdıyorsa yağ hazırdır. Ateşi orta-yüksekte tutarak böreklerin dışı yanmadan içinin pişmesini sağla.
+
+    '
+- t: Kenarları iyi kapatmak
+  d: 'Harcı yuvarlağın tam ortasına ve az miktarda koy; fazla harç kenarların kapanmasını zorlaştırır. Yarım ay şeklinde katladıktan sonra önce parmaklarınla, sonra çatalın ucuyla kenarları bastır. Kenarlarda un kaldıysa hamur birbirine yapışmaz; gerekirse kenarı parmağınla hafifçe ıslat. Kızgın yağda açılan bir börek peynirini dışarı bırakır ve yağın sıçramasına neden olur. Bir seferde tavaya az börek koy, birbirine değmesinler. Hazırladığın börekleri kızartana kadar üzerini bir bezle örterek kurumalarını önle.
+
+    '
+- t: Airfryer ve harç alternatifleri
+  d: 'Kızartma istemiyorsan börekleri yağla fırçalayıp airfryer sepetine aralıklı diz ve 180°C''de 8-10 dakika pişir, yarısında çevir. Airfryer''da börek kızgın yağdaki kadar kabarmaz ama çıtır olur. Beyaz peynir yerine tuzlanmış lor ya da tulum peyniri kullanılabilir. Kıymalı ya da patatesli harçla da aynı yöntem uygulanır. Hamur için yoğurt yerine kefir ya da ayran da olur. Börekler en iyi sıcakken yenir; soğuyunca kabarıklığını kaybeder.
+
+    '
+faq:
+- q: Puf böreği tarifi için hamur nasıl yapılır?
+  a: 'Un, yoğurt, ılık su, sıvı yağ, tuz ve kabartma tozunu yoğurup 20 dakika dinlendir. Sonra 3 mm kalınlığında açıp bardakla yuvarlaklar kes.
+
+    '
+- q: Puf böreği neden kabarmaz?
+  a: 'En sık neden yağın yeterince sıcak olmaması ya da hamurun çok ince açılmasıdır. Hamuru 3 mm kalınlığında aç ve orta-yüksek ateşte kızgın yağda kızart.
+
+    '
+- q: Puf böreği airfryer'da yapılır mı?
+  a: 'Evet. Börekleri yağla fırçalayıp 180°C''de 8-10 dakika pişir, yarısında çevir.
+
+    '
+- q: Puf böreğine hangi peynir konur?
+  a: 'Bu tarifte beyaz peynir kullanılıyor. Tuzlanmış lor ya da tulum peyniri de olur.
+
+    '
+editorNote: Hamurun kalınlığını 3 mm olarak net yazdık; daha ince açılan hamur kabarmaz, daha kalını ise içi çiğ kalır. Kenarları çatalla bastırma adımını da ayrıca belirttik, çünkü açılan kenar kızgın yağda peyniri dışarı bırakır.
+aramaBasligi: 'Puf böreği tarifi: Peynirli, kızgın yağda kabaran'
 ---
 
-Adı gibi puf diye kabaran, sıcakken yenince bambaşka olan bir çay böreği.
+Puf böreği, yoğurtlu ve kabartma tozlu bir hamurdan kesilen yuvarlakların peynirle doldurulup kızgın yağda kızartıldığı küçük börekler. Adını kızartılırken balon gibi kabarmasından alır.
+
+Bu tarifte hamur un, yoğurt, ılık su, sıvı yağ, tuz ve kabartma tozuyla yoğruluyor ve 20 dakika dinlendiriliyor. 3 mm kalınlığında açılan hamurdan bardakla yuvarlaklar kesiliyor, ortalarına beyaz peynir ve maydanozlu harç konup yarım ay şeklinde katlanıyor. Kenarlar çatalla bastırılarak kapatılıyor.
+
+6 kişilik puf böreği 35 dakika hazırlık ve 15 dakika pişirmeyle hazırlanıyor. Kızartmak istemeyenler için airfryer seçeneği de var. Sıcakken, çayın yanında servis ediliyor. Börekleri kızartmadan önce hepsini hazırlayıp tepsiye dizmek işini kolaylaştırır.

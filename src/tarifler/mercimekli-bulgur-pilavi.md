@@ -72,6 +72,43 @@ steps:
 tips:
 - Mercimeği fazla haşlarsan pilavda ezilir.
 - Yanına yoğurt ve turşu klasiktir.
+updated: '2026-11-05'
+notes:
+- t: Mercimeği doğru haşlamak
+  d: 'Yeşil mercimeği 15 dakika, yani tamamen yumuşamadan hemen öncesine kadar haşla. Pilavın içinde 15 dakika daha pişeceği için bu yeterli. Fazla haşlanan mercimek pilavda ezilir ve bulgura yapışarak pilavın tane tane dokusunu bozar. Mercimeği haşlarken suyuna tuz atma; bazı mercimekler tuzlu suda daha geç yumuşar. Haşladıktan sonra süzgece alıp suyunu iyice süz. Yeşil mercimek yerine kahverengi ya da beluga mercimek de kullanabilirsin.
+
+    '
+- t: Soğanı kızartmak
+  d: 'Bu pilavın tadının büyük kısmı soğandan gelir. Soğanları yarım ay doğrayıp zeytinyağında, orta ateşte, ara ara karıştırarak koyu altın rengine kadar kavur. Ateşi yüksek tutarsan soğanın kenarları yanar ve acılaşır. Kızarmış soğanın yarısını bir tabağa ayır. Kalan yarısının üzerine salçayı ekleyip kokusu çıkana kadar çevir, sonra bulgur ve mercimeği ekle. Servis ederken ayırdığın soğanı ve pul biberi pilavın üzerine serp.
+
+    '
+- t: Pişirme, demleme ve saklama
+  d: 'Bulgur ve mercimeğin üzerine iki su bardağı sıcak su ve tuz ekledikten sonra kapağı kapat ve kısık ateşte suyunu çekene kadar 15 dakika pişir. Ocağı kapattıktan sonra pilavı birkaç dakika demlendirmek bulgurun tamamen açılmasını sağlar. Biber salçası yoksa domates salçasıyla bir tatlı kaşığı pul biber kullanabilirsin. Pilav buzdolabında kapalı kapta birkaç gün durur; ısıtırken üzerine bir iki kaşık su serpmek kurumasını önler.
+
+    '
+faq:
+- q: Mercimekli bulgur pilavı nasıl yapılır?
+  a: 'Yeşil mercimeği 15 dakika haşla, soğanı zeytinyağında kızart ve yarısını ayır. Salça, bulgur ve mercimeği ekleyip sıcak su ve tuzla kısık ateşte 15 dakika pişir.
+
+    '
+- q: Mercimekli bulgur pilavında mercimek önceden haşlanır mı?
+  a: 'Evet, yeşil mercimek bulgurdan geç piştiği için önce 15 dakika haşlanır. Tamamen yumuşatma; pilavda pişmeye devam eder.
+
+    '
+- q: Mercimekli bulgur pilavına kaç bardak su konur?
+  a: '1 su bardağı bulgur ve yarım su bardağı haşlanmış mercimek için 2 su bardağı sıcak su yeterli.
+
+    '
+- q: Mercimekli bulgur pilavının yanına ne gider?
+  a: 'Yoğurt ve turşu klasik eşlikçileridir. Yoğurt eklediğinde yemek vegan olmaz.
+
+    '
+editorNote: 'Mercimeği bulgurdan önce ayrı haşlamayı seçtik; yeşil mercimek bulgurdan uzun sürede pişer ve birlikte konduğunda bulgur lapa olurken mercimek sert kalır. Kızarmış soğanın yarısını servise ayırmayı da bu yüzden adım olarak yazdık: içteki soğan pişerken yumuşar, üstteki çıtır kalır.'
+aramaBasligi: 'Mercimekli bulgur pilavı tarifi: Kızarmış soğanlı'
 ---
 
-Mercimek ve bulgurun ucuz, besleyici ve lezzetli birlikteliği.
+Mercimekli bulgur pilavı, pilavlık bulgurun yeşil mercimek ve bol kızarmış soğanla birlikte pişirildiği ekonomik ve doyurucu bir pilav. Yanına yoğurt ve turşuyla tek başına bir öğün olarak da sofraya konur.
+
+Bu tarifte mercimek önce 15 dakika haşlanıyor, böylece bulgurla aynı anda yumuşuyor. İki kuru soğan yarım ay doğranıp zeytinyağında kızarana kadar kavruluyor; yarısı pilavın içine, yarısı servis için üstüne ayrılıyor. Biber salçası pilava renk ve hafif bir acılık veriyor.
+
+4 kişilik pilav 10 dakika hazırlık ve 35 dakika pişirmeyle hazırlanıyor. Tarifin kendisi vegan; yoğurtla servis edersen vegan olmaktan çıkar. Hem öğle yemeği kutusu hem akşam sofrası için uygun.

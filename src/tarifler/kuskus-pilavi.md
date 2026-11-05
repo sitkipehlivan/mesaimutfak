@@ -65,6 +65,35 @@ steps:
 tips:
 - Türk kuskusu taneli ve iridir; Fas kuskusu ise sıcak suyla demlenir, pişirilmez.
 - Tavuk sote ya da köftenin yanına çok yakışır.
+updated: '2026-11-05'
+notes:
+- t: Türk kuskusu ile Fas kuskusu
+  d: 'Markette iki farklı ürün kuskus adıyla satılıyor. Türk kuskusu iri, yuvarlak taneli ve makarna gibi pişirilmesi gereken bir ürün; bu tarif onun için yazıldı. Fas kuskusu ise çok ince taneli ve önceden buharda pişirilmiş olarak satılır; sıcak suyla demlenir, ocakta pişirilmez. Fas kuskusunu bu tarifteki gibi kaynatırsan lapa olur. Paket üzerinde tane büyüklüğüne ve pişirme talimatına bakmak karışıklığı önler. Türk kuskusu da kendi içinde farklı boylarda satılabilir.
+
+    '
+- t: Su oranı ve demlenme
+  d: 'Tarifte 1,5 su bardağı kuskus için 2 su bardağı sıcak su kullanılıyor. Suyu soğuk eklemek pişirme süresini uzatır ve taneler eşit pişmez. Kapağı kapalı, kısık ateşte suyunu çekene kadar pişirdikten sonra ocağı kapatıp 10 dakika demlendirmek, kalan nemin tanelere eşit dağılmasını sağlar. Demlenme sırasında kapağı açmamak ve karıştırmamak gerekir; servisten önce çatalla havalandırmak yeterli. Kavurma aşamasında kuskusu sürekli karıştırmak, tanelerin dipte yanmasını önler.
+
+    '
+- t: Sebzeler ve servis
+  d: 'Havuç kuskusla birlikte kavrulduğu için pişme süresi içinde yumuşar. Taze bezelye yerine dondurulmuş bezelye de kullanabilirsin. Salça pilava hafif bir renk ve tat verir; istersen 1 tatlı kaşığı salça yerine rendelenmiş domates kullanabilirsin. Kuskus pilavı tavuk sote ya da köftenin yanına çok yakışır ve ofis kutusunda pirinç pilavına göre daha az kurur. Pilavı demlendikten sonra karıştırırken kaşık yerine çatal kullanmak taneleri ezmez.
+
+    '
+faq:
+- q: Kuskus pilavı nasıl yapılır?
+  a: Tereyağında havuç ve kuskus 3-4 dakika kavrulur, salça ve bezelye eklenir. Sıcak su ve tuzla kapağı kapalı pişirilip 10 dakika demlendirilir.
+- q: Kuskus pilavına kaç bardak su konur?
+  a: 1,5 su bardağı Türk kuskusu için 2 su bardağı sıcak su yeterli.
+- q: Kuskus pilavı neden lapa olur?
+  a: Fas kuskusunu Türk kuskusu gibi kaynatmak ya da kuskusu kavurmadan pişirmek lapa olmasına neden olur. Türk kuskusunu tereyağında kavurup kapağı kapalı pişirmek gerekir.
+- q: Kuskus pilavı kaç dakikada pişer?
+  a: Su eklendikten sonra kısık ateşte yaklaşık 15 dakikada suyunu çeker. Ardından 10 dakika demlendirilir.
+editorNote: Kuskusu suyu eklemeden önce tereyağında 3-4 dakika kavurma adımını ayrı tuttuk; çünkü taneleri saran yağ, pilavın pişerken birbirine yapışmasını önleyen asıl şey.
+aramaBasligi: Kuskus pilavı nasıl yapılır? Sebzeli, 20 dakikada
 ---
 
-Pirinç ve bulgurdan sıkılanlar için tane tane, pratik bir yan lezzet.
+Kuskus pilavı, iri taneli Türk kuskusunun tereyağında kavrulup suyla pişirildiği, pirinç ve bulgur pilavına alternatif bir yan yemek. Tane tane, hafif ve sebzeyle renklenen bir pilav.
+
+Bu tarifte tereyağında küp havucu çevirip kuskusu ekliyor, 3-4 dakika kavuruyorsun. Salçayı ve bezelyeyi ekleyip bir dakika çevirdikten sonra sıcak su ve tuzla kapağı kapalı, kısık ateşte suyunu çekene kadar pişiriyorsun. Son olarak pilavı 10 dakika demlendiriyorsun.
+
+4 kişilik tarif 5 dakika hazırlık ve 15 dakika pişirmeyle hazırlanıyor. Tarif Türk kuskusu için yazıldı; Fas kuskusu sıcak suyla demlenir, bu yöntemle pişirilmez. Pirinç pilavına göre daha kısa sürede pişmesi ve ıslatma gerektirmemesi, hafta içi akşamlarında işini kolaylaştırıyor. Havuç ve bezelye pilava hem renk hem de hafif bir tatlılık katıyor.

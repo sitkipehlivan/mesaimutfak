@@ -102,6 +102,35 @@ tips:
 - Hamsiyi kelebek açmak için başını kopar, karnından açıp kılçığı başparmakla sıyır.
 - Pilavı tam pişirme; fırında hamsinin suyunu çekerek bitecek.
 - Hamsinin en yağlı ve lezzetli olduğu dönem Aralık-Şubat arasıdır.
+updated: '2026-11-05'
+notes:
+- t: Hamsiyi kelebek açmak
+  d: 'Hamsiyi kelebek açmak için başını kopar, karnından parmağınla açıp kılçığı başparmağınla sıyırarak çıkar. Kuyruğu yerinde bırakmak önemli; tarifte kuyruklar kenardan sarkıp pilavın üzerine kapatılıyor. Temizlenen hamsileri yıkayıp süzmek ve fazla suyunu almak, fırında pilavın sulanmasını önler. Bu işlem 1 kg hamsi için zaman alır; balıkçıdan temizlenmiş hamsi alırsan hazırlık süresi kısalır. Kelebek açarken balığın etini parçalamamak için yavaş çalış; bütün kalan fileler kabı daha düzgün kaplar. Hamsileri kâğıt havluyla kurulamak da işe yarar.
+
+    '
+- t: Kabı döşemek ve ters çevirmek
+  d: 'Yuvarlak fırın kabını iyice yağla ve hamsileri derisi dışa gelecek şekilde, merkezden kenarlara doğru ışınsal döşe. Fırından çıkınca ters çevrildiğinde görünen yüz bu derili taraf olacak. Pilavı doldururken hafifçe bastırmak boşlukları kapatır ve yemeğin şeklini korur. Fırından çıktıktan sonra 5 dakika dinlendirmek pilavın oturmasını sağlar; hemen çevirirsen kubbe dağılabilir. Servis tabağını kabın üzerine kapatıp tek hamlede çevir. Kabın kenarlarındaki boşlukları küçük hamsi parçalarıyla kapatmak, ters çevrildiğinde pilavın görünmesini önler.
+
+    '
+- t: Mevsim ve malzeme alternatifleri
+  d: 'Hamsinin en yağlı ve lezzetli olduğu dönem Aralık-Şubat arasıdır; bu dönemde hamsiler fırında daha sulu ve aromalı pişer. Dolmalık fıstık yerine iri kıyılmış badem ya da kaju, kuş üzümü yerine kıyılmış kuru üzüm ya da kuru kızılcık kullanabilirsin. Baldo yerine osmancık pirinç kullanacaksan suyu bir parmak azalt. Yenibaharın yoksa bir tutam tarçın ve bir tutam karanfil benzer bir koku verir.
+
+    '
+faq:
+- q: Hamsili pilav nasıl yapılır?
+  a: Baharatlı iç pilav ocakta hafif diri pişirilir, hamsi döşenmiş fırın kabına doldurulup üzeri hamsiyle kapatılır ve 190°C fırında 25 dakika pişirilir.
+- q: Hamsili pilav fırında kaç dakika pişer?
+  a: 190°C fırında hamsiler kızarana kadar 25 dakika pişer. Ardından 5 dakika dinlendirilip ters çevrilir.
+- q: Hamsili pilav için hangi pirinç kullanılır?
+  a: Baldo pirinç kullanılır. Osmancık kullanacaksan suyu bir parmak azalt.
+- q: Hamsili pilav neden dağılır?
+  a: Pilav ocakta tam pişirilirse ya da fırından çıkınca dinlendirilmeden ters çevrilirse dağılır. Pilavı hafif diri bırak, 5 dakika beklet.
+editorNote: Pilavın ocakta "hafif diri" kalması gerektiğini özellikle vurguladık; tam pişmiş pilav fırında hamsinin suyunu da çekince lapa olur ve ters çevrildiğinde kubbe dağılır.
+aramaBasligi: 'Hamsili pilav nasıl yapılır: Fırında, kuş üzümlü iç pilavla'
 ---
 
-Karadeniz’in kış sofralarında hamsinin en gösterişli hali. Ters çevirdiğinde gümüş pullu bir kubbe olarak çıkar.
+Hamsili pilav, Karadeniz mutfağının kış sofralarındaki en gösterişli hamsi yemeği. Kelebek açılmış hamsiler fırın kabına ışınsal dizilip içi baharatlı iç pilavla dolduruluyor; fırından çıkınca ters çevrilen yemek gümüş pullu bir kubbe gibi görünüyor.
+
+Bu tarifte pilav önce ocakta, dolmalık fıstık, kuş üzümü, tarçın, yenibahar ve karabiberle hazırlanıyor ama tamamen pişirilmiyor. Tane hafif diri kalıyor, çünkü fırında hamsinin suyunu çekerek pişmesini tamamlıyor. Dereotu ve maydanoz pilava ferahlık katıyor.
+
+Hazırlık 40, pişirme 40 dakika; toplam 80 dakikada 6 kişilik. Hazırlığın uzun kısmı hamsileri temizleyip kelebek açmak. Balıkçıdan temizlenmiş hamsi alırsan bu süre belirgin şekilde kısalır.

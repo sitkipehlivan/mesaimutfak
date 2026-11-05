@@ -112,6 +112,35 @@ tips:
 - Sosa bulama işini servisten hemen önce yap; beklerse kaplama yumuşar.
 - Airfryer’da yapmak için kaplanmış karideslere yağ püskürt, 200°C’de 8-9 dakika pişir, yarısında çevir.
 - Acı sevenler sriracha miktarını iki katına çıkarabilir.
+updated: '2026-11-05'
+notes:
+- t: Karidesi kurulamak
+  d: 'Karidesler dondurulmuş olarak alındıysa çözüldükten sonra bol su bırakır. Bu su kaplamanın yapışmasını engeller ve yağın içinde sıçramaya neden olur. Karidesleri kâğıt havluyla iyice kurulamak, yumurtanın ve nişasta karışımının yüzeye eşit tutunmasını sağlar. Kurulama sonrası baharatlı yumurtaya bulayıp nişasta ve un karışımına tek tek bastırarak kaplamak, kızartmada kabuğun kopmadan kalmasına yardım eder. Bu adımı atlamak, çıtır olmayan ve yağ çekmiş karides demektir.
+
+    '
+- t: Kızartma süresi
+  d: 'Karides çok hızlı pişer; fazla kızarırsa lastik gibi sertleşir. Orta-yüksek ateşte kızdırılmış yağda her parti 3-4 dakikada altın rengi olur. Tavayı kalabalık etmemek için tarifteki gibi iki partide kızart; tek seferde atılan karidesler yağın ısısını düşürür ve kaplama yağ çeker. Karidesleri kâğıt havluya alıp birkaç saniye beklettikten sonra sosa bulamak, fazla yağın sosu sulandırmasını önler. Yağın yeterince sıcak olup olmadığını anlamak için içine küçük bir parça kaplama at; hemen cızırdayıp yüzeye çıkıyorsa yağ hazırdır.
+
+    '
+- t: Servis zamanlaması
+  d: 'Dinamit karidesin en kritik noktası zamanlama. Sosa bulanan karides beklerse kaplama sosun nemini çeker ve yumuşar. Bu yüzden sosu önceden hazırla ama karidesleri servisten hemen önce bula. Acı seven bir sofra için sriracha miktarını iki katına çıkarabilirsin. Mayonez yerine süzme yoğurt kullanırsan sos daha hafif ve ekşimsi olur. Airfryer''da yapmak istersen kaplanmış karideslere yağ püskürtüp 200°C''de 8-9 dakika, yarısında çevirerek pişir.
+
+    '
+faq:
+- q: Dinamit karides tarifi için sos nasıl yapılır?
+  a: 4 yemek kaşığı mayonez, 2 yemek kaşığı tatlı acı biber sosu, 1 yemek kaşığı sriracha, 1 tatlı kaşığı bal ve 1 tatlı kaşığı limon suyu geniş bir kasede çırpılır.
+- q: Dinamit karides kaç dakika kızartılır?
+  a: Orta-yüksek ateşte, iki parti halinde her parti 3-4 dakika altın rengi olana kadar kızartılır.
+- q: Dinamit karides airfryer'da olur mu?
+  a: Olur. Kaplanmış karideslere yağ püskürtüp 200°C'de 8-9 dakika pişir, yarısında çevir, sonra sosla karıştır.
+- q: Dinamit karides neden çıtır olmaz?
+  a: Karidesler iyice kurulanmazsa ya da tava kalabalık edilirse kaplama yağ çeker. Sosa erken bulamak da kaplamayı yumuşatır.
+editorNote: Karidesleri kurulama adımını ayrı yazdık, çünkü ıslak karides kaplamayı tutmaz ve kızgın yağa girdiğinde yağı sıçratır; bu küçük adım hem çıtırlığı hem güvenliği belirliyor.
+aramaBasligi: 'Dinamit karides tarifi: Çıtır kaplama, acı-tatlı sos, 20 dk'
 ---
 
-Japon restoranlarının sevilen başlangıcı. Çıtır karidesler, mayonezli acı-tatlı sosla birleşince on dakikada bir meze tabağı çıkıyor. Yanına buzlu bir içecek yeter.
+Dinamit karides, Asya mutfağı restoranlarında sık görülen bir başlangıç: nişastalı kaplamayla çıtır kızarmış iri karidesler, mayonezli, acı-tatlı ve kremamsı bir sosa bulanıp hemen servis ediliyor.
+
+Bu tarifte sos en başta hazırlanıyor ki kızaran karidesler doğrudan sos kasesine alınabilsin. Karidesler kâğıt havluyla kurulanıyor, baharatlı yumurtaya bulanıp mısır nişastası ve un karışımına bastırılıyor, sonra iki parti halinde kızartılıyor. Marul yaprakları üzerinde, yeşil soğan ve susamla servis ediliyor.
+
+Hazırlık 10, pişirme 10 dakika; toplam 20 dakikada 4 kişilik bir meze tabağı hazır. Airfryer seçeneği de tarifte yer alıyor. Bütün işlem tek tavada ve tek kasede bittiği için kalabalık sofralarda bile hızlıca hazırlanabiliyor.

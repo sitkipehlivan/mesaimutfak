@@ -71,6 +71,43 @@ steps:
 tips:
 - Domatesin suyu da sıvıya dahil; suyu 2 bardaktan fazla koyma.
 - Kurufasulye ve kuru köftenin en iyi eşi.
+updated: '2026-11-05'
+notes:
+- t: Su ölçüsü ve domatesin suyu
+  d: 'Baldo pirinç normalde kendi hacminin biraz üzerinde su ister, ama bu tarifte rendelenmiş domatesin suyu da sıvıya dahil. Bu yüzden 2 su bardağı pirince 2 su bardağı sıcak su yeterli. Domatesi pirinçten önce 5 dakika pişirip suyunu biraz çektirmek fazla sıvıyı azaltır. Domatesler çok suluysa bu süreyi biraz uzatabilirsin. Suyu artırmak pilavı yapışkan hale getirir, tane tane dokuyu kaybettirir. Suyu soğuk değil sıcak eklemek pişmenin kesintisiz sürmesini sağlar.
+
+    '
+- t: Pirinci yıkamak ve kavurmak
+  d: 'Pirinci suyu berraklaşana kadar yıkamak yüzeydeki nişastayı alır; pilavın tane tane olmasının ilk koşulu bu. Yıkadığın pirinci iyice süz ki fazla su pilava karışmasın. Pirinci domatesli yağa ekleyip 2 dakika çevirmek tanelerin yağla kaplanmasını sağlar. Bu sayede pişerken birbirine yapışmazlar. Kısık ateşte ve kapak kapalı pişirmek, suyun eşit çekilmesi için önemli; pişerken karıştırma. Salçayı kavururken ateşi orta tut; yanan salça pilava acı bir tat verir.
+
+    '
+- t: Demlendirme ve alternatifler
+  d: 'Pilav suyunu çektikten sonra tencerenin kapağının altına temiz bir bez koyup 10 dakika demlendir. Bez buharı emer, pilav hem pişmesini tamamlar hem de sulanmaz. Osmancık pirinç kullanacaksan suyu bir parmak azalt. Tereyağı yerine ¾ ölçü zeytinyağı kullanılabilir; tat biraz daha hafifler. Kış aylarında domatesler soluk ve sulu olursa salçanın tadı daha baskın olur, renk yine kırmızı kalır. Pilavı servis etmeden önce çatalla hafifçe havalandırmak tanelerin ayrılmasına yardım eder.
+
+    '
+faq:
+- q: Domatesli pilav nasıl tane tane olur?
+  a: 'Pirinci suyu berraklaşana kadar yıka, domatesli yağda 2 dakika çevir ve 2 su bardağından fazla su koyma. Pişince bez altında 10 dakika demlendir.
+
+    '
+- q: Domatesli pilava kaç bardak su konur?
+  a: '2 su bardağı pirince 2 su bardağı sıcak su yeterli, çünkü rendelenmiş domatesin suyu da sıvıya dahil.
+
+    '
+- q: Domatesli pilav kaç dakikada pişer?
+  a: 'Su eklendikten sonra kısık ateşte yaklaşık 15 dakikada suyunu çeker. Ardından 10 dakika demlendirilir.
+
+    '
+- q: Domatesli pilav osmancık pirinçle yapılır mı?
+  a: 'Evet. Osmancık pirinç kullanırsan suyu bir parmak azalt.
+
+    '
+editorNote: Su miktarını iki bardakta sabitledik ve bunu ipucunda da tekrarladık; domatesin suyu hesaba katılmadığında pilav lapa olur. Domatesi pirinçten önce ayrı pişirmeyi seçtik ki çiğ domates tadı kalmasın.
+aramaBasligi: 'Domatesli pilav tarifi: Taze domatesli, tane tane'
 ---
 
-Yazın bahçe domatesiyle yapıldığında rengi de tadı da başka. Sade pilavdan sıkılanlar için.
+Domatesli pilav, pirincin rendelenmiş domates ve salçayla birlikte pişirildiği, kırmızı renkli bir pirinç pilavı. Sade pilavın yerine kuru fasulye, köfte ya da tavuğun yanında sık yapılır.
+
+Bu tarifte salça tereyağı ve sıvı yağ karışımında kavruluyor, ardından üç olgun domatesin rendesi suyunu biraz çekene kadar pişiriliyor. Yıkanmış baldo pirinç domatesle birlikte çevrildikten sonra iki su bardağı sıcak suyla pişiyor. Domatesin kendi suyu da hesaba katıldığı için su miktarı tam ölçülü tutuluyor.
+
+4 kişilik pilav 10 dakika hazırlık ve 20 dakika pişirmeyle hazırlanıyor; üzerine 10 dakika bez altında demlendirme ekleniyor. Yazın olgun domatesle yapıldığında rengi ve tadı belirginleşiyor.

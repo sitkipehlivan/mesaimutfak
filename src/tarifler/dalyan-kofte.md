@@ -96,6 +96,35 @@ steps:
 tips:
 - Dilimlemeden önce dinlendirmezsen dağılır.
 - Soğuk servis edersen meze tabağında da çok şık durur.
+updated: '2026-11-05'
+notes:
+- t: Harcın bağlanması
+  d: 'Dalyan köftenin dilimlenirken dağılmaması harcın iyi bağlanmasına bağlı. Islatılıp iyice sıkılmış ekmek içi ve çiğ yumurta kıymayı bir arada tutar. Harcı birkaç dakika yoğurmak, kıymanın proteinlerinin birbirine tutunmasını sağlar ve rulonun yapısını güçlendirir. Soğanı rendeledikten sonra suyunu biraz sıkmak da harcın fazla yumuşamasını önler. Harç çok yapışkansa ellerini ıslatarak çalışabilirsin. Harcı sarmadan önce kısa bir süre buzdolabında dinlendirmek şekil vermeyi kolaylaştırır; soğuk harç daha az yapışır ve kâğıttan daha kolay ayrılır.
+
+    '
+- t: Rulo yapma ve pişirme
+  d: 'Harcı kâğıdın üzerinde eşit kalınlıkta aç; bir tarafı ince kalırsa sarılırken yırtılır. Yumurtaları boydan boya, uç uca dizmek her dilimde yumurta görünmesini sağlar. Havuç şeritleri ve bezelyeyi yumurtaların yanına yerleştirip kâğıdı kaldırarak harcı sar, uçlarını bastırarak kapat. Fırında ara ara salçalı sosla yağlamak rulonun kurumasını önler ve üstüne renk verir. 190°C''de 45 dakikalık pişirmeden sonra 10 dakika dinlendir. Haşlanmış yumurtaları soyup kuruladıktan sonra yerleştirmek, harca daha iyi oturmalarını sağlar.
+
+    '
+- t: Dilimleme ve servis
+  d: 'Dinlendirmeden dilimlersen köfte dağılır; 10 dakikalık bekleme süresinde et suyunu içine çeker ve yapısı oturur. Keskin bir bıçakla, testere hareketiyle dilimlemek yumurtanın ezilmesini önler. Dalyan köfte soğuk servis edildiğinde de güzel olur; ince dilimleyip meze tabağında sunabilirsin. Airfryer kullanacaksan ruloyu sepete sığacak iki parçaya bölüp 180°C''de 22-25 dakika pişir, son 5 dakikada üzerine sosunu sür. Arta kalan dilimleri buzdolabında kapalı kapta saklayıp ertesi gün soğuk ya da ılık yiyebilirsin.
+
+    '
+faq:
+- q: Dalyan köfte kaç dakika pişer?
+  a: 190°C fırında, ara ara sosla yağlanarak 45 dakika pişer. Ardından 10 dakika dinlendirilip dilimlenir.
+- q: Dalyan köfte neden dağılır?
+  a: Harç iyi yoğrulmazsa ya da köfte dinlendirilmeden kesilirse dağılır. Pişirdikten sonra 10 dakika beklet.
+- q: Dalyan köftenin içine ne konur?
+  a: Bu tarifte içine 3 haşlanmış yumurta, haşlanmış havuç şeritleri ve yarım su bardağı haşlanmış bezelye konur.
+- q: Dalyan köfte airfryer'da yapılır mı?
+  a: Evet. Ruloyu iki parçaya bölüp yağlı kâğıt üzerinde 180°C'de 22-25 dakika pişir, son 5 dakikada sosunu sür.
+editorNote: Ruloyu sarmak için yağlı kâğıt kullanmayı adımın içine yazdık; harç elle sarılırken kolayca yırtılır, kâğıt hem şekli düzgün tutuyor hem de iç malzemelerin yerinden kaymasını engelliyor.
+aramaBasligi: 'Dalyan köfte tarifi: Yumurtalı, havuçlu, fırında rulo'
 ---
 
-Kesildiğinde ortasından yumurta görünen, misafir sofralarının gösterişli köftesi.
+Dalyan köfte, köfte harcının içine haşlanmış yumurta, havuç ve bezelye konup rulo şeklinde sarıldığı bir fırın köftesi. Dilimlendiğinde ortasından yumurta görünüyor; bu yüzden misafir sofralarının gösterişli tabaklarından biri.
+
+Bu tarifte kıyma, rendelenmiş soğan, ıslatılıp sıkılmış ekmek içi, yumurta ve baharatlarla yoğruluyor. Harç yağlı kâğıt üzerinde yaklaşık 30x25 cm'lik bir dikdörtgen olacak şekilde açılıyor, ortasına iç malzemeler diziliyor ve kâğıt yardımıyla sarılıyor. Rulo, sıcak suda açılmış salçayla fırında pişiyor.
+
+Hazırlık 30, pişirme 45 dakika; toplam 75 dakikada 6 kişilik. Airfryer seçeneği de var. Yumurta, havuç ve bezelyeyi önceden haşlayıp buzdolabında bekletirsen hazırlık süresi kısalır.

@@ -75,6 +75,35 @@ steps:
 tips:
 - Patatesleri eşit küp doğra ki aynı anda pişsin.
 - Bir tutam kekik ve pul biber çok yakışır.
+updated: '2026-11-05'
+notes:
+- t: Patatesi eşit doğramak
+  d: 'Patatesleri yaklaşık aynı büyüklükte küp doğramak bu yemeğin en belirleyici ayrıntısı. Küçük parçalar dağılıp suyu bulandırırken iri parçalar ortası çiğ kalır. Orta boy patatesleri önce dilim, sonra çubuk, en son küp kesersen ölçü kendiliğinden tutar. Doğradıktan sonra bekleyecekse soğuk suya at; tencereye koymadan önce iyice süz ki kavurma aşamasında yağ sıçramasın ve patates kıymayla çevrilirken buharda haşlanmasın. Patatesleri tencerede kıymayla 2 dakika çevirmek de yüzeylerini hafifçe mühürler ve pişerken dağılmalarını geciktirir.
+
+    '
+- t: Kıymayı doğru kavurmak
+  d: 'Kıymayı tencereye attığında önce suyunu salar. Bu suyu tamamen çekip kıyma tane tane ayrılana kadar kavurmadan salçayı eklersen salça kavrulmaz, yemeğin rengi soluk ve tadı çiğ salça gibi olur. Kıyma hafif cızırdamaya başladığında salçayı ekleyip bir iki dakika çevirmek yeterli. Kıyma kalabalıksa ateşi biraz açmak, haşlanmasını önler ve kıymanın daha lezzetli bir kabuk tutmasını sağlar. Soğanla biberi de önce iyice yumuşatmak gerekir; kıyma eklendikten sonra soğan aynı sürede pişmez ve yemekte çiğ kalabilir.
+
+    '
+- t: Saklama ve servis
+  d: 'Kıymalı patates buzdolabında kapalı kapta birkaç gün iyi durur; patates bekledikçe suyu çektiği için ertesi gün daha koyu olur. Isıtırken birkaç kaşık sıcak su ekleyip kısık ateşte karıştırmak kıvamı geri getirir. Yanına pirinç pilavı, bulgur pilavı ya da yoğurt çok yakışır. Tarifteki öneriyle bir tutam kekik ve pul biber eklersen, özellikle ofis kutusunda bekleyen porsiyonlarda aroma daha belirgin kalır. Dondurmak istersen patatesin dokusu çözüldükten sonra biraz unlu ve gevşek olabilir, bu yüzden buzdolabında saklamak daha iyi sonuç verir.
+
+    '
+faq:
+- q: Kıymalı patates yemeği kaç dakikada pişer?
+  a: Kıymayı kavurmak yaklaşık 10 dakika, patateslerin sıcak suda kapağı kapalı pişmesi 20 dakika sürer. Hazırlıkla birlikte toplam 45 dakikada hazır olur.
+- q: Kıymalı patates yemeğine kaç bardak su konur?
+  a: 4 orta boy patates ve 250 gram kıyma için 2 su bardağı sıcak su yeterli. Daha sulu istersen yarım bardak daha ekleyebilirsin.
+- q: Kıymalı patateste salça yerine ne kullanılır?
+  a: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates kullanabilirsin. Bu durumda pişirme süresini 5 dakika uzat.
+- q: Kıymalı patates neden dağılır?
+  a: Patatesler farklı büyüklükte doğrandığında ya da yüksek ateşte pişirildiğinde küçük parçalar dağılır. Eşit küp doğrayıp orta-kısık ateşte, kapağı kapalı pişirmek bunu önler.
+editorNote: Patatesleri suyu eklemeden önce 2 dakika kıymayla çevirme adımını ayrı yazdık, çünkü patatesin yüzeyi böylece salçalı yağı alıyor ve yemek tencerede dağılmadan pişiyor.
+aramaBasligi: 'Kıymalı patates yemeği tarifi: Tencerede, 45 dakikada'
 ---
 
-Evde her zaman olan malzemelerle akşam kurtaran bir tencere yemeği.
+Kıymalı patates yemeği, küp doğranmış patatesin kıyma, soğan, biber ve salçayla tencerede piştiği, evde neredeyse her zaman bulunan malzemelerle yapılan bir ana yemek. Sulu, hafif koyu kıvamlı ve pilavla da ekmekle de rahat yenen bir tencere işi.
+
+Bu tarifte önce soğanla biberi yağda yumuşatıyor, kıymayı suyunu çekene kadar kavurup salçayı ekliyorsun. Ardından patatesleri kıymayla kısa süre çevirip kimyon, karabiber, tuz ve sıcak suyla kapağı kapalı pişiriyorsun. Tek tencere, az bulaşık, fazla takip gerektirmeyen bir yöntem.
+
+4 kişilik tarif 15 dakika hazırlık ve 30 dakika pişirmeyle toplam 45 dakikada hazır. Patateslerin eşit doğranması, yemeğin aynı anda pişip dağılmamasının en kolay yolu. Yemeğin kıvamını ayrıca un ya da nişastayla koyulaştırmana gerek yok; patatesin nişastası pişerken suya geçip sosu kendiliğinden bağlıyor.

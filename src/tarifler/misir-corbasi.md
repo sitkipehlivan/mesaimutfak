@@ -78,6 +78,35 @@ steps:
 tips:
 - Mısır ununu soğuk suyla açmazsan topaklanır.
 - Yanına mısır ekmeği ve turşu çok yakışır.
+updated: '2026-11-05'
+notes:
+- t: Mısır ununu topaklamamak
+  d: 'Mısır unu sıcak sıvıyla doğrudan buluştuğunda dış yüzeyi hemen pişer ve içinde kuru un kalan topaklar oluşur. Yarım su bardağı mısır ununu bir su bardağı soğuk suyla pürüzsüz olana kadar karıştırıp çorbaya ince bir akışla dökmek bunu önler. Ekleme sırasında ve sonrasında sürekli karıştırmak gerekir; mısır unu tencerenin dibine çökme eğiliminde. Kısık ateşte yaklaşık 15 dakika pişirmek çiğ un tadını da giderir.
+
+    '
+- t: Karalahanayı hazırlamak
+  d: 'Karalahananın orta damarı ve sapları yapraklardan çok daha sert olduğu için çorbada pişmeden kalır. Yaprakları ikiye katlayıp sapı bıçakla boydan ayırman yeterli. Yaprakları üst üste koyup rulo yaparak ince şeritler halinde doğramak pişmeyi hızlandırır. Karalahana bulamazsan pazı ya da kıvırcık lahana kullanabilirsin; pazı daha çabuk pişer, kıvırcık lahana karalahanaya daha yakın bir doku verir. Doğradıktan sonra yaprakları yıkayıp süzmek, toprak ve kum kalmamasını sağlar.
+
+    '
+- t: Fasulye ve kıvam
+  d: 'Tarifte haşlanmış barbunya ya da kuru fasulye kullanılıyor; kuru fasulyeyi kendin haşlayacaksan bunu önceden yapman gerekir. Konserve haşlanmış fasulye kullanırsan fasulyenin çorbada pişme süresini yarıya indirebilirsin. Mısır çorbası bekledikçe iyice koyulaşır; ertesi gün ısıtırken biraz sıcak su ekleyerek açabilirsin. Yanına mısır ekmeği ve turşu koymak Karadeniz sofrasındaki gibi bir tabak oluşturur. Çorbayı ocaktan almadan pul biberle tatlandırmak tarifin son dokunuşu.
+
+    '
+faq:
+- q: Mısır çorbası nasıl yapılır?
+  a: Tereyağında soğan, salça ve karalahana kavrulur, sıcak su ve fasulyeyle 15 dakika pişirilir. Soğuk suyla açılan mısır unu karıştırılarak eklenir ve kısık ateşte 15 dakika koyulaşana kadar pişirilir.
+- q: Mısır çorbasında mısır unu neden topaklanır?
+  a: Mısır unu doğrudan sıcak çorbaya eklendiğinde topaklanır. Önce bir su bardağı soğuk suyla açıp sürekli karıştırarak eklemek gerekir.
+- q: Mısır çorbasında karalahana yerine ne kullanılır?
+  a: Pazı ya da kıvırcık lahana kullanabilirsin.
+- q: Mısır çorbasına konserve fasulye konur mu?
+  a: Evet, konserve haşlanmış fasulye kullanabilirsin. Bu durumda fasulyenin pişirme süresini yarıya indir.
+editorNote: Mısır ununu bir su bardağı soğuk suyla açma adımını tarifin içine özellikle yazdık, çünkü mısır unu doğrudan sıcak çorbaya eklendiğinde hemen topaklanıyor ve sonradan düzeltmek çok zor.
+aramaBasligi: 'Mısır çorbası tarifi: Karalahanalı, Karadeniz usulü'
 ---
 
-Karadeniz evlerinin kalın, karalahanalı kış çorbası.
+Mısır çorbası, Karadeniz mutfağında karalahana, fasulye ve mısır ununun bir araya geldiği kalın bir kış çorbası. Tatlı mısır taneli çorbalardan farklı; mısır unu çorbaya hem kıvam hem de hafif tanecikli bir doku veriyor.
+
+Bu tarifte karalahananın kalın saplarını ayıklayıp ince doğruyorsun. Tereyağında soğanı yumuşatıp salçayı ve lahanayı ekliyor, birkaç dakika soldurduktan sonra sıcak su ve haşlanmış barbunya ya da kuru fasulyeyle 15 dakika pişiriyorsun. Ardından soğuk suyla açılmış mısır ununu sürekli karıştırarak ekleyip kısık ateşte koyulaşana kadar pişiriyorsun.
+
+6 kişilik tarif 15 dakika hazırlık ve 35 dakika pişirmeyle toplam 50 dakikada hazır. Tarif glutensiz; kıvamı un değil mısır unu veriyor.

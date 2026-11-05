@@ -83,6 +83,35 @@ steps:
 tips:
 - Fırınlamadan da tencereden kaşıklayarak yenir.
 - Biraz brokoli ekleyerek sebzeli yapabilirsin.
+updated: '2026-11-05'
+notes:
+- t: Pürüzsüz peynir sosu
+  d: 'Sosun temeli bir beşamel: 3 yemek kaşığı tereyağında 3 yemek kaşığı un kokusu gidene kadar kavrulur, ardından süt çırpılarak azar azar eklenir. Sütü bir anda dökersen topak oluşur. Sos koyulaşınca ocaktan alınmalı, peynirler ancak o zaman eklenmeli. Peynir çok yüksek ısıda eridiğinde proteinleri sıkışır ve yağ ayrışır; sos parlak ve akışkan yerine taneli görünür. Rendelenmiş peyniri tek seferde değil, birkaç parti halinde karıştırarak eritmek de yardımcı olur.
+
+    '
+- t: Makarnayı az haşlamak
+  d: 'Makarnayı paket süresinden biraz kısa, al dente haşlamak önemli; çünkü fırında sosla birlikte 15 dakika daha pişiyor ve sosu emmeye devam ediyor. Tam pişmiş makarna fırından yumuşak ve dağılmış çıkar. Dirsek makarna sosu içinde tuttuğu için bu yemeğin klasik seçimi, ama burgu ya da kalem makarna da kullanılabilir. Tam buğday ya da glutensiz makarna kullanacaksan haşlama süresi için paketteki bilgiye bak ve birkaç dakika eksik pişir.
+
+    '
+- t: Peynir seçimi ve varyasyonlar
+  d: 'Çedar sosa belirgin, hafif keskin bir tat ve turuncu bir renk verir; kaşar ise iyi erir ve uzayan bir doku sağlar. Kaşar yerine mozzarella ya da tost peyniri kullanabilirsin; eriyen herhangi bir peynir olur. Hardal ve muskat sosun tadını yükseltir ama baskın değildir, atlama. Galeta unu yoksa rendelenmiş bayat ekmek içi ya da yulaf ezmesi üstte aynı çıtırlığı verir. Sebze eklemek istersen haşlanmış brokoli çiçekleri makarnayla birlikte sosa karıştırılabilir.
+
+    '
+faq:
+- q: Mac and cheese hangi peynirle yapılır?
+  a: Bu tarifte 200 g çedar ve 100 g kaşar kullanılıyor. Kaşar yerine mozzarella ya da tost peyniri gibi iyi eriyen bir peynir de olur.
+- q: Mac and cheese fırında kaç dakika pişer?
+  a: 200°C fırında üzeri kızarana kadar yaklaşık 15 dakika pişer. Makarna önceden al dente haşlandığı için uzun pişirmeye gerek yoktur.
+- q: Mac and cheese sosu neden taneli olur?
+  a: Peynir kaynayan sosa eklendiğinde yağını salıp taneleşir. Sosu koyulaşınca ocaktan al, peynirleri ancak ondan sonra karıştır.
+- q: Mac and cheese fırınsız yapılır mı?
+  a: Evet. Makarnayı peynir sosuyla karıştırdıktan sonra fırına vermeden doğrudan tencereden servis edebilirsin; üstteki çıtır kabuk olmaz ama sos daha akışkan kalır.
+editorNote: Peynirleri sos ocaktan alındıktan sonra eklemeyi ayrıca belirttik; kaynayan sosa giren peynir yağını salıp taneli bir doku bırakıyor.
+aramaBasligi: 'Mac and cheese tarifi: Çedarlı sos, fırında 40 dakikada'
 ---
 
-Amerikan çocukluğunun peynirli makarnası, bizim fırın makarnanın kremalı kuzeni.
+Mac and cheese, dirsek makarnanın kremamsı peynir sosuna bulanıp fırınlanmasıyla yapılan bir Amerikan klasiği. Bizim fırın makarnamıza benziyor ama beşamelin içinde bol peynir eridiği için daha yoğun ve akışkan bir sosu var.
+
+Bu tarifte sos tereyağında kavrulan un ve sütle hazırlanıyor, ocaktan alındıktan sonra çedar ve kaşar ekleniyor. Bir tatlı kaşığı hardal ve bir tutam muskat peynirin tadını belirginleştiriyor. Üzerine kalan peynir ve galeta unu serpilip 200°C fırında kızartılıyor.
+
+Hazırlık ve pişirme toplam 40 dakika, tarif 4 kişilik. Acele ediyorsan fırın adımını atlayıp makarnayı doğrudan tencereden de servis edebilirsin; üzerindeki çıtır kabuk olmaz ama sos daha akışkan kalır.

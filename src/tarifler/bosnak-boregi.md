@@ -78,6 +78,35 @@ steps:
 tips:
 - Balkanlarda yanında yoğurt ya da ayranla yenir.
 - Peynirli versiyonuna “sirnica”, ıspanaklısına “zeljanica” denir.
+updated: '2026-11-05'
+notes:
+- t: Yağlı karışımın görevi
+  d: 'Tereyağı, sıvı yağ ve ılık suyun karışımı böreğin dokusunu belirler. Tereyağı lezzet ve renk, sıvı yağ çıtırlık verir, su ise yufkanın fırında kuruyup kırılmasını önler. Karışımı yufkanın her yerine eşit sür; kuru kalan noktalar fırında sertleşir. Yufkayı sararken gevşek bırakmak önemli, çünkü sıkı sarılan rulo pişerken çatlar ve harç dışarı taşar. Kalan yağlı karışımı tepsideki ruloların üzerine gezdirmeyi unutma. Yufkaları kullanmadan önce üzerini örterek bekletmek kurumalarını önler.
+
+    '
+- t: Salyangoz dizimi
+  d: 'Ruloları yuvarlak tepsinin ortasından başlayarak spiral şeklinde dizmek Boşnak böreğinin klasik görünüşünü verir. Her yeni ruloyu bir öncekinin ucuna ekleyip dönmeye devam et. Rulolar arasında büyük boşluk bırakmamak böreğin fırında şeklini korumasını sağlar. 190°C fırında altı ve üstü kızarana kadar 40 dakika pişir. Tepsinin altının da kızarması gerektiği için fırının alt ve üst ısıtıcısını birlikte kullanmak iyi olur. Rulolar fırında hafif kabardığı için tepsiyi sıkıştırmadan doldurmak yeterli.
+
+    '
+- t: Dinlendirme ve çeşitler
+  d: 'Börek fırından çıkınca üzerini bir bezle örtüp 10 dakika dinlendir. Bu bekleme sırasında buhar yufkayı hafifçe yumuşatır, dilimlerken katlar dağılmaz. Balkanlarda börek yanında yoğurt ya da ayranla yenir. Aynı yöntemle peynirli versiyonu yapılır, buna sirnica denir; ıspanaklı olana ise zeljanica denir. Etsiz istersen kıyma yerine haşlanmış yeşil mercimek ya da ince doğranmış mantar kullanabilirsin. Arta kalan böreği fırında birkaç dakika ısıtırsan katlar yeniden çıtırlaşır.
+
+    '
+faq:
+- q: Boşnak böreği kaç dakika pişer?
+  a: 190°C fırında altı ve üstü kızarana kadar 40 dakika pişer. Çıkınca bezle örtüp 10 dakika dinlendirilir.
+- q: Boşnak böreğinde kıyma kavrulur mu?
+  a: Hayır, bu tarifte harç çiğ olarak yufkaya konur. Kıyma fırında pişerken suyunu yufkaya verir.
+- q: Boşnak böreği nasıl yumuşak olur?
+  a: Yufkaları tereyağı, sıvı yağ ve ılık su karışımıyla yağlamak ve fırından sonra bezle örtüp dinlendirmek böreği yumuşak tutar.
+- q: Boşnak böreğinin yanında ne yenir?
+  a: Balkanlarda genellikle yoğurt ya da ayranla servis edilir.
+editorNote: Harcın çiğ kalmasını adımın içinde açıkça yazdık; önceden kavrulmuş kıyma fırında kuruyup ufalanır, çiğ harç ise pişerken kendi suyuyla yufkayı nemlendiriyor ve burek'in tanıdık sulu içini veriyor.
+aramaBasligi: 'Boşnak böreği tarifi: Kıymalı, sarmal, fırında 40 dakika'
 ---
 
-Saraybosna fırınlarının en çok satan böreği, evde tepsi tepsi.
+Boşnak böreği, Bosna'da burek adıyla bilinen, yufkaya sarılmış kıymalı harçla yapılan sarmal bir börek. Rulolar yuvarlak tepsiye ortadan başlayarak salyangoz gibi diziliyor; fırında altı ve üstü kızarınca dilimlenip servis ediliyor.
+
+Bu tarifte kıyma, rendelenmiş soğan ve baharatlarla yoğruluyor ve harç çiğ olarak yufkaya konuyor. Kıyma fırında pişerken suyunu yufkaya veriyor, böreğin içi sulu kalıyor. Yufkalar tereyağı, sıvı yağ ve ılık su karışımıyla yağlanıyor; bu karışım katların hem yumuşak hem kızarmış olmasını sağlıyor.
+
+Hazırlık 30, pişirme 40 dakika; toplam 70 dakikada 6 kişilik bir tepsi börek. Yanında yoğurt ya da ayranla tek başına bir öğün olarak sofraya gelebilir.

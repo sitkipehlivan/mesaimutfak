@@ -87,6 +87,35 @@ steps:
 tips:
 - Kurulamazsan buharda pişer, kızarmaz.
 - Üzerine kavrulmuş fındık ya da nar taneleri serpebilirsin.
+updated: '2026-11-05'
+notes:
+- t: Kuru ve tek kat
+  d: 'Karnabaharın kızarması için yüzeyinde su olmaması gerekir. Yıkadıktan sonra temiz bir bezle iyice kurulamak ya da bir süre süzgeçte bekletmek bu yüzden önemli. Tepsiye yayarken çiçeklerin üst üste binmemesi de aynı nedenle şart; sıkışık tepside çıkan buhar karnabaharı haşlar. Tepsi küçükse iki tepsi kullanmak daha iyi sonuç verir. Pişirmenin yarısında çevirmek her yüzün eşit renk almasını sağlar. Fırını önceden 220°C''ye ısıtmak da kızarmayı hızlandırır.
+
+    '
+- t: Baharatları eşit dağıtmak
+  d: 'Zeytinyağı ve baharatları önce bir kapta karıştırıp karnabaharı bu karışımın içinde harmanlamak, her çiçeğin eşit kaplanmasını sağlar. Baharatları doğrudan tepsideki karnabaharın üzerine serpersen bir kısmı tepsiye dökülür ve yanar. Zerdeçal ve toz kırmızı biber karnabahara renk verir, kimyon da tadı derinleştirir. Çiçekleri küçük ve benzer boyutta ayırmak, aynı sürede pişmelerini kolaylaştırır. Baharatları ve zeytinyağını karıştırdıktan sonra birkaç dakika bekletmek de çiçeklerin aromayı almasına yardım eder.
+
+    '
+- t: Sos ve airfryer
+  d: 'Tahinli yoğurt sosu karnabaharın sıcaklığına ferah bir karşılık verir. Sosu sıcak karnabaharın üzerine servis anında dökmek, çıtırlığın korunmasını sağlar. Tahin yerine sade fıstık ezmesi, nar ekşisi yerine limon suyu ve biraz bal ya da pekmez kullanabilirsin. Airfryer kullanacaksan soslanmış çiçekleri tek kat yayıp 190°C''de 15-18 dakika pişir, arada sepeti salla. Üzerine kavrulmuş fındık ya da nar taneleri serpebilirsin. Sosu önceden hazırlayıp buzdolabında bekletebilirsin.
+
+    '
+faq:
+- q: Fırında karnabahar kaç derecede kaç dakika pişer?
+  a: 220°C fırında, yarısında çevirerek yaklaşık 30 dakika, kenarları kızarana kadar pişer.
+- q: Fırında karnabahar neden kızarmaz?
+  a: Karnabahar iyi kurulanmadığında ya da tepsiye üst üste dizildiğinde buharda pişer ve kızarmaz. İyice kurulayıp tek kat yaymak gerekir.
+- q: Fırında karnabahar airfryer'da yapılır mı?
+  a: Evet. Soslanmış çiçekleri tek kat yayıp 190°C'de 15-18 dakika pişir, arada sepeti salla.
+- q: Fırında karnabahar sosunda tahin yerine ne kullanılır?
+  a: Tahin yerine sade fıstık ezmesi kullanabilirsin.
+editorNote: Karnabaharı yıkadıktan sonra iyice kurulama adımını tek başına bir uyarı olarak tuttuk; çünkü ıslak çiçekler 220°C fırında bile buharda pişiyor ve kenarları karamelleşmiyor.
+aramaBasligi: 'Fırında karnabahar tarifi: Tahinli yoğurt sosuyla'
 ---
 
-Karnabaharı sevmeyenleri bile ikna eden, kenarları karamelleşmiş bir fırın tarifi.
+Fırında karnabahar, küçük çiçeklere ayrılmış karnabaharın baharatlı zeytinyağıyla yüksek ısıda kızartıldığı bir sebze yemeği. Kenarları karamelleşen karnabahar, haşlanmış halinden çok farklı bir tat ve doku kazanıyor.
+
+Bu tarifte karnabaharı çiçeklere ayırıp iyice kuruluyor, zeytinyağı, toz kırmızı biber, kimyon, zerdeçal ve tuzla harmanlıyorsun. Tepsiye tek kat yayıp 220°C fırında, yarısında çevirerek kenarları kızarana kadar pişiriyorsun. Servis ederken üzerine yoğurt, tahin, sarımsak ve limonla hazırlanan sosu ve nar ekşisini gezdiriyorsun.
+
+4 kişilik tarif 10 dakika hazırlık ve 30 dakika pişirmeyle toplam 40 dakikada hazır. Airfryer'da da yapılabiliyor. Hem tek başına hafif bir ana yemek hem de etin yanında garnitür olarak servis edilebiliyor. Karnabaharın tadını sevmeyenler için bile iyi bir başlangıç.

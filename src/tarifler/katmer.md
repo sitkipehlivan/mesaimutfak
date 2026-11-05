@@ -79,6 +79,35 @@ steps:
 tips:
 - Hamur ne kadar ince açılırsa katmer o kadar katlı olur.
 - Kaymak yoksa krem peynir ve biraz krema karışımı kullanılabilir.
+updated: '2026-11-05'
+notes:
+- t: Hamuru ince açmak
+  d: 'Katmerin kat kat ve çıtır olması tamamen hamurun inceliğine bağlı. Hamuru dinlendirmek glüteni gevşetir ve açarken yırtılmadan esnemesini sağlar. Tezgâhı ve bezeyi yağlamak hamurun yapışmasını önler, elle ya da oklavayla açmayı kolaylaştırır. Hamuru ortadan kenarlara doğru açmak ve kenarları parmak uçlarınla nazikçe çekmek inceltmeye yardım eder. Küçük yırtıklar sorun değil; katlama sırasında kapanırlar. Hamurun inceliği pratikle gelir; ilk denemede kalın olması normal.
+
+    '
+- t: İç harcı ve katlama
+  d: 'Kaymak, şeker ve fıstığı hamurun ortasında bir kare alana yaymak, kenarların boş kalmasını ve katlarken harcın dışarı taşmamasını sağlar. Dört kenarı içe doğru katlayarak kapalı bir zarf oluşturmak, kaymağın pişerken akmasını önler. Kaymak bulamazsan mascarpone ya da kıvamında çırpılmış krema kullanabilirsin; tarifteki notta krem peynir ve biraz krema karışımı da öneriliyor. Fıstığı toz halinde kullanmak harcın eşit dağılmasını sağlar. Harcı fazla koymak katlamayı zorlaştırır ve hamuru yırtabilir.
+
+    '
+- t: Pişirme ve servis
+  d: 'Katmer yüksek ısıda kısa sürede pişmeli; 220°C''de 8-10 dakika genelde yeterli. Pişirirken üzerine eritilmiş tereyağı sürmek rengini ve çıtırlığını artırır. Fırın yerine tavada da pişirebilirsin; bu durumda iki yüzünü de kontrol ederek altın rengi olana kadar çevir. Katmer sıcakken kare kesilip hemen servis edilmeli; soğudukça çıtırlığını kaybeder. Yanına çay yakışır. Tavada pişireceksen orta ateş kullanmak dışının yanmasını önler. Artan katmeri tavada kısa süre ısıtmak çıtırlığını bir ölçüde geri getirir.
+
+    '
+faq:
+- q: Antep katmeri nasıl yapılır?
+  a: Dinlendirilmiş hamur altından tezgâh görünecek kadar ince açılır, ortasına kaymak, şeker ve toz Antep fıstığı konup zarf gibi katlanır. Üzerine tereyağı sürülerek 220°C'de altın rengi olana kadar pişirilir.
+- q: Antep katmeri kaç dakika pişer?
+  a: 220°C'de fırında ya da tavada yaklaşık 8-10 dakika, altın rengi olana kadar pişer.
+- q: Katmerde kaymak yerine ne kullanılır?
+  a: Mascarpone ya da kıvamında çırpılmış krema kullanabilirsin. Krem peynir ve biraz krema karışımı da olur.
+- q: Katmer hamuru neden yırtılır?
+  a: Hamur yeterince dinlenmediğinde ya da tezgâh yağlanmadığında açarken yırtılır. Bezeleri yağlayıp 30 dakika dinlendirmek hamuru esnek yapar.
+editorNote: Hamuru iki bezeye ayırıp 30 dakika dinlendirmeyi ayrı adım yaptık; çünkü dinlenmemiş hamur açarken geri çekiyor ve katmerin istediği, altından tezgâh görünen incelik ancak gevşemiş hamurla elde ediliyor.
+aramaBasligi: 'Antep katmeri tarifi: Kaymaklı ve fıstıklı ince hamur'
 ---
 
-Antep’te sabah kahvaltısında yenen, fıstıklı ve kaymaklı ince katmer.
+Antep katmeri, Gaziantep'te sabah kahvaltısında yenen, kağıt inceliğinde açılmış hamurun içine kaymak, toz Antep fıstığı ve şeker konup katlanarak pişirildiği bir tatlı. Dışı çıtır, içi kaymaklı ve sıcakken yenen bir kahvaltılık.
+
+Bu tarifte un, ılık su, tuz ve sıvı yağla hamur yoğurup iki bezeye ayırıyor, yağlayıp 30 dakika dinlendiriyorsun. Bezeyi yağlanmış tezgâhta altından tezgâh görünecek kadar ince açıp ortasına kaymak, şeker ve fıstığı yayıyor, dört kenarını içe katlayarak kare bir zarf yapıyorsun. Üzerine eritilmiş tereyağı sürüp 220°C'de altın rengi olana kadar pişiriyorsun.
+
+2 kişilik tarif 30 dakika hazırlık ve 10 dakika pişirmeyle toplam 40 dakikada hazır. Tarif zor seviyede, çünkü hamuru ince açmak pratik istiyor.

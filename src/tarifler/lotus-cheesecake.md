@@ -91,6 +91,35 @@ tips:
 - Krem peynir ve yumurtalar oda sıcaklığında olursa dolgu topaklanmaz.
 - Kalıbın dışını alüminyum folyoyla sararsan su banyosunda pişirebilirsin; çatlama ihtimali azalır.
 - Bıçağı sıcak suya batırıp silerek kesersen dilimler temiz çıkar.
+updated: '2026-11-05'
+notes:
+- t: Çatlamadan pişirmek
+  d: 'Cheesecake''in yüzeyindeki çatlakların üç yaygın nedeni var: dolguya fazla hava girmesi, fırının kuru olması ve ani sıcaklık değişimi. Dolguyu düşük devirde, yumurtaları tek tek ekleyerek karıştırırsan hava kabarcığı az olur. Alt rafa konan sıcak su kabı fırının içini nemli tutar ve kenarların ortadan çok önce sertleşmesini engeller. Pişirme sonunda ortanın hafif titrek kalması doğru; soğurken ve buzdolabında dinlenirken kendiliğinden toparlanır.
+
+    '
+- t: Oda sıcaklığı ve doku
+  d: 'Krem peynir ve yumurtalar buzdolabından yeni çıkmışsa dolgu topaklı olur; topakları gidermek için daha uzun çırpman gerekir, bu da dolguya hava sokar. Malzemeleri bir süre önceden tezgaha çıkarmak bu yüzden önemli. Krem peynir yerine labne birebir kullanılabilir. Yarısını süzme yoğurtla değiştirirsen doku biraz daha hafif ve hafif ekşimsi çıkar. Mısır nişastası yoksa aynı ölçü buğday nişastası ya da pirinç unu işini görür.
+
+    '
+- t: Kesme ve saklama
+  d: 'Temiz dilim için bıçağı sıcak suya batırıp silerek her kesimde tekrarla. Bisküvi kremasıyla kaplanmış cheesecake buzdolabında kapalı bir kapta ya da streçle örtülü olarak saklanır; yüzey kuruyup koku almasın diye üzerini açık bırakma. Kırılmış bisküvileri servisten hemen önce eklersen çıtırlıklarını korurlar, önceden koyarsan nemlenip yumuşar. Dondurmak istersen üst kaplamayı yapmadan dondur ve buzdolabında yavaşça çöz, kaplamayı çözüldükten sonra dök; böylece krema parlaklığını korur.
+
+    '
+faq:
+- q: Lotus cheesecake tarifi için hangi kalıp kullanılır?
+  a: 22-24 cm çapında kelepçeli kalıp kullanılır. Su banyosunda pişireceksen kalıbın dışını alüminyum folyoyla sar.
+- q: Lotus cheesecake kaç derecede ve kaç dakika pişer?
+  a: 160°C fırının orta rafında, alt rafa bir kap sıcak su koyarak 55-60 dakika pişer. Ortası hafif titrek kalınca fırını kapatırsın.
+- q: Lotus cheesecake neden çatlar?
+  a: Dolgunun fazla çırpılıp hava alması, kuru fırın ve ani soğuma en sık nedenlerdir. Düşük devirde karıştırmak, su kabıyla pişirmek ve kapağı aralık fırında 1 saat soğutmak çatlamayı azaltır.
+- q: Lotus cheesecake buzdolabında ne kadar bekletilmeli?
+  a: Fırında soğuduktan sonra en az 6 saat, tercihen bir gece buzdolabında dinlenmeli. Bu süre dolgunun sertleşip temiz dilimlenmesini sağlar.
+editorNote: Fırını kapatıp cheesecake'i kapağı aralık soğutma adımını ayrı yazdık, çünkü çatlakların çoğu pişerken değil, sıcak fırından soğuk mutfağa ani geçişte oluşur.
+aramaBasligi: 'Lotus cheesecake tarifi: Fırında pişen, bir gece dinlenen'
 ---
 
-Lotus bisküvinin karamelli, tarçınlı tadı cheesecake’le buluşunca kafelerin en çok sipariş edilen dilimi ortaya çıkıyor. Evde yapması sanıldığından kolay; tek şart sabır.
+Lotus cheesecake, karamelli ve tarçınlı bisküviyle yapılan, kremamsı dolgulu fırın cheesecake'i. Tabanı da üst kaplaması da aynı bisküviden geliyor; dolgunun içine de birkaç kaşık bisküvi kreması karıştırıldığı için tat her katmanda aynı çizgide ilerliyor.
+
+Bu tarifte cheesecake 160°C fırında, alt rafa konan bir kap sıcak suyun nemiyle yavaş pişiyor. Ardından kapağı aralık fırında soğuyor ve buzdolabında en az 6 saat, tercihen bir gece dinleniyor. Akışkan bisküvi kreması en son, soğuk dilimin üzerine dökülüyor.
+
+Hazırlık ve pişirme toplam 90 dakika sürüyor, 22-24 cm'lik kalıptan 10 kişilik dilim çıkıyor. Dinlenme süresini hesaba katıp bir gün önceden başlamak en rahatı.

@@ -83,6 +83,35 @@ steps:
 tips:
 - Patatesleri ön pişirmeden koyarsan sos çekilir ama patates pişmez.
 - Üzerine domates ve biber halkası koyarsan görüntüsü şenlenir.
+updated: '2026-11-05'
+notes:
+- t: Ön pişirmenin önemi
+  d: 'Patates fırında sosla birlikte pişerken sos çekilir ama 1 cm kalınlığındaki patates dilimleri bu sürede tam yumuşamaz. Bu yüzden patatesleri önce az yağda iki yüzünü kızartmak ya da yağlayıp fırında 15 dakika ön pişirmek gerekir. Kızartma daha lezzetli ve kenarları belirgin bir sonuç verir; fırında ön pişirme ise daha az yağla ve daha az uğraşla aynı işi görür. Dilimleri eşit kalınlıkta kesmek iki yöntemde de önemli.
+
+    '
+- t: Harcın kıvamı
+  d: 'Kıymalı harcı fazla sulu bırakırsan patatesin üzerinden akar ve tabakta dağılır. Kıymayı suyunu çekene kadar kavurmak, domatesi ekledikten sonra da domatesin suyu biraz çekilene kadar pişirmek harcın patates dilimlerinin üzerinde durmasını sağlar. Kıyma yerine kuzu kıyma kullanabilirsin; etsiz bir versiyon için haşlanmış yeşil mercimek ya da ince doğranmış mantar da olur. Üzerine domates ve biber halkası koymak görüntüyü güzelleştirir. Harcı çok ince kıyma ile yapmak patatesin üzerinde daha düzgün durmasını sağlar.
+
+    '
+- t: Sosu doğru dökmek
+  d: 'Salçalı suyu patateslerin üzerine değil kabın kenarından dökmek, harcın yerinde kalmasını ve patateslerin üst kısmının kızarmasını sağlar. 1 su bardağı sıcak su bu kap için yeterli; fazlası yemeği sulandırır. Fırından çıkınca birkaç dakika bekletmek sosun biraz koyulaşmasına yardım eder. Patates oturtma buzdolabında kapalı kapta saklanabilir; ısıtırken üzerine birkaç kaşık su eklemek kurumasını önler. Yanına pilav ya da yoğurt yakışır. Kabı fırının orta rafına koymak altının yanmadan üstün kızarmasına yardım eder.
+
+    '
+faq:
+- q: Patates oturtma kaç derecede kaç dakika pişer?
+  a: Patates oturtma 190°C fırında 30-35 dakika pişer. Patatesler bundan önce kızartılır ya da fırında 15 dakika ön pişirilir.
+- q: Patates oturtmada patatesler neden pişmez?
+  a: Patatesler ön pişirme yapılmadan fırına konduğunda sos çekilir ama patates pişmez. Önce kızartmak ya da fırında 15 dakika ön pişirmek gerekir.
+- q: Patates oturtma kızartmadan yapılır mı?
+  a: Evet. Patates dilimlerini yağlayıp fırında 15 dakika ön pişirerek kızartmadan yapabilirsin.
+- q: Patates oturtmada kıyma yerine ne kullanılır?
+  a: Kuzu kıyma kullanılabilir. Etsiz istersen haşlanmış yeşil mercimek ya da ince doğranmış mantar da olur.
+editorNote: Patatesleri fırına girmeden önce kızartma ya da 15 dakika ön pişirme adımını zorunlu tuttuk; çünkü çiğ patates 1 cm kalınlıkta bile sosun çekildiği sürede pişmiyor.
+aramaBasligi: 'Patates oturtma tarifi: Kıymalı harç ve domates sosuyla'
 ---
 
-Patlıcan oturtmanın patatesli, daha hızlı ve çocukların sevdiği versiyonu.
+Patates oturtma, yuvarlak dilimlenmiş patateslerin üzerine kıymalı harç konup domates sosuyla fırında pişirildiği bir ana yemek. Patlıcan oturtmanın patatesli, daha hızlı ve çocukların da sevdiği bir versiyonu.
+
+Bu tarifte patatesleri 1 cm kalınlığında dilimleyip az yağda iki yüzünü kızartıyor ya da yağlayıp fırında 15 dakika ön pişiriyorsun. Soğan, kıyma, biber ve domatesle harcı hazırlayıp her patates diliminin üzerine bir kaşık koyuyorsun. Sıcak suda açılmış salçayı kabın kenarından döküp 190°C fırında 30-35 dakika pişiriyorsun.
+
+4 kişilik tarif 25 dakika hazırlık ve 35 dakika pişirmeyle toplam 60 dakikada hazır. Patatesleri tavada kızartmak ya da fırında ön pişirmek arasında seçim yapabiliyorsun; ikinci yol daha az yağlı ve daha az ilgi istiyor. Yanına yoğurt ya da pilav koyabilirsin.

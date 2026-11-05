@@ -93,6 +93,43 @@ steps:
 tips:
 - Eti ne kadar küçük doğrarsan o kadar hızlı ve yumuşak pişer.
 - Üzerine fırından çıkmadan bir yumurta kırabilirsin.
+updated: '2026-11-05'
+notes:
+- t: Harcı neden soğutuyoruz
+  d: 'Sıcak harç mayalı hamurun üzerine konduğunda hamuru gevşetir, alt kısmı hamurlaşır ve kenarları kıvırırken yırtılabilir. Harcı tavada pişirdikten sonra tamamen soğumasını beklemek hem açmayı kolaylaştırır hem de pidenin altının fırında çıtır kalmasını sağlar. Harcın fazla suyu kaldıysa tavada biraz daha çektir; sulu harç pidenin ortasında göl yapar ve hamuru ıslatır. Harcı hamur mayalanırken hazırlarsan bekleme süresini boşa harcamazsın. Soğuyan harcı hamurun ortasına yay ve kenarlara iki parmak boşluk bırak.
+
+    '
+- t: Kızgın tepsi ve yüksek ısı
+  d: 'Pidecilerin taş fırınları çok yüksek ısıda çalışır, bu yüzden pide kısa sürede pişer ve kurumaz. Evde buna yaklaşmak için fırını en yüksek ısıya getir ve tepsiyi de fırının içinde ısıt. Pideleri kızgın tepsiye aktardığında altı hemen tutar. Fırının ısısı düşükse pişme süresi uzar, hamur kurur ve harç kuruyarak lezzetini kaybeder. Kenarlar kızarınca çıkar ve üzerine hemen tereyağı sür; sıcak hamur tereyağını emer.
+
+    '
+- t: Kenarları kapatmak ve yumurta
+  d: 'Oval açtığın hamurun uzun kenarlarını harcın üzerine doğru kıvır, iki ucu parmaklarınla sıkıca bastırarak birleştir. Uçlar iyi kapanmazsa fırında açılır ve kayık şekli kaybolur. İstersen fırından çıkmasına birkaç dakika kala ortasına bir yumurta kırabilirsin; yumurta kalan sürede tutar. Pide en iyi sıcakken yenir. Artanı buzdolabında saklayıp ertesi gün kızgın tavada ya da fırında birkaç dakika ısıtırsan altı yeniden çıtırlaşır. Pideleri tepsiye aralıklı yerleştir ki kenarları her taraftan renk alsın.
+
+    '
+faq:
+- q: Kuşbaşılı pide fırında kaç dakika pişer?
+  a: 'En yüksek ısıya getirilmiş fırında, kızgın tepside 12-15 dakika pişer. Kenarları kızardığında pide hazırdır.
+
+    '
+- q: Kuşbaşılı pide için et nasıl yumuşak olur?
+  a: 'Eti çok küçük doğra ve fırından önce tereyağında suyunu çekene kadar kavur. Küçük doğranan et hem daha hızlı hem daha yumuşak pişer.
+
+    '
+- q: Pide hamuru kaç dakika mayalanır?
+  a: 'Bu tarifteki hamur 45 dakika mayalanır. Hamuru ılık bir yerde, üzeri örtülü bekletmek mayalanmayı hızlandırır.
+
+    '
+- q: Kuşbaşılı pidede dana eti yerine ne kullanılır?
+  a: 'Kuzu eti ya da tavuk but kullanabilirsin. Tavuk kullanırsan harcın tavadaki pişirme süresini yarıya indir.
+
+    '
+editorNote: Harcı fırından önce tavada pişirip soğutma adımını ayrı yazdık; ev fırını pideyi 12-15 dakikada pişirir ama bu sürede çiğ kuşbaşı yumuşamaz. Eti çok küçük doğramayı da bu yüzden malzeme listesine yazdık.
+aramaBasligi: 'Kuşbaşılı pide tarifi: Evde fırında kayık pide'
 ---
 
-Karadeniz pidecilerinin sulu kuşbaşılı pidesi.
+Kuşbaşılı pide, mayalı hamurun kayık şeklinde açılıp ortasına et harcı konarak fırında pişirildiği, Karadeniz pidecileriyle özdeşleşmiş bir hamur işi. Kenarları kıvrılan hamur, harcın suyunu içinde tutar; dışı kızarırken içi sulu kalır.
+
+Bu tarifte dana kuşbaşı çok küçük doğranıyor ve fırına girmeden önce tereyağında soğan, domates ve sivri biberle ayrıca pişiriliyor. Böylece fırındaki kısa sürede etin pişip pişmediğini düşünmek zorunda kalmıyorsun; fırın yalnızca hamuru kızartıyor.
+
+Tarif 4 pide çıkarıyor. Hazırlık 30, pişirme 15 dakika; buna hamurun 45 dakikalık mayalanma süresini eklemen gerekiyor. Fırını en yüksek ısıya getirip tepsiyi de kızdırmak, evde pideci fırınına en çok yaklaştığın yol.

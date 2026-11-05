@@ -96,6 +96,43 @@ steps:
 tips:
 - Ters çevirmeden önce mutlaka demlendir; yoksa dağılır.
 - Tavukla da yapılır; kemiksiz but kullan.
+updated: '2026-11-05'
+notes:
+- t: Ters çevirmeden önce demlendirmek
+  d: 'Pirinç suyunu çektikten sonra tencereyi ocaktan alıp 15 dakika demlendirmek, katların birbirine oturmasını sağlar. Sıcak ve buharlı pilav çevrildiğinde katlar ayrılır ve tabağa dağılarak düşer. Demlendikten sonra tencerenin üzerine tencereden geniş bir servis tabağı kapat, iki elinle tabağı ve tencereyi birlikte tutarak tek hamlede çevir. Tencereyi hemen kaldırma; birkaç saniye beklet, sonra yavaşça yukarı çek. Tabağın kenarının tencere ağzını tamamen kapattığından emin ol, yoksa suyu taşar.
+
+    '
+- t: Sebzeleri kızartmak
+  d: 'Patlıcan ve patates dilimlerini kızartmak, pişerken dağılmalarını engeller ve maklubeye karakteristik tadını verir. Kızarttığın dilimleri kâğıt havluya almak fazla yağı çeker; aksi halde pilav ağırlaşır. Patlıcanı kızartmadan önce dilimleyip tuzlu suda bekletirsen daha az yağ çeker. Daha hafif bir sonuç istersen dilimleri yağlayıp fırında da pişirebilirsin, ancak tat ve doku kızartılmış haldeki kadar belirgin olmaz. Dilimleri çok ince kesme; kızarınca dağılırlar ve katlar belirsizleşir.
+
+    '
+- t: Pirinç, et ve alternatifler
+  d: 'Baldo pirinç maklubede katları tutacak kadar nişasta bırakır. Osmancık pirinç kullanacaksan et suyunu bir parmak azalt. Kuzu eti yerine dana eti kullanılabilir, süre benzer. Tavukla yapmak istersen kemiksiz but kullan; but göğüs etine göre pişerken kurumaz. Patates yerine tatlı patates de olur, ama biraz daha hızlı pişer. Yenibahar bulamazsan bir tutam tarçın ve bir tutam karanfille benzer bir koku elde edersin.
+
+    '
+faq:
+- q: Maklube ne demek?
+  a: 'Maklube Arapçada "ters çevrilmiş" demektir. Yemeğin adı, pişince tencerenin servis tabağına ters çevrilmesinden gelir.
+
+    '
+- q: Maklube neden dağılır?
+  a: 'En sık neden demlenmeden çevrilmesidir. Pirinç suyunu çektikten sonra 15 dakika demlendirip tek hamlede ters çevirirsen katlar yerinde kalır.
+
+    '
+- q: Maklube hangi pirinçle yapılır?
+  a: 'Bu tarifte baldo pirinç kullanılıyor. Osmancık pirinç de olur, ancak et suyunu bir parmak azaltman gerekir.
+
+    '
+- q: Maklube tavukla yapılır mı?
+  a: 'Evet. Kemiksiz tavuk but kullanırsan et pişerken kurumaz, katlar da aynı şekilde dizilir.
+
+    '
+editorNote: Demlendirmeyi pişirme adımının içine, ters çevirme uyarısını da ayrı bir adım olarak yazdık; maklubenin dağılmasının en yaygın nedeni demlenmeden çevrilmesi. Eti önceden pişirip suyunu kullanmayı seçtik, böylece pirinç düz su yerine et suyuyla pişiyor.
+aramaBasligi: 'Maklube tarifi: Etli, patlıcanlı, ters çevrilen pilav'
 ---
 
-Adı “ters çevrilmiş” demek. Tencere kalktığında sofradakilerin alkışı garanti.
+Maklube, Arapçada "ters çevrilmiş" anlamına gelen adını servis şeklinden alan bir pilav. Et, kızarmış sebze ve pirinç tencereye kat kat dizilir, pişince tencere tabağın üzerine ters çevrilir. Arap mutfağında yaygın olan bu yemek, Türkiye'de en çok Hatay mutfağıyla bilinir.
+
+Bu tarifte kuzu ya da dana kuşbaşı önce soğanla yumuşayana kadar pişiriliyor ve suyu pilav için ayrılıyor. Patlıcan ve patates kızartılıyor, baharatlı baldo pirinç en üste yayılıyor.
+
+6 kişilik maklube 40 dakika hazırlık ve 60 dakika pişirmeyle toplam 100 dakika sürüyor. Zorluk derecesi zor olarak işaretli; zor kısmı yemek değil, ters çevirme anı. Üzerine kavrulmuş badem ya da çam fıstığı serpiliyor.

@@ -84,6 +84,35 @@ steps:
 tips:
 - Donuk bezelye kullanıyorsan son 10 dakikada ekle, rengi korunur.
 - Fırında güveçte pişirirsen daha da lezzetli olur.
+updated: '2026-11-05'
+notes:
+- t: Eti doğru kavurmak
+  d: 'Eti tereyağında suyunu çekene kadar kavurmak yemeğin lezzetini belirleyen ilk adım. Et önce suyunu salar; bu su buharlaşıp et tavanın dibinde hafifçe kızarmaya başladığında soğanı ve salçayı eklersin. Su çekilmeden soğan eklenirse et haşlanmış gibi kalır. Sıcak su kullanmak da önemli; soğuk su eklemek etin pişmesini yavaşlatır ve sertleşmesine yol açabilir. Kapak kapalı, kısık ateşte 45 dakika pişirmek etin yumuşaması için yeterli olur.
+
+    '
+- t: Salçasız orman kebabı
+  d: 'Orman kebabını salçasız yapmak istersen 1 yemek kaşığı domates salçası yerine 2-3 rendelenmiş domates kullan ve pişirme süresini 5 dakika uzat. Rendelenmiş domatesin suyu kavurma sırasında çekilmeli, sonra sıcak suyu eklersin. Salçasız versiyonun rengi daha açık ve tadı daha hafif olur. Domatesi de kullanmak istemezsen yemek tamamen sade, tereyağlı ve sebzeli bir haşlamaya yaklaşır; bu durumda karabiber ve defne yaprağı aromayı taşır.
+
+    '
+- t: Sebze ve et alternatifleri
+  d: 'Kuzu ya da dana eti kullanabilirsin, pişirme süresi benzer. Dondurulmuş bezelye kullanıyorsan son 10 dakikada ekle; erken eklenen donuk bezelye rengini kaybeder ve fazla yumuşar. Patates yerine tatlı patates de olur, ama daha çabuk piştiği için süre biraz kısalır. Sebzeleri aynı boyda küp doğramak hepsinin aynı anda pişmesini sağlar. Fırında güveçte pişirmek de seçenekler arasında; yemek kısık ve eşit ısıda daha da lezzetli olur.
+
+    '
+faq:
+- q: Salçasız orman kebabı nasıl yapılır?
+  a: 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates kullanılır ve pişirme süresi 5 dakika uzatılır.
+- q: Orman kebabı kaç dakika pişer?
+  a: Et sıcak suyla kapak kapalı 45 dakika, sebzeler eklendikten sonra 25 dakika daha pişer. Toplam pişirme süresi 80 dakikadır.
+- q: Orman kebabında hangi et kullanılır?
+  a: Kuşbaşı dana ya da kuzu eti kullanılır. İkisinin pişirme süresi benzerdir.
+- q: Orman kebabına donuk bezelye ne zaman eklenir?
+  a: Dondurulmuş bezelyeyi pişirmenin son 10 dakikasında ekle. Böylece rengi ve dokusu korunur.
+editorNote: Sebzeleri etle birlikte değil, etin 45 dakikalık pişirmesinden sonra ekledik; et yumuşayana kadar sebzeler tencerede kalırsa patates ve havuç dağılır, bezelye de rengini kaybeder.
+aramaBasligi: 'Orman kebabı tarifi: Bezelyeli, salçasız da olur'
 ---
 
-Adını ormandan değil, avcı yemeklerinden alıyor. Bir tencerede et ve sebzenin hepsi.
+Orman kebabı, kuşbaşı etin bezelye, havuç ve patatesle aynı tencerede piştiği doyurucu bir yemek. Adında kebap geçse de ızgara ya da şiş yok; et önce tereyağında kavrulup sonra kısık ateşte uzun süre pişiyor ve sebzelerle birlikte sulu, tek tencerelik bir ana yemeğe dönüşüyor.
+
+Bu tarifte et 45 dakika defne yaprağıyla tek başına pişiyor, sebzeler ise son 25 dakikada ekleniyor. Böylece et yumuşarken patates ve havuç dağılmıyor. Salçasız orman kebabı isteyenler 1 yemek kaşığı salça yerine 2-3 rendelenmiş domates kullanabilir.
+
+Hazırlık 20, pişirme 80 dakika; toplam 100 dakikada 4 kişilik bir tencere çıkıyor.
