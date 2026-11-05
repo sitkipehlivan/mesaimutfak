@@ -132,14 +132,16 @@
 
   /* ---------- Advance reklam sunucusu ---------- */
   function advanceBagla() {
-    const ALAN = { masthead: 'mesaimutfak-masthead', atf: 'mesaimutfak-mpu-ust', incontent: 'mesaimutfak-mpu-icerik', leader: 'mesaimutfak-leader', infeed: 'mesaimutfak-infeed', rail_left: 'mesaimutfak-rail-sol', rail_right: 'mesaimutfak-rail-sag' };
+    const ALAN = { anchor: 'mesaimutfak-anchor', masthead: 'mesaimutfak-masthead', atf: 'mesaimutfak-mpu-ust', incontent: 'mesaimutfak-mpu-icerik', leader: 'mesaimutfak-leader', infeed: 'mesaimutfak-infeed', rail_left: 'mesaimutfak-rail-sol', rail_right: 'mesaimutfak-rail-sag' };
     slots.forEach(el => {
       const z = ALAN[el.dataset.ad], box = el.querySelector('.ad-slot');
       if (z && box && !el.classList.contains('ad-off')) box.setAttribute('data-adv-alan', z);
     });
-    document.addEventListener('adv-dolu', e => { const a = e.target.closest && e.target.closest('.ad'); if (a) { a.classList.add('adv-dolu'); a.classList.remove('ad-empty', 'ad-unfilled'); } });
+    // mobil yapışkan alt bant: yalnız reklam dolunca görünür
+    if (anchor && !live) { anchor.classList.add('anchor-bekle'); html.classList.remove('has-anchor'); }
+    document.addEventListener('adv-dolu', e => { const a = e.target.closest && e.target.closest('.ad'); if (a) { a.classList.add('adv-dolu'); a.classList.remove('ad-empty', 'ad-unfilled', 'anchor-bekle'); if (a === anchor && !a.classList.contains('ad-off')) html.classList.add('has-anchor'); } });
     // AdSense/Ad Manager açık değilse boş Advance alanları gizlenir
-    document.addEventListener('adv-bos', e => { const a = e.target.closest && e.target.closest('.ad'); if (a && !live) a.classList.add('ad-off'); });
+    document.addEventListener('adv-bos', e => { const a = e.target.closest && e.target.closest('.ad'); if (a && !live) { a.classList.add('ad-off'); if (a === anchor) html.classList.remove('has-anchor'); } });
     window.advance = {
       site: 'mesaimutfak', icerik: 1240, rayUst: 150, bosBirak: true,
       interstitial: 'mesaimutfak-interstitial', pageskin: 'mesaimutfak-pageskin', raylar: ['mesaimutfak-rail-sol', 'mesaimutfak-rail-sag'],

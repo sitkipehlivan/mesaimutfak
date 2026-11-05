@@ -912,3 +912,4 @@ html.ads-on .r-side .ad-atf{order:-1} /* tarif yan sütunu: reklam üstte ve yap
 .af-klasik li{margin:4px 0;break-inside:avoid}
 .af-klasik a{color:var(--ink)}
 .af-hub .faq{margin-top:12px}
+.ad-anchor.anchor-bekle{display:none!important}
