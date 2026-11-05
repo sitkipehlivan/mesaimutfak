@@ -37,7 +37,7 @@
     "anchor": false,
     "vastTag": "",
     "adsTxt": "google.com, pub-5841017945537557, DIRECT, f08c47fec0942fa0",
-    "mode": "adsense",
+    "mode": "advance",
     "adsense": {
       "sizes": {
         "970x250": "2863743075",
