@@ -929,3 +929,14 @@ html.ads-on[data-page-type="home"] .ad-masthead{display:none}
 .ad-masthead .mm-tanitim.genis{width:970px;height:250px;padding:28px 40px;gap:10px}.ad-masthead .mm-tanitim.genis b{font-size:40px}.ad-masthead .mm-tanitim.genis span{font-size:17px}
 html.ads-on .ad-rail_left:not(.adv-dolu),html.ads-on .ad-rail_right:not(.adv-dolu){display:none}
 .ad .adv-mh{padding:0} /* yer ayrılmış alanda ek boşluk zıplatmasın */
+
+/* boş reklam yeri tanıtımı: marka renkli kart */
+.mm-tanitim{background:linear-gradient(135deg,color-mix(in srgb,var(--sun) 22%,var(--card)),color-mix(in srgb,var(--pom) 10%,var(--card)));position:relative;overflow:hidden;flex-direction:row!important;align-items:center}
+.mm-tanitim .mt-yazi{display:flex;flex-direction:column;gap:6px;position:relative;z-index:1}
+.mm-tanitim .mt-ik{font-size:28px;line-height:1}
+.ad-masthead .mm-tanitim .mt-ik{display:none}
+.mm-tanitim.genis .mt-ik{display:block;font-size:34px}
+.mm-tanitim .mt-foto{position:absolute;right:0;top:0;bottom:0;width:46%;background:url(/img/tarifler/et-sote.jpg) center/cover;clip-path:polygon(12% 0,100% 0,100% 100%,0 100%)}
+.mm-tanitim:hover em{text-decoration:underline}
+.mm-tanitim{justify-content:flex-start!important;text-align:left}
+.mm-tanitim.genis .mt-yazi{max-width:52%}

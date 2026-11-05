@@ -148,7 +148,7 @@
     const tanitim = (a) => {
       const box = a.querySelector('.ad-slot'); if (!box || box.querySelector('.mm-tanitim')) return;
       const genis = a.classList.contains('ad-masthead') && W() >= 1000;
-      box.innerHTML = '<a class="mm-tanitim' + (genis ? ' genis' : '') + '" href="/bugun-ne-pisirsem/"><b>Akşam ne pişirsem?</b><span>Elindeki malzemeleri söyle, 30 dakikalık tarif önerelim.</span><em>Tarif öner →</em></a>';
+      box.innerHTML = '<a class="mm-tanitim' + (genis ? ' genis' : '') + '" href="/bugun-ne-pisirsem/"><span class="mt-yazi"><span class="mt-ik" aria-hidden="true">🍳</span><b>Akşam ne pişirsem?</b><span>Elindeki malzemeleri söyle, 30 dakikalık tarif önerelim.</span><em>Tarif öner →</em></span>' + (genis ? '<span class="mt-foto" aria-hidden="true"></span>' : '') + '</a>';
       a.classList.add('tanitim-dolu');
     };
     // reklam sunucusu yüklenemese (engelleyici vb.) bile ayrılan yer boş kalmasın
