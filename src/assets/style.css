@@ -894,3 +894,4 @@ html.is-watch body{background:var(--w-bg);color:var(--w-txt);font-family:-apple-
 .vcard-tabs button.on{color:var(--paper);border-bottom-color:var(--sun)}
 .vcard-body{margin:0;padding:12px 14px;font-size:14.5px;line-height:1.45;min-height:3.2em}
 .ad .adv-etiket{display:none} /* sitenin kendi "Reklam" etiketi yeterli */
+html.ads-on .r-side .ad-atf{order:-1} /* tarif yan sütunu: reklam üstte ve yapışkan sütunla birlikte görünür kalır (viewability) */
