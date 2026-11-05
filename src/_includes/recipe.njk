@@ -6,7 +6,7 @@ layout: base.njk
 {# Saat (Apple Watch) görünümü: malzemeler + adım adım mod; yalnızca saatte gösterilir #}
 <section class="w-rec" aria-label="Saat görünümü">
   {% if image %}<img class="w-hero" src="{{ image | imgUrl(320) }}" alt="" width="160" height="110">{% endif %}
-  <h1 class="w-title">{{ title }}</h1>
+  <p class="w-title">{{ title }}</p>
   <p class="w-meta">{{ prep + cook }} dk · {{ serv }} kişilik · {{ lvl }}</p>
   <button type="button" class="w-btn w-pri" data-w-start>Adım adım başla</button>
   <h2 class="w-h">Malzemeler</h2>

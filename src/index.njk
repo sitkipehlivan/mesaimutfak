@@ -8,6 +8,7 @@ isHome: true
 {# 1. Haftanın tarifleri: slider, her pazartesi otomatik yenilenir #}
 {%- set slides = [heroR] -%}
 {%- for r in (collections.tarifler | bySlugs(wk.picks)) -%}{%- if loop.index <= 5 -%}{%- set _x = slides.push(r) -%}{%- endif -%}{%- endfor -%}
+<h1 class="sr-only">Mesai Mutfak: pratik ve kolay yemek tarifleri</h1>
 <div class="wrap hero-solo hero-ad">
   <div class="hslider" id="hslider" aria-roledescription="carousel" aria-label="Haftanın tarifleri">
     <div class="hs-track" tabindex="0">
@@ -16,7 +17,7 @@ isHome: true
         <span class="photo">{% visual { image: r.data.image, heroImage: (home.hero.heroImage if loop.first else ''), imageAlt: r.data.imageAlt, title: r.data.title, art: r.data.art }, 'scene', r.fileSlug, loop.first %}</span>
         <span class="over">
           <span class="eyebrow">{% if loop.first %}{{ wk.heroEyebrow }}{% else %}Haftanın tarifleri · {{ r.data.cats[0] | catLabel(categories) }}{% endif %}</span>
-          {% if loop.first %}<h1>{{ r.data.title }}</h1>{% else %}<span class="h1">{{ r.data.title }}</span>{% endif %}
+          <span class="h1">{{ r.data.title }}</span>
           <span class="meta"><span>{{ r.data.prep + r.data.cook }} dk</span><span>{{ r.data.serv }} kişilik</span><span>{{ r.data.lvl }}</span></span>
         </span>
       </a>
