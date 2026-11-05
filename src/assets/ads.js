@@ -4,7 +4,7 @@
    - ?reklam=kapat    : önizlemeyi kapatır. */
 (function () {
   const html = document.documentElement;
-  if (html.classList.contains('is-watch')) return; // saatte reklam yok
+  if (html.classList.contains('is-watch')) { html.classList.remove('ads-on'); return; } // saatte reklam yok
   let cfg = {}; try { cfg = JSON.parse(html.dataset.ads || '{}'); } catch (e) {}
   const q = new URLSearchParams(location.search).get('reklam');
   try {
@@ -21,7 +21,7 @@
   initPlayer();
   // Advance reklam sunucusu: doğrudan satılan kampanyalar önce; boş kalan alanlar AdSense/Ad Manager'a bırakılır
   const ADV = cfg.advance;
-  if (!live && !preview && !ADV) return;
+  if (!live && !preview && !ADV) { html.classList.remove('ads-on'); return; }
   html.classList.add('ads-on');
   if (preview) html.classList.add('ads-preview');
 
@@ -39,7 +39,8 @@
     el.style.setProperty('--ad-h', Math.max(...sz.map(s => s[1])) + 'px');
     el.style.setProperty('--ad-w', Math.max(...sz.map(s => s[0])) + 'px');
   });
-  if (slots.some(el => el.dataset.ad === 'rail_left' && !el.classList.contains('ad-off'))) html.classList.add('has-rails');
+  // Advance modunda içerik daraltılmaz (CLS): raylar yalnız kenar boşluğu yeterliyse (≥1600 px) gösterilir
+  if (live && slots.some(el => el.dataset.ad === 'rail_left' && !el.classList.contains('ad-off'))) html.classList.add('has-rails');
   const anchor = document.querySelector('.ad-anchor');
   if (anchor) {
     const x = anchor.querySelector('.ad-x');
@@ -135,13 +136,24 @@
     const ALAN = { anchor: 'mesaimutfak-anchor', masthead: 'mesaimutfak-masthead', atf: 'mesaimutfak-mpu-ust', incontent: 'mesaimutfak-mpu-icerik', leader: 'mesaimutfak-leader', infeed: 'mesaimutfak-infeed', rail_left: 'mesaimutfak-rail-sol', rail_right: 'mesaimutfak-rail-sag' };
     slots.forEach(el => {
       const z = ALAN[el.dataset.ad], box = el.querySelector('.ad-slot');
+      if (/^rail_/.test(el.dataset.ad) && W() < 1600) { el.classList.add('ad-off'); return; }
       if (z && box && !el.classList.contains('ad-off')) box.setAttribute('data-adv-alan', z);
     });
     // mobil yapışkan alt bant: yalnız reklam dolunca görünür
     if (anchor && !live) { anchor.classList.add('anchor-bekle'); html.classList.remove('has-anchor'); }
     document.addEventListener('adv-dolu', e => { const a = e.target.closest && e.target.closest('.ad'); if (a) { a.classList.add('adv-dolu'); a.classList.remove('ad-empty', 'ad-unfilled', 'anchor-bekle'); if (a === anchor && !a.classList.contains('ad-off')) html.classList.add('has-anchor'); } });
     // AdSense/Ad Manager açık değilse boş Advance alanları gizlenir
-    document.addEventListener('adv-bos', e => { const a = e.target.closest && e.target.closest('.ad'); if (a && !live) { a.classList.add('ad-off'); if (a === anchor) html.classList.remove('has-anchor'); } });
+    // Sayfa açılışında görünen alanlar (masthead, tarif üstü 300x250) boş kalırsa yer kapanmaz; sitenin kendi tanıtımı
+    // gösterilir. Böylece içerik zıplamaz (CLS). Diğer boş alanlar kapanır.
+    const tanitim = (a) => {
+      const box = a.querySelector('.ad-slot'); if (!box || box.querySelector('.mm-tanitim')) return;
+      const genis = a.classList.contains('ad-masthead') && W() >= 1000;
+      box.innerHTML = '<a class="mm-tanitim' + (genis ? ' genis' : '') + '" href="/bugun-ne-pisirsem/"><b>Akşam ne pişirsem?</b><span>Elindeki malzemeleri söyle, 30 dakikalık tarif önerelim.</span><em>Tarif öner →</em></a>';
+      a.classList.add('tanitim-dolu');
+    };
+    document.addEventListener('adv-bos', e => { const a = e.target.closest && e.target.closest('.ad'); if (!a || live) return;
+      if (a.classList.contains('ad-masthead') || a.classList.contains('ad-atf')) return tanitim(a);
+      a.classList.add('ad-off'); if (a === anchor) html.classList.remove('has-anchor'); });
     window.advance = {
       site: 'mesaimutfak', icerik: 1240, rayUst: 150, bosBirak: true,
       interstitial: 'mesaimutfak-interstitial', pageskin: 'mesaimutfak-pageskin', raylar: ['mesaimutfak-rail-sol', 'mesaimutfak-rail-sag'],

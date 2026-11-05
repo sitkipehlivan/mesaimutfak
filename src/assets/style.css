@@ -913,3 +913,19 @@ html.ads-on .r-side .ad-atf{order:-1} /* tarif yan sütunu: reklam üstte ve yap
 .af-klasik a{color:var(--ink)}
 .af-hub .faq{margin-top:12px}
 .ad-anchor.anchor-bekle{display:none!important}
+
+/* CLS: masthead ve tarif üstü 300x250 yeri ilk boyamada ayrılır (ads.js beklenmez) */
+html.ads-on .ad-masthead .ad-slot{min-height:100px}
+@media (min-width:1000px){html.ads-on .ad-masthead .ad-slot{min-height:250px}}
+html.ads-on .ad-atf .ad-slot{min-height:250px}
+html.ads-on[data-page-type="home"] .ad-masthead{display:none}
+@media (max-width:767px){html.ads-on[data-page-type="home"] .ad-masthead:not(.ad-off){display:flex}}
+.ad.tanitim-dolu .ad-label{visibility:hidden}
+.mm-tanitim{box-sizing:border-box;width:300px;max-width:100%;height:250px;display:flex;flex-direction:column;justify-content:center;gap:8px;padding:20px 22px;border-radius:14px;background:var(--card);border:1.5px solid var(--line);color:var(--ink);text-decoration:none}
+.mm-tanitim b{font-family:var(--f-display);font-size:24px;line-height:1.1}
+.mm-tanitim span{font-size:14px;color:var(--ink-2)}
+.mm-tanitim em{font-style:normal;font-weight:700;color:var(--pom);margin-top:4px}
+.ad-masthead .mm-tanitim{width:320px;height:100px;padding:10px 14px;gap:2px}.ad-masthead .mm-tanitim b{font-size:17px}.ad-masthead .mm-tanitim span{font-size:12px}
+.ad-masthead .mm-tanitim.genis{width:970px;height:250px;padding:28px 40px;gap:10px}.ad-masthead .mm-tanitim.genis b{font-size:40px}.ad-masthead .mm-tanitim.genis span{font-size:17px}
+html.ads-on .ad-rail_left:not(.adv-dolu),html.ads-on .ad-rail_right:not(.adv-dolu){display:none}
+.ad .adv-mh{padding:0} /* yer ayrılmış alanda ek boşluk zıplatmasın */
