@@ -66,6 +66,21 @@ tips:
 - Biberleri terletmek kabuğun kendiliğinden ayrılmasını sağlar.
 - Buzdolabında zeytinyağının içinde bir hafta dayanır.
 - Yoğurtla karıştırırsan közlenmiş biber yoğurtlaması olur.
+aramaBasligi: "Airfryer’da közlenmiş biber: 200°C’de 15 dakika"
+faq:
+- q: "Airfryer’da biber kaç dakikada közlenir?"
+  a: "Bütün biberler 200°C’de 15 dakika, yarısında çevrilerek közlenir."
+- q: "Közlenmiş biberin kabuğu nasıl kolay soyulur?"
+  a: "Sıcak biberleri kapaklı bir kaba ya da poşete alıp 10 dakika terletin."
+- q: "Közlenmiş biber salatası ne kadar bekletilmeli?"
+  a: "Sosla karıştırıp bir saat dinlendirirseniz daha lezzetli olur."
+editorNote: "Terletme adımını ayrı yazdık; közlenmiş biberin kabuğunun kolay soyulmasını asıl sağlayan adım bu."
+notes:
+- t: "Biberler neden bütün pişirilir?"
+  d: "Bütün biber kendi suyunda içten pişer, dışı ise yer yer kararır. Doğranmış biber suyunu kaybedip kurur ve kabuğu soyulacak kadar kabarmaz."
+- t: "Terletmek ne demek?"
+  d: "Sıcak biberler kapalı bir kapta beklerken çıkan buhar kabuğu etten ayırır. On dakika sonra kabuk parmakla kolayca sıyrılır."
+updated: '2026-11-05'
 ---
 
 Ocak alevinde köz tutma derdi yok. Kahvaltıda, mezede, sandviçte hep el altında olsun.

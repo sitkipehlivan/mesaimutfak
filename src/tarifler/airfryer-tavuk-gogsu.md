@@ -91,6 +91,7 @@ faq:
   a: Olur, ama yoğurtlu marine eti daha yumuşak ve sulu yapar.
 - q: Tavuk göğsü buzdolabında ne kadar saklanır?
   a: Pişmiş olarak kapalı kapta 3 gün.
+aramaBasligi: "Airfryer’da tavuk göğsü kaç dakika? Sulu tavuk göğsü (190°C)"
 ---
 
 Airfryer'da tavuk göğsü, yoğurt ve baharatlarla marine edilen tavuk göğsünün sıcak hava fritözünde kısa sürede pişirildiği pratik bir ana yemek. Tavuk göğsü yağsız bir et olduğu için kolayca kurur; bu tarifteki iki teknik, kalınlığı eşitlemek ve yoğurtlu marine, sulu kalmasını sağlar.

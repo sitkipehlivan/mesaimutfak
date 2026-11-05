@@ -8,7 +8,7 @@ pagination:
 permalink: "/kategori/{{ cat.k }}/"
 eleventyComputed:
   title: "{{ cat.l }}"
-  seoTitle: "{{ cat.seoTitle }}: Pratik ve kolay tarifler"
+  seoTitle: "{% if cat.seoFull %}{{ cat.seoFull }}{% else %}{{ cat.seoTitle }}: Pratik ve kolay tarifler{% endif %}"
   desc: "{{ cat.intro }}"
 ---
 {%- set list = collections.tarifler | inCat(cat.k) | photoFirst -%}
@@ -25,6 +25,26 @@ eleventyComputed:
   <div class="grid" style="margin-block:28px 64px">
     {% for r in list %}{% include "card.njk" %}{% if loop.index % 5 == 0 and not loop.last %}<div class="grid-ad grid-ad-feed">{% set slot = 'infeed' %}{% include "ad.njk" %}</div>{% endif %}{% else %}<div class="empty">Bu kategoride henüz tarif yok.</div>{% endfor %}
   </div>
+  {% if cat.k == 'airfryer' %}{% set R = airfryerRehber %}
+  <section class="af-hub" aria-labelledby="afTablo">
+    <h2 id="afTablo">{{ R.baslik }}</h2>
+    <p>{{ R.aciklama }}</p>
+    <div class="af-table-wrap"><table class="af-table">
+      <thead><tr><th scope="col">Yiyecek</th><th scope="col">Derece</th><th scope="col">Süre</th></tr></thead>
+      <tbody>{% for row in R.tablo %}<tr><th scope="row"><a href="{{ ('/tarif/' + row[3] + '/') | link }}">{{ row[0] }}</a></th><td>{{ row[1] }}</td><td>{{ row[2] }}</td></tr>{% endfor %}</tbody>
+    </table></div>
+    {% set klasik = collections.tarifler | airfryerNotlu %}
+    {% if klasik.length %}
+    <h2>Klasik tarifleri airfryer’da yap</h2>
+    <p>Bu tariflerin sayfasında “Airfryer’da nasıl yapılır?” bölümünde derece ve süreyi bulabilirsin.</p>
+    <ul class="af-klasik">{% for r in klasik %}<li><a href="{{ (r.url + '#airfryer') | link }}">{{ r.data.title }}</a></li>{% endfor %}</ul>
+    {% endif %}
+    <section class="faq" aria-labelledby="afSss">
+      <h2 id="afSss">Airfryer hakkında sık sorulanlar</h2>
+      {% for x in R.sss %}<details{% if loop.first %} open{% endif %}><summary>{{ x.q }}</summary><p>{{ x.a }}</p></details>{% endfor %}
+    </section>
+  </section>
+  {% endif %}
 </div>
 
 <script type="application/ld+json">
@@ -32,3 +52,6 @@ eleventyComputed:
  "mainEntity": {"@type": "ItemList", "itemListElement": [{% for r in list %}{"@type": "ListItem", "position": {{ loop.index }}, "url": "{{ site.url }}{{ r.url }}", "name": {{ r.data.title | dump | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]},
  "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Ana sayfa", "item": "{{ site.url }}/"}, {"@type": "ListItem", "position": 2, "name": {{ cat.l | dump | safe }}, "item": "{{ site.url }}{{ page.url }}"}]}}
 </script>
+{% if cat.k == 'airfryer' %}<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{% for x in airfryerRehber.sss %}{"@type": "Question", "name": {{ x.q | dump | safe }}, "acceptedAnswer": {"@type": "Answer", "text": {{ x.a | dump | safe }}}}{% if not loop.last %},{% endif %}{% endfor %}]}
+</script>{% endif %}

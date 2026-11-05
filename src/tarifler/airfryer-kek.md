@@ -77,6 +77,21 @@ tips:
 - Airfryer fırından hızlı ısınır; ısıyı fırındakinden 10-20°C düşük tut.
 - İki küçük kalıp kullanıp sırayla pişirmek ortasının çiğ kalmasını önler.
 - Hamura 2 kaşık kakao eklersen kakaolu kek olur.
+aramaBasligi: "Airfryer’da kek kaç derecede kaç dakika pişer?"
+faq:
+- q: "Airfryer’da kek kaç derecede kaç dakika pişer?"
+  a: "160°C’de 22-25 dakika. Kürdan kuru çıkınca hazırdır."
+- q: "Airfryer’da kek için hangi kalıp kullanılır?"
+  a: "Sepete sığan 16-18 cm yağlanmış bir kalıp ya da silikon kap."
+- q: "Kekin üstü erken kızarırsa ne yapmalı?"
+  a: "15. dakikada üzerini folyoyla kapatın."
+editorNote: "Dereceyi fırın tarifine göre düşürdük ve 15. dakikadaki folyo uyarısını ekledik. Airfryer'da ısı kaynağı kekin üstüne çok yakın olduğu için üst kısım iç pişmeden kızarabilir."
+notes:
+- t: "Hangi kalıp uygun?"
+  d: "Sepete etrafında hava dolaşacak boşluk bırakarak sığan 16-18 cm bir kalıp idealdir. Kalıp sepeti tamamen kaplarsa kekin altı ve kenarları geç pişer."
+- t: "Kek neden ortadan çöker?"
+  d: "Pişme tamamlanmadan makine açıldığında ya da ısı fazla yüksek olduğunda kek önce hızla kabarıp sonra çöker. Kürdan testini 22. dakikadan önce yapmamak bu yüzden önemli."
+updated: '2026-11-05'
 ---
 
 Fırını yakmaya değmeyecek kadar küçük bir kek isteği için. Çay demlenene kadar hazır.

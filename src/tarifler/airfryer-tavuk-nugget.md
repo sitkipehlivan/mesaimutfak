@@ -73,6 +73,21 @@ tips:
 - Mısır gevreği çıtırlığı ikiye katlar.
 - Tavukları üst üste koyarsan buharlanır, çıtır olmaz; gerekirse iki seferde pişir.
 - Panelenmiş nuggetları dondurucuda saklayıp donuk halde 200°C’de 14 dakikada pişirebilirsin.
+aramaBasligi: "Airfryer’da nugget kaç dakikada pişer? 200°C’de 10-12 dakika"
+faq:
+- q: "Airfryer’da nugget kaç dakikada pişer?"
+  a: "Ev yapımı nugget 200°C’de 10-12 dakika pişer; 6. dakikada çevrilir."
+- q: "Airfryer’da nugget nasıl çıtır olur?"
+  a: "Sepete tek kat ve birbirine değmeyecek şekilde dizin, iki yüzüne de yağ sprey edin."
+- q: "Nugget nasıl panelenir?"
+  a: "Sırasıyla una, çırpılmış yumurtaya ve galeta-mısır gevreği karışımına bulanır."
+editorNote: "Galetaya mısır gevreği karıştırdık. Mısır gevreği airfryer'da galetadan daha belirgin bir çıtırlık verir ve kızartılmış nugget'a daha yakın bir doku sağlar."
+notes:
+- t: "Nugget neden birbirine değmemeli?"
+  d: "Değen parçaların arasında sıcak hava dolaşamaz ve o yüzeyler buharda pişmiş gibi yumuşak kalır. Sepete aralıklı dizmek için gerekirse iki partide pişirin."
+- t: "6. dakikada neden yağ sprey ediliyor?"
+  d: "Nugget çevrildiğinde alttaki yüz ilk kez sıcak havayla karşılaşır. Bu yüze de yağ sprey etmek iki tarafın aynı renk ve çıtırlıkta olmasını sağlar."
+updated: '2026-11-05'
 ---
 
 Çocukların ve büyüklerin ortak favorisi, kızartma kokusu ve fazla yağ olmadan.

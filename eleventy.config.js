@@ -82,6 +82,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('amt', fmtAmount);
   eleventyConfig.addFilter('tint', k => tint(k));
   eleventyConfig.addFilter('sortByMin', list => [...list].sort((a, b) => (a.data.prep + a.data.cook) - (b.data.prep + b.data.cook)));
+  // Airfryer kategorisinde olmayıp "Airfryer’da nasıl yapılır?" notu bulunan tarifler (başlığa göre sıralı)
+  eleventyConfig.addFilter('airfryerNotlu', list => (list || []).filter(r => r.data.airfryer && !r.fileSlug.startsWith('airfryer-')).sort((a, b) => a.data.title.localeCompare(b.data.title, 'tr')));
   eleventyConfig.addFilter('take', (list, n) => list.slice(0, n));
 
   // Netlify Image CDN: fotoğrafı boyutlandırıp WebP/AVIF olarak sunar (uzak adresler netlify.toml'da izinli)

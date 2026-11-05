@@ -77,6 +77,21 @@ tips:
 - Kadayıfı tereyağıyla iyice ovmazsan kuru ve beyaz kalır.
 - Peynir tuzluysa bir gece önceden suda beklet.
 - Künefe sıcakken yenir; peynir uzarken servis et.
+aramaBasligi: "Airfryer’da künefe nasıl yapılır? 180°C’de 15 dakika"
+faq:
+- q: "Airfryer’da künefe kaç derecede kaç dakika pişer?"
+  a: "180°C’de 8 dakika pişer; ters çevrilip 6-7 dakika daha pişirilir."
+- q: "Airfryer’da künefe için hangi kalıp kullanılır?"
+  a: "14-16 cm metal bir kalıp ya da küçük bir tava."
+- q: "Künefe şerbeti sıcak mı soğuk mu dökülür?"
+  a: "Sıcak künefenin üzerine soğuk şerbet dökülür."
+editorNote: "Künefeyi iki yüzlü pişirmek için ters çevirme adımını ekledik. Airfryer'da ısı üstten geldiği için çevrilmeyen künefenin altı soluk kalır."
+notes:
+- t: "Kalıp neden küçük?"
+  d: "14-16 cm bir kalıp hem sepete sığar hem de peynirin kadayıf kızarana kadar erimesine yetecek kalınlığı verir. Daha geniş ve ince bir künefe, peynir erimeden yanabilir."
+- t: "Şerbet neden soğuk olmalı?"
+  d: "Sıcak künefeye soğuk şerbet dökülünce kadayıf şerbeti hızla çeker ama çıtırlığını korur. İkisi de sıcak olursa künefe şerbette yumuşar ve hamurlaşır."
+updated: '2026-11-05'
 ---
 
 Künefe tepsisi olmadan, airfryer’ın küçük boyutunda iki kişilik tam porsiyon.

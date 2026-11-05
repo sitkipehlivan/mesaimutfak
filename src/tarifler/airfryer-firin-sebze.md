@@ -84,6 +84,21 @@ tips:
 - Sepeti doldurursan sebzeler buharlanır; gerekirse iki seferde pişir.
 - Ertesi gün makarna ya da kinoayla karıştırıp salata yapabilirsin.
 - Üzerine beyaz peynir ufalarsan tam öğün olur.
+aramaBasligi: "Airfryer’da közlenmiş sebze: 200°C’de 15 dakika"
+faq:
+- q: "Airfryer’da sebze kaç dakikada pişer?"
+  a: "200°C’de 15 dakika; 5 dakikada bir sepeti sallayın."
+- q: "Domatesi ne zaman eklemeliyim?"
+  a: "Domatesler çabuk dağıldığı için son 5 dakikada eklenir."
+- q: "Sebzelerin eşit pişmesi için ne yapmalı?"
+  a: "Sebzeleri iri ve birbirine yakın boyda doğrayın."
+editorNote: "Domatesi bilerek son 5 dakikaya bıraktık. Sert sebzelerle aynı anda konan domates suyunu salar, sepetteki diğer sebzeleri buharda pişmiş gibi yumuşatır."
+notes:
+- t: "Sebzeler neden aynı boyda doğranır?"
+  d: "Airfryer'da küçük parçalar büyüklere göre çok daha hızlı pişer. Sebzeleri birbirine yakın boyda doğramak, kabağın dağılıp patlıcanın çiğ kalması gibi farkları önler."
+- t: "Sepeti neden sallamalı?"
+  d: "Sıcak hava en çok üstteki parçaları kızartır. Beş dakikada bir sallamak alttaki sebzelerin de yüzeye çıkmasını ve her tarafın eşit közlenmesini sağlar."
+updated: '2026-11-05'
 ---
 
 Mangal ateşi olmadan köz tadı. Yaz akşamları için, yanına bir dilim ekmek ve peynir yeter.

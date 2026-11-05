@@ -71,6 +71,21 @@ tips:
 - Patlıcanı tuzlu suda bekletmeye gerek yok; airfryer acılığını alır.
 - Az yağ yeter, kızartmadaki gibi yağ çekmez.
 - Üzerine domates sos dökersen hafif bir şakşuka olur.
+aramaBasligi: "Airfryer’da patlıcan kaç dakika? 200°C’de 12-15 dakika"
+faq:
+- q: "Airfryer’da patlıcan kaç dakikada pişer?"
+  a: "200°C’de 12-15 dakika; 7. dakikada çevrilir."
+- q: "Patlıcan ne kalınlıkta doğranmalı?"
+  a: "1 cm kalınlığında halkalar ya da yarım aylar halinde."
+- q: "Airfryer’da patlıcan ne ile servis edilir?"
+  a: "Sarımsaklı yoğurtla."
+editorNote: "Patlıcanı kızartmak yerine airfryer'da pişirmenin en büyük farkı yağ; patlıcan tavada yağı sünger gibi çeker, burada yalnızca yüzeyine sürülen yağ kadarını alır."
+notes:
+- t: "Alacalı soymak ne işe yarar?"
+  d: "Kabuğun bir kısmını bırakmak patlıcanın şeklini korumasını sağlar, tamamen soyulan dilimler pişerken dağılabilir. Kabuksuz şeritler ise içinin daha yumuşak pişmesine yardım eder."
+- t: "Patlıcan acı olur mu?"
+  d: "Taze ve çekirdeği az patlıcanlarda acılık nadirdir. Çekirdekli, iri patlıcan kullanıyorsanız doğradıktan sonra tuzlayıp 15 dakika bekletmek ve suyunu sıkmak acılığı azaltır."
+updated: '2026-11-05'
 ---
 
 Yazın en sevilen meze, kızartma yağı ve tava dağınıklığı olmadan.

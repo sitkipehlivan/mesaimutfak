@@ -80,6 +80,21 @@ tips:
 - Kabakların suyunu almak kaplamanın çıtır kalmasını sağlar.
 - Patates kızartması yerine çocuklara da sevdirilir.
 - Galeta yerine panko kullanırsan daha çıtır olur.
+aramaBasligi: "Airfryer’da kabak çubukları: 200°C’de 10-12 dakika"
+faq:
+- q: "Airfryer’da kabak kaç dakikada pişer?"
+  a: "Panelenmiş kabak çubukları 200°C’de 10-12 dakika, yarısında çevrilerek pişer."
+- q: "Kabak çubukları neden yumuşak oldu?"
+  a: "Kabakları kağıt havluyla iyice kurulamak ve sepete tek kat dizmek çıtırlığı sağlar."
+- q: "Kabak çubukları ne ile servis edilir?"
+  a: "Dereotlu yoğurtla sıcak servis edilir."
+editorNote: "Kurulama adımını ayrı yazdık. Kabak çok su içerir; kurulanmadan panelenen çubuklar sepette buharlaşan suyla yumuşar ve kaplama dökülür."
+notes:
+- t: "Parmesan ne işe yarar?"
+  d: "Galetaya karışan parmesan pişerken eriyip kızarır ve kaplamaya hem tuzlu bir tat hem de ek bir çıtırlık verir. Parmesan yoksa ince rendelenmiş eski kaşar da kullanılabilir."
+- t: "Neden tek kat dizilir?"
+  d: "Üst üste duran çubuklar birbirinin buharını hapseder ve alttakiler yumuşak kalır. Tek kat dizip yarı yolda çevirmek her yüzün kızarmasını sağlar; gerekirse iki partide pişirin."
+updated: '2026-11-05'
 ---
 
 Kabağın en sevimli hali: dışı çıtır, içi yumuşak, kızartmadan.

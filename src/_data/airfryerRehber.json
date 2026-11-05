@@ -1,0 +1,136 @@
+{
+ "baslik": "Airfryer pişirme süreleri ve dereceleri",
+ "aciklama": "Tariflerimizde kullandığımız derece ve süreler. Makinenin markasına ve doluluğuna göre 1-2 dakika oynayabilir; ilk denemede son dakikalarda kontrol edin.",
+ "tablo": [
+  [
+   "Haşlanmış yumurta",
+   "150°C",
+   "9 dk rafadan · 11 dk kayısı · 13 dk katı",
+   "airfryer-haslanmis-yumurta"
+  ],
+  [
+   "Lavaş cipsi",
+   "180°C",
+   "5-6 dk",
+   "airfryer-lavas-cipsi"
+  ],
+  [
+   "Lavaş pizza",
+   "180°C",
+   "6-7 dk",
+   "airfryer-mini-pizza"
+  ],
+  [
+   "Soğan halkası",
+   "200°C",
+   "8-10 dk",
+   "airfryer-sogan-halkasi"
+  ],
+  [
+   "Tavuk nugget (ev yapımı)",
+   "200°C",
+   "10-12 dk",
+   "airfryer-tavuk-nugget"
+  ],
+  [
+   "Kabak çubukları",
+   "200°C",
+   "10-12 dk",
+   "airfryer-kabak-cubuklari"
+  ],
+  [
+   "Mayasız yoğurtlu ekmek",
+   "190°C",
+   "12-13 dk",
+   "airfryer-yogurtlu-ekmek"
+  ],
+  [
+   "Patlıcan",
+   "200°C",
+   "12-15 dk",
+   "airfryer-patlican"
+  ],
+  [
+   "Kestane",
+   "200°C",
+   "13-15 dk",
+   "airfryer-kestane"
+  ],
+  [
+   "Tatlı patates kızartması",
+   "200°C",
+   "14-16 dk",
+   "airfryer-tatli-patates"
+  ],
+  [
+   "Çıtır nohut",
+   "200°C",
+   "10 dk + 4-5 dk",
+   "airfryer-nohut-cipsi"
+  ],
+  [
+   "Tavuk göğsü",
+   "190°C",
+   "14-16 dk",
+   "airfryer-tavuk-gogsu"
+  ],
+  [
+   "Közlenmiş biber",
+   "200°C",
+   "15 dk",
+   "airfryer-kozlenmis-biber"
+  ],
+  [
+   "Közlenmiş sebze",
+   "200°C",
+   "15 dk",
+   "airfryer-firin-sebze"
+  ],
+  [
+   "Künefe",
+   "180°C",
+   "8 dk + 6-7 dk",
+   "airfryer-kunefe"
+  ],
+  [
+   "Elma cipsi",
+   "140°C",
+   "20-25 dk",
+   "airfryer-elma-cipsi"
+  ],
+  [
+   "Kek",
+   "160°C",
+   "22-25 dk",
+   "airfryer-kek"
+  ],
+  [
+   "Ekmek (mayalı)",
+   "180°C",
+   "20 dk + 8-10 dk",
+   "airfryer-ekmegi"
+  ]
+ ],
+ "sss": [
+  {
+   "q": "Airfryer’da en hızlı ne yapılır?",
+   "a": "Lavaş cipsi 5-6 dakikada, lavaş pizza 6-7 dakikada, rafadan yumurta 9 dakikada hazır olur."
+  },
+  {
+   "q": "Airfryer’ı önceden ısıtmak gerekir mi?",
+   "a": "Tariflerimizin çoğunda gerekmez. Mayalı ekmek gibi hamur işlerinde 180°C’de 3 dakika ısıtmak yeterli."
+  },
+  {
+   "q": "Airfryer sepetine yiyecekler nasıl dizilmeli?",
+   "a": "Tek kat ve aralıklı dizin; patates, nohut ya da sebze gibi küçük parçalarda pişirme sırasında sepeti birkaç kez sallayın. Üst üste dizilen yiyecekler çıtır olmaz."
+  },
+  {
+   "q": "Fırın tarifini airfryer’a nasıl uyarlarım?",
+   "a": "Genel bir kural olarak fırın derecesini yaklaşık 20°C düşürüp süreyi beşte bir oranında kısaltın ve ilk denemede son dakikalarda kontrol edin. Klasik tariflerimizin birçoğunda ayrıca “Airfryer’da nasıl yapılır?” notu var."
+  },
+  {
+   "q": "Airfryer’da yağ kullanmak gerekir mi?",
+   "a": "Çoğu tarifte birkaç damla yağ ya da yağ spreyi yeterli. Panelenmiş yiyeceklerde (nugget, soğan halkası, kabak) yüzeye yağ sprey etmek çıtırlığı artırır."
+  }
+ ]
+}

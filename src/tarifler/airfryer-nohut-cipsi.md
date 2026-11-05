@@ -61,6 +61,21 @@ tips:
 - Nohut ne kadar kuru olursa o kadar çıtır olur.
 - Baharatı sona eklemek yanmasını önler.
 - Tatlı versiyon için tarçın ve biraz pekmez kullan.
+aramaBasligi: "Airfryer’da çıtır nohut: Kaç dakika, nasıl çıtır olur?"
+faq:
+- q: "Airfryer’da nohut kaç dakikada çıtır olur?"
+  a: "Önce 200°C’de sade olarak 10 dakika, baharatlanıp 4-5 dakika daha pişer."
+- q: "Nohut neden çıtır olmadı?"
+  a: "Nohutları pişirmeden önce kağıt havluyla iyice kurulayın. Soğudukça daha da çıtırlaşır."
+- q: "Çıtır nohut nasıl saklanır?"
+  a: "Tamamen soğuyunca kapalı bir kavanozda."
+editorNote: "Nohudu önce sade pişirip baharatı sonra eklemeyi bilerek yazdık. Baştan baharatlanan nohutta baharat, nohut kurumadan yanar."
+notes:
+- t: "Kurulama neden bu kadar önemli?"
+  d: "Nohutun yüzeyindeki su buharlaşmadan nohut çıtırlaşmaz. Kağıt havluyla iyice kurulayıp gevşeyen kabukları ayıklamak hem çıtırlığı artırır hem de kabukların yanmasını önler."
+- t: "Neden soğudukça çıtırlaşır?"
+  d: "Sıcakken nohutun içinde kalan son nem soğurken dışarı çıkar. Bu yüzden ilk dakikalarda biraz yumuşak görünse de tamamen soğuduğunda asıl çıtırlığına ulaşır."
+updated: '2026-11-05'
 ---
 
 Akşam dizinin yanına cips yerine. Bir kavanoz haşlanmış nohut, on beş dakika.

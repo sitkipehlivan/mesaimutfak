@@ -71,6 +71,21 @@ tips:
 - Süzme yoğurt kullanmak hamuru yapışkan olmaktan kurtarır; normal yoğurt kullanırsan biraz daha un ekle.
 - Ortasına kaşar ya da beyaz peynir koyup kapatırsan peynirli pişi gibi olur.
 - Sıcak tüketmek en iyisi; soğursa 2 dakika airfryer’da ısıt.
+aramaBasligi: "Airfryer’da mayasız ekmek: Yoğurtlu, 13 dakikada"
+faq:
+- q: "Airfryer’da mayasız ekmek kaç dakikada pişer?"
+  a: "190°C’de 7 dakika, çevrilip 5-6 dakika daha; toplam 12-13 dakika."
+- q: "Maya olmadan ekmek nasıl kabarır?"
+  a: "Kabartma tozu ve yoğurt hamuru kabartır; mayalanmayı beklemek gerekmez."
+- q: "Bu hamurdan kaç ekmek çıkar?"
+  a: "Avuç büyüklüğünde 4 yassı ekmek."
+editorNote: "Mayasız olduğu için mayalanma adımı yok; tarif acil bir kahvaltı ya da çorba yanı için yazıldı. Hamuru az yoğurmak ekmeği yumuşak tutuyor."
+notes:
+- t: "Yoğurt ve kabartma tozu nasıl kabartır?"
+  d: "Yoğurttaki asit kabartma tozuyla tepkimeye girip karbondioksit açığa çıkarır. Bu gaz ısınınca genleşir ve ekmeği maya gerektirmeden kabartır; bu yüzden hamur yoğrulur yoğrulmaz pişirilmelidir."
+- t: "Neden fazla yoğrulmaz?"
+  d: "Uzun süre yoğrulan undaki gluten güçlenir ve mayasız ekmek sertleşir. 2-3 dakikalık kısa yoğurma, yumuşak ve pofuduk bir doku verir."
+updated: '2026-11-05'
 ---
 
 Sabah mayalanmasını bekleyecek vakit yoksa: iki ana malzeme, yarım saatten kısa süre ve sıcacık bir ekmek.

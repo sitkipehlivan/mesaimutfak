@@ -69,6 +69,21 @@ tips:
 - Halkaları unlamadan önce kurulamak kaplamanın tutmasını sağlar.
 - Küçük iç halkaları atma; mini halka olarak pişir.
 - Burger yanına ya da barbekü sosuyla servis et.
+aramaBasligi: "Airfryer’da soğan halkası: 200°C’de 8-10 dakika"
+faq:
+- q: "Airfryer’da soğan halkası kaç dakikada pişer?"
+  a: "200°C’de 8-10 dakika, yarısında çevrilerek."
+- q: "Soğan halkası nasıl kaplanır?"
+  a: "Sırasıyla baharatlı una, yumurta-yoğurt karışımına ve galetaya bulanır."
+- q: "Soğanlar ne kalınlıkta kesilmeli?"
+  a: "1 cm kalınlığında dilimlenip halkalara ayrılır."
+editorNote: "Kaplamaya yoğurt ekledik. Yoğurt yumurtaya göre daha kalın bir tabaka oluşturur ve galetanın soğana daha iyi tutunmasını sağlar."
+notes:
+- t: "Neden üç aşamalı kaplama?"
+  d: "Un soğanın yüzeyini kurutur ve ıslak kaplamanın tutunmasını sağlar. Yumurta-yoğurt karışımı yapıştırıcı görevi görür, galeta ise çıtır dış katmanı verir. Bir adım atlanırsa kaplama pişerken dökülür."
+- t: "Yağ spreyi neden gerekli?"
+  d: "Kızartmada yağ kaplamayı kızarttığı için airfryer'da galetanın yüzeyine az da olsa yağ değmesi gerekir. Sprey yağ ince ve eşit bir tabaka bırakır."
+updated: '2026-11-05'
 ---
 
 Burgerci tezgahının çıtır yan ürünü, evde ve kızgın yağ tenceresi olmadan.

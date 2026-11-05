@@ -1,223 +1,224 @@
 {
-  "types": [
-    {
-      "k": "ana",
-      "l": "Ana Yemekler",
-      "s": "Akşam sofrasının yıldızları",
-      "art": [
-        "tomato",
-        "onion",
-        "sun"
-      ],
-      "seoTitle": "Ana Yemek Tarifleri",
-      "intro": "Akşam sofrası için pratik ana yemek tarifleri: iskender, mantı, köfteler, tavuk sote, tas kebabı ve karnıyarık. Her tarifte süre, porsiyon ve adım adım yapılış."
-    },
-    {
-      "k": "zeytinyagli",
-      "l": "Zeytinyağlılar",
-      "s": "Soğuk servis, ertesi gün daha güzel",
-      "art": [
-        "leaf",
-        "pom",
-        "leaf"
-      ],
-      "seoTitle": "Zeytinyağlı Tarifleri",
-      "intro": "Zeytinyağlı yemek tarifleri: sarma, imam bayıldı, enginar, pırasa, barbunya, biber dolması ve taze fasulye. Soğuk servis edilen, ertesi gün daha lezzetli tarifler."
-    },
-    {
-      "k": "arasicak",
-      "l": "Ara Sıcaklar",
-      "s": "Sofraya ilk gelenler",
-      "art": [
-        "sun",
-        "card",
-        "sun"
-      ],
-      "seoTitle": "Ara Sıcak Tarifleri",
-      "intro": "Kolay ara sıcak tarifleri: paçanga böreği, içli köfte, dinamit karides ve misafir sofraları için meze tarifleri."
-    },
-    {
-      "k": "hamurisi",
-      "l": "Hamur İşleri",
-      "s": "Börek, poğaça, pide ve gözleme",
-      "art": [
-        "sun",
-        "rice",
-        "card"
-      ],
-      "seoTitle": "Hamur İşi Tarifleri",
-      "intro": "Hamur işi tarifleri: su böreği, ıspanaklı börek, poğaça, açma, pide, lahmacun ve gözleme. Ev yapımı hamurlar, adım adım ve püf noktalarıyla."
-    },
-    {
-      "k": "corba",
-      "l": "Çorbalar",
-      "s": "Bir tencere, birkaç gün",
-      "art": [
-        "tomato",
-        "sun",
-        "tomato"
-      ],
-      "seoTitle": "Çorba Tarifleri",
-      "intro": "Pratik çorba tarifleri: mercimek, ezogelin, yayla, tarhana, domates ve mantar çorbası. Bir tencere yap, birkaç gün ye."
-    },
-    {
-      "k": "pilav",
-      "l": "Pilavlar",
-      "s": "Pirinçten bulgura, tane tane",
-      "art": [
-        "rice",
-        "sun",
-        "rice"
-      ],
-      "seoTitle": "Pilav Tarifleri",
-      "intro": "Tane tane pilav tarifleri: tereyağlı pirinç pilavı, iç pilav, domatesli pilav, tavuklu pilav ve bulgur pilavları. Su oranları ve püf noktalarıyla."
-    },
-    {
-      "k": "kahvalti",
-      "l": "Kahvaltılık",
-      "s": "Hafta içi hızlı, hafta sonu keyifli",
-      "art": [
-        "sun",
-        "tomato",
-        "card"
-      ],
-      "seoTitle": "Kahvaltılık Tarifleri",
-      "intro": "Kahvaltılık tarifleri: menemen, çılbır, sucuklu yumurta, krep, pankek, waffle, kuymak ve gözleme. Hafta içi hızlı, hafta sonu keyifli."
-    },
-    {
-      "k": "salata",
-      "l": "Salata & Meze",
-      "s": "Yanına ya da başlı başına",
-      "art": [
-        "leaf",
-        "tomato",
-        "leaf"
-      ],
-      "seoTitle": "Salata ve Meze Tarifleri",
-      "intro": "Salata ve meze tarifleri: çoban salatası, piyaz, cacık, haydari, humus, acılı ezme ve kısır. Sofraya yakışan pratik mezeler."
-    },
-    {
-      "k": "firin",
-      "l": "Fırın Yemekleri",
-      "s": "Fırına ver, gerisini unut",
-      "art": [
-        "sun",
-        "tomato",
-        "onion"
-      ],
-      "seoTitle": "Fırın Yemekleri Tarifleri",
-      "intro": "Fırın yemekleri tarifleri: tek tepside tavuk, fırında karnıyarık, fırında sütlaç. Hazırla, fırına ver, gerisini unut."
-    },
-    {
-      "k": "tatli",
-      "l": "Tatlılar",
-      "s": "Sütlüden şerbetliye",
-      "art": [
-        "pom",
-        "card",
-        "sun"
-      ],
-      "seoTitle": "Tatlı Tarifleri",
-      "intro": "Kolay tatlı tarifleri: kek, brownie, cheesecake, tiramisu, sütlaç, revani, şekerpare ve baklava. Sütlüden şerbetliye pratik tatlılar."
-    },
-    {
-      "k": "dunya",
-      "l": "Dünya Mutfağı",
-      "s": "İtalya’dan Asya’ya",
-      "art": [
-        "tomato",
-        "leaf",
-        "sun"
-      ],
-      "seoTitle": "Dünya Mutfağı Tarifleri",
-      "intro": "Evde kolayca yapabileceğin dünya mutfağı tarifleri: İtalyan makarnaları ve risotto, Asya’dan pad thai, köri ve teriyaki, Meksika’dan taco ve quesadilla. Malzemeleri Türkiye’de bulunur, ölçüler net."
-    }
-  ],
-  "diets": [
-    {
-      "k": "hizli",
-      "l": "Hızlı Tarifler",
-      "s": "Mesai sonrası: az uğraş, az bulaşık",
-      "art": [
-        "sun",
-        "tomato",
-        "leaf"
-      ],
-      "wc": true,
-      "seoTitle": "Hızlı Tarifler",
-      "intro": "Hızlı ve pratik yemek tarifleri: az uğraşlı, az bulaşıklı, mesai sonrası için kolay tarifler. Tek tavalar, tek tepsiler ve ofis kutusuna giren yemekler."
-    },
-    {
-      "k": "airfryer",
-      "l": "Airfryer Tarifleri",
-      "s": "Az yağ, kısa süre, fırını yakmadan",
-      "art": [
-        "sun",
-        "tomato",
-        "rice"
-      ],
-      "seoTitle": "Airfryer Tarifleri",
-      "intro": "Airfryer tarifleri: köfteden tavuk kanada, poğaçadan ekmeğe, patates kızartmasından künefeye. Her tarifte sıcaklık ve süre net; kızartma tadı az yağla, fırını yakmadan. Klasik tariflerimizin çoğunda da “Airfryer’da nasıl yapılır?” notu var."
-    },
-    {
-      "k": "vegan",
-      "l": "Vegan",
-      "s": "Hayvansal ürün yok, eksik lezzet de yok",
-      "art": [
-        "leaf",
-        "pis",
-        "tomato"
-      ],
-      "seoTitle": "Vegan Tarifler",
-      "intro": "Vegan yemek tarifleri: hayvansal ürün içermeyen zeytinyağlılar, çorbalar, ana yemekler ve sağlıklı tatlılar."
-    },
-    {
-      "k": "glutensiz",
-      "l": "Glutensiz",
-      "s": "Buğday, arpa ve çavdar içermeyenler",
-      "art": [
-        "rice",
-        "sun",
-        "tomato"
-      ],
-      "seoTitle": "Glutensiz Tarifler",
-      "intro": "Glutensiz yemek tarifleri: buğday, arpa ve çavdar içermeyen ana yemekler, kahvaltılıklar ve tatlılar."
-    },
-    {
-      "k": "saglikli",
-      "l": "Sağlıklı Tatlılar",
-      "s": "Rafine şekersiz, meyveli ve doyurucu",
-      "art": [
-        "pom",
-        "sun",
-        "leaf"
-      ],
-      "seoTitle": "Sağlıklı Tatlı Tarifleri",
-      "intro": "Sağlıklı tatlı tarifleri: rafine şekersiz chia bowl’lar, meyveli kaseler ve hafif tatlılar. Bali kafelerinden ilham alan tarifler."
-    },
-    {
-      "k": "kis-yemekleri",
-      "l": "Kış Yemekleri",
-      "s": "Havalar soğuyor: şifa niyetine tarifler",
-      "art": [
-        "tomato",
-        "sun",
-        "onion"
-      ],
-      "seoTitle": "Kış Yemekleri Tarifleri",
-      "intro": "Havalar soğuyor, şifa niyetine tarifler sırada. İçi ısıtan çorbalar, tencerede ağır ağır pişen kuru baklagiller, güveçler, mevsim sebzeleri ve hamsiden palamuta kış balıkları. Ayva, kabak ve portakalla da kışın tatlı hali."
-    },
-    {
-      "k": "yaz-yemekleri",
-      "l": "Yaz Yemekleri",
-      "s": "Sıcakta hafif, serin ve ferah tarifler",
-      "art": [
-        "leaf",
-        "tomato",
-        "sun"
-      ],
-      "seoTitle": "Yaz Yemekleri Tarifleri",
-      "intro": "Sıcak günlerin hafif sofrası: soğuk servis zeytinyağlılar, patlıcan ve kabakla yaz sebzeleri, ızgaralar, ferah salatalar ve soğuk çorbalar. Tatlı tarafında sütlüler, meyveliler ve ev yapımı dondurma."
-    }
-  ]
+ "types": [
+  {
+   "k": "ana",
+   "l": "Ana Yemekler",
+   "s": "Akşam sofrasının yıldızları",
+   "art": [
+    "tomato",
+    "onion",
+    "sun"
+   ],
+   "seoTitle": "Ana Yemek Tarifleri",
+   "intro": "Akşam sofrası için pratik ana yemek tarifleri: iskender, mantı, köfteler, tavuk sote, tas kebabı ve karnıyarık. Her tarifte süre, porsiyon ve adım adım yapılış."
+  },
+  {
+   "k": "zeytinyagli",
+   "l": "Zeytinyağlılar",
+   "s": "Soğuk servis, ertesi gün daha güzel",
+   "art": [
+    "leaf",
+    "pom",
+    "leaf"
+   ],
+   "seoTitle": "Zeytinyağlı Tarifleri",
+   "intro": "Zeytinyağlı yemek tarifleri: sarma, imam bayıldı, enginar, pırasa, barbunya, biber dolması ve taze fasulye. Soğuk servis edilen, ertesi gün daha lezzetli tarifler."
+  },
+  {
+   "k": "arasicak",
+   "l": "Ara Sıcaklar",
+   "s": "Sofraya ilk gelenler",
+   "art": [
+    "sun",
+    "card",
+    "sun"
+   ],
+   "seoTitle": "Ara Sıcak Tarifleri",
+   "intro": "Kolay ara sıcak tarifleri: paçanga böreği, içli köfte, dinamit karides ve misafir sofraları için meze tarifleri."
+  },
+  {
+   "k": "hamurisi",
+   "l": "Hamur İşleri",
+   "s": "Börek, poğaça, pide ve gözleme",
+   "art": [
+    "sun",
+    "rice",
+    "card"
+   ],
+   "seoTitle": "Hamur İşi Tarifleri",
+   "intro": "Hamur işi tarifleri: su böreği, ıspanaklı börek, poğaça, açma, pide, lahmacun ve gözleme. Ev yapımı hamurlar, adım adım ve püf noktalarıyla."
+  },
+  {
+   "k": "corba",
+   "l": "Çorbalar",
+   "s": "Bir tencere, birkaç gün",
+   "art": [
+    "tomato",
+    "sun",
+    "tomato"
+   ],
+   "seoTitle": "Çorba Tarifleri",
+   "intro": "Pratik çorba tarifleri: mercimek, ezogelin, yayla, tarhana, domates ve mantar çorbası. Bir tencere yap, birkaç gün ye."
+  },
+  {
+   "k": "pilav",
+   "l": "Pilavlar",
+   "s": "Pirinçten bulgura, tane tane",
+   "art": [
+    "rice",
+    "sun",
+    "rice"
+   ],
+   "seoTitle": "Pilav Tarifleri",
+   "intro": "Tane tane pilav tarifleri: tereyağlı pirinç pilavı, iç pilav, domatesli pilav, tavuklu pilav ve bulgur pilavları. Su oranları ve püf noktalarıyla."
+  },
+  {
+   "k": "kahvalti",
+   "l": "Kahvaltılık",
+   "s": "Hafta içi hızlı, hafta sonu keyifli",
+   "art": [
+    "sun",
+    "tomato",
+    "card"
+   ],
+   "seoTitle": "Kahvaltılık Tarifleri",
+   "intro": "Kahvaltılık tarifleri: menemen, çılbır, sucuklu yumurta, krep, pankek, waffle, kuymak ve gözleme. Hafta içi hızlı, hafta sonu keyifli."
+  },
+  {
+   "k": "salata",
+   "l": "Salata & Meze",
+   "s": "Yanına ya da başlı başına",
+   "art": [
+    "leaf",
+    "tomato",
+    "leaf"
+   ],
+   "seoTitle": "Salata ve Meze Tarifleri",
+   "intro": "Salata ve meze tarifleri: çoban salatası, piyaz, cacık, haydari, humus, acılı ezme ve kısır. Sofraya yakışan pratik mezeler."
+  },
+  {
+   "k": "firin",
+   "l": "Fırın Yemekleri",
+   "s": "Fırına ver, gerisini unut",
+   "art": [
+    "sun",
+    "tomato",
+    "onion"
+   ],
+   "seoTitle": "Fırın Yemekleri Tarifleri",
+   "intro": "Fırın yemekleri tarifleri: tek tepside tavuk, fırında karnıyarık, fırında sütlaç. Hazırla, fırına ver, gerisini unut."
+  },
+  {
+   "k": "tatli",
+   "l": "Tatlılar",
+   "s": "Sütlüden şerbetliye",
+   "art": [
+    "pom",
+    "card",
+    "sun"
+   ],
+   "seoTitle": "Tatlı Tarifleri",
+   "intro": "Kolay tatlı tarifleri: kek, brownie, cheesecake, tiramisu, sütlaç, revani, şekerpare ve baklava. Sütlüden şerbetliye pratik tatlılar."
+  },
+  {
+   "k": "dunya",
+   "l": "Dünya Mutfağı",
+   "s": "İtalya’dan Asya’ya",
+   "art": [
+    "tomato",
+    "leaf",
+    "sun"
+   ],
+   "seoTitle": "Dünya Mutfağı Tarifleri",
+   "intro": "Evde kolayca yapabileceğin dünya mutfağı tarifleri: İtalyan makarnaları ve risotto, Asya’dan pad thai, köri ve teriyaki, Meksika’dan taco ve quesadilla. Malzemeleri Türkiye’de bulunur, ölçüler net."
+  }
+ ],
+ "diets": [
+  {
+   "k": "hizli",
+   "l": "Hızlı Tarifler",
+   "s": "Mesai sonrası: az uğraş, az bulaşık",
+   "art": [
+    "sun",
+    "tomato",
+    "leaf"
+   ],
+   "wc": true,
+   "seoTitle": "Hızlı Tarifler",
+   "intro": "Hızlı ve pratik yemek tarifleri: az uğraşlı, az bulaşıklı, mesai sonrası için kolay tarifler. Tek tavalar, tek tepsiler ve ofis kutusuna giren yemekler."
+  },
+  {
+   "k": "airfryer",
+   "l": "Airfryer Tarifleri",
+   "s": "Az yağ, kısa süre, fırını yakmadan",
+   "art": [
+    "sun",
+    "tomato",
+    "rice"
+   ],
+   "seoTitle": "Airfryer Tarifleri",
+   "intro": "Kolay airfryer tarifleri: haşlanmış yumurtadan çıtır nohuda, tavuk göğsünden künefeye, mayasız ekmekten keke. Her tarifte derece ve süre net; aşağıdaki tabloda hepsini tek bakışta görebilirsin. Klasik tariflerimizin çoğunda da “Airfryer’da nasıl yapılır?” notu var.",
+   "seoFull": "Airfryer Tarifleri: Kolay ve Pratik Tarifler, Süre ve Derece Tablosu"
+  },
+  {
+   "k": "vegan",
+   "l": "Vegan",
+   "s": "Hayvansal ürün yok, eksik lezzet de yok",
+   "art": [
+    "leaf",
+    "pis",
+    "tomato"
+   ],
+   "seoTitle": "Vegan Tarifler",
+   "intro": "Vegan yemek tarifleri: hayvansal ürün içermeyen zeytinyağlılar, çorbalar, ana yemekler ve sağlıklı tatlılar."
+  },
+  {
+   "k": "glutensiz",
+   "l": "Glutensiz",
+   "s": "Buğday, arpa ve çavdar içermeyenler",
+   "art": [
+    "rice",
+    "sun",
+    "tomato"
+   ],
+   "seoTitle": "Glutensiz Tarifler",
+   "intro": "Glutensiz yemek tarifleri: buğday, arpa ve çavdar içermeyen ana yemekler, kahvaltılıklar ve tatlılar."
+  },
+  {
+   "k": "saglikli",
+   "l": "Sağlıklı Tatlılar",
+   "s": "Rafine şekersiz, meyveli ve doyurucu",
+   "art": [
+    "pom",
+    "sun",
+    "leaf"
+   ],
+   "seoTitle": "Sağlıklı Tatlı Tarifleri",
+   "intro": "Sağlıklı tatlı tarifleri: rafine şekersiz chia bowl’lar, meyveli kaseler ve hafif tatlılar. Bali kafelerinden ilham alan tarifler."
+  },
+  {
+   "k": "kis-yemekleri",
+   "l": "Kış Yemekleri",
+   "s": "Havalar soğuyor: şifa niyetine tarifler",
+   "art": [
+    "tomato",
+    "sun",
+    "onion"
+   ],
+   "seoTitle": "Kış Yemekleri Tarifleri",
+   "intro": "Havalar soğuyor, şifa niyetine tarifler sırada. İçi ısıtan çorbalar, tencerede ağır ağır pişen kuru baklagiller, güveçler, mevsim sebzeleri ve hamsiden palamuta kış balıkları. Ayva, kabak ve portakalla da kışın tatlı hali."
+  },
+  {
+   "k": "yaz-yemekleri",
+   "l": "Yaz Yemekleri",
+   "s": "Sıcakta hafif, serin ve ferah tarifler",
+   "art": [
+    "leaf",
+    "tomato",
+    "sun"
+   ],
+   "seoTitle": "Yaz Yemekleri Tarifleri",
+   "intro": "Sıcak günlerin hafif sofrası: soğuk servis zeytinyağlılar, patlıcan ve kabakla yaz sebzeleri, ızgaralar, ferah salatalar ve soğuk çorbalar. Tatlı tarafında sütlüler, meyveliler ve ev yapımı dondurma."
+  }
+ ]
 }

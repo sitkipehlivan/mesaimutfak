@@ -55,6 +55,21 @@ tips:
 - Dilim ne kadar ince olursa o kadar çıtır olur.
 - Hafif dilimler fanla uçabilir; üzerine metal bir ızgara koyabilirsin.
 - Armutla da aynı şekilde yapılır.
+aramaBasligi: "Airfryer’da elma cipsi: Kaç derecede kaç dakika?"
+faq:
+- q: "Airfryer’da elma cipsi kaç derecede kaç dakika pişer?"
+  a: "140°C’de 20-25 dakika; 8 dakikada bir çevrilir."
+- q: "Elma dilimleri ne kalınlıkta olmalı?"
+  a: "Yaklaşık 2 mm. Mandolinle dilimlemek en eşit sonucu verir."
+- q: "Elma cipsi neden çıtır olmadı?"
+  a: "Sıcakken yumuşak görünür, soğudukça çıtırlaşır. Tamamen soğuyunca kapalı kaba alın."
+editorNote: "Dereceyi bilerek düşük tuttuk. Elma cipsinde amaç kızartmak değil kurutmak; yüksek ısıda dilimler içi kurumadan kenarlardan kararır."
+notes:
+- t: "Neden düşük derece?"
+  d: "Elma dilimlerinin içindeki suyun yavaşça buharlaşması gerekir. 140°C civarında dilimler renk almadan kurur; daha yüksek sıcaklıkta elmadaki şeker hızla karamelize olur ve acılaşır."
+- t: "Hangi elma daha iyi olur?"
+  d: "Sert ve sulu olmayan elmalar dilimlerken dağılmaz ve daha düzgün kurur. Ekşi elmalar tarçınla daha dengeli bir tat verir; tatlı elmalarda limon suyu rengi korumaya yardım eder."
+updated: '2026-11-05'
 ---
 
 Çocuklar için şekersiz, büyükler için çaya eşlik eden doğal cips.

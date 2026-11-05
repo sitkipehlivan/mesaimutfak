@@ -895,3 +895,20 @@ html.is-watch body{background:var(--w-bg);color:var(--w-txt);font-family:-apple-
 .vcard-body{margin:0;padding:12px 14px;font-size:14.5px;line-height:1.45;min-height:3.2em}
 .ad .adv-etiket{display:none} /* sitenin kendi "Reklam" etiketi yeterli */
 html.ads-on .r-side .ad-atf{order:-1} /* tarif yan sütunu: reklam üstte ve yapışkan sütunla birlikte görünür kalır (viewability) */
+
+/* v26 · Airfryer rehberi (kategori sayfası): süre tablosu, klasik tarifler, SSS */
+.af-hub{margin:-24px 0 64px;max-width:860px}
+.af-hub h2{font-size:26px;margin:28px 0 10px}
+.af-hub>p{color:var(--ink-2);margin:0 0 14px}
+.af-table-wrap{overflow-x:auto;border:1.5px solid var(--line);border-radius:var(--r);background:var(--card)}
+.af-table{width:100%;border-collapse:collapse;font-size:15px}
+.af-table th,.af-table td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line)}
+.af-table thead th{font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2)}
+.af-table tbody tr:last-child th,.af-table tbody tr:last-child td{border-bottom:0}
+.af-table tbody th a{color:var(--ink);font-weight:600;text-decoration:none}
+.af-table tbody th a:hover{text-decoration:underline}
+.af-table td:nth-child(2){font-family:var(--f-mono);white-space:nowrap}
+.af-klasik{columns:3 200px;gap:24px;padding-left:18px;margin:0}
+.af-klasik li{margin:4px 0;break-inside:avoid}
+.af-klasik a{color:var(--ink)}
+.af-hub .faq{margin-top:12px}

@@ -8,7 +8,8 @@ export default {
     editor: d => d.editor || 'editor-ekibi',
     // Editör içeriği eklenmemiş tarifler zenginleştirilene kadar arama motorlarına kapalı
     noindex: d => d.noindex || !(d.editorNote || d.yayin === true),
-    seoTitle: d => `${d.title} tarifi: Nasıl yapılır?`,
+    // aramaBasligi: tarife özel Google başlığı (ör. "Airfryer’da nugget kaç dakikada pişer?"); yoksa kalıp başlık
+    seoTitle: d => d.aramaBasligi || `${d.title} tarifi: Nasıl yapılır?`,
     seoDesc: d => {
       const total = (d.prep || 0) + (d.cook || 0);
       const base = (d.desc || '').replace(/\s+$/, '');

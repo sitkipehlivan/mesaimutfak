@@ -72,6 +72,21 @@ tips:
 - Hafif lavaş fanla kalkabilir; ilk dakika üzerine ters metal bir ızgara koy.
 - İki lavaşı üst üste kullanırsan taban daha sağlam olur.
 - Vejetaryen için mantar ve mısır kullan.
+aramaBasligi: "Airfryer’da lavaş pizza: 180°C’de 7 dakika"
+faq:
+- q: "Airfryer’da lavaş pizza kaç dakikada pişer?"
+  a: "180°C’de 6-7 dakika; peynir eriyip kenarlar kızarınca hazırdır."
+- q: "Lavaş sepete sığmazsa ne yapmalı?"
+  a: "Lavaşı sepetin boyuna göre katlayın ya da kesin."
+- q: "Peynir ne zaman konur?"
+  a: "Peynirin yarısı malzemelerin altına, yarısı üstüne serilir."
+editorNote: "Peyniri ikiye bölüp yarısını malzemelerin altına koymayı önerdik. Alttaki peynir malzemeleri lavaşa yapıştırır, sepette sıcak hava dolaşırken sucuk ve zeytin dağılmaz."
+notes:
+- t: "Lavaş neden hızlı pişer?"
+  d: "İnce lavaş tabanı mayalı hamur gibi kabarmaz; yalnızca ısınıp çıtırlaşması gerekir. Bu yüzden süre peynirin erimesine göre belirlenir."
+- t: "Fazla malzeme koyarsam ne olur?"
+  d: "Çok malzeme taban çıtırlaşmadan üstün ıslak kalmasına yol açar. Sosu ince sürmek ve malzemeleri tek kat yaymak lavaş pizzanın çıtır kalmasını sağlar."
+updated: '2026-11-05'
 ---
 
 Mesai sonrası pizza isteğine en kısa cevap: lavaş, sos ve peynir.

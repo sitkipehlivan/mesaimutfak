@@ -62,6 +62,21 @@ tips:
 - Bayatlamış lavaşı değerlendirmenin en güzel yolu.
 - Gözünü ayırma; son dakikada çok hızlı renk alır.
 - Humus, haydari ve acılı ezmeyle servis et.
+aramaBasligi: "Airfryer’da lavaş cipsi: 180°C’de 5-6 dakika"
+faq:
+- q: "Airfryer’da lavaş cipsi kaç dakikada olur?"
+  a: "180°C’de 5-6 dakika; yarısında sepeti sallayın."
+- q: "Lavaş cipsi için lavaş nasıl kesilir?"
+  a: "Pizza dilimi gibi üçgenler halinde."
+- q: "Lavaş cipsinin eşit kızarması için ne yapmalı?"
+  a: "Zeytinyağını fırçayla ince sürün ve dilimleri sepete tek kat dizin."
+editorNote: "Süreyi kısa ve aralıklı yazdık; lavaş çok ince olduğu için bir iki dakika fazlası cipsi yakar."
+notes:
+- t: "Yağ neden fırçayla sürülür?"
+  d: "Fırçayla sürülen ince yağ katmanı lavaşın her yerine eşit dağılır ve baharatın tutunmasını sağlar. Dökülerek konan yağ bazı yerleri ıslatıp yumuşak bırakır."
+- t: "Hangi baharatlar uyar?"
+  d: "Pul biber, kekik, kimyon ve sarımsak tozu klasik bir karışım verir. Susam ya da çörek otu eklemek de cipse ayrı bir lezzet katar."
+updated: '2026-11-05'
 ---
 
 Meze tabağının yanına on dakikada çıtır cips. Evde kalan lavaşı da çöpe gitmekten kurtarır.
