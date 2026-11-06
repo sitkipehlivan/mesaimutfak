@@ -17,6 +17,22 @@
  },
  "airfryer-kunefe": {
   "avg": 5,
+  "count": 2
+ },
+ "airfryer-mini-pizza": {
+  "avg": 4,
+  "count": 1
+ },
+ "airfryer-yogurtlu-ekmek": {
+  "avg": 5,
+  "count": 1
+ },
+ "cilbir": {
+  "avg": 5,
+  "count": 1
+ },
+ "coban-salatasi": {
+  "avg": 5,
   "count": 1
  },
  "etli-nohut": {
@@ -31,9 +47,13 @@
   "avg": 5,
   "count": 1
  },
- "kirmizi-mercimek-corbasi": {
+ "kabak-tatlisi": {
   "avg": 5,
-  "count": 4
+  "count": 1
+ },
+ "kirmizi-mercimek-corbasi": {
+  "avg": 4.4,
+  "count": 5
  },
  "kuskus-salatasi": {
   "avg": 1,
