@@ -77,6 +77,43 @@ steps:
 tips:
 - Mantarı tuzu en sonda ekle; erken tuz suyunu çıkarır.
 - Tavuk ya da ıspanak ekleyerek çeşitlendirebilirsin.
+updated: '2026-11-06'
+notes:
+- t: Mantarı kızartmak
+  d: 'Kültür mantarı büyük ölçüde sudan oluşur. Tavaya atıldığında önce suyunu salar; bu su buharlaşıp çekildikten sonra mantar kızarmaya başlar. Yüksek ateş ve geniş bir tava bu süreci hızlandırır. Tavayı kalabalık edersen su buharlaşamaz ve mantar haşlanır, bu yüzden gerekirse iki parti halinde sotele. Mantarları yıkayacaksan kısa sürede durula ve iyice kurula. Sarımsağı mantar kızardıktan sonra ekle; baştan eklenirse mantarın piştiği sürede yanar.
+
+    '
+- t: Sosu bağlamak
+  d: 'Kremayı mantarın üzerine ekleyip 2 dakika kaynatmak kremayı hafifçe koyulaştırır. Parmesanı ve baharatları bu aşamada kat; peynir eridikçe sos kadifemsi bir kıvam alır. Peyniri eklerken ateşi biraz kısmak topaklanmayı önler. Sos çok koyulaşırsa makarnayı haşlarken ayırdığın yarım bardak sudan azar azar ekle. Haşlama suyundaki nişasta sosu makarnaya tutundurur. Kremalı soslar beklerken katılaşır, bu yüzden makarnayı sosa aldıktan sonra fazla bekletmeden servis et.
+
+    '
+- t: Alternatifler ve çeşitleme
+  d: 'Kültür mantarı yerine istiridye ya da kestane mantarı kullanırsan farklı bir aroma ve doku elde edersin. Parmesan yerine eski kaşar ya da kuru tulum peyniri olur. Tereyağı yerine zeytinyağı kullanacaksan ¾ ölçü yeterli. Fettuccine yerine tagliatelle, glutensiz bir tabak için pirinç eriştesi kullanabilirsin. Tavuk eklemek istersen mantardan önce ayrı pişirip sona ekle; ıspanağı ise kremayla birlikte koyup solmasını bekle. Maydanozu servis anında serp ki tazeliğini korusun.
+
+    '
+faq:
+- q: Kremalı makarna için mantar nasıl sotelenir?
+  a: 'Tereyağında yüksek ateşte, suyunu salıp çekene ve kızarana kadar yaklaşık 7 dakika sotelenir. Tuzu en sonda ekle.
+
+    '
+- q: Mantar neden su salar?
+  a: 'Mantar büyük ölçüde sudan oluşur; erken eklenen tuz ve kalabalık tava bu suyun çıkmasını hızlandırır. Yüksek ateş ve geniş tava suyun çabuk buharlaşmasını sağlar.
+
+    '
+- q: Kremalı makarna sosu nasıl koyulaşır?
+  a: 'Kremayı 2 dakika kaynatıp parmesanı katmak sosu koyulaştırır. Fazla koyulaşırsa makarna suyuyla açabilirsin.
+
+    '
+- q: Kremalı mantarlı makarnaya ne eklenir?
+  a: 'Tavuk ya da ıspanak ekleyerek çeşitlendirebilirsin.
+
+    '
+editorNote: Mantarın tuzunu en sona bıraktık; erken eklenen tuz mantarın suyunu çıkarıyor ve mantar kızaracağına kendi suyunda haşlanıyor.
+aramaBasligi: 'Kremalı mantarlı makarna tarifi: Parmesanlı, 20 dakikada'
 ---
 
-Krema, mantar ve parmesan üçlüsüyle on beş dakikada restoran makarnası.
+Kremalı mantarlı makarna, tereyağında kızartılan kültür mantarının sarımsak, krema ve parmesanla kadifemsi bir sosa dönüştüğü bir makarna. Fettuccine ya da penneyle yapılabiliyor; ikisi de sosu iyi tutuyor.
+
+Bu tarifin ana fikri mantarı yüksek ateşte, suyunu çekip kızarana kadar sotelemek. Kızaran mantar sosa derin bir lezzet veriyor; haşlanmış gibi kalan mantar ise kremanın içinde tatsız ve lastiğimsi oluyor. Krema 2 dakika kaynatılıp parmesanla bağlanıyor, kıvam da ayırdığın yarım bardak makarna suyuyla ayarlanıyor.
+
+3 kişilik tarif toplam 20 dakikada hazır; makarna haşlanırken mantarı sotelersen iki iş aynı anda biter. Tavuk ya da ıspanak ekleyerek tabağı çeşitlendirebilirsin.

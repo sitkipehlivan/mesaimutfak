@@ -70,6 +70,35 @@ steps:
 tips:
 - Cevizleri hafifçe kavurursan aroması artar.
 - Bir gün önceden hazırlanabilir; soğuk servis edilir.
+updated: '2026-11-06'
+notes:
+- t: Sosun kıvamı
+  d: 'Çerkez tavuğunun sosu koyu bir krema kıvamında olmalı; tavuğu sarmalı ama akmamalı. Kıvamı ekmek içi ve tavuk suyu belirler. Ekmeği tavuk suyunda ıslattıktan sonra hafifçe sık, sonra cevizle birlikte rondoya koy. Sos fazla koyuysa kaşık kaşık tavuk suyu ekleyerek aç; sulandıysa biraz daha ceviz ya da ekmek içi ekle. Cevizi çok uzun süre çekersen yağını salar ve sos ağırlaşır, bu yüzden pürüzsüzleşince dur.
+
+    '
+- t: Cevizin tadı
+  d: 'Sosun ana lezzeti ceviz olduğu için taze ceviz kullan. Bayatlamış cevizin acımsı tadı sosa geçer ve sarımsakla daha da belirginleşir. Cevizleri kuru tavada hafifçe kavurursan aroması artar; kavurduktan sonra soğumasını bekle. Ceviz yerine fındık ya da badem kullanabilirsin, ama tat değişir. Biber yağı için tarifte ceviz yağı ya da zeytinyağı var; ceviz yağı sosun tadını tamamlar, zeytinyağı ise daha kolay bulunur.
+
+    '
+- t: Önceden hazırlamak ve saklamak
+  d: 'Çerkez tavuğu bir gün önceden hazırlanabilir ve soğuk servis edilir. Bekledikçe sos tavuğa işler ve tat yerleşir. Buzdolabında ağzı kapalı bir kapta sakla; biber yağını servis etmeden hemen önce hazırlayıp gezdir, önceden dökülürse sosa işler ve rengi solar. Tavuk göğsü yerine tavuk but kullanırsan et daha sulu kalır. Ekmek dilimleri, kraker ya da marul yapraklarıyla servis edebilirsin. Tabağa aldıktan sonra sosun yüzeyini kaşığın arkasıyla düzeltmek biber yağının eşit dağılmasını sağlar.
+
+    '
+faq:
+- q: Çerkez tavuğu sosu nasıl yapılır?
+  a: 1,5 su bardağı ceviz, tavuk suyunda ıslatılmış 3 dilim bayat ekmek içi, 2 diş sarımsak ve tuz rondoda pürüzsüz olana kadar çekilir. Kıvamı koyu bir krema gibi olmalı.
+- q: Çerkez tavuğunda ceviz yerine ne kullanılır?
+  a: Fındık ya da badem kullanabilirsin. Tat cevizdeki kadar belirgin olmaz ama sos aynı yöntemle hazırlanır.
+- q: Çerkez tavuğu sıcak mı soğuk mu yenir?
+  a: Soğuk servis edilir. Bir gün önceden hazırlanıp buzdolabında bekletilebilir.
+- q: Çerkez tavuğu için tavuk kaç dakika haşlanır?
+  a: Tavuk göğüsleri tuzlu suda yaklaşık 30 dakika haşlanır. Haşlama suyu sosu açmak için saklanır.
+editorNote: Sosu tavuğun kendi haşlama suyuyla açtık; sade suyla açılan sos daha yavan kalıyor. Biber yağında yağı kızdırmadan ılıtmayı vurguladık, çünkü kırmızı biber kızgın yağda kısa sürede yanıp kararıyor.
+aramaBasligi: 'Çerkez tavuğu tarifi: Cevizli sos ve kırmızı biber yağıyla'
 ---
 
-Çerkes mutfağının İstanbul sofralarına yerleşmiş, cevizli tavuk mezesi.
+Çerkez tavuğu, haşlanıp didiklenmiş tavuğun ceviz, ekmek içi ve sarımsakla hazırlanan koyu bir sosla karıştırıldığı soğuk bir meze. Adından da anlaşıldığı gibi Çerkes mutfağından geliyor ve İstanbul sofralarında misafir mezeleri arasında yerleşmiş bir tabak.
+
+Bu tarifte tavuk göğüsleri tuzlu suda yaklaşık 30 dakika haşlanıyor ve didikleniyor; haşlama suyu sos için saklanıyor. Sos, tavuk suyunda ıslatılmış bayat ekmek içi, ceviz, sarımsak ve tuzun rondoda pürüzsüz çekilmesiyle hazırlanıyor. Tavuğun büyük kısmı sosun yarısıyla karıştırılıp tabağa alınıyor, kalan sosla kaplanıyor. Üzerine ılık yağda açılan toz kırmızı biber gezdiriliyor.
+
+Hazırlık ve pişirme toplam 55 dakika, tarif 6 kişilik.

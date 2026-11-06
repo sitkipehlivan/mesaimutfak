@@ -81,6 +81,43 @@ steps:
 tips:
 - Sebzeleri fazla haşlama, salata lapa olur.
 - Sandviçlerin içine de çok yakışır.
+updated: '2026-11-06'
+notes:
+- t: Sebzeleri lapa yapmadan haşlamak
+  d: 'Rus salatasının en sık bozulduğu yer haşlama. Patates ve havucu benzer büyüklükte küçük küpler halinde doğramak eşit pişmelerini sağlar. Küpler bıçak ucuyla kolayca delinecek kadar yumuşadığında ocaktan al; fazla haşlanan patates karıştırırken ezilir ve salata lapa olur. Bezelyeyi son 3 dakikada eklemek rengini ve tanesini korur. Süzdükten sonra sebzeleri geniş bir tepsiye yayarsan daha hızlı soğur ve kendi buharıyla pişmeye devam etmez.
+
+    '
+- t: Sosu soğuk sebzeyle birleştirmek
+  d: 'Mayonezli sos sıcak sebzeye eklenirse yağı ayrışır ve salata sulanır. Bu yüzden sebzelerin tamamen soğumasını beklemek önemli. Turşu ve yumurtayı da sebzelerle benzer boyda, küçük küp doğra; böylece her kaşıkta tüm malzemeler bir arada gelir. Kornişon turşunun suyunu iyice süz, aksi halde sos incelir. Sosu ayrı bir kasede karıştırıp sonra sebzelere eklemek dereotunun ve limonun eşit dağılmasını sağlar. Karıştırdıktan sonra salatayı buzdolabında soğutmak tatların oturmasına yardım eder.
+
+    '
+- t: Alternatifler ve saklama
+  d: 'Daha da hafif bir salata istersen mayonezin yerine süzme yoğurt kullanabilirsin. Patates yerine tatlı patates de olur; pişme süresi biraz kısalır. Taze bezelye yoksa dondurulmuş bezelye kullanabilirsin. Dereotu yerine maydanoz ve biraz taze nane koyabilirsin. Mayonez ve yoğurt içerdiği için salatayı buzdolabında kapalı kapta sakla ve oda sıcaklığında uzun süre bekletme. Sandviç içi olarak kullanacaksan salatayı ekmeğe servis anında sür ki ekmek ıslanmasın.
+
+    '
+faq:
+- q: Rus salatası için sebzeler kaç dakika haşlanır?
+  a: 'Küp doğranmış patates ve havuç yaklaşık 15 dakika haşlanır, bezelye son 3 dakikada eklenir.
+
+    '
+- q: Rus salatası mayonezsiz yapılır mı?
+  a: 'Evet, mayonez yerine süzme yoğurt kullanabilirsin; salata daha hafif olur. Bu tarifte zaten sosun bir kısmı yoğurt.
+
+    '
+- q: Rus salatası neden sulanır?
+  a: 'Sebzeler sıcakken sosla karıştırılırsa ya da turşunun suyu süzülmezse salata sulanır. Sebzeleri tamamen soğut ve turşuyu iyice süz.
+
+    '
+- q: Rus salatası önceden hazırlanır mı?
+  a: 'Evet, soğuk servis edilen bir salata. Hazırlayıp buzdolabında soğutmak tatların oturmasını sağlar.
+
+    '
+editorNote: Sosta mayonezin bir kısmının yerine yoğurt koyduk; salata daha hafif ve ferah oluyor, sebzelerin tadı da sosun altında kaybolmuyor.
+aramaBasligi: 'Rus salatası tarifi: Yoğurtlu hafif sosla, 6 kişilik'
 ---
 
-Şarküterilerin klasik salatası, evde daha hafif bir sosla.
+Rus salatası, haşlanmış patates, havuç ve bezelyenin kornişon turşu ve haşlanmış yumurtayla mayonezli bir sosta birleştiği soğuk bir salata. Rusya'da Olivier salatası olarak bilinen yemeğin bir türevi; Türkiye'de şarküteri vitrinlerinin ve sandviçlerin tanıdık salatası.
+
+Bu tarifte sosu yalnızca mayonezle değil, mayonez ve yoğurdu karıştırarak hazırlıyoruz; limon suyu ve dereotu ferahlık katıyor. Patates ve havuç küp doğranıp birlikte haşlanıyor, bezelye son 3 dakikada ekleniyor. Böylece sebzeler aynı anda pişiyor ama dağılmıyor.
+
+6 kişilik salata toplam 40 dakikada hazır. Soğuk servis edildiği için önceden yapıp buzdolabında bekletmek pratik bir seçenek; misafir masasında da sandviç içinde de kullanılabiliyor.

@@ -91,6 +91,35 @@ steps:
 tips:
 - Haşlamadan önce dondurabilirsin; donmuş olarak suya at.
 - Kars ve Ardahan’da kurutulmuş nane serpilir.
+updated: '2026-11-06'
+notes:
+- t: Kenarları sıkı kapatmak
+  d: 'Hingelin en sık sorunu haşlarken açılması. Yuvarlakların kenarına harç bulaşırsa hamur birbirine yapışmaz ve kaynar suda ayrılır. Harcı ortaya koy, kenarlarda temiz bir alan bırak. Kapattıktan sonra kenarları parmaklarınla iyice bastır ya da çatalla sıkıştır. Hamur kuruyup yapışmıyorsa kenarına parmağınla biraz su sür. Harcı fazla koyma; şişkin hingel kapanırken gerilir ve haşlanırken patlayabilir. Hingelleri kaynar suya az az at ve tencereyi kalabalık etme; birbirine değen hingeller yapışabilir.
+
+    '
+- t: Harcın kıvamı
+  d: 'Patatesleri haşladıktan sonra iyice süz ve sıcakken ez; soğuyan patates topaklanır. Harç sulu olmamalı, yoksa hamuru içeriden ıslatır. Lor ya da çökelek tuzluysa harca eklediğin tuzu azalt. Lor bulamazsan ricotta ya da ezilmiş tuzsuz beyaz peynir kullanabilirsin. Harcı hamura koymadan önce tadına bak; hamur ve yoğurt tadı yumuşatacağı için karabiberi biraz belirgin tutmak iyi sonuç verir. Harcı bir gün önceden hazırlayıp buzdolabında saklayabilirsin.
+
+    '
+- t: Dondurmak ve servis
+  d: 'Hingeli şekillendirdikten sonra haşlamadan dondurabilirsin. Unlanmış bir tepsiye birbirine değmeden diz, donunca poşete al. Pişirirken çözdürmeden doğrudan kaynar suya at; süre birkaç dakika uzayabilir. Servis ederken yoğurdu oda sıcaklığında tut ki sıcak hingelin üzerinde sulanmasın. Kars ve Ardahan''da üzerine kurutulmuş nane de serpilir. Soğanlı tereyağını servisten hemen önce kızdırıp sıcakken gezdir. Soğanı tereyağında orta ateşte, kenarları kızarıp tatlanana kadar pişirmek tabağın lezzetini belirler.
+
+    '
+faq:
+- q: Hingel kaç dakika haşlanır?
+  a: Bol tuzlu kaynar suda yüzeye çıktıktan sonra 3-4 dakika daha haşlanır. Toplam haşlama yaklaşık 8 dakika sürer.
+- q: Hingel ile mantı arasındaki fark nedir?
+  a: Mantı küçük kesilir ve içi kıymalıdır. Hingel daha büyük, yarım ay şeklindedir ve içinde patates ile lor ya da çökelek vardır.
+- q: Hingel dondurulur mu?
+  a: Evet, haşlamadan önce dondurulabilir. Donmuş hingelleri çözdürmeden kaynar suya atabilirsin.
+- q: Hingelde lor yerine ne kullanılır?
+  a: Lor ya da çökelek yerine ricotta veya ezilmiş tuzsuz beyaz peynir kullanabilirsin.
+editorNote: Haşlama süresini yüzeye çıktıktan sonra 3-4 dakika diye yazdık; yüzeye çıkmak hamurun tam piştiğini göstermiyor. Soğanı tereyağıyla ayrı kızartmayı seçtik, çünkü bu tabağın tadını soğanın tatlılığı tamamlıyor.
+aramaBasligi: 'Hingel tarifi: Patatesli ve lorlu, soğanlı tereyağıyla'
 ---
 
-Kafkasya’dan Doğu Anadolu’ya uzanan, mantının patatesli büyük kardeşi.
+Hingel, içi patates ve peynirle doldurulan yarım ay şeklindeki hamur bohçalarının haşlanıp yoğurt ve soğanlı tereyağıyla servis edildiği bir hamur yemeği. Doğu Anadolu'da, özellikle Kars ve Ardahan'da bilinen hingel mantıya benziyor, ama daha büyük ve etsiz.
+
+Bu tarifte hamur un, yumurta, ılık su ve tuzla yoğrulup 20 dakika dinlendiriliyor. İç harç ezilmiş haşlanmış patates, lor ya da çökelek, tuz ve karabiberden oluşuyor. İnce açılan hamur bardakla yuvarlak kesiliyor, harç konup yarım ay şeklinde kapatılıyor. Hingeller bol tuzlu kaynar suda yüzeye çıktıktan sonra 3-4 dakika daha haşlanıyor. Üzerine sarımsaklı yoğurt ve tereyağında kızartılmış yarım ay soğan geliyor.
+
+Hazırlık ve pişirme toplam 60 dakika, tarif 4 kişilik.
