@@ -42,3 +42,8 @@
   [headers.values]
     Content-Type = "application/manifest+json"
     Cache-Control = "public, max-age=3600"
+
+# CANLI YAYIN
+[context.production]
+  # Kredi tasarrufu: yalnızca commit mesajında [deploy] varsa canlıya derle (bkz. CLAUDE.md, .github/workflows/toplu-yayin.yml)
+  ignore = "git log -1 --format=%B | grep -qiE '\\[(deploy|yayinla)\\]' && exit 1 || exit 0"

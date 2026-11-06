@@ -1,0 +1,34 @@
+name: Toplu yayın (Netlify)
+
+# Netlify kredisini korumak için main'e yapılan push'lar otomatik yayınlanmaz (netlify.toml → ignore).
+# Bu iş akışı her gün 12:53'te (Türkiye) bekleyen değişiklik varsa boş bir "[deploy]" commit'i atar;
+# Netlify yalnızca o commit'te derleyip birikmiş her şeyi TEK yayında canlıya alır.
+# Acil yayın: commit mesajına [deploy] ekle ya da bu iş akışını elle çalıştır (Actions → Run workflow).
+on:
+  schedule:
+    - cron: '53 9 * * *'   # her gün 12:53 (Türkiye)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: toplu-yayin
+
+jobs:
+  yayinla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 300
+      - name: Bekleyen değişiklik var mı?
+        run: |
+          last=$(git log -1 -i -F --grep='[deploy]' --grep='[yayinla]' --format=%H)
+          if [ -n "$last" ]; then n=$(git rev-list --count "$last"..HEAD); else n=$(git rev-list --count HEAD); fi
+          echo "Son yayından beri $n commit."
+          if [ "$n" -eq 0 ]; then echo "Yayınlanacak bir şey yok."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Toplu yayın: $n değişiklik [deploy]"
+          for i in 1 2 3; do git push && break; git pull --rebase origin "${GITHUB_REF_NAME}"; done
