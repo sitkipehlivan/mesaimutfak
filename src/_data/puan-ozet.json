@@ -5,7 +5,7 @@
  },
  "airfryer-haslanmis-yumurta": {
   "avg": 5,
-  "count": 1
+  "count": 2
  },
  "airfryer-kabak-cubuklari": {
   "avg": 5,
@@ -48,6 +48,10 @@
   "count": 1
  },
  "kabak-tatlisi": {
+  "avg": 5,
+  "count": 1
+ },
+ "kalpli-kurabiye": {
   "avg": 5,
   "count": 1
  },
