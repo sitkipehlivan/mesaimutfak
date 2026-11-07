@@ -95,6 +95,35 @@ steps:
 tips:
 - Lavaşı ısıtırsan sararken kırılmaz.
 - Ruloları dilimlemek için ıslak, keskin bir bıçak kullan.
+updated: '2026-11-07'
+notes:
+- t: Harcın sıkı olması
+  d: 'Beytinin dilimlendiğinde dağılmaması harcın sıkılığına bağlı. Rendelenmiş soğanın suyunu iyice sıkmazsan harç yumuşar, köfte tavada şeklini kaybeder ve lavaşı ıslatır. Kıymayı 5 dakika yoğurmak etin proteinlerinin birbirine bağlanmasını sağlar; harç ele yapışan bir kıvama gelir. Ardından buzdolabında 30 dakika dinlenen harçtaki yağ sertleşir ve köfteyi şekillendirmek kolaylaşır. Orta yağlı kıyma seçmek de önemli; çok yağsız kıyma kuru ve sert olur, çok yağlısı ise pişerken fazla yağ salar.
+
+    '
+- t: Lavaşa sarma ve dilimleme
+  d: 'Köfteyi lavaşın kenarına koyup sıkı bir rulo yap; gevşek sarılan rulo kesince açılır. Lavaşı önceden kısa süre ısıtmak onu esnetir ve sararken kırılmasını önler. Ruloları 3-4 cm''lik dilimlere keserken ıslak ve keskin bir bıçak kullan; kör bıçak lavaşı ezer, köfteyi dışarı iter. Lavaş bulamazsan tortilla ya da yufka da olur. Yufka daha ince olduğu için sararken yırtılmamasına dikkat et ve ruloyu birleşim yeri alta gelecek şekilde kes.
+
+    '
+- t: Servis sırası
+  d: 'Dilimleri fırın kabına dik dizip domates sosunu üzerine gezdir ve 200°C''de 8 dakika ısıt; daha uzun tutarsan lavaş sosu çekip yumuşar. Sarımsaklı yoğurdu fırına sokma, tabağın yanına soğuk olarak koy. Kalan tereyağını en son eritip dilimlerin üzerine dök; sıcak tereyağı tabağa o tanıdık kokuyu verir. Artan dilimleri buzdolabında saklayıp ertesi gün fırında ısıtabilirsin, ama yoğurdu ve tereyağını o zaman taze ekle.
+
+    '
+faq:
+- q: Beyti kebabı evde nasıl yapılır?
+  a: Baharatlı kıymayı uzun köfteler halinde tavada ya da fırın ızgarasında pişir, lavaşa sarıp dilimle. Domates sosunu gezdirip 200°C fırında 8 dakika ısıt, yoğurt ve tereyağıyla servis et.
+- q: Beyti köftesi kaç dakika pişer?
+  a: Döküm tavada ya da fırın ızgarasında her yüzü 4 dakika pişer. Lavaşa sarıldıktan sonra sosla birlikte 8 dakika daha fırında ısınır.
+- q: Beyti kebabında lavaş yerine ne kullanılır?
+  a: Tortilla ya da yufka kullanabilirsin. Hangisini seçersen seç, sarmadan önce hafifçe ısıtmak kırılmasını önler.
+- q: Beyti için hangi kıyma kullanılır?
+  a: Orta yağlı dana kıyma bu tarif için uygun. Dana ve kuzu kıyma birbirinin yerine kullanılabilir.
+editorNote: Soğanın suyunu sıkmayı ve harcı 30 dakika dinlendirmeyi ayrı yazdık, çünkü sulu harç lavaşı ıslatır ve dilimlerken rulonun dağılmasına yol açar.
+aramaBasligi: 'Beyti kebabı tarifi: Lavaşta köfte, domates sosu ve yoğurt'
 ---
 
-İstanbul’un ünlü kebapçısından adını alan, sofraya gösterişli gelen bir klasik.
+Beyti kebabı, baharatlı kıymanın lavaşa sarılıp dilimlendiği, üzerine domates sosu ve eritilmiş tereyağı dökülerek yoğurtla servis edilen bir kebap. Adını İstanbul'daki bir kebapçıdan aldığı biliniyor; bugün pek çok kebap menüsünde yer alıyor.
+
+Evde mangal olmadığını varsayarak bu tarifte köfteleri döküm tavada ya da fırın ızgarasında pişiriyoruz. Soğanın suyu sıkılıyor, kıyma sarımsak, pul biber ve kimyonla yoğruluyor, buzdolabında dinlendikten sonra parmak kalınlığında uzun köftelere şekilleniyor. Lavaşa sarılan rulolar dilimlenip sosla birlikte 200°C fırında 8 dakika ısıtılıyor.
+
+Hazırlık 30, pişirme 25 dakika; 4 kişilik. Kıymanın buzdolabındaki 30 dakikalık dinlenmesini de planına ekle.

@@ -86,6 +86,35 @@ steps:
 tips:
 - Kâğıdı iki kat kullanırsan sular akmaz.
 - Eti bir gece önce soğan suyunda marine edersen çok daha yumuşak olur.
+updated: '2026-11-07'
+notes:
+- t: Bohçayı sıkı kapatmak
+  d: 'Kağıt kebabının pişme yöntemi buhar. Kâğıdın kenarları iyi kapanmazsa buhar kaçar, et kurur ve sebzeler fırında kavrulur. Kenarları yukarı toplayıp iple bağlayabilir ya da üst üste birkaç kez katlayarak kapatabilirsin. Kâğıdı iki kat kullanmak, sebzelerden çıkan suyun tepsiye akmasını önler. Bohçanın içinde biraz boşluk bırak; çok sıkı paketlenmiş bohçada buhar dolaşamaz ve üstteki malzemeler alttakilerden geç pişer. Tepsiyi fırının orta rafına koy.
+
+    '
+- t: Doğrama boyutu
+  d: 'Et ve sebzeler aynı bohçada aynı sürede pişeceği için doğrama boyutu dengeli olmalı. Patates ve havucu kuşbaşıyla yaklaşık aynı boyda küp doğra; havuç daha sert olduğu için biraz küçük doğramak iyi olur. Domates çabuk dağılır ve suyunu salar, bu su da bohçanın içindeki buharın kaynağıdır. Dondurulmuş bezelye kullanacaksan bütün pişirme boyunca bohçada kalması onu ezer; son 10 dakikada bohçayı açıp eklemek daha iyi sonuç verir.
+
+    '
+- t: Eti yumuşatmak ve alternatifler
+  d: 'Dana kuşbaşı 60 dakikada bohça içinde yumuşar, ama et sertse bir gece önceden soğan suyunda marine etmek fark yaratır. Soğan suyu etin liflerini gevşetir ve aroma katar. Dana yerine kuzu eti de kullanabilirsin. Tavuk but tercih edersen süreyi yarıya indir, aksi halde tavuk lifleşip kurur. Patates yerine tatlı patates de olur; o biraz daha çabuk pişer. Bohçaları açınca çıkan sıcak buhara dikkat et, kâğıdı kendinden uzağa doğru aç.
+
+    '
+faq:
+- q: Kağıt kebabı fırında kaç dakika pişer?
+  a: 180°C fırında 60 dakika pişer. Tavuk but kullanırsan süreyi yarıya indir.
+- q: Kağıt kebabında hangi kâğıt kullanılır?
+  a: Pişirme kâğıdı kullanılır. Sular akmasın diye kâğıdı iki kat kullanabilirsin.
+- q: Kağıt kebabında et nasıl yumuşak olur?
+  a: Bohçanın sıkı kapanması buharın içeride kalmasını sağlar ve eti yumuşatır. Eti bir gece önceden soğan suyunda marine etmek de etkili.
+- q: Kağıt kebabı tavukla yapılır mı?
+  a: Evet, tavuk butla yapılabilir. Tavuk etten çabuk piştiği için fırın süresini yarıya indir.
+editorNote: Her kişiye ayrı bohça hazırlamayı seçtik; tek büyük paket yerine dört küçük bohça daha eşit pişer ve sofrada herkes kendi bohçasını açar.
+aramaBasligi: 'Kağıt kebabı tarifi: Fırında sebzeli kuşbaşı, 60 dakika'
 ---
 
-Sofraya bohça hâlinde gelen, açılınca buharıyla kokusunu salan şık bir kebap. Hazırlığı on beş dakika.
+Kağıt kebabı, kuşbaşı etin patates, havuç, bezelye ve domatesle birlikte pişirme kâğıdına sarılıp fırında kendi buharında piştiği bir yemek. Kâğıt bohça içerideki suyu tuttuğu için et kurumadan yumuşar, sebzeler de etin suyunu çeker.
+
+Bu tarifte tüm malzemeler bir kapta tuz, karabiber ve kekikle karıştırılıp dört ayrı bohçaya paylaştırılıyor; her bohçanın üstüne birer parça tereyağı konuyor. Bohçalar 180°C fırında 60 dakika pişiyor ve tabakta açılarak servis ediliyor. Pişerken başında beklemek ya da karıştırmak gerekmiyor.
+
+Hazırlık 20, pişirme 60 dakika; toplam 80 dakikada 4 kişilik. Tarif kolay ve glutensiz; fırın çalışırken salatayı hazırlamaya vaktin kalır.

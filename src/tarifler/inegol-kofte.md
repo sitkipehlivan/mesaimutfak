@@ -67,6 +67,35 @@ tips:
 - Köfteye baharat eklemek sadeliğini bozar; tuz ve karabiber yeterli.
 - Bir gece dinlendirirsen daha da lezzetli olur.
 - Yanına piyaz ve közlenmiş biber.
+updated: '2026-11-07'
+notes:
+- t: Neden iki kez çekilmiş kıyma
+  d: 'İnegöl köftesinin pürüzsüz ve sıkı dokusu iki kez çekilmiş kıymadan gelir. Tek çekilmiş kıyma daha iri tanelidir ve köfte ızgarada çatlayabilir. Kasabından orta yağlı kıymayı iki kez çekmesini iste; yağ oranı çok düşük olursa köfte kuru olur. Harcı 5-6 dakika yoğurmak etin proteinlerinin bağlanmasını sağlar ve kıvam yapış yapış olur. Bu yapışkanlık iyi bir işaret; köfte pişerken şeklini korur ve içindeki suyu tutar.
+
+    '
+- t: Karbonat ve soğan suyu
+  d: 'Tarifteki yarım çay kaşığı karbonat, köftenin hafif kabarık ve yumuşak olmasına yardım eder. Daha fazlası köfteye sabunumsu bir tat verebilir, bu yüzden ölçüyü artırma. Rendelenmiş soğanın suyunu iyice sıkman gerekiyor; soğan suyu harcı sulandırır ve köfte tavaya yapışır. Soğanın posası aromayı verir, fazla suyu ise harcın dağılmasına neden olur. Galeta unu harçtaki nemi tutar; yerine rendelenmiş bayat ekmek içi ya da yulaf ezmesi kullanabilirsin.
+
+    '
+- t: Pişirme ve servis
+  d: 'Tavanın ya da ızgaranın iyice ısınmış olması önemli. Soğuk tavaya konan köfte suyunu salar ve yüzeyi kızarmaz. Köfteleri sık sık çevirme; her yüzü 3-4 dakika pişip kabuk bağladıktan sonra çevirmek, köftenin tavaya yapışmadan ayrılmasını sağlar. Harcı bir gece dinlendirirsen tadı daha da oturur. Yanına piyaz ve közlenmiş biber yakışır. Pişmemiş köfteleri tepside tek sıra halinde dondurup sonra torbaya aktararak saklayabilirsin.
+
+    '
+faq:
+- q: İnegöl köfte neden dağılır?
+  a: Harç yeterince yoğrulmazsa, soğanın suyu sıkılmazsa ya da dinlendirilmeden pişirilirse dağılır. Harcı 5-6 dakika yoğur ve buzdolabında en az 1 saat beklet.
+- q: İnegöl köftenin içinde ne var?
+  a: Bu tarifte iki kez çekilmiş orta yağlı dana kıyma, rendelenmiş soğan, galeta unu, tuz, karabiber ve yarım çay kaşığı karbonat var. Başka baharat eklenmiyor.
+- q: İnegöl köfte airfryerda kaç dakika pişer?
+  a: 200°C'de 10-12 dakika pişer. Köfteleri sepete aralıklı diz ve 6. dakikada çevir.
+- q: İnegöl köfte harcı ne kadar dinlendirilir?
+  a: En az 1 saat buzdolabında dinlendir. Bir gece bekletirsen tadı daha da oturur.
+editorNote: Dinlendirmeyi ayrı bir adım olarak yazdık, çünkü İnegöl köftesinin sıkı ve sulu dokusu bu beklemeden geliyor; atlanırsa köfte pişerken dağılabilir.
+aramaBasligi: 'İnegöl köfte tarifi: Az malzemeli, 1 saat dinlenmiş harç'
 ---
 
-İnegöl’ün meşhur köftesi baharatsız, kendi lezzetiyle öne çıkar. Hazırlık beş dakika, bekleme bir saat.
+İnegöl köfte, adını Bursa'nın İnegöl ilçesinden alan, iki kez çekilmiş kıyma, soğan, galeta unu, tuz ve karabiberle yapılan sade bir ızgara köfte. Kimyon, pul biber gibi baharatlar kullanılmadığı için lezzet büyük ölçüde etten geliyor.
+
+Bu tarifin sırrı yoğurma ve bekleme. Harç 5-6 dakika yapış yapış olana kadar yoğruluyor, sonra buzdolabında en az 1 saat dinleniyor. Islak elle parmak boyunda dikdörtgen köfteler şekillendirilip iyice kızdırılmış döküm tavada ya da ızgarada her yüzü 3-4 dakika pişiyor. Airfryer'da 200°C'de 10-12 dakikada da olur.
+
+Hazırlık 15, pişirme 12 dakika; 4 kişilik. Bunlara harcın en az 1 saatlik dinlenme süresini ekle.

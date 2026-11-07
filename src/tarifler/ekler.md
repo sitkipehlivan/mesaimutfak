@@ -102,6 +102,43 @@ tips:
 - Hamurun tencerede iyice kuruması eklerlerin içinin boş ve kabarık olmasını sağlar.
 - Fırını açarsan ekler söner; renk koyu altın olana kadar sabret.
 - Doldurulmuş ekler aynı gün yenmeli; boş kabuklar kapalı kutuda 2 gün dayanır.
+updated: '2026-11-07'
+notes:
+- t: Hamuru kurutmak ve yumurta
+  d: 'Un eklendikten sonra hamuru 2 dakika karıştırmak gereksiz gibi görünür ama asıl iş budur: fazla su buharlaşır ve tencerenin dibinde ince bir zar oluşur. Kuru bir hamur fırında daha iyi kabarır ve içi boş kalır. Ardından hamuru 5 dakika ılıt; çok sıcak hamura eklenen yumurta pişer. Yumurtaları tek tek yedir ve kıvamı izle: kaşıktan V şeklinde düşen parlak bir hamur hedef. Yumurtalar iriyse sonuncusunun tamamına gerek kalmayabilir.
+
+    '
+- t: Fırın kapağını açmamak
+  d: 'Choux hamuru, içindeki suyun buhara dönüşmesiyle kabarır. İlk 15 dakika 200°C''de bu buhar hamuru şişirir, sonraki 15 dakika 180°C''de kabuk sertleşip kurur. Bu sürede fırın kapağını açarsan içeri giren soğuk hava ve kaçan buhar yüzünden ekler söner ve bir daha kabarmaz. Rengi koyu altın sarısı olana kadar sabret; soluk renkte çıkarılan ekler soğuyunca yumuşar ve çöker. Pişen eklerlerin yanını kürdanla delmek içerdeki buharın çıkmasını ve kabuğun kuru kalmasını sağlar.
+
+    '
+- t: Doldurma ve saklama
+  d: 'Pastacı kremasını tamamen soğumadan doldurursan kabuk yumuşar. Kremayı streç filmi yüzeyine değecek şekilde kapatıp soğutmak kabuk bağlamasını önler. Doldurmak için eklerlerin altına ince bir uçla delik açıp kremayı torbayla sık. Çikolata sosu için bitter çikolatayı sıcak kremayla eritip eklerlerin üstünü sosa batır. Doldurulmuş ekler aynı gün yenmeli; boş kabuklar kapalı kutuda 2 gün dayandığı için kabukları önceden pişirip servis günü doldurabilirsin.
+
+    '
+faq:
+- q: Ekler neden söner?
+  a: 'En sık nedenler fırın kapağını erken açmak, hamuru tencerede yeterince kurutmamak ve az pişirmek. Ekler koyu altın rengini alana kadar fırını açma.
+
+    '
+- q: Ekler hamuru kaç dakika pişer?
+  a: 'Önce 200°C''de 15 dakika, ardından 180°C''de 15 dakika daha; toplam 30 dakika.
+
+    '
+- q: Ekler kreması nasıl yapılır?
+  a: 'Süt, şeker, un, mısır nişastası, yumurta sarısı ve vanilin koyulaşana kadar yaklaşık 10 dakika pişirilir. Ocaktan alınınca tereyağı eklenir ve yüzeyine streç film değdirilerek soğutulur.
+
+    '
+- q: Ekler önceden yapılır mı?
+  a: 'Boş kabuklar kapalı kutuda 2 gün dayanır, bu yüzden önceden pişirilebilir. Doldurulmuş ekler ise aynı gün yenmeli.
+
+    '
+editorNote: Hamuru tencerede pişirme ve yumurta yedirme adımlarını ayrı ayrı yazdık; ekler tarifinde hataların çoğu bu iki aşamada oluyor ve her birinin kendine ait bir kıvam işareti var.
+aramaBasligi: 'Ekler tarifi: Choux hamuru, pastacı kreması ve çikolata sos'
 ---
 
-Pastane vitrininin klasiği. Choux hamuru ilk seferde biraz sabır ister ama tekniği oturunca profiterolün, eklerin, hepsinin kapısı açılır.
+Ekler, Fransız pastacılığından gelen ve Türkiye'de pastane vitrinlerinin klasiği olan uzun, içi kremalı bir hamur tatlısı. Temeli choux hamuru: ocakta pişirilip yumurtayla açılan, fırında buharla kabarıp içi boş kalan bir hamur. Profiterol de aynı hamurdan yapıldığı için bu tekniği bir kez öğrenmek birçok tatlının kapısını açıyor.
+
+Tarif üç parçadan oluşuyor: 4 yumurtalı choux hamuru, vanilyalı pastacı kreması ve bitter çikolatayla sıvı kremadan yapılan parlak sos. Hamur 200°C'de başlayıp 180°C'de pişmesini tamamlıyor.
+
+Hazırlık 40, pişirme 30 dakika; toplam 70 dakikada 16 ekler çıkıyor. Zorluk seviyesi yüksek görünse de kritik noktalar belli: hamuru tencerede yeterince kurutmak, yumurtaları tek tek eklemek ve fırın kapağını açmamak.

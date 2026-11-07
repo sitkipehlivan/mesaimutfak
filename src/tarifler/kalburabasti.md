@@ -90,6 +90,35 @@ steps:
 tips:
 - Kalbur yoksa çatalın sırtıyla çizgi deseni yapabilirsin.
 - Üzerine hindistan cevizi ya da fıstık serpilir.
+updated: '2026-11-07'
+notes:
+- t: Hamur kıvamı
+  d: 'Kalburabastının hamuru sıvı yağlı ve yoğurtlu olduğu için yumuşak ve kolay şekil alır. Yoğururken ele yapışıyorsa biraz daha un ekleyebilirsin, ama fazla un hamuru sertleştirir ve tatlı şerbeti iyi çekmez. Doğru kıvam, bastırdığında desen tutan ama çatlamayan bir hamurdur. Hamuru çok uzun yoğurmaya gerek yok; malzemeler bir araya gelip pürüzsüz olunca yeterli. Kabartma tozu hamuru fırında hafifçe kabartır, bu yüzden tepside parçaların arasında boşluk bırak.
+
+    '
+- t: Desen ve dolgu
+  d: 'Avucunda açtığın hamurun ortasına cevizi koyup kenarlarını kapat, birleşim yeri alta gelecek şekilde kalbura bastır. Bastırırken hamuru hafifçe ileri doğru kaydırmak deseni belirginleştirir. Desen yalnızca görüntü için değil; yüzeydeki çizgiler şerbetin tatlıya işlemesine de yardım eder. Kalbur yoksa rendenin üzerinde bastırarak ya da çatalın sırtıyla çizgi deseni yapabilirsin. Ceviz yerine fındık ya da badem kullanılabilir; iri çekilmiş olması iç dokuyu korur.
+
+    '
+- t: Şerbetleme ve sunum
+  d: 'Şerbet önceden hazırlanıp tamamen soğumalı, tatlı ise fırından yeni çıkmış ve sıcak olmalı. Bu sıcaklık farkı tatlının şerbeti dağılmadan çekmesini sağlar. Şerbeti dökerken her parçanın üstünden geçecek şekilde gezdir ve tatlının şerbetini çekmesini bekle. Üzerine hindistan cevizi ya da fıstık serpilebilir. Kalburabastıyı oda sıcaklığında, üzeri kapalı olarak saklayabilirsin; şerbetli tatlılar buzdolabında hamur kısmı sertleşebildiği için genellikle dışarıda, serin bir yerde tutulur.
+
+    '
+faq:
+- q: Kalburabastı fırında kaç dakika pişer?
+  a: 180°C fırında açık altın rengi alana kadar 25-30 dakika pişer.
+- q: Kalburabastı kalbur olmadan nasıl yapılır?
+  a: Kalbur yoksa rendenin üzerinde bastırarak ya da çatalın sırtıyla çizgi deseni vererek yapabilirsin.
+- q: Kalburabastıya şerbet sıcak mı dökülür?
+  a: Hayır, sıcak tatlıya soğuk şerbet dökülür. Şerbeti önceden 15 dakika kaynatıp soğut.
+- q: Kalburabastıda ceviz yerine ne kullanılır?
+  a: Fındık ya da badem kullanabilirsin.
+editorNote: Kalbur yerine rende ya da çatal sırtıyla desen verme seçeneğini ekledik; çoğu mutfakta kalbur bulunmuyor ve desen, tatlının görüntüsü kadar şerbeti tutmasına da yarıyor.
+aramaBasligi: 'Kalburabastı tarifi: Cevizli şerbetli tatlı, 180°C fırında'
 ---
 
-Adını desenini verdiği kalburdan alan, anneanne usulü bir şerbetli.
+Kalburabastı, cevizle doldurulan yumuşak hamur parçalarının kalbur üzerinde bastırılarak desenlendirildiği, fırında pişirilip şerbetlenen bir tatlı. Adını bu desenin verildiği kalburdan alıyor; misafir sofralarına yakışan ev usulü şerbetlilerden.
+
+Bu tarifte şerbet önce kaynatılıp soğutuluyor. Un, sıvı yağ, yoğurt, yumurta, kabartma tozu ve vanilinle ele yapışmayan yumuşak bir hamur yoğruluyor. Ceviz büyüklüğündeki parçalar avuçta açılıp iri çekilmiş cevizle dolduruluyor, kalburun ya da rendenin üzerinde bastırılıp iki ucu kıvrılıyor. 180°C fırında 25-30 dakika açık altın rengi alana kadar pişen tatlıya soğuk şerbet dökülüyor.
+
+Hazırlık 30, pişirme 30 dakika; toplam 60 dakikada 10 kişilik bir tepsi.

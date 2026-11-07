@@ -79,6 +79,35 @@ steps:
 tips:
 - Limon hem salyayı keser hem bamyanın yeşil rengini korur.
 - Kuru bamya ile yapacaksan ipe dizilmiş bamyayı önce haşlayıp süz.
+updated: '2026-11-07'
+notes:
+- t: Külah gibi ayıklamak
+  d: 'Bamyanın salya yapan kısmı kapsülün içinde. Başını düz keserek kopardığında iç açılır ve pişerken salya tencereye karışır. Bıçağı bamyanın sapının etrafında döndürerek, külah ucu gibi ince ince yontmak kapsülü kapalı tutar. Bu iş biraz zaman alır; hazırlık süresinin büyük kısmı burada geçer. Küçük ve taze bamyalar hem daha kolay ayıklanır hem daha az lifli olur. Ayıkladıktan sonra limonlu sirkeli suda beklettiğin bamyaları iyice süzerek tencereye ekle.
+
+    '
+- t: Karıştırmadan pişirmek
+  d: 'Bamya kaşıkla karıştırıldığında kabuğu zedelenir, içi açılır ve yemek sümüksü bir kıvama döner. Bunun yerine tencereyi kulplarından tutup hafifçe sallayarak ya da dairesel hareketle çevirerek malzemeleri karıştır. Ateşi kısık tut; fokur fokur kaynayan su bamyaları birbirine çarptırır. Limon suyu hem salyayı keser hem bamyanın yeşil rengini korumasına yardım eder. Limon yoksa misket limonu ya da yarı ölçü elma sirkesi kullanabilirsin.
+
+    '
+- t: Kuru bamya ve et seçimi
+  d: 'Bu tarif taze bamyayla yazıldı. Kışın ipe dizilmiş kuru bamya kullanacaksan önce haşlayıp süzmen gerekir; kuru bamya kendine has, daha yoğun bir aroma verir. Et olarak dana kuşbaşı kullanılıyor; kuzu eti de aynı yöntemle olur. Tavuk but tercih edersen etin ön pişirme süresini yarıya indir. Etli bamya buzdolabında kapalı kapta saklanabilir; ısıtırken de kaşıkla karıştırmak yerine tencereyi sallayarak ısıt ki bamyalar dağılmasın.
+
+    '
+faq:
+- q: Bamya nasıl salya yapmaz?
+  a: Bamyanın başını içini açmadan külah gibi yontarak ayıkla ve limonlu sirkeli suda 15 dakika beklet. Pişirirken kaşıkla karıştırma, tencereyi salla ve limon suyu ekle.
+- q: Etli bamya kaç dakika pişer?
+  a: Et önce yaklaşık 20 dakika pişer, bamyalar eklendikten sonra limonla birlikte kısık ateşte 25 dakika daha pişer.
+- q: Etli bamya kuru bamyayla yapılır mı?
+  a: Evet, ama ipe dizilmiş kuru bamyayı önce haşlayıp süzmen gerekir. Ardından tarifteki gibi ete ekleyebilirsin.
+- q: Bamya yemeğinde limon yerine ne kullanılır?
+  a: Misket limonu ya da yarı ölçü elma sirkesi kullanabilirsin.
+editorNote: Eti bamyadan önce ayrıca 20 dakika pişirmeyi seçtik; bamya etten çok daha çabuk yumuşadığı için ikisi birlikte başlarsa et sertken bamya dağılır.
+aramaBasligi: 'Etli bamya tarifi: Limonlu, kuşbaşı etli ve dağılmayan'
 ---
 
-Sevenin çok sevdiği, limonun keskinleştirdiği bir yaz yemeği. Ayıklama tekniği işin sırrı.
+Etli bamya, kuşbaşı etin domates ve salçayla pişirilip bamyayla buluştuğu, limonla ekşitilen bir tencere yemeği. Bamyanın salyalı yapısı yüzünden zor bir yemek olarak bilinir, ama doğru ayıklama ve pişirme tekniğiyle taneler bütün ve diri kalır.
+
+Bu tarifte bamyaların başı külah gibi yontularak, içleri açılmadan temizleniyor ve limonlu sirkeli suda 15 dakika bekletiliyor. Et yağda kavrulup soğan, salça ve domatesle pişiyor, yarım su bardağı sıcak suyla 20 dakika yumuşatılıyor. Bamyalar eklendikten sonra kaşıkla değil tencere sallanarak karıştırılıyor ve limon suyuyla kısık ateşte 25 dakika pişiyor.
+
+Hazırlık 25, pişirme 50 dakika; toplam 75 dakikada 4 kişilik.

@@ -84,6 +84,35 @@ tips:
 - Lahanayı önce kavurmak kokusunu yumuşatır.
 - Bir tatlı kaşığı limon suyu ya da sirke eklemek ekşimsi tadını belirginleştirir.
 - Etsiz yapmak istersen kıyma yerine bir su bardağı haşlanmış nohut kullan.
+updated: '2026-11-07'
+notes:
+- t: Lahanayı hazırlamak
+  d: 'Orta boy bir beyaz lahana yaklaşık 1 kg gelir ve doğrandığında tencereyi dolduracak kadar hacim yapar. Sert göbeğini çıkarmak gerekir, çünkü göbek yapraklardan çok daha geç pişer. Yaprakları şerit halinde iri doğra; çok ince doğranan lahana pişince lapalaşır. Yıkadıktan sonra suyunu iyice süz. Tencereye ilk eklediğinde lahana çok yer kaplar, ama 5 dakika çevirince söner. Tencere küçükse lahanayı iki seferde, ilk kısım sönünce ikinciyi ekleyerek koyabilirsin.
+
+    '
+- t: Pirinç mi bulgur mu
+  d: 'Tarifte 3 yemek kaşığı pirinç ya da bulgur var; bu miktar yemeği pilava çevirmez, sadece suyu biraz bağlar ve doyuruculuğu artırır. Bulgur daha taneli bir doku verir, pirinç ise daha yumuşak bir kıvam oluşturur. İkisi de kısık ateşteki 25 dakikada pişer. Etsiz bir kapuska istersen kıyma yerine bir su bardağı haşlanmış nohut kullanabilirsin; nohut zaten pişmiş olduğu için lahanayla birlikte koyman yeterli. Haşlanmış yeşil mercimek ya da ince doğranmış mantar da olur.
+
+    '
+- t: Ekşilik ve saklama
+  d: 'Kapuskanın ekşimsi tadı salçalardan gelir. Daha belirgin bir ekşilik istersen bir tatlı kaşığı limon suyu ya da sirke ekle. Biber salçan yoksa domates salçasına bir tatlı kaşığı pul biber katarak benzer bir tat yakalayabilirsin. Kapuska ertesi gün daha lezzetli olan yemeklerden; lahana sosu çektikçe tadı oturur. Buzdolabında kapalı kapta sakla, ısıtırken kuruduysa birkaç kaşık sıcak su ekle. Yanına yoğurt ve turşu klasik eşlikçi.
+
+    '
+faq:
+- q: Kapuska kaç dakika pişer?
+  a: Lahana eklendikten sonra 5 dakika çevrilir, ardından kapağı kapalı kısık ateşte 25 dakika pişer.
+- q: Kapuskaya pirinç mi bulgur mu konur?
+  a: İkisi de olur; bu tarifte 3 yemek kaşığı pirinç ya da bulgur kullanılıyor. Bulgur daha taneli, pirinç daha yumuşak bir kıvam verir.
+- q: Kapuska etsiz yapılır mı?
+  a: Evet, kıyma yerine bir su bardağı haşlanmış nohut kullanabilirsin. Haşlanmış yeşil mercimek ya da ince doğranmış mantar da olur.
+- q: Lahana yemeğinin kokusu nasıl azalır?
+  a: Lahanayı suyla pişirmeden önce kıymayla 5 dakika kavurmak kokusunu yumuşatır. Sert göbeği çıkarmak da işe yarar.
+editorNote: Lahanayı suyla pişirmeden önce kıymayla birlikte 5 dakika çevirmeyi ayrı adım yaptık; bu kavurma lahananın keskin kokusunu yumuşatıyor ve hacmini azaltıp tencereye sığmasını kolaylaştırıyor.
+aramaBasligi: 'Kapuska tarifi: Kıymalı lahana yemeği, 50 dakikada'
 ---
 
-Asker ocağından ev sofrasına uzanan kış yemeği. Lahana mevsiminde ucuz, doyurucu; yanında yoğurt ve turşuyla tam kış tabağı.
+Kapuska, beyaz lahananın kıyma, salça ve bir miktar pirinç ya da bulgurla tencerede pişirildiği bir kış yemeği. Asker yemeği olarak da bilinir; lahananın ucuz ve bol olduğu aylarda evlerde sık pişirilir.
+
+Bu tarifte kıyma zeytinyağında suyunu çekene kadar kavruluyor, ardından soğan, domates ve biber salçası ekleniyor. Şerit halinde doğranan lahana tencerede sönene kadar 5 dakika çevriliyor, sonra pirinç ya da bulgur, baharatlar ve iki su bardağı sıcak su giriyor. Kapağı kapalı, kısık ateşte 25 dakika pişiyor.
+
+Hazırlık 15, pişirme 35 dakika; toplam 50 dakikada 4 kişilik. Yanına yoğurt ve turşu yakışır.

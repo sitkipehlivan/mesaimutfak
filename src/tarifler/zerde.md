@@ -80,6 +80,43 @@ steps:
 tips:
 - Gerçek safranla rengi altın sarısı, zerdeçalla daha turuncu olur.
 - Süt içermediği için vegan.
+updated: '2026-11-07'
+notes:
+- t: Safranı doğru kullanmak
+  d: 'Safran pahalı ama çok az miktarı yeter; bu tarifte yarım çay kaşığı 6 kişilik zerdeyi renklendiriyor. Telleri yarım çay bardağı sıcak suda 15 dakika bekletince su koyu turuncuya döner; bu suyu tellerle birlikte tencereye ekle. Zerdeçal kullanacaksan en fazla bir tatlı kaşığı koy, fazlası tatlıya topraksı ve hafif acımsı bir tat verir. Gerçek safranla renk altın sarısı, zerdeçalla daha turuncu çıkar; gül suyu ise her iki durumda da kokuyu tamamlar.
+
+    '
+- t: Kıvamı ayarlamak
+  d: 'Zerde sıcakken akışkan görünür, soğudukça koyulaşır; bu yüzden ocakta muhallebi kıvamına getirmeye çalışma. Nişastayı mutlaka biraz soğuk suyla açıp ekle, doğrudan sıcak tencereye atarsan topaklanır. Nişastayı ekledikten sonra 5 dakika durmadan karıştırarak pişir; çiğ nişasta tadı bu sürede gider. Şekeri pirinç iyice yumuşadıktan sonra eklemek de önemli, tarifteki sıra bu yüzden böyle. Gül suyunu en sonda koy ki kokusu uçmasın. Tencerenin dibini sık sık kazı, pirinç dibe yapışmaya eğilimlidir.
+
+    '
+- t: Süsleme ve saklama
+  d: 'Süslemeyi zerde soğuduktan sonra yap; sıcak tatlının üzerine konan kuş üzümü ve fıstık dibe çöker. Kuş üzümünü birkaç dakika ılık suda bekletirsen şişip yumuşar. Nar taneleri hem renk hem hafif bir ekşilik katar ve tatlının şekerini dengeler. Zerdeyi kâselerde, üzeri kapalı olarak buzdolabında saklayabilirsin. Süslemeyi servisten hemen önce eklersen nar suyunu salmaz, çam fıstığı da tazeliğini korur. Nar bulamazsan süslemeyi yalnızca kuş üzümü ve çam fıstığıyla yapabilirsin, görünüşü yine güzel olur.
+
+    '
+faq:
+- q: Zerde neden sarı olur?
+  a: 'Rengini safrandan alır. Safran bulamazsan zerdeçal da sarı renk verir, ama tonu daha turuncu ve aroması farklı olur.
+
+    '
+- q: Zerde kaç dakika pişer?
+  a: 'Pirinç önce suyla yumuşayana kadar yaklaşık 20 dakika haşlanır. Şeker, safranlı su ve nişasta eklendikten sonra 5 dakika daha karıştırarak pişirilir.
+
+    '
+- q: Zerdede safran yerine ne kullanılır?
+  a: 'En yaygın alternatif zerdeçal. Renk için bir tutam ile bir tatlı kaşığı arası yeterli; fazlası tadı acılaştırır.
+
+    '
+- q: Zerde vegan mı?
+  a: 'Evet, bu tarifte süt, yumurta ya da tereyağı yok. Pirinç ve mısır nişastasıyla koyulaştığı için aynı zamanda glutensiz.
+
+    '
+editorNote: Safranı demleme adımını en başa koyduk, çünkü safran rengini ve kokusunu ancak sıcak suda bir süre bekleyince bırakır; doğrudan tencereye atılırsa tatlı soluk kalır.
+aramaBasligi: 'Zerde tarifi: Safranlı, gül suyu kokulu pirinç tatlısı'
 ---
 
-Düğün ve mevlit sofralarının altın sarısı tatlısı.
+Zerde, safranla altın sarısına boyanan, pirinçle koyulaşan ve gül suyuyla kokulandırılan geleneksel bir Türk tatlısı. Düğün ve mevlit sofralarında ikram edilmesiyle bilinir. Adı, Farsçada sarı anlamına gelen kelimeden gelir.
+
+Bu tarif süt, yumurta ya da tereyağı içermediği için vegan; un yerine pirinç ve mısır nişastasıyla koyulaştığı için de glutensiz. Pirinç önce bol suda yumuşayana kadar haşlanıyor, sonra şeker, demlenmiş safran ve nişastayla kıvam alıyor. Safran bulamazsan zerdeçalla da rengini yakalayabilirsin; aroması farklı olur ama görüntüsü yine çekici.
+
+Hazırlık 10, pişirme 30 dakika; toplam 40 dakikada 6 kişilik zerde hazır. Kâselere paylaştırıp soğuduktan sonra kuş üzümü, çam fıstığı ve nar taneleriyle süslüyorsun.

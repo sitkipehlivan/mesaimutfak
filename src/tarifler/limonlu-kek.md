@@ -83,6 +83,43 @@ steps:
 tips:
 - Limonun beyaz kısmını rendeleme, acılaştırır.
 - Sır kekin üzerinde katılaşınca dilimle.
+updated: '2026-11-07'
+notes:
+- t: Kabuğu doğru rendelemek
+  d: 'Limonun aroması büyük ölçüde kabuğundaki yağlardan gelir. Rendeyi yalnızca sarı kısımda gezdir; altındaki beyaz zar acıdır ve keke istenmeyen bir tat verir. İnce rendenin küçük gözünü kullanmak kabuğun hamurda eşit dağılmasını sağlar. Rendelemeden önce limonları iyice yıka ve kurula. Kabuğu, çırpmaya başlamadan önce şekerle birlikte parmaklarınla ovarsan şeker kabuğun yağını çeker ve koku hamura daha iyi yayılır. Kabuğu rendeledikten sonra limonları sıkarak hamura gereken suyu da aynı meyvelerden alabilirsin.
+
+    '
+- t: Yoğurt ve limon suyu
+  d: 'Hamurdaki yoğurt keki nemli ve yumuşak tutar; limon suyuyla birlikte hamurun sıvısını oluşturur. Yoğurt yerine kefir ya da ayran kullanabilirsin, sonuç benzer olur. Vegan bir seçenek için soya ya da hindistan cevizi yoğurdu da olur. Limon suyunu ekledikten sonra hamurun hafifçe kesilmiş gibi görünmesi normaldir, un eklenince toparlanır. Taze sıkılmış limon suyu kullan; hazır limon sosları aynı aromayı vermez. Yoğurdun oda sıcaklığında olması hamurun daha homojen karışmasını sağlar.
+
+    '
+- t: Sırın kıvamı
+  d: 'Sır için pudra şekerine limon suyunu kaşık kaşık ekleyerek karıştır. Kıvam akışkan ama kaşıktan şerit gibi düşecek yoğunlukta olmalı; çok sulu sır kekin içine çekilip kaybolur, çok koyu sır yüzeye yayılmaz. Sırı kek ılıyınca dök ve tamamen katılaşmasını bekle, sonra dilimle; erken kesersen sır bıçağa yapışır ve dilimlerden akar. Pudra şekerin yoksa toz şekeri blenderda 1 dakika çekerek hazırlayabilirsin. Sırın üzerine biraz limon kabuğu rendesi serpmek hem görüntüyü hem kokuyu güzelleştirir.
+
+    '
+faq:
+- q: Limonlu kek kaç dakika pişer?
+  a: 'Yağlanmış baton kalıpta, 170°C fırında yaklaşık 40 dakika.
+
+    '
+- q: Limonlu kek neden acı olur?
+  a: 'Kabuk rendelenirken limonun beyaz kısmı da hamura karıştığında. Rendeyi yalnızca sarı kabukta gezdir.
+
+    '
+- q: Limonlu kek sosu nasıl yapılır?
+  a: '1 su bardağı pudra şekeriyle 3 yemek kaşığı limon suyunu karıştır ve kek ılıyınca üzerine dök. Sır katılaştıktan sonra dilimle.
+
+    '
+- q: Limonlu kekte yoğurt yerine ne kullanılır?
+  a: 'Kefir ya da ayran kullanabilirsin. Vegan bir seçenek için soya ya da hindistan cevizi yoğurdu olur.
+
+    '
+editorNote: Sırı kek ılıdıktan sonra dökmeyi ayrı bir adım yaptık; kek çok sıcakken dökülen sır eriyip tamamen içine çekilir ve yüzeyde o ince şekerli kabuk oluşmaz.
+aramaBasligi: 'Limonlu kek tarifi: Yoğurtlu, limon sırlı ve nemli'
 ---
 
-Ferah, mis gibi kokan bir kek. Limonun hem kabuğu hem suyu işin içinde.
+Limonlu kek, hem limon kabuğu rendesi hem limon suyuyla kokulandırılan ferah bir kek. Bu tarifte hamura yoğurt da giriyor; yoğurt kekin içini nemli ve yumuşak tutuyor, limonun ekşiliğiyle de iyi bir uyum kuruyor.
+
+İki limonun kabuk rendesi ve yarım su bardağı limon suyu doğrudan hamura ekleniyor. Kek ılıyınca üzerine 1 su bardağı pudra şekeri ile 3 yemek kaşığı limon suyundan hazırlanan bir sır dökülüyor; sır katılaştığında kekin üzerinde ince, hafif ekşi bir kabuk bırakıyor.
+
+Hazırlık 15, pişirme 40 dakika; toplam 55 dakikada 10 kişilik bir baton kek. Sırın katılaşmasını beklemen gerektiği için dilimlemeden önce biraz zaman ayır.

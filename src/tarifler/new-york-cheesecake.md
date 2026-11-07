@@ -87,6 +87,43 @@ steps:
 tips:
 - Malzemelerin hepsi oda sıcaklığında olmalı; yoksa topaklanır.
 - Yavaş soğutma çatlamayı önler.
+updated: '2026-11-07'
+notes:
+- t: Oda sıcaklığı ve hava
+  d: 'Krem peynir, yumurta ve krema buzdolabından yeni çıkmışsa çırparken topaklanır ve pürüzsüz bir dolgu için daha uzun çırpman gerekir. Uzun ve hızlı çırpmak ise dolguya hava katar; bu hava fırında kabarıp soğurken söner ve yüzeyde çatlak bırakır. Malzemeleri pişirmeden önce bir süre tezgahta bekletip oda sıcaklığına getir, yumurtaları tek tek ekle ve mikseri düşük hızda çalıştır. Amaç kabarık değil, yoğun ve kadife bir doku.
+
+    '
+- t: Su banyosu
+  d: 'Kalıbı sıcak su dolu bir tepsiye koymak, dolgunun kenarlarının ortadan çok önce pişip kurumasını önler ve fırındaki nemi artırır. Kelepçeli kalıplar tam sızdırmaz olmadığı için dışını alüminyum folyoyla iyice sarmak şart; su içeri sızarsa bisküvi taban ıslanıp hamurlaşır. Kalıbı önce tepsiye yerleştirip suyu sonra dökmek daha kolay ve güvenlidir. Tabanı pişirmeden önce 10 dakika buzdolabında bekletmek de onun sıkı durmasını sağlar.
+
+    '
+- t: Pişme noktası ve dilimleme
+  d: 'Cheesecake''in piştiğini anlamak için kürdan kullanılmaz. 160°C''de 60-70 dakika sonunda kenarlar tutmuş, ortası ise kalıbı hafifçe salladığında jöle gibi titriyor olmalı. Bu titrek orta, fırında yavaş soğuma ve buzdolabında geçen gece boyunca sertleşir. Ortası tamamen sertleşene kadar pişirirsen dolgu kuru ve tanecikli olur, üstü de çatlar. Dilimlerken bıçağı sıcak suya batırıp kurularsan temiz kesimler elde edersin. Meyve sosunu dilimlerin üzerine servis anında dök; önceden dökülen sos yüzeyi ıslatıp dilimlemeyi zorlaştırır.
+
+    '
+faq:
+- q: New York cheesecake kaç dakika pişer?
+  a: '160°C''de su banyosunda 60-70 dakika. Ardından fırın kapalı, kapağı aralık şekilde 1 saat bekler, sonra bir gece buzdolabında dinlenir.
+
+    '
+- q: Cheesecake neden çatlar?
+  a: 'Dolguyu hızlı çırpıp hava katmak, fazla pişirmek ve ani sıcaklık değişimi en yaygın nedenler. Düşük hızda karıştırmak, su banyosu ve fırında yavaş soğutma çatlamayı önler.
+
+    '
+- q: Cheesecake'te krem peynir yerine ne kullanılır?
+  a: 'Labne birebir olur. Krem peynirin yarısı yerine süzme yoğurt da kullanabilirsin; doku biraz daha hafif çıkar.
+
+    '
+- q: Cheesecake aynı gün yenir mi?
+  a: 'Önerilmez; dolgu ancak bir gece buzdolabında beklediğinde tam sertleşir ve düzgün dilimlenir. Bu yüzden servisten bir gün önce pişirmek gerekir.
+
+    '
+editorNote: Yavaş soğutmayı ayrı bir adım olarak yazdık, çünkü cheesecake'in çatlamasının en yaygın nedeni fırından çıkar çıkmaz ani bir sıcaklık farkıyla karşılaşması.
+aramaBasligi: 'New York cheesecake tarifi: Su banyosunda, kremamsı dolgulu'
 ---
 
-Yoğun, kadife dokulu, sabırla pişip bir gece bekleyen klasik cheesecake.
+New York cheesecake, adını aldığı şehirle özdeşleşmiş, krem peynirin bol kullanıldığı yoğun ve kremamsı bir fırın cheesecake. Hafif ve köpüklü versiyonlardan farkı, dolgunun ağır ve kadife dokulu olması; bisküvi tabanı da bu yoğunluğu dengeliyor.
+
+Bu tarifte 600 g krem peynir, krema, yumurta ve az miktarda unla hazırlanan dolgu, 24 cm kelepçeli kalıpta su banyosunda 160°C'de pişiyor. Limon kabuğu rendesi yoğun tadı ferahlatıyor, üzerine frambuaz ya da vişne sosu geliyor.
+
+Hazırlık 30, pişirme 70 dakika; toplam 100 dakikada 10 kişilik bir cheesecake. Asıl bekleme fırından sonra başlıyor: kapağı aralık fırında 1 saat yavaş soğuma ve bir gece buzdolabı. Bu yüzden servisten bir gün önce yapmak en rahatı.
