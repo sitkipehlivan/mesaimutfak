@@ -2,7 +2,7 @@
   "name": "mesaimutfak",
   "private": true,
   "scripts": {
-    "build": "eleventy",
+    "build": "eleventy && node scripts/cdn.mjs _site",
     "start": "eleventy --serve",
     "preview": "PREVIEW=1 eleventy --output=_preview"
   },
