@@ -40,8 +40,8 @@
   "count": 1
  },
  "imam-bayildi": {
-  "avg": 5,
-  "count": 1
+  "avg": 4,
+  "count": 2
  },
  "irmik-helvasi": {
   "avg": 5,
@@ -56,11 +56,15 @@
   "count": 1
  },
  "kirmizi-mercimek-corbasi": {
-  "avg": 4.4,
-  "count": 5
+  "avg": 4,
+  "count": 7
  },
  "kuskus-salatasi": {
   "avg": 1,
+  "count": 1
+ },
+ "otlu-omlet": {
+  "avg": 5,
   "count": 1
  },
  "sac-tava": {
