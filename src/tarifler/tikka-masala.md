@@ -100,6 +100,43 @@ steps:
 tips:
 - Tavuğu ızgarada kızartmak isli “tikka” tadını verir.
 - Yanına basmati pilav ya da naan.
+updated: '2026-11-08'
+notes:
+- t: Yoğurtlu marinasyon
+  d: 'Yoğurt, tavuğun yüzeyini yumuşatır ve baharatların etin dışına tutunmasını sağlar. En az 30 dakika marinasyon yeterli; vaktin varsa daha uzun bekletmek tadı derinleştirir. Kuşbaşı parçaların yaklaşık aynı boyda olmasına dikkat et ki aynı sürede pişsinler. Tavuk göğsü daha yağsız, but ise daha sulu kalır; ikisi de bu tarifte kullanılabilir. Pişirmeden önce fazla yoğurdu hafifçe silkelemek, tavada kızarmayı kolaylaştırır. Marine edilen tavuğu buzdolabında bekletmeyi unutma.
+
+    '
+- t: Kenarları kararana kadar kızartmak
+  d: 'Tikka tadının kaynağı, tavuğun yüksek ısıda kısa sürede pişip kenarlarının hafifçe kararmasıdır. Döküm tavayı iyice kızdır ya da fırın ızgarasını kullan; parçaları sıkışık dizme, yoksa tavuk su salıp haşlanır. Yaklaşık 10 dakikada pişen tavukları ayır. Tavuk sosa döndüğünde 5 dakika daha pişeceği için bu aşamada içinin tamamen pişmiş olması yeterli, fazla bekletirsen kuruyabilir. Izgara kullanmak isli aromayı belirginleştirir. Tavadan aldığın parçaları bir tabakta bekletirken üstünü örtebilirsin.
+
+    '
+- t: Sos, krema ve servis
+  d: 'Baharatları tereyağında 1 dakika çevirmek, aromalarını açığa çıkarır; daha uzun tutarsan yanıp acılaşabilir. Domatesle 10 dakika pişen sosu blenderdan geçirmek kremamsı, pürüzsüz bir doku verir. Krema yerine süzme yoğurt kullanacaksan ocaktan aldıktan sonra ekle ve kaynatma, yoksa kesilir. Garam masala bulamazsan eşit ölçü kimyon ve kişniş tohumuna birer tutam tarçın, karanfil ve karabiber eklemek iş görür. Yanına basmati pilav ya da naan yakışır.
+
+    '
+faq:
+- q: Tikka masala için tavuk ne kadar marine edilir?
+  a: 'Yoğurt ve baharatlarla en az 30 dakika marine edilmelidir. Daha uzun beklemesi tadı derinleştirir.
+
+    '
+- q: Tikka masalada krema yerine ne kullanılır?
+  a: 'Süzme yoğurt kullanabilirsin; ocaktan aldıktan sonra ekle ve kaynatma. Bir su bardağı süte 2 yemek kaşığı tereyağı eklemek de bir seçenek.
+
+    '
+- q: Garam masala yerine ne kullanılır?
+  a: 'Eşit ölçü kimyon ve kişniş tohumuna birer tutam tarçın, karanfil ve karabiber ekleyerek benzer bir karışım hazırlayabilirsin.
+
+    '
+- q: Tikka masalanın yanına ne yenir?
+  a: 'Basmati pilav ya da naan en sık eşlik eden seçeneklerdir; ikisi de sosu çeker.
+
+    '
+editorNote: Tavuğu sosta pişirmek yerine önce ayrı kızartmayı seçtik; isli tikka tadı bu kenarları kararan pişirmeden geliyor. Sosu blenderdan geçirme adımını da yazdık, çünkü kremanın eklendiği pürüzsüz dokuyu bu sağlıyor.
+aramaBasligi: 'Tavuk tikka masala tarifi: Yoğurtlu marine, kremalı sos'
 ---
 
-İngiltere’nin en sevdiği Hint yemeği; turuncu, kremalı ve baharatlı.
+Tikka masala, yoğurt ve baharatlarla marine edilip kızartılan tavuk parçalarının baharatlı, domatesli ve kremalı bir sosta buluştuğu bir yemek. Hint mutfağı kökenli tekniklerle yapılır ve özellikle İngiltere'de çok sevilen, restoran menülerinin bilinen tabaklarından biri olmuştur.
+
+Bu tarifte kuşbaşı tavuk yoğurt, garam masala, toz kırmızı biber ve tuzla en az 30 dakika marine ediliyor, sonra döküm tavada ya da fırın ızgarasında kenarları kararana kadar pişiyor. Sos için tereyağında soğan, sarımsak ve zencefil yumuşatılıyor, garam masala, kimyon ve zerdeçal çevriliyor, konserve domatesle pişip blenderdan geçiriliyor. Krema ve tavuk eklenip 5 dakika kaynatılıyor.
+
+Hazırlık 20, pişirme 30 dakika; marinasyon için en az yarım saati ayrıca planla. Tarif 4 kişilik.

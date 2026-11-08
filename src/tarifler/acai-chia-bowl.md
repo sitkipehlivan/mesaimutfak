@@ -98,6 +98,43 @@ tips:
 - Açai donuk paketleri sağlıklı ürün satan marketlerde ve online bulunuyor; toz açai daha kolay bulunur ve dolapta uzun süre dayanır.
 - Muzu dilimleyip dondurursan bowl daha kremamsı olur.
 - Granolayı servisten hemen önce ekle, yumuşamasın.
+updated: '2026-11-08'
+notes:
+- t: Chia pudingi önceden hazırlamak
+  d: 'Chia tohumu sıvıyla karıştırıldığında sıvıyı emip jelimsi bir doku oluşturur, ama bunun için zaman gerekir. Malzemeleri karıştırdıktan 5 dakika sonra bir kez daha karıştır; bu ikinci karıştırma tohumların dipte topaklanmasını önler. Ardından pudingi buzdolabında en az 2 saat beklet. Sabah kahvaltısında yapacaksan pudingi önceki akşam hazırlamak en pratik yol. Puding kapalı bir kapta buzdolabında birkaç gün dayanır, bu yüzden birden fazla porsiyonluk yapabilirsin.
+
+    '
+- t: Açai katmanının kıvamı
+  d: 'Açai katmanı smoothie gibi akışkan değil, kaşıkla yenecek kadar yoğun olmalı. Bu kıvamı donuk malzemeler verir: dondurulmuş açai, muz ve orman meyvesi. Blender zorlanırsa durdurup kaşıkla karıştır ve sıvıyı az az ekle; badem sütünü bir kerede eklemek karışımı sulandırır. Muzu dilimleyip dondurursan karışım daha kremamsı olur. Donuk açai püresi bulamazsan tarifteki gibi 2 yemek kaşığı açai tozu kullanabilirsin; toz dolapta uzun süre dayanır.
+
+    '
+- t: Süsleme ve servis
+  d: 'Granolayı servisten hemen önce ekle; açainin nemiyle kısa sürede yumuşar ve çıtırlığını kaybeder. Malzemeleri sıralar halinde dizmek hem görüntüyü düzenler hem de her kaşıkta farklı bir doku almanı sağlar. Fıstık ezmesini en son gezdir. Kakao çekirdeği isteğe bağlı; yerine aynı ölçü keçiboynuzu tozu kullanırsan tat daha tatlı ve hafif karamelli olur. Badem sevmiyorsan fındık ya da ceviz ezmesi de kullanabilirsin. Açai katmanı erimeye başladığı için bowl hazırlanır hazırlanmaz yenmeli.
+
+    '
+faq:
+- q: Açai bowl nasıl yapılır?
+  a: 'Dondurulmuş açai, dondurulmuş muz, orman meyvesi ve badem sütünü blenderda yoğun kıvamda çek. Kaseye yay, üzerine granola, muz, çilek ve hindistan cevizi pulu diz.
+
+    '
+- q: Chia puding kaç saat bekletilir?
+  a: 'Buzdolabında en az 2 saat bekletilmelidir. Önceki akşam hazırlarsan sabaha hazır olur.
+
+    '
+- q: Açai püresi yerine açai tozu kullanılır mı?
+  a: 'Evet. 200 g dondurulmuş açai püresi yerine 2 yemek kaşığı açai tozu kullanabilirsin; dondurulmuş muz ve meyveler kıvamı sağlar.
+
+    '
+- q: Açai bowl önceden hazırlanır mı?
+  a: 'Chia pudingi önceden hazırlanabilir, ama açai katmanı ve granola servisten hemen önce eklenmeli. Açai erir, granola yumuşar.
+
+    '
+editorNote: Açai katmanının altına chia puding eklemeyi seçtik; bowl hem daha tok tutuyor hem de iki katmanlı bir tatlı gibi duruyor. Chia pudingin en az 2 saatlik bekleme süresini ilk adıma yazdık, çünkü bowl'u sabah yapacaksan pudingi önceki akşam hazırlaman gerekiyor.
+aramaBasligi: 'Açai bowl tarifi: Chia pudingli, granola ve muzlu'
 ---
 
-Canggu’daki bowl dükkânlarının açılış menüsü: koyu mor açai, muz ve granola. Biz altına chia puding ekledik; böylece hem daha tok tutuyor hem iki katmanlı bir tatlı gibi duruyor.
+Açai bowl, dondurulmuş açai püresinin muz ve başka meyvelerle koyu, kaşıkla yenecek kıvamda çekilip üzerine granola ve taze meyve dizilerek servis edildiği bir kase. Açai, Güney Amerika'da yetişen koyu mor bir meyve; bowl biçimi ise dünyanın pek çok yerindeki kafelerde, örneğin Bali'nin Canggu bölgesindeki bowl dükkânlarında sık görülüyor.
+
+Bu tarifte altta chia tohumu, badem sütü, şurup ve vanilyayla yapılan bir chia puding var. Üzerine açai, dondurulmuş muz, orman meyvesi ve badem sütüyle blenderda çekilen yoğun açai katmanı yayılıyor. En üstte glutensiz granola, muz, çilek, hindistan cevizi pulu, fıstık ezmesi ve kakao çekirdeği yer alıyor.
+
+Aktif hazırlık 10 dakika, pişirme yok; chia pudingin buzdolabında en az 2 saat beklemesi gerekiyor. Tarif 2 kişilik.

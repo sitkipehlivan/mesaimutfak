@@ -84,6 +84,43 @@ tips:
 - Kabuğun sadece turuncu kısmını rendele; beyaz kısım acılaştırır.
 - Kış portakalı en sulu ve aromalı olanıdır; bu kek tam mevsimi.
 - Şurup keki birkaç gün nemli tutar.
+updated: '2026-11-08'
+notes:
+- t: Taze portakal suyu ve kabuk
+  d: 'Kekin tadı neredeyse tamamen portakaldan geldiği için meyvenin kalitesi sonucu doğrudan etkiler. Sulu, eline ağır gelen ve kabuğu parlak portakalları seç. Suyunu sıkmadan önce kabuğu rendele; sıkılmış, yumuşamış portakalın kabuğunu rendelemek çok zordur. Kabuğun yalnızca turuncu kısmını al, beyaz zar keki acılaştırır. Hazır portakal suyu kullanacaksan şekersiz olanını tercih et, yoksa kek fazla tatlı olur. Kış portakalları hem daha sulu hem daha aromalı olduğu için bu keki mevsiminde yapmak fark yaratır.
+
+    '
+- t: Şurubu doğru vermek
+  d: 'Şurup için portakal suyu ve şekeri 2 dakika kaynatman yeterli; amaç şekeri eritmek, koyu bir şerbet yapmak değil. Kek ılıkken kürdanla birçok yerinden del ve şurubu kaşıkla yavaşça gezdir. Ilık kek şurubu daha eşit emer; fazla şurubu bir anda dökersen yüzey yumuşayıp dağılabilir. Şurubun hepsini kullanmak zorunda değilsin, kekin emişine bakarak miktarı ayarla. Şuruplu keki kapalı kapta saklamak nemini korur.
+
+    '
+- t: Kabarma ve pişme
+  d: 'Yumurta ve şekerin köpük köpük olana kadar çırpılması kekin kabarıklığını sağlar. Portakal suyu, kabuk rendesi ve yağı ekledikten sonra un, kabartma tozu ve vanilini eleyerek ekle ve spatulayla, fazla karıştırmadan birleştir. 170°C fırında 35-40 dakika pişir; pişmenin ilk bölümünde fırın kapağını açma. Kekin ortasına batırdığın kürdan kuru çıkıyorsa pişmiştir, üstü erken kızarıyorsa folyoyla gevşekçe örtebilirsin. Kalıptan çıkarmadan önce keki birkaç dakika ılıtmak kırılmasını önler; şurup vereceksen bu sırada hazırlayabilirsin.
+
+    '
+faq:
+- q: Portakallı kek kaç dakika pişer?
+  a: '170°C fırında 35-40 dakika. Ortasına batırdığın kürdan kuru çıktığında hazırdır.
+
+    '
+- q: Portakallı kek nasıl nemli olur?
+  a: 'Taze sıkılmış portakal suyu kullan ve ılık keki kürdanla delip portakal suyu ile şekerden yapılan şurubu üzerine gezdir. Şurup keki birkaç gün nemli tutar.
+
+    '
+- q: Portakallı kek neden acı olur?
+  a: 'Kabuk rendelenirken beyaz kısım da karıştığında. Yalnızca turuncu kabuğu rendele.
+
+    '
+- q: Portakallı kekte hazır portakal suyu kullanılır mı?
+  a: 'Kullanılabilir, ama taze sıkılmış suyun aroması daha belirgin olur. Hazır su kullanacaksan şekersiz olanını seç.
+
+    '
+editorNote: Şurubu isteğe bağlı bir adım olarak ayırdık; sade hali kahvaltıya ve çaya uygun, şuruplu hali ise daha nemli ve tatlı bir sonuç vererek keki birkaç gün taze tutuyor.
+aramaBasligi: 'Portakallı kek tarifi: Taze portakal suyuyla, şuruplu'
 ---
 
-Portakal mevsiminde mutfağı en güzel kokutan kek. Taze sıkılmış suyu ve kabuğu sayesinde aromalı ve nemli.
+Portakallı kek, taze sıkılmış portakal suyu ve kabuk rendesiyle hazırlanan, mutfağı kokusuyla dolduran nemli bir kek. Portakalın en sulu ve aromalı olduğu kış aylarında özellikle sık yapılır.
+
+Bu tarifte sıvı olarak süt yerine bir su bardağı portakal suyu kullanılıyor; keke hem rengini hem tadını o veriyor, kabuk rendesi de aromayı güçlendiriyor. İstersen yarım su bardağı portakal suyu ve 2 yemek kaşığı şekerle hazırlanan bir şurubu ılık kekin üzerine gezdirebilirsin; şurup keki birkaç gün nemli tutuyor.
+
+Hazırlık 15, pişirme 40 dakika; toplam 55 dakikada 10 kişilik bir kek. Hazır portakal suyu yerine taze sıkılmış su kullanmak sonucu belirgin biçimde değiştiriyor.

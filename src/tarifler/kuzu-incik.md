@@ -92,6 +92,43 @@ steps:
 tips:
 - İncikleri tencerede pişireceksen kısık ateşte 2 saat yeterli.
 - Patates püresi ya da bulgur pilavıyla servis et.
+updated: '2026-11-08'
+notes:
+- t: Mühürlemenin görevi
+  d: 'İncikleri fırına vermeden önce yağda her yüzü kızarana kadar çevirmek, etin yüzeyinde koyu renkli ve aromalı bir kabuk oluşturur. Bu kızarma, sosa da renk ve derinlik verir. Tencerenin dibinde kalan kahverengi tabakayı atma; sebzeleri aynı tencerede kavurduğunda bu tabaka sebzelere geçer. Mühürlerken incikleri tencereye sıkıştırma, gerekirse ikişer ikişer çevir. Toplamda yaklaşık 10 dakika sürer, acele etmeden her yüzün renk almasını bekle.
+
+    '
+- t: Uzun pişirmenin mantığı
+  d: 'İncikte bol miktarda bağ dokusu bulunur. Kısa pişirmede bu doku sert ve lastik gibi kalır; düşük ısıda uzun süre kaldığında ise yumuşar ve jelatinimsi bir hal alarak sosa geçer. Bu yüzden 170°C''de folyo altında 2,5 saat pişirme önemli. Folyoyu sıkıca kapat ki su buharlaşıp kap kurumasın. Et kemikten kolayca ayrılıyorsa folyoyu açıp 200°C''de 15 dakika kızart ve bu sırada sosu inciklerin üzerine gezdir.
+
+    '
+- t: Tencere alternatifi ve servis
+  d: 'Fırın kullanmak istemiyorsan incikleri aynı tencerede, kapağı kapalı kısık ateşte yaklaşık 2 saat pişirebilirsin; arada suyunu kontrol et ve gerekirse biraz sıcak su ekle. Kışın taze domates yerine konserve küp doğranmış domates daha lezzetli sonuç verir. Kuzu inciği patates püresi ya da bulgur pilavıyla servis etmek, kaptaki sosu değerlendirmenin en iyi yolu. Artanı sosuyla birlikte sakla; ertesi gün ısıtıldığında da yumuşaklığını korur.
+
+    '
+faq:
+- q: Kuzu incik fırında kaç saat pişer?
+  a: 'Folyo altında 170°C''de 2,5 saat pişer, ardından folyo açılıp 200°C''de 15 dakika daha kızartılır.
+
+    '
+- q: Kuzu incik tencerede nasıl pişirilir?
+  a: 'Mühürleyip sebzeleri ekledikten sonra kapağı kapalı, kısık ateşte yaklaşık 2 saat pişir. Et kemikten ayrılıyorsa hazırdır.
+
+    '
+- q: Kuzu incik neden sert olur?
+  a: 'Genellikle yeterince uzun pişmediği için. İncik bağ dokusu bakımından zengindir ve ancak düşük ısıda saatlerce pişince yumuşar.
+
+    '
+- q: Kuzu inciğin yanına ne gider?
+  a: 'Patates püresi ya da bulgur pilavı, kaptaki sosu çektiği için en uygun eşlikçilerdir.
+
+    '
+editorNote: İncikleri fırına vermeden önce tencerede mühürleme adımını ayrı yazdık, çünkü sosun rengi ve derinliği bu kızarmadan geliyor. Fırın yöntemini seçtik ama tencerede pişirmek isteyenler için kısık ateşte 2 saatlik alternatifi de ipucu olarak bıraktık.
+aramaBasligi: 'Kuzu incik tarifi: Fırında sebzeli, 170°C''de 2,5 saat'
 ---
 
-Restoranların gözde tabağı, evde fırının sabrıyla aynı yumuşaklıkta çıkar.
+Kuzu incik, kuzunun bacağının alt kısmından gelen, kemiğin etrafında bol bağ dokusu bulunan bir kesim. Bu yapı onu uzun ve yavaş pişirmeye çok uygun yapar: saatlerce kısık ısıda kaldığında et kemikten ayrılır, bağ dokusu da sosu koyulaştırır.
+
+Bu tarifte 4 incik tuz ve karabiberle ovulup her yüzü mühürleniyor. Aynı tencerede soğan, havuç ve sarımsak tereyağında çevrilip salçayla birleşiyor. Sebzeler ve rendelenmiş domates fırın kabına alınıyor, incikler üzerine diziliyor, biberiye, defne ve sıcak suyla folyo altında 170°C'de 2,5 saat pişiyor. Son 15 dakikada folyo açılıp 200°C'de üstü kızartılıyor.
+
+Hazırlık 20, pişirme 180 dakika; toplam 3 saat 20 dakikada 4 kişilik bir yemek çıkıyor.

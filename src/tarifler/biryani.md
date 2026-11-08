@@ -119,6 +119,43 @@ tips:
 - Pirinci yarı haşlamak demlemede tanelerin lapa olmasını önler.
 - Karamelize soğan biryaninin tatlımsı derinliğini verir; acele etme.
 - Kişniş sevmiyorsan sadece nane kullan.
+updated: '2026-11-08'
+notes:
+- t: Pirinci neden yarı haşlıyoruz
+  d: 'Biryanide pirinç iki aşamada pişer: önce bol tuzlu suda kısa bir haşlama, sonra tavuğun üzerinde buharla demlenme. 30 dakika ıslatılmış basmatiyi baharatlarla 6 dakika haşladığında tane hâlâ sert olmalı. Bu aşamada tam pişirirsen demleme sırasında pirinç lapa olur ve katlar birbirine karışır. Süzdüğün pirinci bekletmeden tavuğun üzerine yay; demlenirken tavuğun ve baharatların buharını çekerek pişmeyi tamamlar. Haşlama suyuna eklenen kakule, defne ve tarçın pirince hafif bir koku verir.
+
+    '
+- t: Karamelize soğan ve katlama
+  d: 'Soğanları tereyağında 15 dakika, koyu altın rengi olana kadar kavurmak biryaninin tatlımsı, derin tadını verir. Ateşi orta tut ve sık karıştır; soğan bir anda yanarsa acılaşır. Yarısını süs için ayırıp diğer yarısını tavukla pişirmek, tadı hem tabanda hem üst katta toplar. Demleme öncesinde safranlı sütü, ayırdığın soğanı, nane ve kişnişi pirincin üzerine serp ama karıştırma; katların ayrı kalması biryaninin görüntüsü ve tadı için önemli.
+
+    '
+- t: Demleme ve servis
+  d: 'Kapağı bir bezle sarıp sıkıca kapatmak, buharın tencere içinde kalmasını sağlar. En kısık ateşte 20 dakika demledikten sonra servis ederken kepçeyi tencerenin dibine daldır ve katları bozmadan tabağa al; böylece her porsiyonda hem tavuk hem pirinç olur. Yanına yoğurt ya da salatalıklı raita yakışır. Kişniş sevmiyorsan sadece nane kullanabilirsin. Safran bulamazsan bir tutam zerdeçal renk verir, ama aroma aynı olmaz.
+
+    '
+faq:
+- q: Biryani pirinci kaç dakika haşlanır?
+  a: '30 dakika ıslatılmış basmati pirinç tuzlu bol kaynar suda 6 dakika haşlanır. Tane hâlâ sert olmalı; pişmeyi demleme tamamlar.
+
+    '
+- q: Biryani kaç dakika demlenir?
+  a: 'Pirinç tavuğun üzerine yayıldıktan sonra kapağı bezle kapatılıp en kısık ateşte 20 dakika demlenir.
+
+    '
+- q: Biryanide safran yerine ne kullanılır?
+  a: 'Renk için bir tutam zerdeçal kullanabilirsin. Görüntü benzer olur ama safranın aroması gelmez.
+
+    '
+- q: Biryani neden lapa olur?
+  a: 'Genellikle pirinç yarı haşlama aşamasında fazla pişirildiği için. Haşlamayı 6 dakikada kes ve katları demlerken karıştırma.
+
+    '
+editorNote: Pirinci 6 dakika yarı haşlama adımını süresiyle birlikte ayrı yazdık, çünkü biryanide tanelerin lapa olmaması buna bağlı. Soğanı karamelize etme süresini de 15 dakika olarak verdik; aceleye gelince biryaninin tatlımsı derinliği kayboluyor.
+aramaBasligi: 'Tavuklu biryani tarifi: Safranlı basmati, katlı demleme'
 ---
 
-Hindistan’ın bayram pilavı biryani, 2024’te Türkiye’de en çok aranan tarifler arasına girdi. Katlar halinde demlenen pirinç, altındaki baharatlı tavuğun kokusunu çeker.
+Biryani, baharatlı et ya da tavuk ile kokulu pirincin katlar halinde demlendiği bir pilav. Hint alt kıtasının en bilinen yemeklerinden biri; bölgeden bölgeye pek çok çeşidi var ve özel günlerin sofralarında sık yer alıyor.
+
+Bu tarifte iri doğranmış tavuk but yoğurt, sarımsak, zencefil, garam masala, zerdeçal ve kırmızı biberle en az 30 dakika marine ediliyor. Soğanlar tereyağında koyu altın rengine kadar kavruluyor, yarısı süs için ayrılıyor. Tavuk aynı tencerede 15 dakika pişiyor. Basmati pirinç kakule, defne ve tarçınla 6 dakika yarı haşlanıp tavuğun üzerine yayılıyor; safranlı süt, soğan, nane ve kişnişle en kısık ateşte 20 dakika demleniyor.
+
+Hazırlık 40, pişirme 45 dakika; toplam 85 dakikada 6 kişilik bir tencere hazır.

@@ -97,6 +97,43 @@ steps:
 tips:
 - Kabuğu açık ve dokununca kapanmayan midyeleri at.
 - Kabukları ıslak bezle silerek parlatırsan sunum çok güzel olur.
+updated: '2026-11-08'
+notes:
+- t: Midyeyi seçmek ve temizlemek
+  d: 'Taze midyenin kabuğu kapalı olmalı ya da hafifçe açıksa dokunduğunda kapanmalı. Açık durup dokununca kapanmayan, kabuğu kırık olan midyeleri kullanma. Kabukları tel fırçayla kazıyıp sakallarını çektikten sonra bıçağı düz kenarından sokarak aç; kabuğu tam ayırmadan menteşe gibi bırak ki doldurduktan sonra kapanabilsin. Açtığın midyeleri tuzlu suda beklet. Kabukları en sonda ıslak bezle silmek sunumda parlak görünmelerini sağlar. Temizlik bu tarifin en uzun kısmı, bu yüzden hazırlık süresinin büyük bölümünü buraya ayır.
+
+    '
+- t: Pilavı neden yarım pişiriyoruz
+  d: 'Pirinç, midyenin kabuğunda buharda 25-30 dakika daha pişecek. İç pilavı tencerede tamamen pişirirsen tencerede lapaya döner, midyenin içinde de hamurlaşır. Bu yüzden pilavı yarım su bardağı suyla, suyunu çekip yarım pişene kadar pişirip soğutuyoruz. Soğuk pilav doldurması da daha kolaydır. Her midyeye bir tatlı kaşığı yeterli; fazla doldurursan pirinç şiştiğinde kabuk açılır ve iç dışarı taşar. Pilavı soğuturken geniş bir tabağa yaymak süreyi kısaltır.
+
+    '
+- t: Pişirme, saklama ve servis
+  d: 'Midyeleri tencereye sıkı dizmek ve üzerine ağır bir tabak koymak, kabukların pişerken açılmasını önler. Sıcak suyu ekledikten sonra kısık ateşte pirinç pişene kadar beklet. Midye dolma soğuyunca servis edilir; limonu yemeden hemen önce sık. Deniz ürünü olduğu için kapalı bir kapta buzdolabında sakla ve uzun süre bekletme; en iyisi aynı gün ya da ertesi gün tüketmek. Kuş üzümü bulamazsan kıyılmış kuru üzüm kullanabilirsin.
+
+    '
+faq:
+- q: Midye dolma kaç dakika pişer?
+  a: 'Doldurulan midyeler sıcak su eklendikten sonra kısık ateşte, pirinç pişene kadar 25-30 dakika buharda pişer. Öncesinde iç pilav yaklaşık 15 dakika ön pişirilir.
+
+    '
+- q: Midye dolma pirinci nasıl lapa olmaz?
+  a: 'İç pilavı tencerede yalnızca yarım pişir ve soğut. Her midyeye bir tatlı kaşığından fazla koyma; pirinç buharda şişerek tamamlanır.
+
+    '
+- q: Midye dolmada baldo yerine hangi pirinç kullanılır?
+  a: 'Osmancık pirinç kullanabilirsin; bu durumda suyu bir parmak azalt.
+
+    '
+- q: Ölü midye nasıl anlaşılır?
+  a: 'Kabuğu açık olup dokununca kapanmayan ya da kabuğu kırık olan midyeler kullanılmamalı. Bunları temizlerken ayırıp at.
+
+    '
+editorNote: İç pilavı tencerede yarım pişirip soğuttuktan sonra doldurma adımını ayrı yazdık, çünkü pirinç midyenin içinde buharda pişmeye devam ediyor. Temizleme adımını da ayrıntılı tuttuk; midye dolmanın en çok emek isteyen ve en kritik kısmı orası.
+aramaBasligi: 'Midye dolma tarifi: Kuş üzümlü iç pilavla, buharda'
 ---
 
-Sokak lezzetinin en sevileni; evde yapmak emek ister ama tazelik bambaşka.
+Midye dolma, kabuğunda baharatlı iç pilavla doldurulup pişirilen ve limonla yenen bir meze. Türkiye'de özellikle sokak lezzeti olarak bilinir, ama evde taze midyeyle yapıldığında bambaşka bir tazelikte olur.
+
+Bu tarifte iri midyeleri tel fırçayla temizleyip menteşe gibi açıyorsun. İç pilav zeytinyağında kavrulan soğan, çam fıstığı, salça ve baldo pirinçle hazırlanıyor; karabiber, yenibahar, tarçın, kuş üzümü ve bir tatlı kaşığı şekerle tatlandırılıyor. Yarım pişen pilav soğuduktan sonra midyelere dolduruluyor, midyeler tencereye sıkıca dizilip üzerine ağır bir tabakla buharda pişiyor.
+
+Hazırlık 60, pişirme 30 dakika; toplam 90 dakikada 30 midyeyle 6 kişilik bir tabak çıkıyor. Zorluk derecesi yüksek, ama adımlar net.

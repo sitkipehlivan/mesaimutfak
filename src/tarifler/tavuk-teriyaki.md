@@ -88,6 +88,43 @@ steps:
 tips:
 - Sos hızlı koyulaşır; tavayı ocaktan ayrılmadan çevir.
 - Somonla da aynı sos harika olur.
+updated: '2026-11-08'
+notes:
+- t: Sosun parlaklığı ve kıvamı
+  d: 'Teriyaki sosunun parlak ve tavuğa yapışan kıvamını mısır nişastası ve bal birlikte verir. Nişastayı sosun soğuk malzemeleriyle önceden karıştırmak topaklanmayı önler. Sos tavaya girdiğinde hızla koyulaşır; tavayı ocaktan ayrılmadan sürekli çevir. Fazla pişirirsen bal yanmaya başlar ve sos acılaşır. Sos tavukları sarıp parlak bir hal aldığında ocağı kapat. Koyulaşma fazla olursa bir iki kaşık su ekleyerek açabilirsin. Sarımsak ve zencefili ince rendelemek sosun pürüzsüz kalmasını sağlar.
+
+    '
+- t: Tavuğu önce kızartmak
+  d: 'Tavuk parçalarını sosla birlikte çiğken tavaya koyarsan tavuk kızarmak yerine sosun içinde haşlanır. Bu yüzden önce kızgın yağda her yüzü renk alana kadar pişiriyoruz. Parçaları tavaya tek kat yay ve ilk birkaç dakika karıştırma; tavaya değen yüzün kızarması için zaman gerekir. Kemiksiz but bu yöntemde sulu kalır. Göğüs kullanacaksan parçaları biraz daha küçük doğra ve pişirme süresini kısa tut ki kurumasın.
+
+    '
+- t: Malzeme alternatifleri ve servis
+  d: 'Bal yerine üzüm pekmezi, akçaağaç ya da hurma şurubu kullanabilirsin. Pirinç sirkesi yoksa elma sirkesi ya da yarı ölçü limon suyu olur. Glutensiz tüketiyorsan soya sosu yerine tamari tercih et. Aynı sos somonla da çok iyi gider. Tavuk teriyakiyi sade pilavla servis etmek klasik yöntem; sos pilavın üzerine akarak tadı tamamlar. Artanı kapalı kapta buzdolabında saklayıp tavada az suyla ısıtabilirsin.
+
+    '
+faq:
+- q: Teriyaki sosu nasıl yapılır?
+  a: '4 yemek kaşığı soya sosu, 2 yemek kaşığı bal, 1 yemek kaşığı sirke, sarımsak, zencefil, 1 tatlı kaşığı mısır nişastası ve 3 yemek kaşığı suyu karıştır. Tavukların üzerine ekleyip 2-3 dakika pişirince koyulaşır.
+
+    '
+- q: Tavuk teriyaki kaç dakika pişer?
+  a: 'Tavuklar kızgın tavada yaklaşık 8 dakika kızarır, sos eklendikten sonra 2-3 dakika daha pişer.
+
+    '
+- q: Tavuk teriyaki airfryerda yapılır mı?
+  a: 'Evet. Tavukları 200°C''de 10 dakika pişir, sosla karıştırıp 2 dakika daha pişir.
+
+    '
+- q: Teriyaki sosunda bal yerine ne kullanılır?
+  a: 'Üzüm pekmezi, akçaağaç şurubu ya da hurma şurubu kullanabilirsin.
+
+    '
+editorNote: Sosu önceden tek kapta karıştırma adımını başa koyduk, çünkü tavuk piştikten sonra sos çok hızlı koyulaşıyor ve tavanın başından ayrılmaman gerekiyor. Kemiksiz but seçtik; yüksek ısıda göğüsten daha sulu kalıyor.
+aramaBasligi: 'Tavuk teriyaki tarifi: Ballı soya soslu, 25 dakikada'
 ---
 
-Japon mutfağının en bilinen sosu; evde beş malzemeyle.
+Teriyaki, Japon mutfağından gelen ve soya sosu ile tatlandırıcının birlikte pişirilip parlak bir sır oluşturduğu bir pişirme yöntemi. Tavuk teriyaki da bu sosla kaplanmış, tavada karamelize olmuş tavuk parçalarından oluşuyor.
+
+Bu tarifte sos soya sosu, bal, pirinç ya da elma sirkesi, rendelenmiş sarımsak ve zencefil, mısır nişastası ve suyla önceden karıştırılıyor. Kuşbaşı kemiksiz tavuk but kızgın tavada her yüzü kızarana kadar yaklaşık 8 dakika pişiyor, ardından sos ekleniyor ve 2-3 dakika karıştırılarak tavuklar parlak bir sosla kaplanıyor. Üzerine susam ve taze soğan serpiliyor.
+
+Hazırlık 10, pişirme 15 dakika; toplam 25 dakikada 3 kişilik bir akşam yemeği hazır. Airfryer yöntemi de tarifte var.

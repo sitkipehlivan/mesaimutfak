@@ -74,6 +74,43 @@ tips:
 - Kadayıfın iyice çıtır olması şart; soğuyunca da çıtırlığını korur.
 - Fıstık kreması çok tatlıysa tahin dengeler; tuzu atlama.
 - Çikolatayı 45°C’yi geçmeden eritirsen parlak ve kırılgan kalır.
+updated: '2026-11-08'
+notes:
+- t: Kadayıfı çıtır kavurmak
+  d: 'Tel kadayıfı 1-2 cm boyunda kırpmak, dolgunun kalıba düzgün yayılmasını ve ısırırken uzun tellerin çekilmemesini sağlar. Kavururken orta ateşte sürekli karıştır; kadayıf ilk dakikalarda tereyağını çeker, sonra yavaş yavaş renk almaya başlar. Altın rengine dönüp hışırdamaya başladığında ocaktan al ve geniş bir tabağa yayarak soğut. Sıcak kadayıfı fıstık kremasıyla karıştırırsan krema erir, dolgu yağlanır ve çıtırlık kaybolur. Kavururken tereyağının yanmaması için ateşi yükseltme.
+
+    '
+- t: Çikolatayı eritmek
+  d: 'Çikolatayı benmaride, kâseyi kaynayan suya değdirmeden erit. Sıcaklığın 45°C''yi geçmemesi çikolatanın parlak ve kırılgan kalmasını sağlar; aşırı ısınan çikolata donduğunda mat ve yumuşak olur, üzerinde beyaz lekeler oluşabilir. Çikolataya su kaçarsa topaklanır, bu yüzden kâseyi ve kaşığı kuru tut. Termometren yoksa çikolatayı parçalar tamamen erimeden ocaktan al ve karıştırarak eritmeyi kalan ısıyla bitir. Sütlü çikolata bitterden daha hassastır ve daha düşük ısıda bozulur, bu yüzden onu daha da dikkatli erit.
+
+    '
+- t: Kalıplama ve saklama
+  d: 'Kabuğu yaparken kalıbı çevirerek kenarları kapla ve fazlasını boşalt; ince bir kabuk hem dolguya yer açar hem de ısırması kolay olur. Dolguyu yayarken kenarlardan biraz boşluk bırakmak, kapak çikolatasının kabuğa yapışıp tableti tamamen kapatmasını sağlar. Silikon kalıp yoksa küçük dikdörtgen bir kap da iş görür. Hazır tabletleri buzdolabında kapalı kapta sakla; kadayıf zamanla nem çekip çıtırlığını kaybedebileceği için çok bekletmeden tüket.
+
+    '
+faq:
+- q: Dubai çikolatası nasıl yapılır?
+  a: 'Tel kadayıf tereyağında çıtır olana kadar kavrulur, fıstık kreması, tahin ve tuzla karıştırılır. Bu dolgu erimiş çikolatayla kaplanmış kalıba yayılır, üstü yine çikolatayla kapatılıp buzdolabında 1 saat dondurulur.
+
+    '
+- q: Dubai çikolatasında kadayıf yerine ne kullanılır?
+  a: 'Tereyağında kavrulmuş tel şehriye ya da ezilmiş kadayıf yufkası kullanabilirsin.
+
+    '
+- q: Dubai çikolatasında fıstık kreması yerine ne konur?
+  a: 'Çiğ antep fıstığını biraz süt, şeker ve bir kaşık yağla robotta macun olana kadar çekerek kendi fıstık kremanı hazırlayabilirsin.
+
+    '
+- q: Dubai çikolatası ne kadar sürede donar?
+  a: 'Kabuk dondurucuda 10 dakikada donar. Dolgu konup üstü kapatıldıktan sonra buzdolabında 1 saat bekletip kalıptan çıkarabilirsin.
+
+    '
+editorNote: Kadayıfı kavurmayı ilk ve ayrı adım yaptık, çünkü bu tatlının bilinen çıtırtısı tamamen kadayıfın iyice kurumasına bağlı; az kavrulan kadayıf fıstık kremasıyla karışınca yumuşuyor.
+aramaBasligi: 'Dubai çikolatası tarifi: Kadayıflı, antep fıstığı kremalı'
 ---
 
-Dubai’de bir butik çikolatacının yaptığı fıstıklı-kadayıflı bar, iki yıl üst üste Google’da en çok aranan tarifler arasına girdi. Evde yapınca hem çok daha ucuz hem dolgusu bol.
+Dubai çikolatası, çikolata bir kabuğun içine tereyağında kavrulmuş tel kadayıf ve antep fıstığı kreması doldurulan, kırıldığında çıtırdayan bir tablet çikolata. Dubai'de bir çikolatacının ürünü olarak ortaya çıktı, sosyal medyada hızla yayıldı ve kısa sürede evde yapılan tariflerle her yere ulaştı.
+
+Bu tarifte 150 g tel kadayıf kırpılıp tereyağında altın rengi olana kadar kavruluyor, soğuyunca antep fıstığı kreması, 2 yemek kaşığı tahin ve bir tutam tuzla karıştırılıyor. Tahin ve tuz, fıstık kremasının yoğun tatlılığını dengeliyor. Kabuk için 300 g sütlü ya da bitter çikolata kullanılıyor.
+
+Hazırlık 30, pişirme 10 dakika; toplam 40 dakikada 8 kişilik. Kapatılan çikolatanın buzdolabında 1 saat donması gerektiği için servis zamanını buna göre planla.

@@ -92,6 +92,43 @@ tips:
 - Çikolataya yağ eklemek kaşıkla kırıldığında çatlayan, ince ve çıtır bir kabuk verir.
 - Arasına muz dilimi ya da çilek koyarsan meyveli spoonful olur.
 - Kek yerine bebe bisküvisi de kullanabilirsin; hafif sütle ıslat.
+updated: '2026-11-08'
+notes:
+- t: Muhallebinin kıvamı ve soğutma
+  d: 'Muhallebiyi orta ateşte ve çırpıcıyla sürekli karıştırarak pişir; un ve nişasta dibe çöktüğü için karıştırmayı bırakırsan dibi tutar ve topaklanır. Koyulaştığında ocaktan al, tereyağı ve vanilini ekle. Soğuturken streç filmi doğrudan muhallebinin yüzeyine değdir; böylece kabuk bağlamaz. Muhallebi tamamen soğumadan kremayla birleştirirsen çırpılmış krema söner ve karışım sulanır, katlar da kaplarda birbirine geçer. Dibi tutarsa yanık tadı bütün kremaya geçer; böyle olursa üst kısmı başka bir kaba alıp dibi kullanma.
+
+    '
+- t: Çikolata kabuğu
+  d: 'Kaplamanın amacı kalın bir tabaka değil, kaşıkla vurulduğunda çatlayan ince bir kabuk. Sütlü çikolatayı bir kaşık ayçiçek yağıyla birlikte benmaride erit; yağ çikolatayı akışkan yapar, ince yayılmasını ve donduğunda kırılgan kalmasını sağlar. Çikolatayı kremanın üzerine dökmeden önce birkaç dakika ılıt; çok sıcak çikolata kremayı eritip karışabilir. Donması için buzdolabında 30 dakika yeterli. Çikolata tabakası kalınlaşırsa kaşıkla kırmak zorlaşır ve krema ezilir; dökerken ince ve eşit tutmaya çalış.
+
+    '
+- t: Taban ve çeşitleme
+  d: 'Hazır kek ya da pandispanyayı elinle ufalayıp kapların tabanına hafifçe bastır; çok sıkı bastırırsan taban sıkışıp ağırlaşır. Kek yerine bebe bisküvisi de kullanılabilir; bu durumda biraz sütle ıslatman gerekir. Krema ile tabanın arasına muz dilimleri ya da çilek koyarak meyveli bir spoonful yapabilirsin. Sütlü çikolata yerine bitter çikolata ve bir kaşık şeker de kullanılabilir. Hazırladığın kapları buzdolabında, üzeri kapalı olarak sakla.
+
+    '
+faq:
+- q: Spoonful nasıl yapılır?
+  a: 'Kapların tabanına ufalanmış kek bastırılır, üzerine çırpılmış kremayla hafifletilmiş muhallebi konur. En üste yağla eritilmiş çikolata dökülür ve buzdolabında 30 dakika dondurulur.
+
+    '
+- q: Spoonful kreması nasıl yapılır?
+  a: 'Süt, şeker, un, nişasta ve yumurta sarısı yaklaşık 8 dakika koyulaşana kadar pişirilir, tereyağı ve vanilin eklenir. Soğuyunca ayrı çırpılan sıvı kremayla mikserde 1 dakika çırpılır.
+
+    '
+- q: Spoonful çikolatası nasıl çıtır olur?
+  a: 'Çikolatayı bir kaşık ayçiçek yağıyla eritip kremanın üzerine ince bir tabaka halinde dök. Buzdolabında donunca kaşıkla kırılan bir kabuk oluşur.
+
+    '
+- q: Spoonful'da kek yerine ne kullanılır?
+  a: 'Bebe bisküvisi kullanabilirsin; tabana yerleştirmeden önce biraz sütle ıslat. Pandispanya da olur.
+
+    '
+editorNote: Muhallebiyi soğuduktan sonra çırpılmış kremayla birleştirme adımını ayrıca yazdık; bu ek işlem kremayı ağır bir muhallebi olmaktan çıkarıp spoonful'a özgü hafif ve ipeksi kıvama getiriyor.
+aramaBasligi: 'Spoonful tarifi: Kekli, muhallebili, çıtır çikolata kaplı'
 ---
 
-Sosyal medyada “bir kaşıkta her şey” diye yayılan, 2025’in en çok aranan tarifi. Üç katın her biri basit; birleşince kaşığı çatlayan çikolatadan kremaya daldırmanın keyfi başka.
+Spoonful, kek kırıntısı, ipeksi bir muhallebi kreması ve üstte ince bir çikolata kabuğundan oluşan, kapta hazırlanıp kaşıkla yenen bir tatlı. Sosyal medyada kaşığın çikolata kabuğunu kırıp üç katı birden aldığı görüntülerle yayıldı ve kısa sürede evlerde sık yapılan tatlılardan biri oldu.
+
+Bu tarifte süt, şeker, un, nişasta ve yumurta sarısıyla ocakta bir muhallebi pişiriliyor; soğuduktan sonra çırpılmış sıvı kremayla birleştirilerek hafifletiliyor. Taban için hazır kek ya da pandispanya kullanılıyor. Kaplama çikolatasına bir kaşık ayçiçek yağı eklenmesi, kabuğun kaşıkla kırıldığında çatlayan ince bir tabaka olmasını sağlıyor.
+
+Hazırlık 20, pişirme 15 dakika; toplam 35 dakikada 4 kişilik. Muhallebinin soğuması ve çikolatanın donması için ayrıca bekleme süresi gerekiyor.

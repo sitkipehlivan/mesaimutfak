@@ -77,6 +77,43 @@ steps:
 tips:
 - Fırından çıktığında yumuşak görünür; soğuyunca kıyırlaşır, fazla pişirme.
 - Hamura biraz pekmez eklersen Anadolu usulü olur.
+updated: '2026-11-08'
+notes:
+- t: Tahini karıştırmak
+  d: 'Kavanozda bekleyen tahinin yağı üste çıkar, altı koyulaşır. Ölçmeden önce kavanozu iyice karıştırıp homojen hale getir; yalnızca üstteki yağlı kısmı alırsan hamur yağlı, alttaki koyu kısmı alırsan kuru olur. Tahinin sıvı yağ, şeker ve yumurtayla ilk adımda iyice çırpılması şekerin dağılmasına ve hamurun pürüzsüz olmasına yardım eder. Hamur ele yapışıyorsa biraz daha un ekleyerek ilerle. Tahin çok koyuysa ölçmeden önce kavanozu birkaç dakika ılık suyun içinde bekletmek karıştırmayı kolaylaştırır.
+
+    '
+- t: Pişme süresi
+  d: '180°C fırında 12-15 dakika, altları hafif kızarana kadar pişir. Bu noktada kurabiyeler hâlâ yumuşak görünür ve dokunduğunda hafifçe esner; bu normal. Soğudukça tahin ve şeker sertleşir ve kurabiye kıyırlaşır. Fazla pişirirsen soğuduktan sonra çok sert ve kuru olur, tahinin tadı da acılaşabilir. Kurabiyeleri tepside birkaç dakika bekletip sonra yerinden almak kırılmalarını önler. Fırınının altı fazla ısıtıyorsa tepsiyi orta rafa yerleştir; kurabiyelerin altı yanmadan pişer.
+
+    '
+- t: Susam ve çeşitleme
+  d: 'Topları susama bulamadan önce üst yüzeylerini çok hafif nemlendirirsen susam daha iyi tutar. Susamı önceden tavada hafifçe kavurmak aromasını güçlendirir, ama fırında da renk alacağı için fazla kavurma. Anadolu usulü bir lezzet için hamura biraz pekmez ekleyebilirsin; bu durumda hamur yumuşayacağı için biraz daha un gerekebilir. Kapalı bir kutuda saklandığında kurabiyeler kıyırlığını korur. Susamın bir kısmını hamurun içine de katabilirsin; böylece her lokmada susam tadı daha belirgin olur.
+
+    '
+faq:
+- q: Tahinli kurabiye kaç dakika pişer?
+  a: '180°C fırında 12-15 dakika, altları hafif kızarana kadar. Fırından yumuşak çıkar, soğuyunca sertleşir.
+
+    '
+- q: Tahinli kurabiye neden taş gibi olur?
+  a: 'Genellikle fazla pişirildiği için. Kurabiyeler yumuşak görünürken fırından al; soğudukça kendiliğinden kıyırlaşırlar.
+
+    '
+- q: Tahinli kurabiye yumurtasız yapılır mı?
+  a: 'Evet. 1 yumurta yerine 1 yemek kaşığı öğütülmüş keten tohumunu 3 yemek kaşığı suyla karıştırıp 10 dakika bekletip kullanabilirsin.
+
+    '
+- q: Tahinli kurabiyeye pekmez konur mu?
+  a: 'Konur; hamura biraz pekmez eklemek Anadolu usulü bir tat verir. Hamur yumuşarsa biraz daha un ekle.
+
+    '
+editorNote: Soğuyunca sertleştiği uyarısını pişirme adımının içine yazdık, çünkü fırından yumuşak çıkan kurabiyeyi pişmemiş sanıp süreyi uzatmak bu tarifte en sık yapılan hata.
+aramaBasligi: 'Tahinli kurabiye tarifi: Susamlı, tarçınlı, 30 dakikada'
 ---
 
-Tahinin kokusu ve kıyırlığıyla çayın en iyi arkadaşı.
+Tahinli kurabiye, tahinin hem yağ hem aroma kaynağı olduğu, susamla kaplanan kıyır kıyır bir çay kurabiyesi. Tahinin kavrulmuş susam tadı tarçınla birleşince sade kurabiyelerden belirgin biçimde ayrılan bir lezzet çıkıyor.
+
+Bu tarifte tereyağı kullanılmıyor; yarım su bardağı tahin ve yarım su bardağı sıvı yağ hamurun yağını oluşturuyor. Tek bir yumurta hamuru bağlıyor, kabartma tozu da hafifçe kabarmasını sağlıyor. Toplar susama bulanıp tepsiye diziliyor ve hafifçe bastırılıyor. Tarçın ve vanilin, tahinin yoğun tadını yumuşatıyor.
+
+Hazırlık 15, pişirme 15 dakika; toplam yarım saatte 20 kurabiye çıkıyor. Kurabiyeler fırından yumuşak çıkar, soğudukça sertleşip kıyırlaşır; bu yüzden fazla pişirmemek önemli.
