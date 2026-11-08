@@ -4,7 +4,6 @@ date: '2026-10-17'
 desc: 'Bali kafelerinin pembe yıldızı: ejder meyveli smoothie, altında chia puding, üstünde granola ve tropik meyve.'
 cats:
 - tatli
-- kahvalti
 - vegan
 - glutensiz
 - saglikli

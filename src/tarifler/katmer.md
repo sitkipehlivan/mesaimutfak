@@ -4,7 +4,6 @@ date: '2026-10-22'
 desc: Kağıt inceliğinde açılan hamur, kaymak ve fıstıkla; sabahın tatlısı.
 cats:
 - tatli
-- kahvalti
 lvl: Zor
 prep: 30
 cook: 10

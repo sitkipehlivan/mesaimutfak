@@ -4,7 +4,6 @@ date: '2026-10-17'
 desc: Koyu mor açai, muz ve chia puding; üstünde granola, muz dilimleri ve hindistan cevizi pulu. Canggu klasiği.
 cats:
 - tatli
-- kahvalti
 - vegan
 - glutensiz
 - saglikli

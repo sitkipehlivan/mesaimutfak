@@ -3,7 +3,6 @@ title: Waffle
 date: '2026-10-22'
 desc: Dışı çıtır, içi yumuşak waffle; meyve ve çikolatayla.
 cats:
-- kahvalti
 - tatli
 - dunya
 lvl: Kolay

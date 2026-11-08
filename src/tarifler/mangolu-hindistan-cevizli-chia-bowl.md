@@ -4,7 +4,6 @@ date: '2026-10-17'
 desc: Hindistan cevizi sütlü chia puding ve ipeksi mango püresi; üstünde tropik meyve ve kavrulmuş hindistan cevizi.
 cats:
 - tatli
-- kahvalti
 - vegan
 - glutensiz
 - saglikli

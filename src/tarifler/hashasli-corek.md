@@ -3,9 +3,7 @@ title: Haşhaşlı çörek
 date: '2026-10-22'
 desc: Afyon usulü, tatlı haşhaş ezmesiyle sarılan rulo çörek.
 cats:
-- hamurisi
 - tatli
-- kahvalti
 - firin
 lvl: Orta
 prep: 40

@@ -4,7 +4,6 @@ date: '2026-10-22'
 desc: Süzme yoğurt, granola ve mevsim meyvesiyle kat kat bardak tatlısı.
 cats:
 - tatli
-- kahvalti
 - hizli
 - saglikli
 - yaz-yemekleri

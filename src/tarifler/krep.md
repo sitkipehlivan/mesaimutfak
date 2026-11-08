@@ -3,7 +3,6 @@ title: Krep
 date: '2026-10-22'
 desc: İncecik, esnek krepler; ister tatlı ister tuzlu doldur.
 cats:
-- kahvalti
 - tatli
 - hizli
 lvl: Kolay

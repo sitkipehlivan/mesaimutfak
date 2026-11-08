@@ -5,7 +5,6 @@ desc: Yaban mersini dolu, üzeri şekerli kıtır muffin.
 cats:
 - dunya
 - tatli
-- kahvalti
 - firin
 - airfryer
 lvl: Kolay

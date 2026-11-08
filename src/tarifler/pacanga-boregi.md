@@ -3,6 +3,7 @@ title: Paçanga böreği
 date: '2026-10-12'
 desc: Pastırma, kaşar, biber; yufkada çıtır ara sıcak.
 cats:
+- hamurisi
 - arasicak
 - hizli
 - airfryer

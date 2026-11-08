@@ -3,6 +3,7 @@ title: Kiş
 date: '2026-10-22'
 desc: Tereyağlı tart hamurunda yumurtalı, kremalı ve sebzeli Fransız tartı.
 cats:
+- hamurisi
 - dunya
 - kahvalti
 - firin

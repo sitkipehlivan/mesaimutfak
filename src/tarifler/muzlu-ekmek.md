@@ -5,7 +5,6 @@ desc: Olgun muzlarla nemli, cevizli Amerikan keki.
 cats:
 - dunya
 - tatli
-- kahvalti
 - firin
 lvl: Kolay
 prep: 10

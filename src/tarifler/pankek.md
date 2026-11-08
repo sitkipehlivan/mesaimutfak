@@ -3,7 +3,7 @@ title: Pankek
 date: '2026-10-17'
 desc: Tek kasede çırpılan, kabarık ve yumuşak pankek; 20 dakikada kahvaltı hazır.
 cats:
-- kahvalti
+- tatli
 - dunya
 - hizli
 lvl: Kolay
