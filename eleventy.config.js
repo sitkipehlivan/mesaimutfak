@@ -37,6 +37,18 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection('tumTarifler', api =>
     api.getFilteredByGlob('src/tarifler/*.md').sort((a, b) => b.date - a.date));
 
+  // SEO: <title> en fazla 60, meta description en fazla 160 karakter (arama sonucunda kesilmesin)
+  const cutWords = (t, max) => { if (t.length <= max) return t; const c = t.slice(0, max + 1); const i = c.lastIndexOf(' '); return (i > max * 0.6 ? c.slice(0, i) : t.slice(0, max)).replace(/[\s,;:–-]+$/, ''); };
+  eleventyConfig.addFilter('fitTitle', (t, site) => {
+    t = String(t || '').trim(); const suf = ` | ${site}`;
+    if ((t + suf).length <= 60) return t + suf;
+    if (t.length <= 60) return t;
+    const head = t.split(/:\s/)[0].trim();
+    if (head !== t && (head + suf).length <= 60) return head + suf;
+    if (head !== t && head.length <= 60) return head;
+    return cutWords(t, 60);
+  });
+  eleventyConfig.addFilter('fitDesc', d => { d = String(d || '').replace(/\s+/g, ' ').trim(); return d.length <= 160 ? d : cutWords(d, 158) + '…'; });
   eleventyConfig.addFilter('link', function (to) { return relLink(this.page?.url || '/', to); });
   eleventyConfig.addFilter('inCat', (list, k) => list.filter(r => (r.data.cats || []).includes(k)));
   eleventyConfig.addFilter('bySlug', (list, slug) => list.find(r => r.fileSlug === slug));
