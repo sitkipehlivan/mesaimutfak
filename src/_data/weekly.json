@@ -1,23 +1,23 @@
 {
-  "week": "2026-H45",
-  "hero": "etli-nohut",
-  "heroEyebrow": "Haftanın tarifi · Ana Yemekler",
+  "week": "2026-H46",
+  "hero": "ev-eristesi",
+  "heroEyebrow": "Haftanın tarifi · Hamur İşleri",
   "picks": [
-    "kabak-tatlisi",
-    "pirasa-koftesi",
-    "iskembe-corbasi",
+    "mantar-corbasi",
+    "hamsi-tava",
+    "irmik-helvasi",
+    "hamsili-pilav",
     "kuymak",
-    "ozbek-pilavi",
-    "zeytinyagli-yerelmasi",
-    "ev-eristesi",
+    "zeytinyagli-lahana-dolmasi",
+    "pirasa-koftesi",
     "macar-gulas"
   ],
   "popular": [
-    "kadinbudu-kofte",
-    "kiymali-pide",
-    "su-boregi",
-    "firinda-somon"
+    "kirmizi-mercimek-corbasi",
+    "sac-tava",
+    "karisik-pide",
+    "airfryer-ekmegi"
   ],
-  "popularSource": "secki",
-  "updated": "2026-11-05"
+  "popularSource": "goruntulenme",
+  "updated": "2026-11-09"
 }
