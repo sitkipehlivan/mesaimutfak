@@ -88,6 +88,35 @@ steps:
 tips:
 - Ofis için kavanoza kat kat koyabilirsin.
 - Vejetaryen için tavuk yerine fırın tatlı patates.
+updated: '2026-11-09'
+notes:
+- t: Limonlu pirinç
+  d: 'Pirinci haşladıktan sonra misket limonu suyu ve kabuğu rendesiyle karıştırmak, kâsenin tamamına taze ve ekşimsi bir taban verir. Kabuk rendesini alırken yalnızca yeşil kısmı al; altındaki beyaz zar acıdır. Pirinci haşlamadan önce birkaç kez yıkamak nişastasını azaltır ve tanelerin yapışmasını önler. Misket limonu bulamazsan normal limon da kullanılabilir. Pirinç soğuk da sıcak da yenebildiği için kâseyi önceden hazırlamak mümkün. Limonu pirinç sıcakken eklemek aromanın tanelere daha iyi geçmesini sağlar.
+
+    '
+- t: Tavuğu sulu pişirmek
+  d: 'Tavuk göğsü çabuk kurur; tavada her yüzü 5 dakika pişirdikten sonra dilimlemeden önce kısa bir süre dinlendirmek suyunu içinde tutar. Tavanın iyice ısınmış olması baharatların yüzeyde kızarıp aroma vermesini sağlar. Göğüs etinin bir ucu kalın, diğeri inceyse eşit pişmesi için eti hafifçe yassılaştırabilirsin. Daha sulu bir sonuç istersen tavuk but kullan. Vejetaryen bir kâse için tavuk yerine fırınlanmış tatlı patates iyi bir seçenek.
+
+    '
+- t: Ofis için kavanozda
+  d: 'Kâseyi kavanozda taşıyacaksan sıralama önemli. En alta salsa ve fasulye gibi sulu malzemeleri, üzerine pirinç ve mısırı, en üste tavuğu koy. Avokadoyu sabah hazırlarken değil, yemekten hemen önce dilimlemek kararmasını önler; mümkünse bütün ya da ayrı küçük bir kapta götür. Yoğurdu da ayrı tutmak kâsenin dokusunu korur. Konserve fasulye kullanıyorsan iyice yıkayıp süzmek kutunun suyundaki tuzu ve kıvamı azaltır. Kavanozu yemek saatine kadar buzdolabında tutmak tazeliğini korur.
+
+    '
+faq:
+- q: Burrito bowl'da hangi fasulye kullanılır?
+  a: Haşlanmış barbunya ya da siyah fasulye. Konserve haşlanmış fasulye de olur.
+- q: Burrito bowl için tavuk kaç dakika pişer?
+  a: Tavada her yüzü 5 dakika, toplam 10 dakika. Dilimlemeden önce kısa süre dinlendir.
+- q: Burrito bowl'da misket limonu yerine ne kullanılır?
+  a: Normal limon kullanabilirsin. Pirinçte ve salsada aynı şekilde kullan.
+- q: Burrito bowl önceden hazırlanır mı?
+  a: Evet, kavanoza kat kat koyup ofise götürebilirsin. Avokadoyu yemekten hemen önce dilimle.
+editorNote: Malzemeleri karıştırmadan, kâsede yan yana dizmeyi seçtik; böylece her bileşen kendi tadını ve dokusunu koruyor, kavanoza koyduğunda da katlar birbirine karışmıyor.
+aramaBasligi: 'Burrito bowl tarifi: Tavuklu, fasulyeli, limonlu pilavla'
 ---
 
-Tortilla olmadan, her şeyin bir kâsede buluştuğu doyurucu öğün.
+Burrito bowl, burritonun içindeki malzemelerin tortillaya sarılmadan bir kâsede yan yana dizildiği doyurucu bir öğün. Meksika mutfağından esinlenen bu kâsede pirinç, fasulye, mısır, tavuk ve taze bir domates salsası bir araya geliyor.
+
+Bu tarifte pirinç haşlanıp misket limonu suyu ve kabuğu rendesiyle karıştırılıyor. Tavuk göğsü kimyon, toz kırmızı biber ve tuzla ovulup tavada her yüzü 5 dakika pişiriliyor. Domates ve kırmızı soğandan limonlu bir salsa hazırlanıyor; hepsi kâseye fasulye, mısır ve dilimlenmiş avokadoyla birlikte diziliyor, yoğurtla servis ediliyor.
+
+2 kişilik tarif toplam 40 dakikada hazır: 15 dakika hazırlık, 25 dakika pişirme. Kavanoza kat kat koyarak ofise de götürebilirsin.

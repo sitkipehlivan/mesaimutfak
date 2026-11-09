@@ -74,6 +74,35 @@ steps:
 tips:
 - Hazır haşlanmış buğday ile hazırlık on dakikaya iner.
 - Bir gün sonra daha da lezzetli olur.
+updated: '2026-11-09'
+notes:
+- t: Buğday mı bulgur mu
+  d: 'Aşurelik buğday daha iri ve dişe gelen bir doku verir ama yumuşaması zaman alır; tarifteki 40 dakikalık haşlama süresi buğday içindir. İri bulgur daha çabuk yumuşar, bu yüzden haşlarken sık sık kontrol etmen gerekir. Hangisini kullanırsan kullan, haşladıktan sonra süzüp tamamen soğutmak önemli. Sıcak tahıl yoğurda karışırsa çorba ılır ve beklenen serinliği vermez. Hazır haşlanmış buğday bulursan bu adımı tamamen atlayabilirsin.
+
+    '
+- t: Yoğurdu açarken
+  d: 'Yoğurdu soğuk suyla açarken önce yoğurdu tek başına pürüzsüz olana kadar çırp, suyu sonra azar azar ekle. Suyu bir kerede dökersen yoğurt topak topak kalır. Hedef kıvam içilebilir bir ayran; ne çok koyu ne de sulu. Tuzu bu aşamada ekleyip tadına bak, çünkü buğday ve nohut da tuz ister. Çorba buzdolabında bekledikçe tahıllar suyu biraz çeker ve koyulaşır; servis öncesi gerekirse bir miktar soğuk su ekleyebilirsin.
+
+    '
+- t: Saklama ve servis
+  d: 'Ayran aşı, buzdolabında bekledikçe yeşilliklerin ve nanenin aroması yoğurda geçtiği için ertesi gün daha lezzetli olur; kapalı bir kapta saklayabilirsin. Servis ederken kâselere buz küpü eklemek çorbayı uzun süre serin tutar. Dereotu bulamazsan maydanoz ve biraz taze naneyle devam edebilirsin. Nohudu kuru alıyorsan önceden ıslatıp haşlaman gerekir; konserve haşlanmış nohut bu adımı ortadan kaldırır. Salatalığı servis gününde doğramak çıtırlığını korur.
+
+    '
+faq:
+- q: Ayran aşı çorbası sıcak mı soğuk mu içilir?
+  a: Soğuk içilir. En az 1 saat buzdolabında bekletilir ve buz küpüyle servis edilir.
+- q: Ayran aşı için buğday kaç dakika haşlanır?
+  a: Aşurelik buğday yaklaşık 40 dakikada yumuşar. İri bulgur daha çabuk piştiği için erken kontrol et.
+- q: Ayran aşında dövme buğday yerine ne kullanılır?
+  a: Aşurelik buğday ya da iri bulgur kullanabilirsin; ıslatmaya gerek yok. Hazır haşlanmış buğday hazırlığı on dakikaya indirir.
+- q: Ayran aşı çorbası bir gün bekletilir mi?
+  a: Evet, kapalı kapta buzdolabında bekletilebilir. Bir gün sonra tatlar birbirine geçtiği için daha lezzetli olur.
+editorNote: Buğdayı haşlayıp soğutmayı, yoğurtla birleştirmeden önceki ayrı bir adım olarak yazdık; sıcak buğday yoğurda karışırsa çorba ılır ve bu çorbadan beklenen serinlik kaybolur.
+aramaBasligi: 'Ayran aşı çorbası tarifi: Buğdaylı, nohutlu soğuk yaz çorbası'
 ---
 
-Sıcak yaz günleri için Çorum ve Yozgat’tan soğuk, ferah bir çorba.
+Ayran aşı, yoğurdun soğuk suyla açılıp haşlanmış buğday, nohut ve yeşilliklerle buluştuğu, soğuk servis edilen bir yaz çorbası. İç Anadolu'da, özellikle Yozgat ve Çorum çevresinde bilinen bu çorba, sıcak günlerde hem doyurucu hem ferah bir öğün sunar.
+
+Bu tarifte aşurelik buğday ya da iri bulgur yumuşayana kadar haşlanıp soğutuluyor. Yoğurt ayran kıvamında açılıyor; buğday, nohut, küp doğranmış salatalık, dereotu, maydanoz ve kuru naneyle karıştırılıyor. En az 1 saat buzdolabında beklemesi, tatların birbirine geçmesi için gerekli.
+
+6 kişilik tarifin hazırlığı 20 dakika, pişirmesi 40 dakika; toplam 60 dakika, buna buzdolabında bekleme süresi ekleniyor. Hazır haşlanmış buğday kullanırsan hazırlık on dakikaya iner.

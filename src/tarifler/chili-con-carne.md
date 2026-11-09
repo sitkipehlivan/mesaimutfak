@@ -91,6 +91,35 @@ steps:
 tips:
 - Bir küçük parça bitter çikolata eklemek Teksaslıların sırrı.
 - Ertesi gün daha da lezzetli olur.
+updated: '2026-11-09'
+notes:
+- t: Kıymayı kavurmak
+  d: 'Kıymayı tencereye attıktan sonra hemen karıştırmak yerine bir süre dokunmadan bırakmak, altının kızarmasını sağlar; kızaran kıyma yemeğe derin bir tat verir. Kıyma önce suyunu salar; bu su tamamen çekilip kıyma tane tane olana kadar kavurmaya devam et. Suyunu çekmeden sıvıları eklersen kıyma haşlanmış gibi olur. Kalabalık bir tencerede bu süre uzar, sabırlı olmak gerekir. Etsiz bir versiyon için kıyma yerine haşlanmış yeşil mercimek ya da ince doğranmış mantar kullanabilirsin.
+
+    '
+- t: Kıvam ve pişirme süresi
+  d: '35-40 dakikalık kısık ateşte pişirme, domatesin ekşiliğini yumuşatır ve barbunyaların sosu emmesini sağlar. Chili sulu bir çorba değil, kaşıkla alınabilecek koyulukta olmalı. Pişerken ara ara karıştır, çünkü fasulye ve domates dibe tutmaya yatkındır. Fazla koyulaşırsa biraz sıcak su ekleyebilirsin. Konserve fasulye kullanıyorsan iyice süzüp yıkamak gerekir. Acıyı ayarlamak için pul biber miktarını tadına göre artırabilir ya da azaltabilirsin. Kapağı aralık bırakmak fazla suyun buharlaşmasına ve sosun daha çabuk koyulaşmasına yardım eder.
+
+    '
+- t: Servis ve saklama
+  d: 'Chili con carne bekledikçe baharatlar oturduğu için ertesi gün daha lezzetli olur; bu yüzden önceden pişirmeye çok uygun. Soğuduktan sonra kapalı kapta buzdolabında saklayabilir ya da porsiyonlara bölerek dondurabilirsin. Isıtırken biraz su eklemek kıvamını geri getirir. Pilav, yoğurt ve rendelenmiş peynirle servis edilir. Pişirmenin sonunda küçük bir parça bitter çikolata eklemek, sosa hafif bir derinlik katar ve acıyı yuvarlar. Çikolatayı eklersen iyice erimesi için birkaç dakika karıştırmaya devam et.
+
+    '
+faq:
+- q: Chili con carne kaç dakika pişer?
+  a: Domates ve fasulye eklendikten sonra kısık ateşte 35-40 dakika pişer. Toplam pişirme süresi 45 dakika.
+- q: Chili con carne'de hangi fasulye kullanılır?
+  a: Bu tarifte 2 su bardağı haşlanmış barbunya kullanılıyor. Konserve haşlanmış fasulye de olur.
+- q: Chili con carne'ye çikolata konur mu?
+  a: İstersen pişirmenin sonunda küçük bir parça bitter çikolata ekleyebilirsin; sosa derinlik katar.
+- q: Chili con carne dondurulur mu?
+  a: Evet, soğuduktan sonra porsiyonlara bölüp dondurabilirsin. Isıtırken biraz su ekle.
+editorNote: Baharatları sıvılardan önce salçayla birlikte 1 dakika çevirme adımını ayrı yazdık; kimyon ve kırmızı biber yağda ısındığında aromalarını çok daha belirgin biçimde veriyor.
+aramaBasligi: 'Chili con carne tarifi: Kıymalı, barbunyalı ve kimyonlu'
 ---
 
-Bizim etli fasulyenin baharatlı, Teksaslı akrabası.
+Chili con carne, kıyma, fasulye, domates ve baharatla pişirilen acılı bir güveç. İspanyolcada "etli acı biber" anlamına gelen bu yemek, özellikle ABD'nin Teksas eyaletiyle özdeşleşmiştir. Bizim etli kuru fasulyeye benzer ama kimyon ve kırmızı biberin öne çıktığı, daha koyu ve baharatlı bir kıvamı vardır.
+
+Bu tarifte soğan, sarımsak ve kapya biber yağda yumuşatılıp dana kıymayla kavruluyor. Salça, kimyon, toz kırmızı biber ve pul biber 1 dakika çevrilerek aromaları açılıyor. Ardından konserve domates, haşlanmış barbunya ve sıcak su eklenip kısık ateşte 35-40 dakika, koyulaşana kadar pişiriliyor.
+
+4 kişilik tarif toplam 60 dakikada hazır: 15 dakika hazırlık, 45 dakika pişirme. Pilav, yoğurt ve rendelenmiş peynirle servis edebilirsin.

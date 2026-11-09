@@ -114,6 +114,35 @@ tips:
 - Patatesi servisten hemen önce kızartırsan çıtırlığı uzun süre korur.
 - Fırın patates istersen kibrit patatesleri az yağla 220°C fırında 25 dakika, arada karıştırarak pişirebilirsin.
 - Et çok kalın kesilirse sote sırasında sertleşir; şeritler en fazla yarım parmak kalınlığında olsun.
+updated: '2026-11-09'
+notes:
+- t: Kibrit patatesin çıtırlığı
+  d: 'Patatesi soğuk suda 10 dakika bekletmek yüzeydeki nişastayı alır; nişastası alınmış patates kızarırken birbirine yapışmaz ve daha çıtır olur. Yağa atmadan önce kâğıt havluyla iyice kurulamak şart, çünkü ıslak patates yağı sıçratır ve yağın ısısını düşürür. Patatesleri parti parti kızartmak da aynı nedenle önemli. Tuzu kızartmadan sonra serp. Daha az yağlı bir seçenek için kibrit patatesleri az yağla 220°C fırında 25 dakika, arada karıştırarak pişirebilirsin.
+
+    '
+- t: Eti sotelemek
+  d: 'Etin yumuşak kalması için iki şey belirleyici: kesim ve ateş. Şeritler en fazla yarım parmak kalınlığında olmalı; daha kalın kesilen et hızlı sotede sertleşir. Tavayı yüksek ateşte iyice kızdırıp eti iki partide pişirmek, etin suyunu salıp kısa sürede çekmesini ve kenarlarının kızarmasını sağlar. Hepsini birden atarsan tava soğur ve et haşlanır. Dana yerine kuzu eti ya da tavuk but kullanabilirsin; tavukta süreyi yarıya indir.
+
+    '
+- t: Tabağı kurmak
+  d: 'Çökertmenin keyfi, sıcak patates, serin yoğurt ve sıcak etin aynı anda masaya gelmesinde. Bu yüzden her şeyi önceden hazırlayıp son anda kat kat dizmek gerekir: önce patates, üzerine yoğurt, ortasına et, en üste kızdırılmış sos. Sosu hazırlarken salçayı tereyağında 30 saniye çevirmek çiğ tadını alır; pul biberi ocaktan almadan hemen önce eklemek yanmasını önler. Kebap beklemeye gelmez; patates yoğurtla temas ettikçe yumuşar, bu yüzden dizer dizmez servis et.
+
+    '
+faq:
+- q: Çökertme kebabı için hangi et kullanılır?
+  a: İnce şerit doğranmış dana bonfile ya da antrikot. Kuzu eti ya da tavuk but da olur; tavukta süreyi yarıya indir.
+- q: Çökertme patatesi nasıl çıtır olur?
+  a: Kibrit inceliğinde kesip soğuk suda 10 dakika beklet, iyice kurula ve parti parti kızart. Servisten hemen önce kızartmak çıtırlığı korur.
+- q: Çökertme kebabı fırında patatesle yapılır mı?
+  a: Evet. Kibrit patatesleri az yağla 220°C fırında 25 dakika, arada karıştırarak pişirebilirsin.
+- q: Çökertme sosu nasıl yapılır?
+  a: 2 yemek kaşığı tereyağını erit, 1 tatlı kaşığı salçayı 30 saniye çevir, 1 tatlı kaşığı pul biberi ekleyip ocaktan al.
+editorNote: Yoğurdun oda sıcaklığında beklemesini ayrı bir adım olarak yazdık; çok soğuk yoğurt sıcak patatesle buluştuğunda onu hemen yumuşatıyor ve çökertmenin çıtırlığı kayboluyor.
+aramaBasligi: 'Çökertme kebabı tarifi: Kibrit patatesli, sarımsaklı yoğurtlu'
 ---
 
-Dışarıda en çok sipariş edilen kebaplardan biri ama evde de kolayca yapılıyor. Her şeyi ayrı ayrı hazırlayıp son anda kat kat dizmek yeterli.
+Çökertme kebabı, çıtır kibrit patatesin üzerine sarımsaklı yoğurt, ince şerit sotelenmiş et ve kızdırılmış sosun dizildiği, Bodrum'la özdeşleşmiş bir kebap. Dışarıda en çok sipariş edilenlerden biri olsa da her parçası ayrı hazırlandığı için evde de rahatça yapılabiliyor.
+
+Bu tarifte patatesler kibrit inceliğinde kesilip soğuk suda nişastası alınıyor ve parti parti kızartılıyor. Süzme yoğurt sarımsakla çırpılıp oda sıcaklığında bekletiliyor. Dana bonfile ya da antrikot şeritler yüksek ateşte iki partide sotelenip kekikle tatlandırılıyor. Tereyağında salça ve pul biberle hazırlanan sos en son üzerine dökülüyor.
+
+4 kişilik tarifin hazırlığı 25 dakika, pişirmesi 25 dakika; toplam 50 dakika. Patatesi servisten hemen önce kızartırsan çıtırlığını uzun süre korur.

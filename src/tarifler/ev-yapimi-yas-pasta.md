@@ -110,6 +110,35 @@ steps:
 tips:
 - Pandispanyanın sırrı yumurtanın iyice çırpılmasında; kabartma tozuna fazla güvenme.
 - Keki bir gün önce pişirirsen daha kolay kesilir.
+updated: '2026-11-09'
+notes:
+- t: Pandispanyanın kabarması
+  d: 'Yumurta ve şekeri rengi açılıp üç katına çıkana kadar çırpmak, pandispanyanın iskeletini oluşturan havayı karışıma katar; bu yüzden 8-10 dakikalık çırpma süresini kısaltma. Elenmiş unu spatulayla alttan üste, yavaş hareketlerle katmak bu havanın kaçmasını önler; mikserle karıştırırsan karışım söner. Fırında ilk 20 dakika kapağı açmamak da önemli, çünkü ani sıcaklık düşüşü kekin ortasının çökmesine neden olabilir. Keki bir gün önce pişirirsen daha kolay kesilir.
+
+    '
+- t: Kremanın kıvamı
+  d: 'Muhallebi koyulaşana kadar pişirildikten sonra üzerine streç film yapıştırılarak soğutulur; streç yüzeyde kabuk oluşmasını engeller. Çırpılmış kremayı muhallebi tamamen soğuduktan sonra eklemek gerekir; ılık muhallebi kremayı eritir ve pasta akar. 200 ml kremanın soğuk olması iyi kabarması için şart. Muhallebiyi kremayla birleştirdikten sonra mikserle kısa süre çırpmak pürüzsüz, sürülebilir bir krema verir. Bu krema hem katlar arasına hem de pastanın dışına yetecek miktardadır.
+
+    '
+- t: Islatma, kat ve dinlendirme
+  d: 'Keki üç kata bölmek için tamamen soğumuş olması gerekir; sıcak kek ufalanır. Şekerli sütü katlara kaşıkla eşit dağıt; fazla ıslatılan kat dağılır, az ıslatılan ise kuru kalır. Muzları kararmaması için son anda dilimle. Pastanın en az 4 saat buzdolabında dinlenmesi katların krema ve sütle birleşip yumuşamasını sağlar; bu süre olmadan dilimler düzgün kesilmez. Krema içerdiği için pastayı buzdolabında sakla ve uzun süre dışarıda bekletme.
+
+    '
+faq:
+- q: Yaş pasta pandispanyası kaç dakika pişer?
+  a: 24 cm kalıpta 170°C fırında 30 dakika pişer; ilk 20 dakika fırın kapağını açma.
+- q: Pandispanya neden kabarmaz?
+  a: Yumurta ve şeker yeterince çırpılmadığında ya da un karıştırılırken karışım söndüğünde. Yumurtayı 8-10 dakika çırp ve unu spatulayla alttan üste kat.
+- q: Yaş pasta kaç saat dinlenmeli?
+  a: En az 4 saat buzdolabında dinlendirilmeli.
+- q: Yaş pasta bir gün önceden hazırlanır mı?
+  a: Keki bir gün önce pişirmek kesmeyi kolaylaştırır. Kremayı ve katları servis gününden en az 4 saat önce tamamla.
+editorNote: Pandispanyada kabartma tozu olsa da asıl kabarmayı 8-10 dakikalık yumurta çırpma adımına bıraktık; pastanın hafif ve süngerimsi olmasını sağlayan şey yumurtaya giren hava.
+aramaBasligi: 'Ev yapımı yaş pasta tarifi: Muzlu, çilekli pandispanyayla'
 ---
 
-Pastaneden almak yerine kendi elinle yapılan doğum günü pastası.
+Yaş pasta, pandispanya katlarının şekerli sütle ıslatılıp krema ve meyveyle doldurulduğu, doğum günlerinin en bilinen pastası. Pastaneden almak yerine evde yapmak birkaç aşama gerektirir ama her aşama kendi içinde basittir.
+
+Bu tarifte pandispanya için yumurta ve şeker 8-10 dakika çırpılıp üç katına çıkarılıyor, un ve kabartma tozu spatulayla katılıyor ve 24 cm kalıpta 170°C'de pişiriliyor. Süt, şeker, un, nişasta ve yumurta sarısıyla pişirilen muhallebi soğuyunca çırpılmış kremayla birleştiriliyor. Kek üç kata bölünüyor, her kat şekerli sütle ıslatılıp krema, muz ve çilekle dolduruluyor; pasta dışından da kremayla kaplanıyor.
+
+12 kişilik pastanın hazırlığı 50 dakika, pişirmesi 30 dakika; toplam 80 dakika. Buna en az 4 saatlik buzdolabı dinlenmesi ekleniyor.

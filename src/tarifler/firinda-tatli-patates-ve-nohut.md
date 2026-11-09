@@ -107,6 +107,35 @@ tips:
 - Nohutları iyi kurularsan fırında çıtır olur.
 - Tahin ilk başta kesilir gibi görünür; su ekleyip karıştırmaya devam edince pürüzsüzleşir.
 - Ofis kutusu için sosu ayrı kapta götür.
+updated: '2026-11-09'
+notes:
+- t: Tepsiyi tek kat yaymak
+  d: 'Tatlı patates ve nohudun kızarması için aralarında hava dolaşması gerekir. Tepsi kalabalık olursa sebzeler birbirinin buharında pişer, yumuşar ama renk almaz. Malzemeler tepsine sığmıyorsa iki tepsi kullanmak daha iyi sonuç verir. Yarısında bir kez karıştırmak her yüzün eşit kızarmasını sağlar. Tatlı patatesi kabuğuyla doğramak hem zaman kazandırır hem de küplerin fırında şeklini korumasına yardım eder. Küpleri olabildiğince eşit boyda kesersen hepsi aynı anda pişer.
+
+    '
+- t: Tahin sosunun kıvamı
+  d: 'Tahine limon suyu eklediğinde sos önce koyulaşıp kesilmiş gibi görünebilir; bu normal. Suyu kaşık kaşık ekleyip karıştırmaya devam ettiğinde pürüzsüz ve akışkan bir kıvama gelir. Tarifteki 3 yemek kaşığı su genelde yeterli, ama tahinin yoğunluğuna göre biraz daha gerekebilir. Sos, kaşıktan şerit halinde akacak kıvamda olmalı. Ezilmiş sarımsak sosa keskinlik verir; daha yumuşak bir tat istiyorsan sarımsağı azaltabilirsin. Limon yerine misket limonu ya da yarı ölçü elma sirkesi de olur.
+
+    '
+- t: Ofis kutusu ve saklama
+  d: 'Bu yemek ertesi gün öğle yemeği için uygun, ama bileşenleri ayrı tutmak gerekir. Tahinli sosu ayrı bir kapta götür; önceden dökülen sos tatlı patatesi yumuşatır. Roka ya da ıspanak sıcak sebzeyle temas edince söner, bu yüzden yeşillikleri de yemekten hemen önce ekle. Fırın karışımı soğuk da yenebilir; ısıtmak istersen fırında ya da airfryer''da kısa süre ısıtmak nohudun çıtırlığını mikrodalgaya göre daha iyi korur. Ispanak yerine pazı da kullanabilirsin.
+
+    '
+faq:
+- q: Fırında tatlı patates kaç dakikada pişer?
+  a: Bu tarifte iri küp doğranmış tatlı patatesler 210°C fırında yaklaşık 30 dakikada, yarısında bir kez karıştırılarak pişer.
+- q: Fırında nohut nasıl çıtır olur?
+  a: Nohutları süzüp kâğıt havluyla iyice kurula ve tepside tek kat yay. Islak ya da üst üste duran nohut çıtırlaşmaz.
+- q: Tatlı patates soyulur mu?
+  a: Bu tarifte tatlı patatesler kabuğuyla iri küp doğranıyor. İyice yıkaman yeterli.
+- q: Tatlı patates ve nohut airfryer'da yapılır mı?
+  a: Evet. Tatlı patates ve nohutları tek kat yayıp 200°C'de 18-20 dakika, arada sallayarak pişir.
+editorNote: Nohutları kâğıt havluyla kurulamayı hazırlık adımına ayrıca ekledik, çünkü ıslak nohut fırında çıtırlaşmak yerine buharda pişiyor. Sosu da fırın çalışırken hazırlanacak şekilde sona yerleştirdik.
+aramaBasligi: 'Fırında tatlı patates ve nohut tarifi: Tahinli soslu'
 ---
 
-Fırına verip unutabileceğin, etsiz ama doyurucu bir akşam yemeği. Tahin, limon ve nar üçlüsü tepsiyi bir anda Akdeniz’e taşıyor.
+Tatlı patates ve nohudun aynı tepside baharatla kızardığı, üzerine limonlu tahin sosu gezdirilen etsiz ama doyurucu bir fırın yemeği. Roka yatağında, nar taneleri ve maydanozla servis ediliyor; tatlı, ekşi ve baharatlı tatlar aynı tabakta buluşuyor.
+
+Tatlı patatesler kabuğuyla iri küp doğranıyor, nohutlar süzülüp kurulanıyor ve kırmızı soğanla birlikte zeytinyağı, kimyon, tatlı toz biber, pul biber ve tuzla tepsiye tek kat yayılıyor. 210°C fırında, yarısında bir kez karıştırılarak pişiyor. Sos tahin, limon suyu, sarımsak, su ve tuzla birkaç dakikada hazırlanıyor.
+
+3 kişilik tarif 10 dakika hazırlık ve 30 dakika pişirmeyle toplam 40 dakika sürüyor. Fırına verdikten sonra seni bekleten pek bir iş kalmıyor.

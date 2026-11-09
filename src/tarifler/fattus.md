@@ -94,6 +94,35 @@ steps:
 tips:
 - Ekmeği en son ekle, yumuşamasın.
 - Bayat ekmeği değerlendirmenin en iyi yollarından.
+updated: '2026-11-09'
+notes:
+- t: Ekmeği çıtır tutmak
+  d: 'Lavaşı yağa boğmadan, az zeytinyağıyla kurutarak kızartmak gerekir; fazla yağ ekmeğin sosu daha hızlı emmesine yol açar. Parçalar renk alınca hemen tavadan ya da fırından al ve tamamen soğumaya bırak, çünkü sıcak ekmek salatanın içinde buhar yapar. Salatayı önceden hazırlamak istiyorsan sebzeleri ve sosu ayrı kaplarda, kızarmış ekmeği de ayrı bir kutuda sakla. Ofise götürürken de aynı yöntem geçerli: sos ve ekmek yemekten hemen önce eklenirse salata ilk hazırlandığı andaki gibi çıtır olur.
+
+    '
+- t: Sosun ekşi dengesi
+  d: 'Fattuşun sosunda üç ekşi kaynak var: limon suyu, nar ekşisi ve sumak. Nar ekşilerinin tatlılığı ve ekşiliği birbirinden epey farklı olabildiği için önce tarifteki 1 yemek kaşığıyla başlayıp tadına bakmak iyi olur. Sumak hem sosun içinde hem de servis anında üstte kullanılıyor; üstteki sumak renk ve koku verir. Nar ekşisi yoksa limon suyuna bir tatlı kaşığı bal ya da pekmez ekleyebilirsin. Ezilmiş sarımsağı sosta birkaç dakika bekletmek aromasının sosa yayılmasını sağlar.
+
+    '
+- t: Sebzeleri hazırlamak
+  d: 'Sebzeleri iri doğramak fattuşa özgü bir ayrıntı; küçük doğranmış sebzeler çabuk su salar ve ekmeği ıslatır. Domatesin çok sulu çekirdekli kısmını bir miktar ayıklamak salatanın dibinde su birikmesini azaltır. Marul, nane ve maydanozu yıkadıktan sonra iyice kurulamak gerekir; ıslak yapraklar sosu tutmaz ve salatayı sulandırır. Turp hem hafif acılık hem çıtırlık katar, atlamamaya çalış. Nane ve maydanozu son anda kıymak tazeliklerini korur. Lavaş yerine tortilla ya da yufka da kullanılabilir.
+
+    '
+faq:
+- q: Fattuş sosu nasıl yapılır?
+  a: 4 yemek kaşığı zeytinyağı, 1 limonun suyu, 1 yemek kaşığı nar ekşisi, 1 tatlı kaşığı sumak, 1 diş ezilmiş sarımsak ve yarım tatlı kaşığı tuzu çırpman yeterli.
+- q: Fattuşta lavaş yerine ne kullanılır?
+  a: Pide, tortilla ya da yufka kullanabilirsin. Hangisini seçersen seç, az zeytinyağıyla çıtırlaşana kadar kızart.
+- q: Fattuş önceden hazırlanır mı?
+  a: Sebzeleri ve sosu önceden ayrı ayrı hazırlayabilirsin. Kızarmış ekmeği ise servisten hemen önce ekle, yoksa yumuşar.
+- q: Fattuşun çoban salatasından farkı nedir?
+  a: Fattuşta kızarmış lavaş parçaları, turp, nane, nar ekşisi ve sumak bulunur. Ekmek salataya hem doku hem doyuruculuk katar.
+editorNote: Ekmeği kızartma adımını en başa, salataya eklemeyi ise en sona yazdık; fattuşun karakteri ekmeğin çıtırlığında ve sosla erken buluşan lavaş birkaç dakikada yumuşuyor.
+aramaBasligi: 'Fattuş tarifi: Çıtır lavaşlı, nar ekşili salata'
 ---
 
-Bayat ekmeğin sumakla buluştuğu çıtır bir Ortadoğu salatası.
+Fattuş, kızarmış ekmek parçalarının taze sebzeler ve ekşi bir sosla buluştuğu bir Levant salatası. Bayat lavaş ya da pideyi değerlendirmenin en lezzetli yollarından biri; marul, domates, salatalık, turp, maydanoz, nane ve taze soğan salataya bol ve ferah bir doku veriyor.
+
+Bu tarifte lavaş az zeytinyağıyla fırında ya da tavada çıtırlaşana kadar kızartılıyor. Sos zeytinyağı, limon suyu, nar ekşisi, sumak, sarımsak ve tuzla hazırlanıyor. Ekmek salataya servisten hemen önce ekleniyor ki yumuşamasın, üzerine de sumak serpiliyor.
+
+4 kişilik fattuş 15 dakika hazırlık ve 5 dakika pişirmeyle toplam 20 dakikada hazır. Izgara etlerin yanına ya da tek başına hafif bir öğle yemeği olarak uygun.

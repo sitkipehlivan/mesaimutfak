@@ -66,6 +66,35 @@ steps:
 tips:
 - Poşe zor gelirse göz yumurta da çok iyi gider.
 - Üzerine beyaz peynir, domates ya da çörek otu ekleyebilirsin.
+updated: '2026-11-09'
+notes:
+- t: Poşe yumurtanın püf noktası
+  d: 'Sirke, yumurta akının suya değdiği anda daha hızlı pıhtılaşmasına yardım eder; bu yüzden ak dağılmadan sarının etrafında toplanır. Suyu kaşıkla girdap gibi karıştırıp yumurtayı tam ortaya bırakmak, akın merkeze sarılmasını sağlar. Yumurtayı önce küçük bir kâseye kırıp oradan suya kaydırmak işini kolaylaştırır. Su çok sert kaynamamalı; fazla hareketli su akı parçalar. 3 dakika sonunda delikli kaşıkla alıp kâğıt havluda suyunu süzdürmek ekmeğin ıslanmasını önler.
+
+    '
+- t: Avokadonun olgunluğu
+  d: 'Avokado olgun değilse çatalla ezilmez, sert ve tatsız kalır. Olgun avokado elle hafifçe bastırıldığında biraz yumuşar ama içi göçmez. Limon suyu hem tadı dengeler hem de ezilmiş avokadonun kısa sürede kararmasını yavaşlatır. Avokadoyu tamamen pürüzsüz yapmak yerine biraz iri bırakmak tosta daha iyi bir doku verir. Limonun yoksa misket limonu ya da yarı ölçü elma sirkesi kullanabilirsin; sirke kullanırsan tadına bakarak azar azar ekle.
+
+    '
+- t: Ekmek seçimi ve servis
+  d: 'Ekşi maya ya da tam buğday ekmeği, avokadonun ağırlığını taşıyacak kadar sıkı bir dokuya sahip. Yumuşak tost ekmeği kullanırsan avokado ve yumurta sarısıyla birlikte çabuk hamurlaşır; ekmeği iyice kızartmak bu yüzden önemli. Tost hazırlandıktan sonra hemen yenmeli, çünkü bekledikçe ekmek nem çeker ve çıtırlığını kaybeder. Üzerine beyaz peynir, domates ya da çörek otu ekleyerek tabağı çeşitlendirebilirsin. Avokadoyu ezip hazır tutarsan yumurta pişerken tostu birleştirmek bir dakikanı alır.
+
+    '
+faq:
+- q: Poşe yumurta kaç dakika pişer?
+  a: 3 dakika. Sirkeli kaynar suyu girdap gibi karıştırıp yumurtayı ortasına bırak, süre dolunca delikli kaşıkla al.
+- q: Avokadolu tost için hangi ekmek kullanılır?
+  a: Ekşi maya ya da tam buğday ekmeği. Sıkı dokulu ekmek kızartıldığında avokado ve yumurtanın altında hamurlaşmaz.
+- q: Poşe yumurtada sirke yerine ne kullanılır?
+  a: Yarım ölçü limon suyu kullanabilirsin. Sirke ya da limon, akın suda dağılmadan toplanmasına yardım eder.
+- q: Ezilmiş avokado nasıl kararmaz?
+  a: Avokadoyu limon suyuyla ezmek kararmayı yavaşlatır. Yine de en iyisi tostu hazırladıktan hemen sonra servis etmek.
+editorNote: Poşe yumurtayı ayrı bir adım olarak, süresiyle birlikte yazdık; çünkü bu tostta avokadoyla birleşen asıl sosu, akışkan kalan yumurta sarısı oluşturuyor.
+aramaBasligi: 'Avokadolu yumurtalı tost tarifi: Poşe yumurtayla 11 dakikada'
 ---
 
-Kafelerin klasik kahvaltısı, evde on dakikada.
+Avokadolu yumurtalı tost, kızarmış ekmeğin üzerine ezilmiş avokado ve yumurta konan, kafelerin kahvaltı menülerinden evlere geçmiş bir tabak. Hazırlığı kısa, doyurucu ve hafif olduğu için iş günü sabahlarına uygun.
+
+Bu tarifte ekşi maya ya da tam buğday ekmeği kızartılıyor, avokado limon suyu ve tuzla çatalla eziliyor. Yumurta, sirkeli kaynar suda 3 dakika pişirilen poşe yumurta olarak hazırlanıyor; sarısı akışkan kaldığı için avokadoya sos gibi karışıyor. Üzerine serpilen pul biber tabağın tek baharatı.
+
+2 kişilik tarif toplam 11 dakikada hazır: 5 dakika hazırlık, 6 dakika pişirme. Poşe yumurta sana zor gelirse göz yumurta da aynı keyifle gider.

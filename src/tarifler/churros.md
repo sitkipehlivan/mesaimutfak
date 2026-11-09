@@ -89,6 +89,35 @@ steps:
 tips:
 - Hamur çok sıcakken yumurtayı eklersen pişer; ılımasını bekle.
 - Tulumba hamurunun İspanyol kuzeni.
+updated: '2026-11-09'
+notes:
+- t: Hamurun kıvamı
+  d: 'Churros hamuru, un kaynayan sıvıya bir kerede eklendiğinde nişastanın hemen şişmesiyle oluşur. Unu azar azar eklersen topaklanır; tek seferde ekleyip hamur tencerenin kenarlarından ayrılıp top haline gelene kadar karıştırmak gerekir. Ardından birkaç dakika ılımasını beklemek, yumurtanın pişmeden hamura karışmasını sağlar. Doğru hamur sıkma torbasından zorlanmadan çıkar ama şeklini korur. Çok sıkıysa torbadan çıkmaz, çok yumuşaksa yıldız çizgileri kaybolur. Yumurtayı ekledikten sonra hamur önce kayganlaşıp dağılmış gibi görünür; çırpmaya devam ettikçe yeniden toparlanır ve parlaklaşır.
+
+    '
+- t: Yağın sıcaklığı
+  d: 'Yağın 180°C olması önemli. Daha soğuk yağda hamur yağ çeker ve ağırlaşır; çok sıcak yağda ise dışı hızla kararırken içi çiğ kalır. Termometren yoksa küçük bir parça hamur at: hemen kabarcıklanıp yüzeye çıkıyorsa yağ hazır. Tencereye aynı anda çok fazla hamur sıkma, yağın ısısı düşer. Yıldız uçlu sıkma ucu yalnızca görüntü için değil; oluşan çizgiler yüzey alanını artırıp churrosun daha eşit ve çıtır pişmesine yardım eder.
+
+    '
+- t: Kaplama, sos ve airfryer
+  d: 'Tarçınlı şeker, churros yağdan yeni çıkmışken yüzeye en iyi yapışır; soğuyunca şeker tutmaz. Bu yüzden kızaran parçaları kâğıt havluda kısa süre süzdürüp hemen şekere bula. Çikolata sosu için bitter çikolatayı sıcak kremada karıştırarak erit; daha tatlı bir sos istersen sütlü çikolata kullanabilirsin. Airfryer''da hamuru yağlı kâğıda sıkıp bolca yağ sprey etmek gerekir; aksi halde yüzeyi kuru ve soluk kalır. Churros en iyi taze yenir, bekledikçe yumuşar.
+
+    '
+faq:
+- q: Churros hangi sıcaklıkta kızartılır?
+  a: 180°C yağda, altın rengi olana kadar kızartılır.
+- q: Churros airfryer'da yapılır mı?
+  a: Evet. Hamuru yağlı kâğıda sık, bolca yağ sprey et ve 190°C'de 10-12 dakika pişir; sıcakken tarçınlı şekere bula.
+- q: Churros hamuru neden pürüzsüz olmaz?
+  a: Yumurta çok sıcak hamura eklendiğinde pişer ve hamur topaklanır. Hamurun ılımasını bekleyip yumurtayı sonra çırp.
+- q: Churros çikolata sosu nasıl yapılır?
+  a: 100 g bitter çikolatayı yarım su bardağı sıcak kremada karıştırarak erit.
+editorNote: Yumurtayı eklemeden önce hamurun ılımasını adımın içine yazdık; çok sıcak hamura giren yumurta pişer ve hamur pürüzsüz bir kıvama gelmez.
+aramaBasligi: 'Churros tarifi: Tarçınlı şekerli, çikolata soslu'
 ---
 
-Madrid’in sabah kahvaltısı: sıcak çikolataya banılan çıtır churros.
+Churros, sıcak hamurun yıldız uçlu sıkma torbasıyla kızgın yağa sıkılıp tarçınlı şekere bulandığı bir İspanyol tatlısı. İspanya'da çoğu zaman koyu sıcak çikolataya banılarak yenir. Ocakta pişirilen hamuruyla bizim tulumba tatlısının hamuruna benzer.
+
+Bu tarifte su, tereyağı, şeker ve tuz kaynatılıyor, un bir kerede eklenip hamur toparlanana kadar karıştırılıyor. Hamur ılıyınca yumurta eklenip pürüzsüz olana kadar çırpılıyor. 180°C yağa 10-12 cm boyunda sıkılan hamur altın rengi olana kadar kızartılıyor, sıcakken tarçınlı şekere bulanıyor ve sıcak kremada eritilen bitter çikolatayla servis ediliyor.
+
+4 kişilik tarif toplam 30 dakikada hazır: 15 dakika hazırlık, 15 dakika pişirme. Airfryer'da 190°C'de 10-12 dakikada da pişirebilirsin.

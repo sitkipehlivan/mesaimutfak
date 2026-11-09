@@ -92,6 +92,35 @@ steps:
 tips:
 - Hamuru fazla yoğurma; tereyağı erirse kıyırlığı kaybolur.
 - Vanilyalı dondurmayla sıcakken servis et.
+updated: '2026-11-09'
+notes:
+- t: Kıyır hamurun sırrı
+  d: 'Hamurun kıyır, yani ağızda dağılan bir dokuda olması tereyağının soğuk kalmasına bağlı. Tereyağını unla parmak uçlarında kum kıvamına gelene kadar ufala, sıvıları ekledikten sonra yalnızca toparlanacak kadar karıştır. Fazla yoğurmak hem tereyağını eritir hem de unun glutenini geliştirip hamuru sertleştirir. 30 dakikalık buzdolabı dinlenmesi tereyağını yeniden sıkılaştırır ve hamurun açılırken yapışmasını önler. Tabana çatalla delik açmak pişerken kabarmasını engeller. Hamur açarken kırılırsa parçaları kalıbın içinde parmaklarınla bastırarak birleştirebilirsin.
+
+    '
+- t: Harcı önceden pişirmek
+  d: 'Çiğ elma fırında bol su salar; bu su hamurun tabanını ıslatıp pişmemiş gibi bırakabilir. Elmaları şeker, tarçın ve limonla 8-10 dakika pişirip suyunu çektirmek bu sorunu ortadan kaldırır. Nişasta, kalan suyu bağlayarak harcın kesildiğinde akmamasını sağlar. Harcı hamura koymadan önce mutlaka soğut; sıcak harç hamurdaki tereyağını eritir. Ceviz yerine fındık ya da badem kullanabilirsin; hepsini iri kırarak eklemek harca doku katar.
+
+    '
+- t: Pişirme ve servis
+  d: 'Turtanın kafes üstü kızardığında içinin de pişmiş olduğunu anlarsın; 180°C fırında bu 35-40 dakika sürer. Turtayı sıcakken kesmeye çalışma; harç henüz akışkandır ve dilimler dağılır. Biraz soğuyunca harç oturur, hamur da sıkılaşır. Sıcak servis etmek istersen dilimi vanilyalı dondurmayla birlikte tabağa al. Artanı üstü kapalı olarak saklayabilir, servis öncesi fırında kısa süre ısıtarak hamurun kıyırlığını tazeleyebilirsin. Kafesin üzerine sürülecek biraz yumurta sarısı kenarlara daha parlak bir renk verir, ama tarif bunu gerektirmez.
+
+    '
+faq:
+- q: Elmalı turta kaç dakika pişer?
+  a: 180°C fırında 35-40 dakika, üzeri kızarana kadar pişer.
+- q: Turta hamuru neden sert olur?
+  a: Fazla yoğrulduğu ya da tereyağı eridiği için. Hamuru hızlıca topla ve 30 dakika buzdolabında dinlendir.
+- q: Elmalı turtanın altı neden hamur kalır?
+  a: Elma harcı suyunu çekmeden konduğunda taban ıslanır. Harcı 8-10 dakika pişirip nişastayla bağla ve soğut.
+- q: Elmalı turtada ceviz yerine ne kullanılır?
+  a: Fındık ya da badem kullanabilirsin.
+editorNote: Elma harcını fırından önce ocakta pişirip soğutmayı seçtik; suyunu önceden çeken harç hamurun tabanını ıslatmıyor, turta kesildiğinde de dağılmıyor.
+aramaBasligi: 'Elmalı turta tarifi: Kıyır hamurlu, cevizli ve kafes üstlü'
 ---
 
-Evi tarçın kokusuyla dolduran, bütün mevsimlerin turtası.
+Elmalı turta, tereyağlı kıyır bir hamurun içine tarçınlı elma harcı doldurulup fırınlandığı klasik bir ev tatlısı. Fırından çıkarken evi saran tarçın kokusuyla her mevsim yapılabilir; misafir sofralarında da çay saatlerinde de yerini bulur.
+
+Bu tarifte soğuk tereyağı unla kum gibi ufalanıp şeker, yumurta, yoğurt ve tuzla hızlıca toplanıyor ve 30 dakika buzdolabında dinlendiriliyor. Küp doğranan elmalar şeker, tarçın ve limonla 8-10 dakika suyunu çekene kadar pişirilip nişasta ve cevizle karıştırılıyor. Hamurun üçte ikisi kalıba yayılıyor, harç dolduruluyor ve kalan hamurdan şeritlerle kafes yapılıyor.
+
+8 kişilik turtanın hazırlığı 30 dakika, pişirmesi 40 dakika; toplam 70 dakika. 180°C fırında 35-40 dakika pişen turtayı soğuyunca kesmek gerekiyor.

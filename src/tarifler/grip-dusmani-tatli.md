@@ -104,6 +104,35 @@ tips:
 - Portakal kabuğu tatlının asıl kokusunu verir; ince rendele.
 - Bisküvileri çok ince kırma, katlar arasında doku kalsın.
 - Mandalinayla da aynı şekilde yapabilirsin.
+updated: '2026-11-09'
+notes:
+- t: Muhallebiyi topaksız pişirmek
+  d: 'Un ve nişastayı süt henüz soğukken çırpmak topaklanmayı önler; sıcak süte eklenen nişasta anında topak yapar. Pişirme boyunca sürekli karıştırmak, özellikle tencerenin dibini ve kenarlarını sıyırmak gerekir, çünkü yumurta sarılı muhallebi kolay dip tutar. Koyulaşınca ocaktan alıp tereyağı ve vanilini eklemek yeterli. Portakal kabuğunu ince rendelerken yalnızca turuncu kısmı al; altındaki beyaz zar acı bir tat bırakır. Soğurken muhallebinin yüzeyine streç film değdirmek kabuk bağlamasını önler.
+
+    '
+- t: Portakal sosunun kıvamı
+  d: 'Sos, nişasta pişince bulanık görüntüsünden berrak ve parlak bir görüntüye geçer; bu, sosun hazır olduğunun işaretidir. Berraklaşmadan ocaktan alınan sos nişasta tadı bırakır ve katlar arasında sulanır. Sos soğudukça biraz daha koyulaşır, bu yüzden ocakta çok koyu görünene kadar beklemene gerek yok. Taze sıkılmış portakal suyu kullanmak tatlının kokusunu belirgin kılar. Portakal suyu yerine mandalina suyuyla da aynı şekilde yapabilirsin; tadı biraz daha tatlı ve yumuşak olur.
+
+    '
+- t: Katlama ve saklama
+  d: 'Bisküvileri iri kırmak katlar arasında doku bırakır; çok ince kırılan bisküvi kremanın içinde kaybolur. En az 1 saatlik dinlenme sırasında bisküviler kremanın ve sosun nemini çekip yumuşar, katlar birbirine oturur. Tatlıyı servis gününden önce hazırlamak mümkün, ama çok uzun bekleyen bisküvi tamamen hamurlaşır; en iyisi aynı gün tüketmek. Kupaları buzdolabında üzeri kapalı sakla. Yulaflı bisküvi yerine petibör ya da bebe bisküvisi de kullanılabilir.
+
+    '
+faq:
+- q: Grip düşmanı tatlı neden bu adı taşıyor?
+  a: Adını içindeki portakal kabuğu, portakal suyu ve portakal dilimlerinden alıyor. Bir tatlı olduğu için herhangi bir hastalığa iyi gelmesini beklememek gerekir.
+- q: Grip düşmanı tatlı kaç saat buzdolabında bekler?
+  a: Servis etmeden önce en az 1 saat buzdolabında beklemesi gerekir; bu sürede bisküviler yumuşar ve katlar oturur.
+- q: Grip düşmanı tatlıda bisküvi yerine ne kullanılır?
+  a: Yulaflı bisküvi yerine petibör ya da bebe bisküvisi kullanabilirsin.
+- q: Grip düşmanı tatlı krema olmadan yapılır mı?
+  a: Tarifte sıvı krema çırpılarak kullanıldığı için birebir yerine geçecek bir malzeme yok. Bitkisel krema kullanabilirsin.
+editorNote: Kremayı muhallebiye ancak soğuduktan sonra eklemeyi ayrı bir adım yaptık; sıcak muhallebiye eklenen çırpılmış krema söner ve tatlının hafif dokusu kaybolur.
+aramaBasligi: 'Grip düşmanı tatlı tarifi: Portakallı, bisküvili kup tatlısı'
 ---
 
-Adını portakaldan alan, 2024’te Google’da en çok aranan tariflerden biri. Havalar soğuyunca hem C vitamini niyetine hem tatlı krizine birebir.
+Grip düşmanı tatlı, portakal kabuklu muhallebi, portakal sosu ve kırılmış yulaflı bisküvinin kupta kat kat dizildiği soğuk bir kış tatlısı. Adını içindeki portakaldan alıyor; adı iddialı olsa da bu bir tatlı, herhangi bir hastalığa iyi gelmesini beklememek gerek.
+
+Krema; süt, şeker, un, nişasta, yumurta sarısı ve portakal kabuğuyla pişirilip tereyağı ve vanilinle tamamlanan muhallebinin, soğuduktan sonra çırpılmış sıvı kremayla birleştirilmesiyle hazırlanıyor. Portakal sosu taze portakal suyu, su, şeker ve nişastayla berraklaşıp koyulaşana kadar kaynatılıyor. Kupalara bisküvi, krema ve sos sırasıyla iki kat diziliyor.
+
+4 kişilik tatlı 20 dakika hazırlık ve 15 dakika pişirmeyle toplam 35 dakika sürüyor; servis öncesinde en az 1 saat buzdolabında dinlenmesi gerekiyor.
