@@ -23,6 +23,10 @@
   "avg": 4,
   "count": 1
  },
+ "airfryer-patlican": {
+  "avg": 5,
+  "count": 1
+ },
  "airfryer-yogurtlu-ekmek": {
   "avg": 5,
   "count": 1
@@ -49,7 +53,7 @@
  },
  "kabak-tatlisi": {
   "avg": 5,
-  "count": 1
+  "count": 2
  },
  "kalpli-kurabiye": {
   "avg": 5,
@@ -63,12 +67,16 @@
   "avg": 1,
   "count": 1
  },
+ "makarna-salatasi": {
+  "avg": 5,
+  "count": 1
+ },
  "otlu-omlet": {
   "avg": 5,
   "count": 1
  },
  "sac-tava": {
-  "avg": 4,
-  "count": 3
+  "avg": 4.3,
+  "count": 4
  }
 }
