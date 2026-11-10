@@ -10,5 +10,5 @@ export default async (req) => {
   const day = (await store.get(key, { type: 'json' })) || {};
   day[s] = (day[s] || 0) + 1;
   await store.setJSON(key, day);
-  return new Response('', { status: 204 });
+  return new Response(null, { status: 204 });
 };

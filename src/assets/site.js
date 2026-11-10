@@ -303,16 +303,22 @@ window.mmSes = (function () {
   var yok = false; try { yok = sessionStorage.getItem('mm-ses-yok') === '1'; } catch (e) {} // bu oturumda mikrofon bir kez açılamadıysa tekrar deneme
   var kayitOlur = !saat && !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia && window.MediaRecorder);
   var M = { kayit: false, srOlur: !!SR && !iosBaska && !saat };
-  M.destek = !yok && M.srOlur;
+  // Sunucuda yazıya çevirme (OPENAI_API_KEY) açık kabul edilir: sayfa açılır açılmaz kendi kaydımız hazır.
+  // Önceden sunucu kontrolü bitmeden basılırsa eski, güvenilmez tarayıcı tanımasına düşüyordu; artık beklemeye gerek yok.
+  var c0 = null; try { c0 = sessionStorage.getItem('mm-stt'); } catch (e) {}
+  M.kayit = kayitOlur && c0 !== '0';
+  M.destek = !yok && (M.kayit || M.srOlur);
   function kapali() { try { sessionStorage.setItem('mm-ses-yok', '1'); } catch (e) {} }
-  // Sunucuda yazıya çevirme açık mı? (OPENAI_API_KEY) Açıksa tüm cihazlarda kendi kaydımızı kullanırız.
+  function kayitKapat() { try { sessionStorage.setItem('mm-stt', '0'); } catch (e) {} M.kayit = false; M.destek = !yok && M.srOlur; }
+  // Arka planda bir kez doğrula (oturum başına); sunucu kapalıysa tarayıcı tanımasına geç.
   M.hazir = new Promise(function (ok) {
-    if (!kayitOlur) return ok(M);
-    var c = null; try { c = sessionStorage.getItem('mm-stt'); } catch (e) {}
-    function ayarla(v) { M.kayit = v; if (v) M.destek = !yok; ok(M); }
-    if (c === '0') return ayarla(false);
-    fetch('/api/ses', { cache: 'no-store' }).then(function (r) { return r.json(); }).then(function (j) { try { sessionStorage.setItem('mm-stt', j.hazir ? '1' : '0'); } catch (e) {} ayarla(!!j.hazir); }).catch(function () { ayarla(false); });
+    if (!kayitOlur || c0 === '0' || c0 === '1') return ok(M);
+    fetch('/api/ses', { cache: 'no-store' }).then(function (r) { return r.json(); }).then(function (j) {
+      try { sessionStorage.setItem('mm-stt', j.hazir ? '1' : '0'); } catch (e) {}
+      if (!j.hazir) kayitKapat(); ok(M);
+    }).catch(function () { ok(M); });
   });
+  var hataSay = 0;
   function birlestir(results) { // Safari bazen aynı cümleyi birikimli tekrarlar: tekrarları ayıkla
     var out = '';
     for (var i = 0; i < results.length; i++) {
@@ -345,13 +351,13 @@ window.mmSes = (function () {
         cb.cozuluyor && cb.cozuluyor();
         fetch('/api/ses', { method: 'POST', headers: { 'content-type': tip }, body: blob })
           .then(function (r) { return r.json().then(function (j) { j._st = r.status; return j; }); })
-          .then(function (j) { if (j.error) { logla('sunucu-' + j.error + (j.kod ? '-' + j.kod : '')); if (j.error !== 'limit') { try { sessionStorage.setItem('mm-stt', '0'); } catch (e) {} M.kayit = false; M.destek = !yok && M.srOlur; } cb.hata(j.error === 'limit' ? 'limit' : 'sunucu', ''); } else cb.bitti(j.metin || ''); })
+          .then(function (j) { if (j.error) { logla('sunucu-' + j.error + (j.kod ? '-' + j.kod : '')); if (j.error !== 'limit' && ++hataSay >= 2) kayitKapat(); cb.hata(j.error === 'limit' ? 'limit' : 'sunucu', ''); } else { hataSay = 0; cb.bitti(j.metin || ''); } })
           .catch(function () { logla('sunucu-ag'); cb.hata('network', ''); });
       };
       rec.onerror = function () { hata('recorder'); };
       rec.start(250);
       cb.start && cb.start();
-      // sessizlik algılama: konuşma başladıktan sonra 1,6 sn sessizlikte dur; 7 sn hiç konuşma yoksa dur; en fazla 15 sn
+      // sessizlik algılama: konuşma başladıktan sonra 2 sn sessizlikte dur; 7 sn hiç konuşma yoksa dur; en fazla 15 sn
       if (ac) {
         try {
           var src = ac.createMediaStreamSource(s), an = ac.createAnalyser(); an.fftSize = 1024; src.connect(an);
@@ -361,7 +367,7 @@ window.mmSes = (function () {
             var t = 0; for (var i = 0; i < buf.length; i++) t += buf[i] * buf[i]; var rms = Math.sqrt(t / buf.length);
             if (n < 4) { taban = (taban * n + rms) / (n + 1); n++; return; }
             if (rms > Math.max(0.012, taban * 2.5)) { konustu = true; sonSes = Date.now(); }
-            if ((konustu && Date.now() - sonSes > 1600) || (!konustu && Date.now() - basla > 7000)) { if (rec.state === 'recording') rec.stop(); }
+            if ((konustu && Date.now() - sonSes > 2000) || (!konustu && Date.now() - basla > 7000)) { if (rec.state === 'recording') rec.stop(); }
           }, 100));
         } catch (e) { konustu = true; }
       } else konustu = true;

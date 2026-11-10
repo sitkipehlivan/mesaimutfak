@@ -84,7 +84,7 @@ noindex: true
   ex.addEventListener('click', function (e) { var b = e.target.closest('.chip-q'); if (b) ask(b.textContent); });
 
   // Ses: tarayıcının konuşma tanıma özelliği (site.js → mmSes, sayfa sonunda yüklenir). Çalışmazsa klavyenin mikrofon tuşu.
-  function hazirla() { if (window.mmSes) window.mmSes.hazir.then(sesKur); else sesKur(); }
+  function hazirla() { sesKur(); } // mmSes kararını anında verir; sunucu kontrolünü beklemeye gerek yok
   mic.hidden = true; // hazır olunca gösterilir
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', hazirla); else hazirla();
   function sesKur() {

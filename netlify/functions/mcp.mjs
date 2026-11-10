@@ -155,7 +155,7 @@ async function handle(msg) {
 }
 
 export default async (req) => {
-  if (req.method === 'OPTIONS') return new Response('', { status: 204, headers: CORS });
+  if (req.method === 'OPTIONS') return new Response(null, { status: 204, headers: CORS });
   if (req.method === 'GET') return new Response(JSON.stringify({ ad: 'Mesai Mutfak MCP sunucusu', kullanim: PUBLIC + '/yapay-zeka/' }), { status: 405, headers: { 'content-type': 'application/json', allow: 'POST, OPTIONS', ...CORS } });
   if (req.method !== 'POST') return new Response('', { status: 405, headers: CORS });
   let body;
