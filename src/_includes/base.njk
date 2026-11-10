@@ -1,6 +1,6 @@
 <!doctype html>
 {%- set pageType = 'home' if isHome else ('tarif' if layout == 'recipe.njk' else ('kategori' if cat else 'diger')) -%}
-<html lang="tr"{% if site.ga4 %} data-ga4="{{ site.ga4 }}"{% endif %} data-ads="{{ {enabled: site.ads.enabled, network: site.ads.network, prefix: site.ads.prefix, interstitial: site.ads.interstitial, anchor: site.ads.anchor, vastTag: site.ads.vastTag, mode: site.ads.mode, adsense: site.ads.adsense, client: site.adsenseClient, advance: site.ads.advance} | dump }}" data-page-type="{{ pageType }}" data-cat="{{ (cats[0] if cats else (cat.k if cat else '')) }}" data-slug="{{ page.fileSlug if layout == 'recipe.njk' else '' }}">
+<html lang="tr"{% if site.ga4 %} data-ga4="{{ site.ga4 }}"{% endif %} data-ads="{{ {enabled: site.ads.enabled, network: site.ads.network, prefix: site.ads.prefix, interstitial: site.ads.interstitial, anchor: site.ads.anchor, vastTag: site.ads.vastTag, mode: site.ads.mode, adsense: site.ads.adsense, client: site.adsenseClient, advance: site.ads.advance, aaSite: site.ads.aaSite} | dump }}" data-page-type="{{ pageType }}" data-cat="{{ (cats[0] if cats else (cat.k if cat else '')) }}" data-slug="{{ page.fileSlug if layout == 'recipe.njk' else '' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -53,7 +53,9 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
 <link rel="stylesheet" href="/assets/fonts/fonts.css">
 <link rel="stylesheet" href="{{ '/assets/style.css' | link }}?v={{ build.time }}">
 {% block head %}{% endblock %}
-{% if site.adsenseClient %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsenseClient }}" crossorigin="anonymous"></script>{% endif %}
+{% if site.adsenseClient %}<!-- AdSense: doğrulama etiketi her zaman; betik yalnız reklam çerezleri kabul edilince (KVKK) -->
+<meta name="google-adsense-account" content="{{ site.adsenseClient }}">
+<script>(function(){var y=0;function ac(){if(y)return;var c=null;try{c=localStorage.getItem('mm-consent')}catch(e){}if(c!=='yes')return;y=1;var s=document.createElement('script');s.async=1;s.crossOrigin='anonymous';s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsenseClient }}';document.head.appendChild(s)}ac();document.addEventListener('mm-consent',ac)})();</script>{% endif %}
 </head>
 <body>
 <header class="top">

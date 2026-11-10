@@ -163,7 +163,11 @@
       riza: () => { try { return localStorage.getItem('mm-consent') === 'yes'; } catch (e) { return false; } },
     };
     document.addEventListener('mm-consent', () => { if (window.advance.yenile) window.advance.yenile(); });
-    const sc = document.createElement('script'); sc.async = true; sc.src = ADV + '/a.js'; document.head.appendChild(sc);
+    // Advance Adserver yayıncı modülü (CDN); site.json'da aaSite boşsa eski reklam sunucusu (anında geri dönüş)
+    const sc = document.createElement('script'); sc.async = true;
+    if (cfg.aaSite) { sc.src = 'https://ads.advancedigital.media/aa/yl.js?v=' + Math.floor(Date.now() / 36e5); sc.setAttribute('data-site', cfg.aaSite); }
+    else sc.src = ADV + '/a.js';
+    document.head.appendChild(sc);
   }
 
   /* ---------- önizleme: etiketli kutular ---------- */
