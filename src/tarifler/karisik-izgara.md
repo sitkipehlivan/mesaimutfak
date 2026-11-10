@@ -123,6 +123,35 @@ tips:
 - Etleri pişme sürelerine göre sırayla pişir, hepsi aynı anda sıcak olsun.
 - Fırın ızgarasında 250°C’de de pişirebilirsin; tepsiye su koyarsan duman azalır.
 - Kalabalık sofrada lavaşı fırında 1 dakika ısıtıp üst üste koy.
+updated: '2026-11-10'
+notes:
+- t: Adana harcının sırrı
+  d: 'Adana kebabın şişte ya da köfte halinde dağılmadan pişmesi için yağlı kıyma şart; yağsız kıyma kuru olur ve pişerken çatlar. Kıymayı biber, pul biber ve tuzla birlikte uzun süre yoğurmak gerekir; harç sakızlaşıp ellerine yapışmaya başladığında hazırdır. İnce kıyılmış kapya biberin suyunu biraz sıkmak, harcın fazla nem yüzünden şişten kaymasını önler. Yassı şişlere sararken ellerini ıslatmak işini kolaylaştırır. Şişin yoksa uzun köfteler yapıp tavada aynı sürede pişirebilirsin.
+
+    '
+- t: Pişirme sırası ve süreler
+  d: 'Döküm ızgara tavayı yüksek ateşte iyice ısıtmak, etlerin yapışmadan mühürlenmesini sağlar. Önce en uzun pişen tavuk şiş her yüzü 4 dakika, ardından Adana her yüzü 4 dakika, en son pirzolalar her yüzü 3 dakika pişer. Tavuğun içi tamamen pişmiş olmalı; kestiğinde pembe kalmamalı. Pişen etleri sıcak bir tabağa alıp üzerini folyoyla örtmek, diğerleri pişerken sıcak kalmalarını sağlar. Domates ve biberleri de etlerin arasında ya da sonunda aynı tavada közleyebilirsin.
+
+    '
+- t: Fırın ızgarası ve servis
+  d: 'Döküm tavan yoksa etleri fırın ızgarasında 250°C''de pişirebilirsin; alttaki tepsiye su koymak yağ damlaları yandığında oluşan dumanı azaltır. Tahta şiş kullanıyorsan şişleri önceden 20 dakika suda bekletmek yanmalarını önler. Servis ederken lavaşı etlerin yağına bastırıp tabağa sermek, ekmeğe etin lezzetini geçirir. Kalabalık bir sofrada lavaşları fırında 1 dakika ısıtıp üst üste koymak sıcak kalmalarını sağlar. Mor soğanı ince doğrayıp sumak ve maydanozla karıştırmak tabağı tamamlar.
+
+    '
+faq:
+- q: Adana kebap evde nasıl dağılmaz?
+  a: Yağlı kıyma kullan ve harcı biber, pul biber ve tuzla sakızlaşana kadar yoğur. Yağsız kıyma ve az yoğrulmuş harç şişten düşer.
+- q: Tavuk şiş tavada kaç dakika pişer?
+  a: Bu tarifte tavuk şiş iyice ısıtılmış döküm ızgara tavada her yüzü 4 dakika pişiriliyor.
+- q: Karışık ızgara fırında yapılır mı?
+  a: Evet. Fırın ızgarasında 250°C'de pişirebilirsin; alttaki tepsiye su koyarsan duman azalır.
+- q: Tahta şiş yanmaması için ne yapılır?
+  a: Tahta şişleri kullanmadan önce 20 dakika suda bekletmek yeterli.
+editorNote: Pişirme adımında her etin süresini ve sırasını ayrı ayrı yazdık; üç farklı et aynı tavaya aynı anda girince biri kururken diğeri çiğ kalıyor, sırayla pişirince hepsi sofraya sıcak geliyor.
+aramaBasligi: 'Evde karışık ızgara tarifi: Adana, tavuk şiş ve pirzola'
 ---
 
-Kebapçıdaki karışık tabağın evdeki hali; üç farklı eti doğru sırayla pişirmek yeterli.
+Karışık ızgara, kebapçılarda tek tabakta sunulan farklı etlerin evde hazırlanmış hali. Bu tarifte Adana kebap, yoğurtlu tavuk şiş ve kuzu pirzola döküm ızgara tavada ya da fırın ızgarasında sırayla pişiriliyor; lavaş, közlenmiş domates ve biber, sumaklı soğan ve isteğe bağlı bulgur pilavıyla servis ediliyor.
+
+Tavuk yoğurt, biber salçası, zeytinyağı, tuz ve kekikle; pirzolalar zeytinyağı, tuz ve kekikle ayrı ayrı en az 30 dakika marine ediliyor. Adana harcı yağlı kıyma, kapya biber, pul biber ve tuzla sakızlaşana kadar yoğruluyor. Pişirme sırası tavuk şiş, Adana ve pirzola şeklinde.
+
+4 kişilik tabak 40 dakika hazırlık ve 25 dakika pişirmeyle toplam 1 saat 5 dakika sürüyor. Üç farklı eti doğru sırayla pişirmek işin özü.

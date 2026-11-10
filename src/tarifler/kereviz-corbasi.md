@@ -70,6 +70,43 @@ steps:
 tips:
 - Zeytinyağlı kereviz yemeğiyle aynı sebzeden ikinci bir tarif çıkar; artan kerevizi değerlendir.
 - Üzerine biraz zeytinyağı ve kavrulmuş ceviz serp.
+updated: '2026-11-10'
+notes:
+- t: Kerevizi soymak ve korumak
+  d: 'Kök kerevizin kabuğu kalın ve topraklıdır; soyacağına bıçakla dilimler halinde kesip atmak daha kolaydır. Doğranan kereviz havayla temas edince kısa sürede kararır. Tarifte bu yüzden küpleri doğradıkça limonlu suya atmanı öneriyoruz. Kararma tadı bozmaz ama çorbanın rengini grileştirir. Pişirmeye geçerken küpleri süzmen yeterli. Artan kerevizi zeytinyağlı kereviz gibi başka bir yemekte değerlendirebilirsin. Kerevizi patatesle aynı boyda küp doğramak, ikisinin aynı anda yumuşamasını sağlar ve püreyi pürüzsüz yapar.
+
+    '
+- t: Portakalın zamanlaması
+  d: 'Portakal suyu çorbada tat düzeltici gibi çalışır; kerevizin hafif acımsı tarafını tatlı bir ekşilikle kapatır. Ancak uzun süre kaynarsa aroması uçar ve geriye pişmiş meyve tadı kalır. Bu yüzden çorba blenderdan geçtikten sonra, ocak kapalıyken ya da çok kısıkken ekle. Portakal yoksa mandalina suyu birebir olur. Tadına bakarak artırabilirsin, ama fazlası çorbayı tatlı çorbaya çevirir. Taze sıkılmış portakal suyu, hazır meyve suyuna göre daha ferah ve daha az şekerli bir sonuç verir.
+
+    '
+- t: Kıvam ve servis
+  d: 'Çorba blenderdan sonra fazla koyu geldiyse biraz sıcak su ekleyip karıştır; sulu geldiyse birkaç dakika açık kapakta kaynatıp suyunu azalt. Patatesi tatlı patatesle değiştirirsen pişme süresi kısalır ve çorba hafif tatlanır. Servis ederken bir tutam karabiber, üzerine zeytinyağı ve kavrulmuş ceviz koymak hem görünümü hem dokuyu zenginleştirir. Ceviz, çorbanın yumuşak dokusuna çıtır bir karşıtlık katar. Kalan çorbayı ısıtırken de portakalın kokusunu korumak için kaynatmadan, orta ateşte ısıt.
+
+    '
+faq:
+- q: Kereviz çorbası kaç dakikada pişer?
+  a: 'Sebzeler yaklaşık 20 dakikada yumuşar. Hazırlıkla birlikte çorba toplam 40 dakikada hazır olur.
+
+    '
+- q: Kereviz çorbası kremasız nasıl kremamsı olur?
+  a: 'Kerevizle birlikte pişen patates, blenderdan geçince çorbaya krema gerektirmeyen yumuşak bir kıvam verir.
+
+    '
+- q: Kereviz çorbasına portakal ne zaman eklenir?
+  a: 'Çorba blenderdan geçtikten sonra eklenir. Kaynamazsa portakalın ferah kokusu korunur.
+
+    '
+- q: Kereviz neden kararır?
+  a: 'Doğranan kereviz havayla temas edince oksitlenir. Doğradığın küpleri limonlu suya atarsan kararma büyük ölçüde önlenir.
+
+    '
+editorNote: Portakal suyunu pişirmenin sonuna, blenderdan sonraya bıraktık; kaynarsa ferah kokusu gider, sona eklenince kerevizin keskinliğini yumuşatıyor. Çorbayı zeytinyağıyla yazdık ki vegan ve glutensiz kalsın.
+aramaBasligi: 'Kereviz çorbası tarifi: Portakallı, kremasız ve vegan'
 ---
 
-Kerevizin kendine has kokusunu portakalla yumuşatan, ince bir kış çorbası.
+Kereviz çorbası, kök kerevizin patatesle birlikte pişirilip blenderdan geçirildiği kremamsı bir kış çorbası. Kerevizin kendine özgü, biraz keskin aroması herkese hitap etmeyebilir; bu tarifte o kokuyu portakal suyu dengeliyor.
+
+Krema ya da süt kullanılmıyor. Zeytinyağında yumuşatılan soğanın üzerine küp doğranmış kereviz, patates, sıcak su ve tuz ekleniyor; sebzeler yumuşayınca hepsi püre haline getiriliyor. Kıvamı patates veriyor, ferahlığı ise en son eklenen yarım portakalın suyu ve karabiber.
+
+4 kişilik tarif 15 dakika hazırlık ve 25 dakika pişirmeyle toplam 40 dakikada hazır. Vegan ve glutensiz; üzerine biraz zeytinyağı ve kavrulmuş ceviz serperek servis edebilirsin.

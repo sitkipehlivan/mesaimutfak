@@ -63,6 +63,43 @@ steps:
 tips:
 - Biraz ceviz ve çökelek eklersen daha dolgun olur.
 - Galeta ya da çıtır ekmekle meze olarak da sunulur.
+updated: '2026-11-10'
+notes:
+- t: Lorun nemi
+  d: 'Lor peynirinin nemi markaya ve tazeliğine göre değişir. Çok kuru bir lor kullanıyorsan yoğurdu bir kaşık artırabilirsin; çok sulu bir lorsa önce bir süzgeçte birkaç dakika süzmek ezmenin cıvık olmasını önler. Loru ezerken çatal kullanmak hafif taneli bir doku bırakır; tamamen pürüzsüz bir ezme istersen kısa süre blenderdan geçirebilirsin. Tuzu en son, tadına bakarak ekle; bazı lorlar hafif tuzlu gelir.
+
+    '
+- t: Yeşilliklerin hazırlığı
+  d: 'Dereotu, maydanoz ve taze soğanı yıkadıktan sonra iyice kurula. Islak yeşillik ezmeye su bırakır ve kısa sürede sulanmasına neden olur. Yeşillikleri keskin bir bıçakla ince doğramak hem aromalarını açar hem de ezmeye eşit dağılmalarını sağlar. Dereotu bulamazsan maydanoz ve biraz taze nane kullanabilirsin. Daha doyurucu bir ezme için biraz kırılmış ceviz ya da çökelek eklemek de iyi bir seçenek. Taze soğanın yeşil kısmını da kullanmak ezmeye hem renk hem hafif bir keskinlik katar.
+
+    '
+- t: Saklama ve servis
+  d: 'Lor ezmesi en iyi taze hazırlandığında yenir. Artanı kapalı bir kapta buzdolabında saklayabilirsin, ancak yeşillikler zamanla solar ve ezme biraz su bırakabilir; tüketmeden önce karıştırman yeterli. Zeytinyağını ve pul biberi servis anında üzerine gezdirmek görünümü canlı tutar. Kahvaltı dışında galeta ya da çıtır ekmekle meze olarak, ya da tam buğday ekmeğine sürülerek pratik bir ara öğün olarak da sunulabilir. Pul biber yerine biraz kekik ya da sumak kullanmak da ezmeye farklı bir tat verir.
+
+    '
+faq:
+- q: Lor ezmesi nasıl yapılır?
+  a: 'Lor peyniri iki yemek kaşığı yoğurtla ezilir, ince doğranmış dereotu, maydanoz ve taze soğan eklenir. Tuz ve pul biberle tatlandırılıp üzerine zeytinyağı gezdirilir.
+
+    '
+- q: Lor ezmesi kaç dakikada hazırlanır?
+  a: 'Pişirme olmadığı için yaklaşık 10 dakikada hazırlanır.
+
+    '
+- q: Lor ezmesinde yoğurt yerine ne kullanılır?
+  a: 'Süzme yoğurt kullanabilirsin; ezme biraz daha koyu ve kremamsı olur. Yoğurt hiç yoksa bir kaşık daha zeytinyağı eklemek kıvamı yumuşatır.
+
+    '
+- q: Lor ezmesi kaç gün dayanır?
+  a: 'Kapalı kapta buzdolabında saklanabilir, ancak yeşillikler solduğu için en iyi taze tüketilir. Bir iki gün içinde bitirmeye çalış.
+
+    '
+editorNote: Loru yoğurtla ezmeyi seçtik; tek başına lor kuru ve dağınık kalıyor, iki kaşık yoğurt onu sürülebilir hale getiriyor. Zeytinyağını karışıma katmak yerine üzerine gezdirdik ki kokusu taze kalsın.
+aramaBasligi: 'Lor ezmesi tarifi: Otlu, zeytinyağlı, 10 dakikada kahvaltılık'
 ---
 
-Hafif bir kahvaltı ya da meze tabağı için protein dolu bir ezme.
+Otlu lor ezmesi, lor peynirinin yoğurt ve bol yeşillikle ezilip zeytinyağıyla tatlandırıldığı hafif bir kahvaltılık. Ocak gerektirmiyor; birkaç dakikada hazırlanıp hem kahvaltı sofrasına hem meze tabağına konabiliyor.
+
+Bu tarifte 250 gram lor, iki yemek kaşığı yoğurtla çatal yardımıyla eziliyor. İnce doğranmış dereotu, maydanoz ve taze soğan ekleniyor; tuz ve pul biberle tatlandırılan ezmenin üzerine zeytinyağı gezdiriliyor. Lorun hafif tadı yeşilliklerin ferahlığıyla dengeleniyor.
+
+4 kişilik tarif yalnızca 10 dakikalık hazırlık istiyor, pişirme yok. Glutensiz bir tarif; ekmek, galeta ya da çıtır ekmekle servis edebilirsin. Ezmeyi akşamdan hazırlarsan sabah sofrası birkaç dakikada kurulur, yeşillikleri ise servis anında karıştırmak tazeliğini korur.

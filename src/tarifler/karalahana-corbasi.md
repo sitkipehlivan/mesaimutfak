@@ -83,6 +83,35 @@ tips:
 - Karalahananın en lezzetli olduğu zaman ilk ayazlardan sonrasıdır.
 - Mısır ununu soğuk suda açmazsan topaklanır.
 - Yanına mısır ekmeği ve turşu Karadeniz usulüdür.
+updated: '2026-11-10'
+notes:
+- t: Karalahanayı hazırlamak
+  d: 'Karalahana yapraklarının ortasındaki kalın sap, yaprağın geri kalanından çok daha sert ve geç pişer; bu yüzden çıkarmak gerekir. Yaprağı ikiye katlayıp sapı bıçakla boydan kesmek en kolay yöntem. Yaprakları ince şeritler halinde doğramak, 35 dakikalık pişirmede eşit yumuşamalarını sağlar. Karalahananın kıvrımlı yaprakları arasında toprak kalabilir, doğradıktan sonra bol suda birkaç kez yıkamak iyi olur. Karalahananın ilk ayazlardan sonra daha lezzetli olduğu bilinir.
+
+    '
+- t: Fasulye seçimi
+  d: 'Tarifte haşlanmış barbunya ya da kuru fasulye kullanılıyor; ikisi de çorbaya doyuruculuk ve kremamsı bir doku katar. Kuru baklagil kullanacaksan önceden ıslatıp ayrı bir tencerede haşlaman gerekir, çünkü çiğ fasulye çorbadaki 35 dakikalık sürede pişmez. Pratik olsun istersen konserve haşlanmış fasulye de kullanabilirsin; süzüp yıkadıktan sonra eklemek fazla tuzu ve kıvamlı suyu giderir. Fasulyelerin bir kısmının pişerken dağılması normaldir ve çorbanın kıvamını zenginleştirir.
+
+    '
+- t: Kıvam ve saklama
+  d: 'Mısır unu çorbayı koyulaştırırken ona hafif tatlımsı bir tat ve Karadeniz mutfağına özgü bir karakter verir. Mısır ununu bir kase soğuk suda açıp karıştırarak eklemek topaklanmayı önler. Çorba bekledikçe daha da koyulaşır; ertesi gün ısıtırken biraz sıcak su ekleyip karıştırman gerekebilir. Mısır unu yerine ince irmik ya da un kullanılabilir, ama bu durumda çorba glutensiz olmaz; glutensiz için pirinç unu tercih et. Artan çorbayı buzdolabında kapalı kapta saklayabilirsin.
+
+    '
+faq:
+- q: Karalahana çorbası kaç dakika pişer?
+  a: Lahana sıcak su ve barbunyayla kısık ateşte 35 dakika pişer, mısır unu eklendikten sonra 10 dakika daha kaynatılır.
+- q: Karalahana çorbasında mısır unu neden topaklanır?
+  a: Mısır unu doğrudan sıcak çorbaya eklendiğinde topaklanır. Önce bir kase soğuk suyla açıp sonra karıştırarak eklemek gerekir.
+- q: Karalahana çorbasında mısır unu yerine ne kullanılır?
+  a: İnce irmik ya da un kullanabilirsin. Glutensiz olması gerekiyorsa pirinç unu tercih et.
+- q: Karalahana çorbası hangi fasulyeyle yapılır?
+  a: Bu tarifte haşlanmış barbunya ya da kuru fasulye kullanılıyor. Konserve haşlanmış fasulye de olur.
+editorNote: Mısır ununu soğuk suyla açma ayrıntısını koyulaştırma adımının içine yazdık; doğrudan sıcak çorbaya serpilen mısır unu anında topaklanıyor ve sonradan dağıtmak çok zor.
+aramaBasligi: 'Karalahana çorbası tarifi: Barbunyalı, mısır unlu'
 ---
 
-Karadeniz’de kışın her evde kaynayan, karalahana ve fasulyeyle doyuran çorba. Ayazlı akşamlarda şifa niyetine.
+Karalahana çorbası, Karadeniz mutfağının kış sofralarında sık pişen, karalahana ve fasulyeyle hazırlanıp mısır unuyla koyulaştırılan doyurucu bir çorba. Yanına mısır ekmeği ve turşu eklendiğinde Karadeniz usulü bir akşam yemeği oluyor.
+
+Bu tarifte yaklaşık 600 g'lık bir demet karalahananın kalın sapları ayıklanıp yaprakları ince şeritler halinde doğranıyor. Soğan ve sarımsak yağda yumuşatılıp biber salçası ekleniyor, lahana 5 dakika çevrilerek söndürülüyor. Sıcak su ve haşlanmış barbunya eklenip kısık ateşte 35 dakika pişiriliyor. Son olarak soğuk suda açılan mısır unu, tuz ve pul biberle 10 dakika daha kaynatılıyor.
+
+6 kişilik çorba 15 dakika hazırlık ve 50 dakika pişirmeyle toplam 1 saat 5 dakikada hazır.

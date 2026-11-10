@@ -96,6 +96,43 @@ steps:
 tips:
 - Köfteleri önceden yapıp dondurabilirsin.
 - Pirinç unu yoğurdun kesilmesini daha iyi önler.
+updated: '2026-11-10'
+notes:
+- t: Yoğurdun kesilmemesi
+  d: 'Yoğurt aniden yüksek ısıyla karşılaşırsa proteinleri topaklanır ve çorba kesilir. Bunu önlemenin yolu terbiyedir: yoğurt, yumurta ve unu iyice çırp, tencereden birkaç kepçe sıcak suyu yavaşça ekleyerek karışımı ılıştır. Sonra terbiyeyi sürekli karıştırarak tencereye dök ve kaynayana kadar karıştırmayı bırakma. Un, özellikle pirinç unu, yoğurdu dengeler. Yoğurdu buzdolabından önceden çıkarıp oda sıcaklığına getirmek de yardımcı olur. Terbiye eklendikten sonra çorbayı yüksek ateşte fokurdatmamak da kesilme riskini azaltır.
+
+    '
+- t: Minik köfteler
+  d: 'Köftelerin nohut büyüklüğünde olması hem hızlı ve eşit pişmelerini hem de çorbanın kaşıkta zarif durmasını sağlar. Köfte harcına konan ince bulgur köftelerin dağılmasını önler. Ellerini hafifçe ıslatarak yuvarlarsan harç yapışmaz ve iş hızlanır. Köfteleri bir tepsiye dizip dondurucuda tek tek dondurduktan sonra torbaya aktarabilirsin; böylece birbirine yapışmaz ve gerektiğinde doğrudan kaynayan suya atılır. Glutensiz için bulgur yerine ince kinoa kullanılabilir.
+
+    '
+- t: Su mu et suyu mu
+  d: 'Tarifte çorbanın tabanı su ya da et suyu olarak verildi. Et suyu çorbaya daha derin bir tat verir; köfteler de kendi lezzetini suya bıraktığı için su ile de iyi sonuç alınır. Hazır et suyun yoksa sıcak suya bir tatlı kaşığı tereyağı ve bir tutam tuz eklemek ya da yarım bulyon kullanmak yeterli olur. Bulyon kullanırsan tuzu azaltarak başla. Nohut için konserve haşlanmış nohut pratik bir seçimdir.
+
+    '
+faq:
+- q: Lebeniye çorbası neden kesilir?
+  a: 'Yoğurt terbiyesi ılıştırılmadan kaynar suya dökülürse kesilir. Terbiyeyi önce birkaç kepçe sıcak suyla ılıştır, sonra sürekli karıştırarak ekle.
+
+    '
+- q: Lebeniye çorbası kaç dakikada pişer?
+  a: 'Köfteler ve nohut 10 dakika haşlanır, terbiye eklendikten sonra çorba kaynayınca 5 dakika daha pişer. Köfte hazırlığıyla toplam 60 dakika sürer.
+
+    '
+- q: Lebeniye köfteleri dondurulur mu?
+  a: 'Evet. Köfteleri yuvarlayıp tepside tek tek dondurduktan sonra torbaya aktar; gerektiğinde doğrudan kaynayan suya ekleyebilirsin.
+
+    '
+- q: Lebeniye çorbasında un yerine ne kullanılır?
+  a: 'Pirinç unu kullanabilirsin; yoğurdun kesilmesini normal undan daha iyi önler.
+
+    '
+editorNote: Terbiyeyi önce birkaç kepçe sıcak suyla ılıştırmayı ayrı adım olarak yazdık; doğrudan kaynayan tencereye dökülen yoğurt kesilir. Unu terbiyeye koyduk ve pirinç ununu öne çıkardık, çünkü yoğurdun kesilmesini daha iyi önlüyor.
+aramaBasligi: 'Lebeniye çorbası tarifi: Minik köfteli, nohutlu Antep usulü'
 ---
 
-Gaziantep mutfağının zarif yoğurt çorbası; minik köfteleri sabır ister ama çocuklar bayılır.
+Lebeniye, minik köftelerin ve nohudun yumurtalı yoğurt terbiyesiyle pişirildiği sıcak bir yoğurt çorbası. Gaziantep mutfağının bilinen çorbalarından biridir; adı Arapçada yoğurt anlamına gelen kelimeden türemiştir.
+
+Bu tarifte dana kıyma, ince bulgur, rendelenmiş soğan, tuz ve karabiber yoğrulup nohut büyüklüğünde köfteler yuvarlanıyor. Köfteler ve haşlanmış nohut kaynayan suda 10 dakika pişiyor. Yoğurt, yumurta ve un çırpılıp sıcak suyla ılıştırılarak sürekli karıştırılarak tencereye ekleniyor. Çorba kaynayınca 5 dakika daha pişiriliyor ve üzerine tereyağında kızdırılmış nane gezdiriliyor.
+
+6 kişilik tarifin hazırlığı 30, pişirmesi 30 dakika; toplam 60 dakika. Köfteleri önceden yapıp dondurarak süreyi kısaltabilirsin.

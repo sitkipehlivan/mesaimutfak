@@ -90,6 +90,43 @@ steps:
 tips:
 - Mevsimine göre ıspanak, lahana ya da taze fasulye ekleyebilirsin.
 - Servis ederken peynir serpersen vegan olmaz ama çok yakışır.
+updated: '2026-11-10'
+notes:
+- t: Aromatik taban
+  d: 'Soğan, havuç ve kereviz sapını zeytinyağında yavaşça çevirmek, İtalyan mutfağında pek çok çorba ve sosun başlangıcıdır. Bu üçlü 5 dakikada yumuşayıp tatlılaşır ve çorbaya sade suyla elde edilemeyecek bir derinlik verir. Sebzeleri küçük ve eşit doğramak hem hızlı pişmelerini hem kaşıkta dengeli durmalarını sağlar. Sarımsağı yakmamaya dikkat et; yanmış sarımsak çorbanın tamamına acı bir tat geçirir. Kereviz sapı bulamazsan çorba yine olur, ama bu üçlünün tamamlanması tadı belirgin biçimde zenginleştirir.
+
+    '
+- t: Makarna ne zaman eklenir
+  d: 'Küçük makarna çorbaya en sonda, fasulyeyle birlikte girer ve yaklaşık 10 dakikada pişer. Daha erken eklenirse aşırı pişip dağılır ve çorbayı bulanıklaştırır. Makarna pişerken suyun bir kısmını çeker; çorba koyulaşırsa biraz sıcak su ekleyebilirsin. Çorbayı önceden hazırlayıp saklayacaksan makarnayı ayrı haşlayıp her kaseye servis anında eklemek, ertesi gün şişmiş makarna sorununu önler. Glutensiz makarna da kullanılabilir. Makarnayı ekledikten sonra ara ara karıştırmak tencerenin dibine yapışmasını önler.
+
+    '
+- t: Fasulye ve sebze esnekliği
+  d: 'Tarifte haşlanmış barbunya ya da beyaz fasulye kullanılıyor; konserve fasulye bu çorba için en pratik seçimdir. Kuru fasulye kullanacaksan bir gece ıslatıp ayrıca haşlaman gerekir. Minestronenin güzelliği esnekliğidir: ıspanak, lahana ya da taze fasulye gibi mevsim sebzeleri ekleyebilirsin. Yapraklı sebzeleri son birkaç dakikada eklemek renklerini korur. Servis ederken rendelenmiş peynir çorbayı vegan olmaktan çıkarır ama tadına çok yakışır. Konserve fasulyeyi eklemeden önce süzüp durulamak salamura tadını giderir.
+
+    '
+faq:
+- q: Minestrone çorbası nedir?
+  a: 'Sebzeler, fasulye ve küçük makarnayla pişirilen bir İtalyan sebze çorbasıdır. İçine konan sebzeler mevsime göre değişebilir.
+
+    '
+- q: Minestrone kaç dakikada pişer?
+  a: 'Sebzeler 5 dakika çevrilir, domatesle 15 dakika pişer, makarna ve fasulyeyle 10 dakika daha kaynar. Hazırlıkla toplam 50 dakika sürer.
+
+    '
+- q: Minestrone için hangi makarna kullanılır?
+  a: 'Yüksük ya da arpa şehriye gibi küçük makarnalar uygundur. Tam buğday ya da glutensiz makarna da kullanılabilir.
+
+    '
+- q: Minestrone ertesi gün ısıtılır mı?
+  a: 'Evet, ama makarna bekledikçe suyu çeker. Isıtırken biraz sıcak su ekle ya da makarnayı ayrı haşlayıp servis anında ekle.
+
+    '
+editorNote: Makarnayı ve fasulyeyi sebzelerle birlikte değil son 10 dakikada ekledik; erken giren makarna dağılıyor ve çorbanın suyunu çekiyor. Tarifi vegan tuttuk ve peyniri isteğe bırakıyoruz.
+aramaBasligi: 'Minestrone tarifi: Fasulyeli, makarnalı İtalyan sebze çorbası'
 ---
 
-İtalyan annelerin dolapta ne varsa koyduğu doyurucu sebze çorbası.
+Minestrone, mevsim sebzeleri, fasulye ve küçük makarnayla pişirilen bol malzemeli bir İtalyan çorbası. Sabit bir tarifi yoktur; evdeki sebzelere göre değişen, doyurucu bir sebze çorbası olarak bilinir.
+
+Bu tarifte zeytinyağında soğan, havuç, kereviz sapı ve sarımsak 5 dakika çevrilerek çorbanın aromatik tabanı hazırlanıyor. Patates, kabak, konserve domates ve sıcak sebze suyu eklenip 15 dakika pişiriliyor. Ardından haşlanmış barbunya ya da beyaz fasulye, küçük makarna, tuz ve kekik eklenip makarna pişene kadar 10 dakika daha kaynatılıyor.
+
+6 kişilik tarifin hazırlığı 15, pişirmesi 35 dakika; toplam 50 dakika. Vegan bir çorba; mevsime göre ıspanak, lahana ya da taze fasulye ekleyebilirsin.

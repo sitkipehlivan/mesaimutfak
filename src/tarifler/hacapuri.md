@@ -86,6 +86,35 @@ steps:
 tips:
 - Yumurtayı fazla pişirme; sarısı akışkan kalmalı.
 - Bizim kaşarlı pidenin Gürcü akrabası.
+updated: '2026-11-10'
+notes:
+- t: Kayık şeklini vermek
+  d: 'Oval açtığın hamurun iki uzun kenarını içe doğru rulo yapıp iki ucu sıkıca birbirine bastırman gerekir. Uçlar iyi sıkıştırılmazsa hamur fırında açılır ve eriyen peynir tepsiye akar. Kenarların kalın, ortanın ince olması hem kayığın şeklini korur hem de yumurtanın oturacağı bir çukur oluşturur. Peyniri ortaya bolca koy ama kenarların üzerine taşırma. Şekil verirken hamur geri çekiliyorsa birkaç dakika dinlendirip tekrar açmak işini kolaylaştırır.
+
+    '
+- t: Peynir dengesi
+  d: 'İç harcında iki peynirin ayrı görevleri var: mozzarella ya da kaşar eriyip uzar, beyaz peynir ya da lor ise tuz ve hafif ekşilik katar. Beyaz peynirin tuzlu olabileceğini düşünerek harca ayrıca tuz ekleme. Rendelenmiş, kuru mozzarella kullanmak önemli; sulu taze mozzarella hamuru ıslatabilir. Mozzarella yerine taze kaşar ya da dil peyniri, lor yerine ricotta ya da ezilmiş tuzsuz beyaz peynir kullanılabilir. Peynirleri önceden karıştırmak, her haçapuriye eşit dağıtmayı kolaylaştırır.
+
+    '
+- t: Yumurta ve servis
+  d: 'Yumurta, haçapuri 10 dakika pişip kenarları kızardıktan sonra ekleniyor ve yalnızca 3-4 dakika daha fırında kalıyor. Amaç beyazın hafifçe pişmesi, sarının ise akışkan kalması; fazla pişen yumurta sofrada karıştırılamaz. Yumurtayı önce küçük bir kaba kırıp oradan peynirin ortasına dökmek kabuk kaçmasını ve sarının dağılmasını önler. Fırından çıkınca üzerine bir parça tereyağı koy ve sıcakken servis et. Sofrada her şeyi çatalla karıştırıp ekmeğin kenarından koparak ye.
+
+    '
+faq:
+- q: Haçapuri kaç derecede pişer?
+  a: 220°C fırında kenarları kızarana kadar 10 dakika pişer, ardından ortasına yumurta kırılıp 3-4 dakika daha pişirilir.
+- q: Haçapuri hamuru ne kadar mayalanır?
+  a: Bu tarifte hamur yoğrulduktan sonra 45 dakika mayalandırılıyor.
+- q: Haçapuriye hangi peynir konur?
+  a: Mozzarella ya da kaşar ile beyaz peynir ya da lor karıştırılır. Mozzarella yerine taze kaşar ya da dil peyniri de olur.
+- q: Acaruli haçapuri nasıl yenir?
+  a: Sofrada yumurta, peynir ve tereyağı karıştırılır; ekmeğin kenarları koparılıp bu karışıma batırılarak yenir.
+editorNote: Yumurtayı en başta değil, haçapuri 10 dakika piştikten sonra eklemeyi ayrı yazdık; böylece hamur kızarırken yumurta sarısı akışkan kalıyor ve bu tabağın asıl keyfi de orada.
+aramaBasligi: 'Acaruli haçapuri tarifi: Peynirli, yumurtalı kayık ekmek'
 ---
 
-Gürcistan’ın sofrada karıştırılarak yenen, tereyağlı, yumurtalı kayık ekmeği.
+Acaruli haçapuri, Gürcistan'ın Acara bölgesine özgü, kayık şeklinde açılıp ortası peynirle doldurulan ve yumurta ile tereyağıyla servis edilen bir ekmek. Sofrada yumurta, peynir ve tereyağı karıştırılır, ekmeğin kenarları koparılıp bu karışıma batırılarak yenir. Kaşarlı pidenin yakın bir akrabası gibi düşünebilirsin.
+
+Bu tarifte hamur un, instant kuru maya, ılık süt, sıvı yağ, şeker ve tuzla yoğrulup 45 dakika mayalandırılıyor. İç için mozzarella ya da kaşar ile beyaz peynir ya da lor karıştırılıyor. Hamur dörde bölünüp oval açılıyor ve kenarları rulo yapılarak kayık şekli veriliyor. 220°C fırında 10 dakika pişen haçapurilerin ortasına yumurta kırılıp 3-4 dakika daha pişiriliyor.
+
+4 kişilik tarif 30 dakika hazırlık ve 15 dakika pişirmeyle toplam 45 dakika sürüyor; buna hamurun 45 dakikalık mayalanması ekleniyor.

@@ -79,6 +79,43 @@ steps:
 tips:
 - Pirinci yıkama; nişastası risotto’yu kremamsı yapar.
 - Suyu her zaman sıcak ekle, yoksa pişme kesilir.
+updated: '2026-11-10'
+notes:
+- t: Pirinç seçimi ve yıkamamak
+  d: 'Risottonun kremamsı dokusu pirincin yüzeyindeki nişastadan gelir. Arborio bu iş için yetiştirilmiş bir çeşittir; baldo pirinç de nişastası bol olduğu için iyi bir yerli alternatiftir. Osmancık kullanırsan suyu bir parmak azalt. Pirinci kesinlikle yıkama; yıkamak yüzeydeki nişastayı alır ve risotto pilav gibi tane tane kalır. Pirinci soğanla 2 dakika çevirmek tanelerin dışını hafifçe mühürler ve pişerken dağılmalarını önler. Soğanı ince doğramak önemlidir; risottoda soğan görünmemeli, pirincin arasında erimiş gibi kaybolmalıdır.
+
+    '
+- t: Sıcak su ve karıştırmak
+  d: 'Eklenen suyun sıcak olması şart. Soğuk su tencerenin ısısını düşürür, pişmeyi keser ve pirinç eşit pişmez. Suyu ayrı bir tencerede kısık ateşte sıcak tut. Her kepçeyi pirinç tamamen çekince ekle ve sürekli karıştır; karıştırma pirincin nişastasını salmasını sağlar. 18-20 dakikanın sonunda pirinç kremamsı ama ortası hafif diri olmalı. Tüm suyu kullanmak zorunda değilsin; kıvamı tadarak takip et. Tuzu pişirmenin sonuna doğru ve tadına bakarak ekle; hazır bulyon ve parmesan da tuz getirir.
+
+    '
+- t: Mantar ve peynir
+  d: 'Mantarı ayrı ve yüksek ateşte kızartmak, suyunu hızla buharlaştırıp yüzeyini kızartır. Tavayı kalabalık edersen mantar su salar ve haşlanır; gerekirse iki partide kızart. Kültür mantarı yerine istiridye ya da kestane mantarı da kullanılabilir. Parmesan ve tereyağı ocak kapalıyken eklenir; bu, risottoya parlak ve akışkan bir son kıvam verir. Parmesan yerine ince rendelenmiş eski kaşar ya da kuru tulum peyniri olur.
+
+    '
+faq:
+- q: Risotto için hangi pirinç kullanılır?
+  a: 'Arborio en yaygın seçimdir. Bulamazsan baldo pirinç iyi bir alternatif; osmancık kullanacaksan suyu bir parmak azalt.
+
+    '
+- q: Risotto kaç dakikada pişer?
+  a: 'Su eklendikten sonra pirinç 18-20 dakika sürekli karıştırılarak pişer. Hazırlıkla birlikte toplam 40 dakika sürer.
+
+    '
+- q: Risotto pirinci yıkanır mı?
+  a: 'Hayır. Pirincin yüzeyindeki nişasta risottoyu kremamsı yapar; yıkarsan bu nişasta gider.
+
+    '
+- q: Parmesan yerine ne kullanılır?
+  a: 'İnce rendelenmiş eski kaşar ya da kuru tulum peyniri kullanabilirsin.
+
+    '
+editorNote: Mantarları pirinçle birlikte pişirmek yerine önce yüksek ateşte kızartıp ayırdık; böylece mantar su salıp haşlanmıyor, sonda eklenince rengi ve dokusu korunuyor. Suyu kepçe kepçe eklemeyi ayrı adım olarak yazdık, çünkü risottonun kıvamı tamamen bu sabra bağlı.
+aramaBasligi: 'Mantarlı risotto tarifi: Parmesanlı, kremamsı, 40 dakikada'
 ---
 
-Sürekli karıştırmayı gerektiren ama karşılığında kadife gibi bir doku veren İtalyan pilavı.
+Risotto, nişastası bol kısa taneli pirincin sıcak et ya da sebze suyuyla azar azar ve sürekli karıştırılarak pişirildiği kremamsı bir İtalyan pilavı. Kuzey İtalya mutfağının bilinen yemeklerinden biridir.
+
+Bu tarifte kültür ve istiridye mantarı karışımı önce zeytinyağında yüksek ateşte kızartılıp ayrılıyor. Aynı tavada tereyağının yarısında soğan yumuşatılıyor, yıkanmamış pirinç eklenip 2 dakika çevriliyor. Ardından sıcak sebze ya da tavuk suyu kepçe kepçe eklenip 18-20 dakika sürekli karıştırılıyor. Mantarlar, kalan tereyağı ve rendelenmiş parmesanla bitirilip 2 dakika dinlendiriliyor.
+
+3 kişilik tarifin hazırlığı 10, pişirmesi 30 dakika; toplam 40 dakika. Arborio bulamazsan baldo pirinç de iyi sonuç verir.
