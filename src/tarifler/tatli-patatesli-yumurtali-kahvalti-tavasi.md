@@ -83,6 +83,43 @@ tips:
 - Tatlı patatesi önce kapalı pişirmek hem içini yumuşatır hem süreyi kısaltır.
 - Biraz pul biber ya da acı sos çok yakışır.
 - Yumurtasız haliyle akşamları et ya da tavuğun yanına garnitür olur.
+updated: '2026-11-11'
+notes:
+- t: Kızarmanın sırrı
+  d: 'Kapağı açtıktan sonra patatesleri sık sık karıştırma. Küpler tavanın tabanına uzun süre temas ettikçe kenarları karamelize olup kızarır; sürekli çevirirsen ezilir ve buharda kalır. Arada bir, geniş bir spatulayla toplu halde çevirmek yeterli. Geniş bir tava kullanmak da önemli, çünkü üst üste binen küpler kızarmaz. Tuzu ve baharatları kapak açıldıktan sonra eklemek, tatlı toz biberin yanmadan rengini vermesini sağlar. Küplerin hepsini aynı boyda doğramak, aynı anda yumuşayıp kızarmalarını sağlar.
+
+    '
+- t: Yumurtaların kıvamı
+  d: 'Yumurtaları kırmadan önce kaşıkla açtığın çukurlar sarıların yerinde kalmasını sağlar. Kapağı kapatınca üstteki buhar beyazları pişirir; böylece yumurtayı çevirmeden üstten de pişirmiş olursun. Sarıların akışkan kalması için 4 dakika genelde yeterli, daha katı seviyorsan bir iki dakika uzatabilirsin. Ateşi orta seviyede tut; çok yüksek ateşte alttaki patatesler yanarken yumurta beyazı hâlâ çiğ kalabilir. Yumurtaları önce küçük bir kaseye kırıp oradan çukura dökersen sarının dağılma riski azalır.
+
+    '
+- t: Malzeme alternatifleri
+  d: 'Feta yerine tam yağlı beyaz peynir kullanabilirsin; peynirin tuzu tatlı patatesin tatlılığını dengeler. Kapya biber yoksa kırmızı dolmalık biber ya da süzülmüş közlenmiş kavanoz biberi olur. Kuru soğan yerine arpacık ya da mor soğan daha tatlı bir sonuç verir. Biraz acı seviyorsan servis sırasında pul biber ya da acı sos ekle. Yumurtasız hali, akşam yemeğinde et ya da tavuğun yanında garnitür olarak da kullanılabilir.
+
+    '
+faq:
+- q: Tatlı patates tavada kaç dakikada pişer?
+  a: '1 cm''lik küpler kapağı kapalı 8 dakikada yumuşar, kapağı açıp 6 dakika daha pişirince kenarları kızarır.
+
+    '
+- q: Tatlı patates kahvaltıda nasıl yapılır?
+  a: 'Küp doğranıp biber ve soğanla tavada kızartılır, üzerine yumurta kırılıp kapak altında pişirilir. Beyaz peynir ve maydanozla servis edilir.
+
+    '
+- q: Tatlı patatesli yumurtada sarılar nasıl akışkan kalır?
+  a: 'Yumurtaları kırdıktan sonra kapağı kapatıp yaklaşık 4 dakika pişir. Bu sürede beyazlar pişer, sarılar akışkan kalır.
+
+    '
+- q: Tatlı patates yerine normal patates kullanılır mı?
+  a: 'Kullanılabilir, ancak normal patates daha geç yumuşar; kapağı kapalı pişirme süresini birkaç dakika uzatman gerekir. Tat da daha az tatlı olur.
+
+    '
+editorNote: Tatlı patatesi önce kapağı kapalı, sonra kapağı açık pişirmeyi iki ayrı adım olarak yazdık; ilki içini yumuşatıyor, ikincisi kenarlarını kızartıyor.
+aramaBasligi: 'Tatlı patatesli yumurta tavası: Tek tavada, 28 dakikada'
 ---
 
-Menemenin hafta sonu kuzeni gibi: tek tava, renkli, doyurucu. Tatlı patatesin hafif tatlılığı peynirin tuzuyla çok iyi anlaşıyor.
+Tatlı patatesli yumurtalı kahvaltı tavası, küp doğranmış tatlı patates, kapya biber ve soğanın tek tavada kızartılıp üzerine yumurta kırıldığı doyurucu bir kahvaltı. Ufalanmış beyaz peynir ve maydanozla tamamlanıyor, tavada masaya geliyor.
+
+Bu tarifte tatlı patatesi 1 cm'lik küplere kesip önce kapağı kapalı 8 dakika pişiriyoruz; buhar içini yumuşatıyor. Ardından kapağı açıp soğan, biber, tatlı toz biber ve kimyonu ekliyoruz ve küplerin kenarları kızarana kadar 6 dakika daha pişiriyoruz. Son adımda açılan dört çukura yumurtalar kırılıyor ve kapak altında 4 dakikada beyazları pişiyor, sarıları akışkan kalıyor.
+
+2 kişilik tarif 8 dakika hazırlık ve 20 dakika pişirmeyle toplam 28 dakikada hazır. Glutensiz bir kahvaltı.

@@ -88,6 +88,35 @@ steps:
 tips:
 - Sirke etin yumuşamasına da yardım eder; miktarını damak tadına göre artırabilirsin.
 - Yanına sade pilav ya da patates püresi.
+updated: '2026-11-11'
+notes:
+- t: Arpacık soğanı soymak
+  d: 'Arpacık soğanlar küçük olduğu için soyması zahmetli olabilir. Kolay yol, soğanları 1-2 dakika kaynar suda bekletip soğuk suya almak; kabuk gevşer ve kolayca sıyrılır. Kök kısmını tamamen kesip atma, yalnızca ince bir dilim al; kök soğanı bir arada tutar ve uzun pişirmede dağılmasını önler. Arpacık bulamazsan 3 kuru soğanı iri doğrayarak kullanabilirsin; bu durumda soğanlar sosa daha çok karışır ve yemek daha koyu kıvamlı olur.
+
+    '
+- t: Uzun ve kısık pişirme
+  d: 'Dana kuşbaşı kısık ateşte, kapağı kapalı pişirildiğinde bağ dokusu yavaş yavaş çözülür ve et yumuşar. Ateşi yükseltip süreyi kısaltmaya çalışmak eti sertleştirir. 75 dakikalık pişirme boyunca birkaç kez kontrol et; su çok azalırsa biraz sıcak su ekle, soğuk su pişmeyi yavaşlatır. Sirke etin yumuşamasına da yardım eder. Sosun koyulaşması ve etin çatalla kolayca bölünmesi yemeğin hazır olduğunu gösterir. Düdüklü tencerede süre kısalır, ama soğanlar daha çok dağılabilir.
+
+    '
+- t: Baharat ve alternatifler
+  d: 'Yenibahar tanesi, defne ve kimyon bu yahninin kendine has kokusunu verir. Yenibahar yoksa bir tutam tarçın ve bir tutam karanfille benzer bir sıcaklık elde edebilirsin. Sirke yerine yarı ölçü limon suyu kullanılabilir, ama sirkenin ekşiliği daha belirgindir. Dana yerine kuzu eti olur; tavuk but kullanırsan süreyi yarıya indir. Defne yapraklarını ve yenibahar tanelerini servisten önce çıkarmak, yerken ağza gelmelerini önler. Yahni ertesi gün ısıtıldığında tatlar daha da oturur.
+
+    '
+faq:
+- q: Papaz yahnisi kaç dakika pişer?
+  a: Et 10 dakika kavrulduktan sonra sıcak su eklenip kısık ateşte 75 dakika pişer. Toplam pişirme süresi 90 dakika.
+- q: Papaz yahnisine neden sirke konur?
+  a: Sirke yemeğe kendine has ekşimtırak tadını verir ve etin yumuşamasına yardım eder. Bu tarifte 2 yemek kaşığı üzüm sirkesi kullanılıyor.
+- q: Papaz yahnisi hangi etle yapılır?
+  a: Bu tarifte dana kuşbaşı kullanılıyor; kuzu eti de olur. Tavuk butla yaparsan pişirme süresini yarıya indir.
+- q: Papaz yahnisinin yanına ne gider?
+  a: Sade pirinç pilavı ya da patates püresi, yahninin sulu sosunu iyi çeker.
+editorNote: Soğanı et kavrulduktan sonra ayrı bir adımda eklemeyi seçtik; arpacıkların bütün kalıp sosta dağılmadan pişmesi bu yemeğin görüntüsünü belirliyor. Sirkeyi suyla birlikte değil baharatlarla aynı anda koyduk ki uzun pişirmede keskinliği yumuşasın.
+aramaBasligi: 'Papaz yahnisi tarifi: Arpacık soğanlı, sirkeli dana yahni'
 ---
 
-Adı kadar ilginç tadı olan eski İstanbul yemeği. Bol soğan, biraz sirke, uzun pişirme.
+Papaz yahnisi, bol soğan ve sirkeyle uzun süre pişirilen, sulu ve hafif ekşimtırak bir et yemeği. Eski İstanbul mutfağıyla anılan bu yahninin karakterini defne, yenibahar ve kimyonun oluşturduğu sıcak baharat dengesi belirler.
+
+Bu tarifte 600 g dana kuşbaşı tereyağında suyunu çekene kadar kavruluyor, ardından arpacık soğanlar bütün olarak ya da kuru soğan iri doğranarak sarımsakla ekleniyor. Salça, üzüm sirkesi ve baharatlar konduktan sonra 2 su bardağı sıcak suyla kapağı kapalı, kısık ateşte 75 dakika pişiyor.
+
+4 kişilik yahni, 20 dakika hazırlık ve 90 dakika pişirmeyle toplam 110 dakikada hazır. Yanına sade pilav ya da patates püresi yakışıyor.

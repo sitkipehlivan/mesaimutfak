@@ -84,6 +84,35 @@ steps:
 tips:
 - Dolapta kalan sebzeleri değerlendirmek için ideal.
 - Bir avuç şehriye ekleyerek doyuruculuğunu artırabilirsin.
+updated: '2026-11-11'
+notes:
+- t: Doğrama ve sıralama
+  d: 'Sebzeleri aynı boyda küçük küpler halinde doğramak, hepsinin eşit pişmesini ve kaşığa kolay gelmesini sağlar. Havuç sert bir sebze olduğu için en başta soğanla kavrulur; kabak ise çabuk piştiği için sonradan eklenir. Kabağı çok küçük doğrarsan pişerken dağılabilir; havuçla aynı boyda ya da biraz daha iri kesmek iyi sonuç verir. Salçayı soğan ve havuçla birlikte kısa süre kavurmak çiğ tadını giderir ve çorbanın rengini açar.
+
+    '
+- t: Kıvam ve doyuruculuk
+  d: 'Taneli sebze çorbası hafif bir kıvamdadır. Daha yoğun bir çorba istersen pişirme sonunda yarısını blenderdan geçirip kalan taneli kısımla karıştırabilirsin; patatesin nişastası çorbayı doğal olarak koyulaştırır. Doyuruculuğu artırmak için bir avuç şehriye ekleyebilirsin, ama bu durumda çorba glutensiz olmaz. Tuzu başta az koyup pişirmenin sonunda tadına bakarak ayarlamak daha güvenli. Servis ederken üzerine biraz limon sıkmak çorbaya ferahlık katar. Maydanozu en son eklersen rengi canlı kalır.
+
+    '
+- t: Sebze değişimleri ve saklama
+  d: 'Bu çorba esnek bir tarif; elindeki sebzelere göre değiştirebilirsin. Patates yerine tatlı patates kullanırsan pişirme süresi biraz kısalır. Dondurulmuş bezelyeyi pişirmenin son 10 dakikasında ekle. Salça yoksa 2-3 rendelenmiş domates kullanıp pişirme süresini 5 dakika uzat. Çorba buzdolabında kapalı bir kapta saklanabilir; ısıtırken koyulaştıysa biraz sıcak su ekle. Patatesli çorbalar dondurulup çözüldüğünde patatesin dokusu değişebilir, bu yüzden taze tüketmek daha iyi.
+
+    '
+faq:
+- q: Sebze çorbası kaç dakika pişer?
+  a: Sıcak su eklendikten sonra sebzeler yumuşayana kadar yaklaşık 20 dakika pişer. Hazırlıkla birlikte toplam süre 40 dakika.
+- q: Sebze çorbasına hangi sebzeler konur?
+  a: Bu tarifte soğan, havuç, patates, kabak ve bezelye kullanılıyor. Elindeki başka sebzeleri de pişme sürelerine göre ekleyebilirsin.
+- q: Sebze çorbası nasıl koyulaştırılır?
+  a: Pişirme sonunda çorbanın yarısını blenderdan geçirip kalanıyla karıştır. Bir avuç şehriye de doyuruculuğunu artırır.
+- q: Sebze çorbası dondurulur mu?
+  a: Dondurulabilir, ama patatesin dokusu çözüldükten sonra değişebilir. Buzdolabında kapalı kapta saklayıp kısa sürede tüketmek daha iyi.
+editorNote: Sebzeleri pişme sürelerine göre sırayla ekledik; havuç daha geç yumuşadığı için soğanla birlikte önce kavruluyor, kabak ve bezelye sonra geliyor. Yarısını blenderdan geçirme seçeneğini de taneli ile kremamsı arasında bir kıvam isteyenler için koyduk.
+aramaBasligi: 'Sebze çorbası tarifi: Taneli, zeytinyağlı ve vegan'
 ---
 
-Buzdolabının sebze çekmecesini boşaltan, en temel ve en sağlıklı çorba.
+Sebze çorbası, havuç, patates, kabak ve bezelye gibi temel sebzelerin küçük küpler halinde suyla pişirildiği taneli bir çorba. Buzdolabının sebze çekmecesinde ne varsa değerlendirmeye uygun, hafif ama doyurucu bir başlangıç.
+
+Bu tarifte zeytinyağında önce soğan, ardından küp doğranmış havuç kavruluyor ve salça ekleniyor. Patates, kabak ve bezelye 2 dakika çevrildikten sonra 6 su bardağı sıcak su, tuz ve karabiberle sebzeler yumuşayana kadar 20 dakika pişiyor. Servisten önce maydanoz serpiliyor; istersen çorbanın yarısını blenderdan geçirerek kıvamını artırabilirsin.
+
+6 kişilik çorba, 15 dakika hazırlık ve 25 dakika pişirmeyle toplam 40 dakikada hazır. Zeytinyağıyla yapıldığı için vegan ve glutensiz.

@@ -102,6 +102,43 @@ tips:
 - Nohutların kabuğunu soymak dışın pürüzsüz ve ince olmasını sağlar.
 - Soğan ne kadar uzun kavrulursa tatlılığı o kadar artar; topiğin ruhu buradadır.
 - Geleneksel olarak buharda pişirilir; bu versiyonda patates sayesinde pişirmeden şekil tutar.
+updated: '2026-11-11'
+notes:
+- t: Soğanı sabırla kavurmak
+  d: 'Topiğin tadının büyük kısmı iç harçtaki soğandan gelir. Soğanları zeytinyağında kısık ateşte, ara ara karıştırarak 30 dakika kavurmak şekerlerinin karamelize olmasını sağlar. Ateşi yükseltirsen soğan dışından yanar, içi pişmez ve acı bir tat kalır. Tava kurursa bir iki kaşık su ekleyip devam edebilirsin. Fıstık, üzüm, baharatlar, şeker ve tahin ateşten aldıktan sonra eklenir; harcı şekil vermeden önce tamamen soğut. Kavrulmuş soğanı bir gün önceden hazırlayıp buzdolabında saklayabilir, ertesi gün şekil vermeye geçebilirsin.
+
+    '
+- t: Pürüzsüz dış hamur
+  d: 'Nohutların kabuğunu tek tek soymak zahmetli ama dış hamurun ince ve pürüzsüz olmasının yolu bu. Kabuklu nohut robotta lifli kalır ve hamur kolay çatlar. Konserve haşlanmış nohut kullanıyorsan ıslatma ve haşlama adımını atlayabilirsin, ancak kabukları yine soy. Patatesler sıcakken değil, ılınınca nohutla çekilirse hamur daha az yapışır. Hamur ele yapışıyorsa ellerini ıslatarak çalış. Kabukları kolay soymak için nohutları avuçlarının arasında hafifçe ovarak suyun içinde yıkayabilirsin; kabuklar yüzeye çıkar.
+
+    '
+- t: Şekil verme ve servis
+  d: 'Islak tülbent ya da streç filmin üzerine bir avuç hamuru düz bir daire halinde yay, ortasına iki kaşık iç koy ve kenarları toplayarak sıkıca bük. Bu bükme hem topu kapatır hem şeklini sabitler. Toplar tülbentleriyle birlikte buzdolabında en az 3 saat dinlenmeli; hamur bu sürede sertleşir ve kesildiğinde dağılmaz. Servis ederken dörde kes, üzerine tahin gezdirip tarçın serp. Dörde keserken her kesimden sonra bıçağı ıslatmak, hamurun bıçağa yapışmasını önler.
+
+    '
+faq:
+- q: Topik nedir?
+  a: 'Nohut ve patates hamurunun içine kavrulmuş soğan, fıstık, kuş üzümü ve baharat doldurularak yapılan, tahin ve tarçınla servis edilen İstanbul Ermeni mutfağına ait bir mezedir.
+
+    '
+- q: Topik ne kadar dinlendirilir?
+  a: 'Toplar tülbentlerinin içinde buzdolabında en az 3 saat dinlendirilmelidir. Bu süre hamurun sertleşip kesildiğinde dağılmamasını sağlar.
+
+    '
+- q: Topik için soğan kaç dakika kavrulur?
+  a: 'Kısık ateşte yaklaşık 30 dakika, koyu karamel rengi alana kadar kavrulur.
+
+    '
+- q: Topikte konserve nohut kullanılır mı?
+  a: 'Evet, konserve haşlanmış nohut kullanabilirsin; ıslatma ve haşlama adımını atlarsın. Pürüzsüz bir hamur için kabuklarını yine soy.
+
+    '
+editorNote: Bu versiyonda dış hamura haşlanmış patates ekledik; patates nohut hamurunu bağladığı için toplar ayrıca pişirilmeden, buzdolabında dinlenerek şekil tutuyor.
+aramaBasligi: 'Topik tarifi: Nohut ve patatesli vegan meze, 8 kişilik'
 ---
 
-Meyhane sofralarının en emek isteyen mezesi, 2023’te Google’da en çok aranan tarifler arasındaydı. Kavrulmuş soğanın tatlılığı, tahin ve tarçınla kendine has bir tat.
+Topik, İstanbul Ermeni mutfağının bilinen mezelerinden biri: nohut hamurundan bir dış katman, içinde uzun süre kavrulmuş soğan, dolmalık fıstık, kuş üzümü, tarçın ve yenibahar. Servis sırasında dilimlenip üzerine tahin gezdirilir ve tarçın serpilir.
+
+Bu tarifte iç harç için beş kuru soğanı kısık ateşte 30 dakika, koyu karamel rengi alana kadar kavuruyoruz; topiğin tatlılığı buradan geliyor. Dış hamur, kabuğu soyulmuş haşlanmış nohut ve haşlanmış patatesin robotta çekilmesiyle hazırlanıyor. Islak bir tülbent ya da streç film yardımıyla portakal büyüklüğünde toplar yapılıyor ve buzdolabında en az 3 saat dinlendiriliyor.
+
+8 kişilik tarif 40 dakika hazırlık ve 60 dakika pişirmeyle toplam 100 dakika sürüyor; buna 3 saatlik dinlenme ekleniyor. Vegan ve glutensiz bir meze.

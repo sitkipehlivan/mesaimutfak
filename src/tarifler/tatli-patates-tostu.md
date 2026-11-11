@@ -88,6 +88,43 @@ tips:
 - 'Dilimleri ince kesersen kızartma makinesinde de olur: en yüksek ayarda 2-3 tur.'
 - Fırınlanmış dilimler buzdolabında 4 gün dayanır; sabahları kızartma makinesinde ısıtmak yeterli.
 - Glutensiz bir ekmek alternatifi arayanlar için ideal.
+updated: '2026-11-11'
+notes:
+- t: Dilim kalınlığı
+  d: 'Dilimleri yaklaşık 1 cm kalınlığında kesmek önemli. Daha kalın dilimler fırında dışı kızarırken ortası sert kalır, daha ince olanlar ise üst malzemenin ağırlığını taşıyamayıp kırılır. Kabuğu soymana gerek yok; kabuk dilimin şeklini korumasına yardım eder. Uzun ve düz bir tatlı patates seçersen dilimler ekmek boyutuna yakın olur. Bıçak kaymasın diye önce patatesin bir yanından ince bir parça kesip düz bir taban oluşturabilirsin.
+
+    '
+- t: Önceden hazırlamak
+  d: 'Fırınlanmış dilimler buzdolabında 4 gün dayanır. Pazar akşamı bir tepsi dilim hazırlayıp hafta içi sabahları kızartma makinesinde ya da airfryer''da kısa süre ısıtırsan kahvaltı beş dakikada hazır olur. Dilimleri ince kestiysen pişirmeden doğrudan kızartma makinesinde en yüksek ayarda 2-3 tur kızartmak da işe yarar. Avokadoyu ise önceden ezme; limonlu da olsa kararır, sabah taze hazırlamak daha iyi. Dilimleri saklarken aralarına pişirme kâğıdı koyarsan birbirine yapışmazlar.
+
+    '
+- t: Üst malzeme alternatifleri
+  d: 'Tuzlu tarafta avokado yerine labne ya da beyaz peynir, yumurta yerine haşlanmış yumurta dilimleri kullanabilirsin. Tatlı tarafta fıstık ezmesi yerine başka bir kuruyemiş ezmesi, bal yerine üzüm pekmezi ya da hurma şurubu olur. Limon suyu yoksa misket limonu ya da yarı ölçü elma sirkesi avokadonun rengini korur. Dilimler glutensiz olduğu için ekmekten kaçınanlar için pratik bir tost tabanıdır. Üst malzemeleri dilimler sıcakken koyarsan fıstık ezmesi hafifçe erir ve muz daha iyi tutunur.
+
+    '
+faq:
+- q: Tatlı patates fırında kaç dakikada pişer?
+  a: '1 cm kalınlığındaki dilimler 200°C fırında yaklaşık 20 dakikada, yarısında çevrilerek pişer.
+
+    '
+- q: Tatlı patates tostu airfryer'da yapılır mı?
+  a: 'Evet. Dilimleri 200°C''de 10-12 dakika, yarısında çevirerek kızartman yeterli.
+
+    '
+- q: Tatlı patates kabuğuyla pişirilir mi?
+  a: 'Evet, bu tarifte dilimler kabuğuyla pişiriliyor. Kabuk dilimin dağılmadan şeklini korumasına yardım eder.
+
+    '
+- q: Fırınlanmış tatlı patates dilimleri kaç gün saklanır?
+  a: 'Buzdolabında kapalı kapta 4 gün saklanır. Sabahları kızartma makinesinde ısıtıp kullanabilirsin.
+
+    '
+editorNote: Tek tarifte iki farklı üst malzeme verdik; aynı tepsi dilimle hem tuzlu hem tatlı bir kahvaltı çıkıyor ve hafta içi sabahları seçim yapmak kolaylaşıyor.
+aramaBasligi: 'Tatlı patates tostu tarifi: Ekmeksiz, glutensiz kahvaltı'
 ---
 
-Ekmeği tatlı patatesle değiştirince hem glutensiz hem renkli bir kahvaltı çıkıyor. Dilimleri pazar akşamı fırınlarsan hafta içi sabahları beş dakikada hazır.
+Tatlı patates tostu, ekmek dilimi yerine uzunlamasına kesilip fırınlanan tatlı patates dilimlerinin kullanıldığı bir kahvaltı. Dilimler fırında yumuşayıp kenarlarından kızarınca üzerine istediğin malzemeyi taşıyacak sağlamlıkta bir taban oluyor.
+
+Bu tarifte bir büyük tatlı patatesten 4-6 dilim çıkarıyoruz ve iki farklı üst hazırlıyoruz. Tuzlu tarafta limonla ezilmiş avokado ve göz ya da kayısı kıvamında yumurta, tatlı tarafta fıstık ezmesi, muz, bal ve tarçın var. Dilimler 200°C fırında 20 dakika pişerken üst malzemeler hazırlanıyor.
+
+2 kişilik tarif 5 dakika hazırlık ve 20 dakika pişirmeyle toplam 25 dakikada hazır. Airfryer kullanırsan dilimleri 200°C'de 10-12 dakikada kızartabilirsin.

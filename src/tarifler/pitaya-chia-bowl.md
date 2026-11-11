@@ -95,6 +95,35 @@ tips:
 - Dondurulmuş pitaya püresi büyük marketlerin donuk bölümünde ve online satılıyor. Bulamazsan donmuş çilek ve ahududu benzer bir pembe verir.
 - Smoothie ne kadar az sıvıyla çekilirse kasede o kadar yoğun durur.
 - Tatlı sevenler üzerine bir tur bal ya da fıstık ezmesi gezdirebilir; bal eklersen vegan olmaz.
+updated: '2026-11-11'
+notes:
+- t: Chia pudingin kıvamı
+  d: 'Chia tohumları sıvıyla karıştırıldığında yüzeylerinde jel benzeri bir tabaka oluşur ve sıvıyı çekerek koyulaşır. İlk karıştırmadan 5 dakika sonra bir kez daha karıştırmak önemli; aksi halde tohumlar dipte topaklanır ve pudingin bir kısmı sulu kalır. En az 2 saat buzdolabında bekletmek gerekir, bir gece beklerse kıvam daha düzgün olur. Puding çok koyulaştıysa biraz hindistan cevizi sütü ekleyip karıştır; sulu kaldıysa biraz daha bekletip tekrar kontrol et.
+
+    '
+- t: Yoğun smoothie için
+  d: 'Smoothie bowl''un bardakta içilen smoothie''den farkı, kaşıkla yenecek kadar yoğun olması ve süslerin üstünde batmadan durmasıdır. Bunun için hem pitaya hem muz donmuş olmalı; taze muz kullanırsan karışım sulanır. Blenderı sıvıyı azar azar ekleyerek çalıştır, gerekirse durdurup kenarları kaşıkla indir. Ne kadar az sıvıyla çekersen kasede o kadar yoğun durur. Pitaya püresi bulamazsan donmuş çilek ve ahududu benzer bir pembe verir; böğürtlen de kullanılabilir, ama renk mora çalar.
+
+    '
+- t: Süsleme ve servis
+  d: 'Granolayı servisten hemen önce ekle; smoothie''nin üstünde beklerse nemlenip çıtırlığını kaybeder. Etiketinde glutensiz yazan bir granola seçersen tarif glutensiz kalır. Meyveleri ve hindistan cevizi pulunu sıralar halinde dizmek hem görünümü düzenler hem de her kaşıkta farklı bir tat almanı sağlar. Smoothie katmanı hızla erir, bu yüzden kaseyi hazırladıktan sonra bekletme. Daha tatlı istersen üzerine fıstık ezmesi gezdirebilirsin; bal eklersen tarif vegan olmaktan çıkar.
+
+    '
+faq:
+- q: Chia puding kaç saat bekletilir?
+  a: Buzdolabında en az 2 saat bekletilmesi gerekir. En iyi sonuç için bir gece önceden hazırlayabilirsin.
+- q: Smoothie bowl nasıl koyu olur?
+  a: Dondurulmuş pitaya ve dondurulmuş muz kullan, sıvıyı blenderda azar azar ekle. Ne kadar az sıvı kullanırsan kıvam o kadar yoğun olur.
+- q: Pitaya yerine ne kullanılır?
+  a: Donmuş çilek ve ahududu benzer bir pembe renk verir. Dondurulmuş böğürtlen ya da frambuaz da kullanılabilir.
+- q: Pitaya chia bowl vegan mı?
+  a: Evet, hindistan cevizi sütü ve bitkisel şurupla hazırlandığı için vegan. Üzerine bal eklersen vegan olmaz.
+editorNote: Chia pudingi ayrı ve önceden yapılan bir adım olarak yazdık, çünkü tohumların sıvıyı çekip koyulaşması en az 2 saat sürüyor; sabah hızlı bir kahvaltı için akşamdan hazırlamak en pratiği. Smoothie'de sıvıyı azar azar ekleme uyarısını da kasede akmayan, yoğun bir kıvam için koyduk.
+aramaBasligi: 'Pitaya chia bowl tarifi: Chia pudingli pembe smoothie bowl'
 ---
 
-Ubud ve Canggu kafelerinde neredeyse her masada gördüğün o canlı pembe kase. Rengini ejder meyvesinden alıyor, tokluğunu alttaki chia pudingden. Kahvaltı da olur, öğleden sonra tatlısı da.
+Pitaya chia bowl, dondurulmuş ejder meyvesiyle (pitaya) hazırlanan koyu kıvamlı bir smoothie'nin chia pudingin üzerine yayıldığı, granola ve tropik meyvelerle süslenen bir kase. Canlı pembe rengini pitayadan, tokluğunu alttaki chia puding katmanından alıyor. Kahvaltı olarak da öğleden sonra tatlısı olarak da yenebiliyor.
+
+Bu tarifte chia tohumu hindistan cevizi sütü, şurup ve vanilyayla karıştırılıp buzdolabında en az 2 saat bekletiliyor. Servis anında dondurulmuş pitaya, dondurulmuş muz ve hindistan cevizi suyu blenderda kaşıkla yenecek kıvama getirilip pudingin üzerine yayılıyor.
+
+2 kişilik kaselerin hazırlığı 10 dakika, pişirme yok; chia pudingin en az 2 saatlik dinlenme süresi buna ek. Tarif vegan; glutensiz granolayla glutensiz de oluyor.

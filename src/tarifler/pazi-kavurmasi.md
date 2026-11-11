@@ -87,6 +87,35 @@ tips:
 - Ön haşlama pazının acılığını alır ve rengini canlı tutar.
 - Üzerine bir yumurta kırarsan kahvaltılık olur.
 - Karadeniz’de mısır unuyla kavrulup “pazı diblesi” diye de yapılır.
+updated: '2026-11-11'
+notes:
+- t: Haşlayıp sıkmak
+  d: 'Pazı çok su tutan bir yeşilliktir. Haşladıktan sonra suyunu elinle iyice sıkmazsan tavada kavrulmak yerine kendi suyunda haşlanır ve yemek sulu kalır. Sıcak pazıyı biraz ılıtıp avuçlarının arasında top yapar gibi sıkmak en kolay yöntem. Haşlama süresini uzatma; 3 dakika yaprağı yumuşatmaya yeter, fazlası rengini koyulaştırır ve dokuyu lapalaştırır. Bol suda yıkama adımı da önemli, çünkü kıvrımlı yapraklarda toprak ve kum kalabilir.
+
+    '
+- t: Un serpmenin görevi
+  d: 'İsteğe bağlı olarak serpilen pirinç ya da mısır unu, pazının bıraktığı son suyu çeker ve kavurmaya hafif bir bağ verir. Bu, yemeği Karadeniz''de pazı diblesi diye de bilinen yapılışa yaklaştırır. Unu serptikten sonra karıştırmaya devam et ki topaklanmasın ve dibe yapışmasın. Glutensiz kalması gerekiyorsa pirinç ya da mısır unu kullan; ince irmik ya da buğday unu da olur, ama tarif glutensiz olmaktan çıkar. Unsuz yapılan kavurma daha hafif ve dağınık olur.
+
+    '
+- t: Servis ve değişiklikler
+  d: 'Pazı kavurması ılık servis edildiğinde yoğurtla daha iyi uyum sağlar; çok sıcak kavurmanın üzerine konan yoğurt sulanabilir. Limon suyu tereyağının ağırlığını dengeler. Üzerine bir yumurta kırıp kapağı kapatarak pişirirsen kahvaltılık bir tabağa dönüşür. Pul biberin miktarını damak tadına göre ayarlayabilirsin. Vegan bir tabak için yoğurt yerine soya ya da hindistan cevizi yoğurdu, tereyağı yerine ¾ ölçü zeytinyağı kullanılabilir. Kuru soğan yerine arpacık ya da mor soğan da olur.
+
+    '
+faq:
+- q: Pazı kaç dakika haşlanır?
+  a: Doğranmış pazı tuzlu kaynar suda 3 dakika haşlanır, ardından süzülüp suyu elle sıkılır.
+- q: Pazı kavurması neden sulu olur?
+  a: Haşlanan pazının suyu iyice sıkılmadığında tavada kavrulmak yerine haşlanır. Suyunu sık; istersen kavururken biraz pirinç ya da mısır unu serp.
+- q: Pazının acılığı nasıl alınır?
+  a: Kavurmadan önce tuzlu kaynar suda 3 dakika haşlamak acılığı alır ve rengini canlı tutar.
+- q: Pazı kavurmasının yanına ne gider?
+  a: Yoğurt, limon ve mısır ekmeği klasik eşlikçileridir. Üzerine yumurta kırarak kahvaltılık da yapabilirsin.
+editorNote: 'Pazıyı kavurmadan önce 3 dakika haşlama adımını ayrı yazdık; ön haşlama yaprağın acımsı tadını alıyor ve rengini canlı tutuyor. Sapları ince, yaprakları iri doğramayı da bu yüzden seçtik: saplar daha geç yumuşadığı için ince kıyılınca yapraklarla aynı anda pişiyor.'
+aramaBasligi: 'Pazı kavurması tarifi: Karadeniz usulü, soğanlı ve yoğurtlu'
 ---
 
-Karadeniz mutfağının en pratik yeşil yemeği; yarım saatte hazır, yoğurtla bambaşka.
+Pazı kavurması, Karadeniz mutfağının en pratik yeşil yemeklerinden biri. Pazının yaprakları ve sapları soğan ve tereyağıyla kavrulur; üzerine yoğurt, yanında mısır ekmeğiyle sade ama doyurucu bir öğün olur.
+
+Bu tarifte yaklaşık 750 g'lık bir demet pazı yıkanıp sapları ince, yaprakları iri doğranıyor, tuzlu kaynar suda 3 dakika haşlanıp suyu elle sıkılıyor. Tereyağı ve zeytinyağında soğan ve sarımsak yumuşatıldıktan sonra pazı ekleniyor; istenirse biraz pirinç ya da mısır unu serpilip 8-10 dakika kavruluyor, tuz ve pul biberle tatlandırılıyor.
+
+4 kişilik kavurma, 15 dakika hazırlık ve 15 dakika pişirmeyle toplam 30 dakikada hazır. Ilık olarak yoğurt, limon ve mısır ekmeğiyle servis ediliyor.

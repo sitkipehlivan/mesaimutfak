@@ -100,6 +100,35 @@ steps:
 tips:
 - Altında hafif kızaran pirince “socarrat” denir; paella’nın en kıymetli kısmı.
 - Pirinci ekledikten sonra karıştırırsan risotto’ya döner.
+updated: '2026-11-11'
+notes:
+- t: Socarrat ve tava
+  d: 'Paellanın dibinde hafifçe kızarıp çıtırlaşan pirinç tabakasına socarrat denir ve yemeğin en sevilen kısmıdır. Bunun oluşması için pirinç ince bir katman halinde geniş bir tavaya yayılmalı ve su eklendikten sonra karıştırılmamalı. Pişirmenin sonuna doğru tavadan hafif bir çıtırtı sesi gelir; bu, dipteki tabakanın kızardığını gösterir. Yanık kokusu almaya başlarsan ocağı hemen kapat. Derin bir tencere kullanırsan pirinç katmanı kalınlaşır; üst kısım lapalaşırken alt kısım yanabilir.
+
+    '
+- t: Safranı doğru kullanmak
+  d: 'Safran sıvıda çözündükçe rengini ve aromasını bırakır; bu yüzden tarifte önce sıcak tavuk suyunda demleniyor. İplikleri doğrudan tavaya atmak, rengin pirince eşit dağılmamasına yol açar. Az miktarı yeterlidir; fazlası yemeğe acımsı bir tat verebilir. Safran bulamazsan bir tutam zerdeçal rengi yakalar, ama aroması aynı olmaz. Tatlı toz kırmızı biber ise sofritoya hem renk hem hafif bir derinlik katar; yerine acı pul biber kullanma, tadı değiştirir.
+
+    '
+- t: Malzeme alternatifleri
+  d: 'Paella pirinci bulamazsan baldo pirinç kullanabilirsin; osmancık kullanırsan suyu bir parmak azalt. Tavuk but yerine göğüs kullanacaksan pişirme süresini biraz kısalt, göğüs eti çabuk kurur. Karides yerine kalamar halkası ya da kuşbaşı tavuk göğsü olur; midye isteğe bağlı. Dondurulmuş bezelyeyi pişirmenin son 10 dakikasında eklemek rengini korur. Midyeleri kullanmadan önce iyice temizle ve pişince kabuğu açılmayanları ayır. Limonu servis sırasında herkes kendi tabağına sıksın.
+
+    '
+faq:
+- q: Paella kaç dakikada pişer?
+  a: Pirinç safranlı suyla 15 dakika, deniz ürünleri eklendikten sonra 10 dakika daha pişer ve 5 dakika dinlenir. Hazırlıkla birlikte toplam süre 60 dakika.
+- q: Paella yapılırken pirinç karıştırılır mı?
+  a: Hayır. Pirinci 1 dakika çevirip safranlı suyu döktükten sonra karıştırma; karıştırırsan risottoya döner ve dipteki kızarık tabaka oluşmaz.
+- q: Paella için hangi pirinç kullanılır?
+  a: En iyisi paella pirinci; bulamazsan baldo pirinç kullanabilirsin. Osmancık pirinçte suyu bir parmak azalt.
+- q: Paellada safran yerine ne kullanılır?
+  a: Renk için bir tutam zerdeçal kullanılabilir. Göze benzer görünür, ama safranın aromasını vermez.
+editorNote: Pirinci ekledikten sonra "bundan sonra karıştırma" uyarısını adımın içine açıkça yazdık, çünkü pilav ve risotto alışkanlığıyla tavayı karıştırmak paellanın dokusunu ve dipteki kızarmayı bozan en yaygın hata. Deniz ürünlerini sona bırakmamızın nedeni de karidesin uzun pişince sertleşmesi.
+aramaBasligi: 'Paella tarifi: Tavuklu, karidesli ve safranlı'
 ---
 
-Valensiya’nın pazar öğlen pilavı; tava sofranın ortasına konur.
+Paella, İspanya'nın Valensiya bölgesinden çıkan, geniş ve sığ bir tavada pişirilen safranlı pirinç yemeği. Adını da pişirildiği tavadan alır. Geleneksel olarak sofranın ortasına tavasıyla konur ve herkes oradan alır.
+
+Bu tarifte kuşbaşı tavuk but, karides, isteğe bağlı midye ve bezelye bir arada kullanılıyor. Önce tavuk kızartılıyor, ardından soğan, kapya biber, sarımsak, domates ve paprikayla sofrito adı verilen sos tabanı hazırlanıyor. Pirinç safranlı tavuk suyuyla eklendikten sonra hiç karıştırılmadan 15 dakika, deniz ürünleriyle 10 dakika daha pişiyor ve 5 dakika dinleniyor.
+
+4 kişilik paella, 20 dakika hazırlık ve 40 dakika pişirmeyle toplam 60 dakikada hazır; limonla servis ediliyor.

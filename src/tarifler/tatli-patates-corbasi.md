@@ -96,6 +96,43 @@ tips:
 - Tatlı patatesleri fırında önceden közlersen çorbanın tadı daha derin olur.
 - Hindistan cevizi sütü yerine süt ya da krema da kullanılabilir, o zaman vegan olmaz.
 - Porsiyonlayıp dondurabilirsin; iki ay dayanır.
+updated: '2026-11-11'
+notes:
+- t: Kıvamı ayarlamak
+  d: 'Tatlı patatesin nişasta oranı türüne ve boyutuna göre değiştiği için çorbanın kıvamı her seferinde biraz farklı olabilir. Blenderdan geçirdikten sonra koyu geliyorsa azar azar sıcak su ekleyip karıştır; soğuk su eklemek çorbayı soğutur ve tadı sulandırır. Çok sulu kaldıysa kapağı açık birkaç dakika daha kaynatabilirsin. Tuzu blender sonrasında ayarlamak daha doğru, çünkü kıvam değiştikçe tuz algısı da değişir. Blenderı tencereye daldırmadan önce ocağı kapat, sıcak çorba sıçrayabilir.
+
+    '
+- t: Zencefil ve baharat
+  d: 'Taze zencefil çorbaya hem ısıtan bir acılık hem de tatlı patatesin şekerini dengeleyen ferah bir koku verir. Rendeyi ince tutarsan liflerle uğraşmazsın. Taze zencefil yoksa dörtte bir ölçü toz zencefil kullanabilirsin; toz zencefil daha keskindir, fazlası çorbayı acılaştırır. Kimyonu ve zencefili yağda bir dakikadan uzun kavurma, sarımsakla birlikte yanarsa çorbaya acı bir tat geçer. Zencefil miktarını damak zevkine göre artırabilirsin, ama ilk denemede tarifteki bir tatlı kaşığıyla başla.
+
+    '
+- t: Saklama ve dondurma
+  d: 'Çorba buzdolabında kapalı kapta birkaç gün iyi kalır; bekledikçe koyulaştığı için ısıtırken biraz sıcak su eklemen gerekebilir. Porsiyonlayıp dondurabilirsin, iki ay dayanır. Dondurulmuş çorbayı buzdolabında çözdürüp kısık ateşte karıştırarak ısıt. Kabak çekirdeği ve pul biberi saklamadan önce değil, servis sırasında ekle; çekirdek bekleyince yumuşar. Daha derin bir tat için tatlı patatesleri önceden fırında közleyebilirsin. Çorbayı kaselere paylaştırdıktan sonra bir tur hindistan cevizi sütü gezdirmek görünüşünü de tamamlar.
+
+    '
+faq:
+- q: Tatlı patates çorbası kaç dakikada pişer?
+  a: 'Sebzeler sıcak suyla kapağı kapalı orta ateşte yaklaşık 20 dakikada yumuşar. Kavurma ile birlikte toplam pişirme 25 dakika sürer.
+
+    '
+- q: Tatlı patates çorbasında hindistan cevizi sütü yerine ne kullanılır?
+  a: 'Krema ya da süt kullanabilirsin, ancak çorba vegan olmaz. Vegan kalsın istersen bir avuç kajuyu bir su bardağı suyla blenderdan geçirip ekle.
+
+    '
+- q: Tatlı patates çorbası dondurulur mu?
+  a: 'Evet, porsiyonlayıp dondurulabilir ve iki ay dayanır. Isıtırken kıvamı sıcak suyla açabilirsin.
+
+    '
+- q: Tatlı patates çorbası blendersız yapılır mı?
+  a: 'Sebzeler iyice yumuşadığı için patates ezicisiyle de ezebilirsin. Doku pürüzsüz değil, hafif taneli olur.
+
+    '
+editorNote: Hindistan cevizi sütünü pişirmenin sonunda, blenderdan hemen önce ekledik; böylece kaynarken ayrışmıyor ve çorbaya kremamsı dokusunu son anda veriyor.
+aramaBasligi: 'Tatlı patates çorbası tarifi: Zencefilli, 35 dakikada'
 ---
 
-Mercimek çorbasının kış listesine iyi bir rakip. Zencefil ısıtıyor, hindistan cevizi sütü yumuşatıyor; renginden bile insanın içi açılıyor.
+Tatlı patates çorbası, tatlı patates ve havucun soğan, sarımsak ve zencefille pişirilip pürüzsüz hale getirildiği, turuncu renkli bir kış çorbası. Kıvamı un ya da krema yerine sebzelerin kendisinden geliyor; hindistan cevizi sütü ise çorbayı yumuşatıp kadife bir doku kazandırıyor.
+
+Bu tarifte önce soğanı zeytinyağında kavurup sarımsak, taze zencefil ve kimyonu bir dakika çeviriyoruz; baharatlar yağda açıldığı için aroma tüm çorbaya yayılıyor. Küp doğranmış sebzeler sıcak suyla 20 dakika pişiyor, ardından el blenderıyla çekiliyor. Kabak çekirdeği ve pul biber, üzerine çıtırlık ve hafif acılık ekliyor.
+
+4 kişilik tarif 10 dakika hazırlık ve 25 dakika pişirmeyle toplam 35 dakikada hazır. Vegan ve glutensiz bir çorba.

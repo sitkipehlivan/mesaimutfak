@@ -84,6 +84,43 @@ steps:
 tips:
 - Hindistan cevizi sütü yerine yoğurt kullanırsan Hint usulüne yaklaşır (o zaman soğuk yoğurdu ılıştırarak ekle).
 - Ispanak ya da nohut eklenebilir.
+updated: '2026-11-11'
+notes:
+- t: Neden tavuk but
+  d: 'Köri gibi sosta pişen yemeklerde tavuk but göğse göre daha iyi sonuç verir. Butun yağ ve bağ dokusu kısık ateşteki 15-20 dakikalık pişirmede eti sulu tutar, göğüs ise aynı sürede kuruyup lif lif dağılabilir. Göğüs kullanmak istersen tavuğu sos koyulaşmaya yakın ekleyip süreyi kısa tut. Kuşbaşıları eşit boyda doğramak da hepsinin aynı anda pişmesini sağlar. Tavuğu baharatlarla 5 dakika çevirmek etin dışını kaplar ve sosun tavuğa daha iyi tutunmasını sağlar.
+
+    '
+- t: Sosun kıvamı
+  d: 'Hindistan cevizi sütü kısık ateşte pişerken suyunu bırakarak koyulaşır. Ateşi yüksek tutarsan süt ayrışabilir ve sosun yüzeyinde yağ tabakası oluşur; bu yüzden hafif fokurdama yeterli. Sos çok koyulaşırsa bir iki kaşık sıcak suyla açabilirsin. Salça yerine 2-3 rendelenmiş domates kullanırsan pişirme süresini 5 dakika uzat ki domatesin suyu çeksin. Tuzu en son tadına bakarak ayarla. Kişnişi pişirmeye değil, servis sırasında eklemek tazeliğini korur; kişniş yoksa maydanoz ve biraz limon kabuğu rendesi kullan.
+
+    '
+- t: Çeşitlemeler ve saklama
+  d: 'Sosa bir avuç ıspanak ya da haşlanmış nohut ekleyerek yemeği zenginleştirebilirsin; ıspanağı son dakikalarda koy. Hindistan cevizi sütü yerine yoğurt kullanırsan köri Hint usulüne yaklaşır, ancak soğuk yoğurdu önce biraz sıcak sosla ılıştırarak ekle, yoksa keser. Köri buzdolabında kapalı kapta saklanır ve ertesi gün baharatlar daha oturmuş olur. Isıtırken biraz su eklemen gerekebilir. Basmati pilavını köri pişerken hazırlarsan iki yemek aynı anda masaya gelir.
+
+    '
+faq:
+- q: Tavuklu köri kaç dakika pişer?
+  a: 'Hindistan cevizi sütü eklendikten sonra kısık ateşte 15-20 dakika, sos koyulaşana kadar pişer. Toplam süre 35 dakikadır.
+
+    '
+- q: Tavuklu köride hindistan cevizi sütü yerine ne kullanılır?
+  a: 'Krema kullanabilirsin. Yoğurt da olur, ama soğuk yoğurdu sıcak sosla ılıştırarak eklemen gerekir.
+
+    '
+- q: Tavuklu köri yanına ne gider?
+  a: 'Basmati pilavı en uyumlu eşlikçidir; sos pilava geçerek yemeği tamamlar.
+
+    '
+- q: Köri için tavuk göğsü mü but mu kullanılır?
+  a: 'But daha iyi sonuç verir, çünkü sosta pişerken kurumaz. Göğüs kullanırsan pişirme süresini kısa tut.
+
+    '
+editorNote: Baharatları tavuktan önce yağda bir dakika kavurmayı ayrı yazdık, çünkü köri tozu ve zerdeçal yağda açılmadan sosa girerse çiğ ve tozlu bir tat bırakır.
+aramaBasligi: 'Tavuklu köri tarifi: Hindistan cevizi sütüyle, 35 dakikada'
 ---
 
-Baharatların sıcaklığıyla kışın içini ısıtan, yarım saatlik bir köri.
+Tavuklu köri, köri tozu, zerdeçal, sarımsak ve zencefille baharatlanan tavuğun hindistan cevizi sütünde pişirildiği kremamsı bir yemek. Köri adı Hint ve Güneydoğu Asya mutfaklarıyla özdeşleşse de bu tarif evdeki dolapla yapılabilecek sade bir versiyon.
+
+Bu tarifte kuşbaşı tavuk but kullanıyoruz; but, sosta pişerken kurumadan yumuşak kalıyor. Soğan yağda yumuşadıktan sonra baharatlar bir dakika kavruluyor, tavuk 5 dakika çevrilip salçayla birleşiyor. Ardından hindistan cevizi sütü ekleniyor ve kısık ateşte 15-20 dakika, sos koyulaşana kadar pişiyor. Kişnişle süsleyip basmati pilavıyla servis ediyoruz.
+
+4 kişilik tarif 10 dakika hazırlık ve 25 dakika pişirmeyle toplam 35 dakikada hazır. Glutensiz bir ana yemek.

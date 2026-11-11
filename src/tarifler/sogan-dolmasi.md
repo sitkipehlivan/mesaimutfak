@@ -104,6 +104,35 @@ tips:
 - Soğanı fazla haşlarsan katmanlar yırtılır; yumuşadığı an çıkar.
 - Nar ekşisi Gaziantep usulünün imzasıdır; yerine limon suyu da olur.
 - Fırında 180°C’de 40 dakika pişirirsen üstü hafif karamelize olur.
+updated: '2026-11-11'
+notes:
+- t: Soğanı doğru haşlamak
+  d: 'Soğan dolmasının en hassas aşaması haşlamadır. Soğan az haşlanırsa katmanlar sert kalır ve sararken kırılır; fazla haşlanırsa yumuşayıp yırtılır. Kaynar suda 8 dakika sonra bir katmanı kontrol et, kolayca bükülüyorsa hemen sudan al. Soğanları biraz ılıttıktan sonra kesik attığın yerden katmanları dışarıdan içe doğru tek tek ayır. İri soğan seçmek daha büyük ve sarması kolay katmanlar verir; en içteki küçük katmanlar sarmaya uygun olmadığı için tencerenin dibine döşenir.
+
+    '
+- t: İç harç ve sarma
+  d: 'İç harçtaki pirinç pişerken şişer; bu yüzden her katmana bir kaşıktan fazla koyma ve çok sıkı sarma, yoksa dolmalar pişerken açılabilir. Kıymayı salçalar, baharatlar ve zeytinyağıyla iyice yoğurmak harcın homojen olmasını ve baharatın her lokmaya eşit dağılmasını sağlar. Soğan katmanını harcın üzerine kendi kıvrımı doğrultusunda kapatmak ayrıca bağlamaya gerek bırakmaz. Dolmaları tencereye birbirine yaslayarak dizmek ve üzerine ters bir tabak kapatmak pişerken açılmalarını önler.
+
+    '
+- t: Sos, pişirme ve alternatifler
+  d: 'Nar ekşisi bu yemeğin imzasıdır; bulamazsan limon suyu ile bir tatlı kaşığı bal ya da pekmez benzer bir ekşi-tatlı denge verir. Biber salçası yoksa domates salçası ve bir tatlı kaşığı pul biber kullanabilirsin. Kısık ateş, pirincin tam pişmesi için önemli; ateşi yükseltirsen sos çabuk çeker ve dip tutabilir. Fırında 180°C''de 40 dakika pişirirsen dolmaların üstü hafifçe karamelize olur. Pişirmeden sonraki 10 dakikalık demlenme, pirincin sosu çekip yumuşamasını tamamlar.
+
+    '
+faq:
+- q: Soğan dolması için soğan kaç dakika haşlanır?
+  a: Soğanlar kaynar suda 8-10 dakika, yumuşayana kadar haşlanır. Fazla haşlanırsa katmanlar yırtılır.
+- q: Soğan dolması kaç dakika pişer?
+  a: Dolmalar kısık ateşte 45-50 dakika pişer ve ocaktan alındıktan sonra 10 dakika demlenir. Fırında 180°C'de 40 dakika da pişirilebilir.
+- q: Soğan dolmasında nar ekşisi yerine ne kullanılır?
+  a: Limon suyuna bir tatlı kaşığı bal ya da pekmez karıştırarak kullanabilirsin.
+- q: Soğan dolması için soğan katmanları nasıl ayrılır?
+  a: Soğanın bir yanından merkeze kadar tek kesik atılıp haşlanır. Haşlandıktan sonra katmanlar kesik yerinden tek tek ayrılır.
+editorNote: Soğanlara tek kesik atıp öyle haşlama yöntemini seçtik; bu sayede katmanlar haşlandıktan sonra kesik yerinden kolayca ayrılıyor ve yırtılmadan çıkıyor. Küçük iç katmanları atmak yerine tencerenin dibine döşemeyi de yazdık, çünkü hem dolmaların dibinin tutmasını önlüyor hem de sosa tat veriyor.
+aramaBasligi: 'Soğan dolması tarifi: Antep usulü, nar ekşili ve kıymalı'
 ---
 
-Gaziantep mutfağının sabır isteyen ama emeğinin karşılığını veren dolması. 2025’te Google’da en çok aranan tariflerden biri oldu; haşlanan soğan tatlı bir aroma kazanır, ekşili sos dengeler.
+Soğan dolması, haşlanarak yumuşatılan kuru soğan katmanlarının baharatlı kıymalı pirinç içle sarıldığı ve ekşili salçalı sosta pişirildiği bir dolma. Gaziantep mutfağıyla özdeşleşen bu yemekte nar ekşisi, soğanın haşlanınca kazandığı tatlılığı dengeler.
+
+Bu tarifte 5 iri soğan bir yanından merkeze kadar kesilip kaynar suda 8-10 dakika haşlanıyor ve katmanları ayrılıyor. Kıyma, pirinç, domates ve biber salçası, maydanoz, baharatlar ve zeytinyağıyla hazırlanan iç her katmana konup soğanın kendi kıvrımıyla sarılıyor. Dolmalar tencereye sıkıca dizilip biber salçası, nar ekşisi, tereyağı ve sıcak sudan oluşan sosla kısık ateşte 45-50 dakika pişiyor ve 10 dakika demleniyor.
+
+6 kişilik dolma, 50 dakika hazırlık ve 50 dakika pişirmeyle toplam 100 dakikada hazır. Yoğurtla servis ediliyor.

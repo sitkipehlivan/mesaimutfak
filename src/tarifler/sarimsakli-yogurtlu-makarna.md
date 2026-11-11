@@ -62,6 +62,35 @@ steps:
 tips:
 - Yoğurdu buzdolabından erken çıkar, soğuk yoğurt makarnayı hemen soğutur.
 - Üzerine ceviz ya da kızarmış ekmek kırıntısı çok yakışır.
+updated: '2026-11-11'
+notes:
+- t: Yoğurdun sıcaklığı
+  d: 'Bu tarifte yoğurt pişirilmiyor, yalnızca sıcak makarnanın üzerine konuyor. Soğuk yoğurt makarnanın ısısını hızla düşürür ve tabak ılık, hatta soğuk servis edilir. Yoğurdu makarnayı haşlamaya başlamadan önce buzdolabından çıkarırsan haşlama süresince oda sıcaklığına yaklaşır. Yoğurt çok koyuysa bir iki kaşık makarna suyu ekleyerek çırp; akışkanlaşan yoğurt makarnayı daha eşit kaplar. Ezilmiş sarımsağı yoğurtla birkaç dakika bekletmek aromasının yoğurda geçmesini sağlar.
+
+    '
+- t: Tereyağlı sosu yakmamak
+  d: 'Pul biber ve kuru nane çok kısa sürede yanar ve acı bir tat bırakır. Bu yüzden tereyağını eritip köpürdüğü an ocaktan al, baharatları ondan sonra ekle; tavadaki ısı baharatları cızırdatıp aromalarını açmaya yeter. Tereyağı kahverengileşmeye başladıysa fazla ısınmış demektir. Sosu makarna süzülmeden hemen önce hazırlarsan servis sırasında sıcak kalır. Tereyağı yerine ¾ ölçü zeytinyağı kullanabilirsin, ama tat daha hafif olur.
+
+    '
+- t: Makarna seçimi ve eklemeler
+  d: 'Burgu, kalem ya da fiyonk gibi kısa makarnalar yoğurdu ve sosu girintilerinde tuttuğu için bu tarifte uzun makarnalardan daha pratiktir. Makarnayı bol tuzlu suda haşlamak önemli, çünkü sosta tuz az. Üzerine dövülmüş ceviz ya da tavada kızarmış ekmek kırıntısı serpmek çıtır bir doku katar. Daha doyurucu bir tabak istersen yanına tavada kavrulmuş kıyma ekleyebilirsin. Makarna en iyi taze yenir; bekledikçe yoğurdu çeker ve kurur.
+
+    '
+faq:
+- q: Yoğurtlu makarna nasıl yapılır?
+  a: Makarna bol tuzlu suda haşlanır, üzerine ezilmiş sarımsaklı yoğurt ve pul biber ile nane eklenmiş kızgın tereyağı dökülür. Tarif 15 dakikada hazır.
+- q: Yoğurtlu makarnaya hangi makarna olur?
+  a: Burgu, kalem ya da fiyonk gibi kısa makarnalar sosu daha iyi tutar. Tarifte 2 kişi için 250 g makarna kullanılıyor.
+- q: Yoğurtlu makarna neden soğuk olur?
+  a: Buzdolabından yeni çıkmış yoğurt sıcak makarnayı soğutur. Yoğurdu önceden dışarı çıkarıp oda sıcaklığına getir.
+- q: Yoğurtlu makarna önceden yapılır mı?
+  a: En iyi taze yenir; bekledikçe makarna yoğurdu çeker. Sosları makarna haşlanırken hazırlayıp hemen servis et.
+editorNote: Yoğurdun oda sıcaklığında olması gerektiğini adımın içine yazdık, çünkü buzdolabından yeni çıkmış yoğurt sıcak makarnayı bir anda soğutuyor. Tereyağını köpürünce ocaktan alıp baharatları sonra ekleme sırasını da pul biber yanmasın diye seçtik.
+aramaBasligi: 'Sarımsaklı yoğurtlu makarna tarifi: Tereyağlı, 15 dakikada'
 ---
 
-Evde ne var diye bakınca çıkan en iyi akşam yemeği. On beş dakika.
+Sarımsaklı yoğurtlu makarna, haşlanmış makarnanın üzerine sarımsaklı yoğurt ve pul biberli tereyağı dökülerek hazırlanan pratik bir yemek. Mantı sosunu makarnayla buluşturan bu tabak, dolapta az malzeme olduğunda akşam yemeğini kurtaran tariflerden.
+
+Bu tarifte 250 g makarna bol tuzlu suda paketteki süre kadar haşlanırken yoğurt ezilmiş sarımsak ve bir tutam tuzla çırpılıyor. Ayrı bir tavada tereyağı köpürene kadar eritiliyor, ocaktan alınıp pul biber ve kuru nane ekleniyor. Süzülen sıcak makarna tabağa alınıyor, üzerine önce yoğurt, sonra tereyağlı sos dökülüyor.
+
+2 kişilik makarna, 5 dakika hazırlık ve 10 dakika pişirmeyle toplam 15 dakikada hazır; sos makarna haşlanırken tamamlanıyor.
