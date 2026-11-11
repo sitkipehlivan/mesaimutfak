@@ -47,7 +47,9 @@ gtag('consent','default',{analytics_storage:a,ad_storage:g,ad_user_data:g,ad_per
 gtag('set','ads_data_redaction',g==='denied');gtag('set','url_passthrough',false);})();
 gtag('js',new Date());gtag('config','{{ site.ga4 }}');
 </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4 }}"></script>{% endif %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4 }}"></script>
+<!-- Google Ads etiketi (Advance Digital hesabı, GTM-T9BHTWCT): yukarıdaki Consent Mode varsayılanlarını kullanır -->
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-T9BHTWCT"></script>{% endif %}
 <script>try{if(matchMedia('(display-mode: standalone)').matches||navigator.standalone)document.documentElement.classList.add('is-app')}catch(e){}try{var t=localStorage.getItem('mm-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="preload" href="/assets/fonts/figtree-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/fonts/fonts.css">
