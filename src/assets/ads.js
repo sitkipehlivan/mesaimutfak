@@ -19,6 +19,9 @@
   const SAMPLE_MP4 = 'https://storage.googleapis.com/gvabox/media/samples/stock.mp4';
 
   initPlayer();
+  // Marka demoları: ?reklam-demo=<marka>-<format> yalnız bu ziyarette /assets/demo/<marka>/demo.js yükler; gerçek reklam çağrılmaz, sayılmaz
+  const dm = new URLSearchParams(location.search).get('reklam-demo') || '';
+  if (/^[a-z0-9]+(-[a-z0-9]+)+$/.test(dm)) { html.classList.remove('ads-on'); const ds = document.createElement('script'); ds.src = '/assets/demo/' + dm.split('-')[0] + '/demo.js'; document.head.appendChild(ds); return; }
   // Advance reklam sunucusu: doğrudan satılan kampanyalar önce; boş kalan alanlar AdSense/Ad Manager'a bırakılır
   const ADV = cfg.advance;
   if (!live && !preview && !ADV) { html.classList.remove('ads-on'); return; }
