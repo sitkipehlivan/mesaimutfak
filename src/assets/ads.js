@@ -19,10 +19,10 @@
   const SAMPLE_MP4 = 'https://storage.googleapis.com/gvabox/media/samples/stock.mp4';
 
   initPlayer();
-  // Marka demoları: ?reklam-demo=<marka>-<format> /assets/demo/<marka>/demo.js yükler; gerçek reklam çağrılmaz, sayılmaz.
-  // Oturum boyunca hatırlanır (tema değişse, başka sayfaya geçilse de demo kalır); ?reklam-demo=kapat ile kapanır.
-  let dm = new URLSearchParams(location.search).get('reklam-demo') || '';
-  try { if (dm === 'kapat') { sessionStorage.removeItem('mm-ad-demo'); dm = ''; } else if (dm) sessionStorage.setItem('mm-ad-demo', dm); else dm = sessionStorage.getItem('mm-ad-demo') || ''; } catch (e) {}
+  // Marka demoları: ?reklam-demo=<marka>-<format> yalnız bu adreste /assets/demo/<marka>/demo.js yükler; gerçek reklam çağrılmaz, sayılmaz.
+  // Hatırlanmaz: parametre olmayan diğer sayfalarda demo görünmez (marka "canlıda mı" diye algılamasın).
+  const dm = new URLSearchParams(location.search).get('reklam-demo') || '';
+  try { sessionStorage.removeItem('mm-ad-demo'); } catch (e) {}
   if (/^[a-z0-9]+(-[a-z0-9]+)+$/.test(dm)) { window.__mmDemo = dm; html.classList.remove('ads-on'); const ds = document.createElement('script'); ds.src = '/assets/demo/' + dm.split('-')[0] + '/demo.js'; document.head.appendChild(ds); return; }
   // Advance reklam sunucusu: doğrudan satılan kampanyalar önce; boş kalan alanlar AdSense/Ad Manager'a bırakılır
   const ADV = cfg.advance;
