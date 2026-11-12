@@ -83,6 +83,43 @@ steps:
 tips:
 - Hamuru fazla karıştırırsan muffin sert ve delikli olur.
 - Dondurulmuş yaban mersinini çözdürmeden, una bulayarak ekle.
+updated: '2026-11-12'
+notes:
+- t: Fazla karıştırmamak
+  d: 'Un sıvıyla karıştırıldıkça gluten gelişir. Kekte bu istenmeyen bir durum; fazla karıştırılan muffin hamuru sert, içi tünel gibi delikli olur ve tepesi düzgün kabarmaz. Islak malzemeleri kuruya döktükten sonra spatulayı kabın dibinden yukarı doğru birkaç kez çevir, kuru un görünmediği anda dur. Hamurda küçük topakların kalması normal, fırında kaybolurlar. Yaban mersinini katarken de aynı nazikliği koru. Kuru malzemeleri önceden iyice karıştırmak, kabartma tozunun hamura eşit dağılmasını sağlar.
+
+    '
+- t: Dondurulmuş yaban mersini
+  d: 'Dondurulmuş yaban mersini kullanacaksan çözdürme; çözülen meyve suyunu salar, hamuru mora boyar ve muffinin içini ıslak bırakır. Donmuş meyveleri bir kaşık una bulayıp hamura hemen kat. Un kaplaması meyvelerin kalıbın dibine çökmesini de azaltır. Donmuş meyve hamuru biraz soğuttuğu için pişirme süresinin üst sınırına, 22 dakikaya yakın bir süre gerekebilir. Kürdan testini mutlaka yap. Taze yaban mersinini de yıkadıktan sonra iyice kurula; ıslak meyve hamuru sulandırır.
+
+    '
+- t: Alternatifler ve saklama
+  d: 'Süt yerine yoğurt kullanırsan muffin biraz daha nemli ve hafif ekşimsi olur; kefir ya da ayran da olur. Glutensiz bir versiyon için hazır glutensiz un karışımını birebir kullanabilirsin. Vanilin yerine bir tatlı kaşığı vanilya özütü koyabilirsin. Muffinler oda sıcaklığında kapalı bir kapta birkaç gün yumuşak kalır. Tek tek sarıp dondurabilir, kahvaltıdan önce oda sıcaklığında çözdürebilirsin. Üzerine serpilen şekeri atlama; fırında eriyip sertleşerek muffinin kıtır tepesini oluşturur.
+
+    '
+faq:
+- q: Muffin fırında kaç dakika pişer?
+  a: '190°C fırında 20-22 dakika, kabarıp kızarana kadar pişer. Ortasına batırılan kürdan kuru çıkmalı.
+
+    '
+- q: Muffin neden sert olur?
+  a: 'En sık neden hamuru fazla karıştırmaktır. Islak ve kuru malzemeleri spatula ile yalnızca birleşene kadar çevirmek yeterli.
+
+    '
+- q: Muffin airfryer'da yapılır mı?
+  a: 'Evet. Silikon ya da kâğıt kaplarda 160°C''de 14-16 dakika pişir; kürdan kuru çıkmalı.
+
+    '
+- q: Muffinde yaban mersini dibe çökmesin diye ne yapılır?
+  a: 'Yaban mersinini hamura katmadan önce biraz una bula. Dondurulmuş meyveyi çözdürmeden kullan.
+
+    '
+editorNote: Hamuru yalnızca karışana kadar çevirmeyi ve topakların kalabileceğini özellikle yazdık, çünkü muffinin yumuşak ve kabarık olması fazla karıştırmamaya bağlı.
+aramaBasligi: 'Yaban mersinli muffin tarifi: 12 adet, şekerli kıtır üstlü'
 ---
 
-Kahve dükkânlarının tepeli muffinlerinin evde hazırlanan hali.
+Yaban mersinli muffin, kahve dükkânlarından tanıdığın, kabarık tepeli ve içi meyve dolu küçük kekler. Hamuru mikser gerektirmiyor; kuru ve ıslak malzemeler ayrı kaplarda hazırlanıp spatula ile kısaca birleştiriliyor.
+
+Bu tarifte un, şeker, kabartma tozu ve tuzu bir kapta, yumurta, sıvı yağ, süt ve vanilini başka bir kapta karıştırıyoruz. Islak karışım kuruya eklenip yalnızca un kaybolana kadar çevriliyor, ardından yaban mersini katılıyor. Kalıplar dörtte üçüne kadar dolduruluyor ve üzerine serpilen şeker fırında kıtır bir kabuk oluşturuyor. Muffinler 190°C fırında 20-22 dakikada kabarıp kızarıyor.
+
+Tarif 12 muffin çıkarıyor; 15 dakika hazırlık ve 22 dakika pişirmeyle toplam 37 dakikada hazır. Airfryer'da 160°C'de 14-16 dakika da pişirebilirsin.

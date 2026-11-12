@@ -69,6 +69,43 @@ steps:
 tips:
 - Unu ne kadar sabırla kavurursan çorba o kadar lezzetli olur.
 - Limon sıkıp kıtır ekmekle ye.
+updated: '2026-11-12'
+notes:
+- t: Unu kavurmak
+  d: 'Unun çiğ tadı yalnızca kavrulunca gider. Tereyağı eridikten sonra unu ekleyip orta-kısık ateşte, tencerenin dibini kazıyarak sürekli karıştır. Un önce topaklanır, sonra gevşeyip kumlu bir dokuya geçer ve hafif renk alır. Fındık kokusu geldiğinde doğru noktadasın. Ateşi yüksek tutarsan un birkaç saniyede yanar ve çorbaya acı tat geçer; yanan unu kurtarmanın yolu yoktur, baştan başlamak gerekir. Tereyağını eritirken de ateşi yüksek tutma; yanmış tereyağı da çorbaya acı tat verir.
+
+    '
+- t: Topaksız açmak
+  d: 'Sıcak suyu tek seferde dökersen un yumak yumak toplanır. Önce yarım su bardağı kadar su ekleyip tel çırpıyla koyu bir macun haline getir, sonra kalan suyu azar azar ekleyerek çırpmaya devam et. Suyun sıcak olması önemli; soğuk su kavrulmuş unla karışınca topaklanma riski artar. Yine de topak kalırsa çorbayı bir süzgeçten geçirebilir ya da el blenderıyla birkaç saniye çekebilirsin. Su ekledikten sonra çorba kaynamaya başlayana kadar karıştırmaya devam et, çünkü un tam bu aşamada dibe çöker.
+
+    '
+- t: Çeşitleme ve servis
+  d: 'Et suyu yoksa sıcak suya bir tatlı kaşığı tereyağı ve bir tutam tuz ya da yarım bulyon ekleyebilirsin. Salça yerine 2-3 rendelenmiş domates kullanırsan pişirme süresini 5 dakika uzat. Kuru naneyi ve pul biberi çorbanın üstüne serpebilir ya da az tereyağında kızdırıp gezdirebilirsin. Servis sırasında biraz limon sıkmak ve yanına kıtır ekmek koymak çorbanın sadeliğini tamamlar. Çorba bekledikçe koyulaşır, ısıtırken biraz sıcak su ekleyebilirsin.
+
+    '
+faq:
+- q: Un çorbası kaç dakikada pişer?
+  a: 'Un 5 dakika kavrulur, su eklendikten sonra kısık ateşte 10 dakika pişer. Toplam süre hazırlıkla birlikte 20 dakikadır.
+
+    '
+- q: Un çorbası nasıl topaksız olur?
+  a: 'Sıcak suyu azar azar ekleyip her seferinde tel çırpıyla çırparsan topak kalmaz.
+
+    '
+- q: Un çorbasında tereyağı yerine ne kullanılır?
+  a: 'Tereyağının dörtte üçü kadar zeytinyağı kullanabilirsin. Tat biraz daha hafif olur.
+
+    '
+- q: Un çorbası et suyuyla mı yapılır?
+  a: 'İkisiyle de olur. Et suyu çorbayı daha doyurucu yapar, sıcak suyla da sade ve hafif bir çorba elde edersin.
+
+    '
+editorNote: Unu kavurma adımına süre ve koku tarifini birlikte yazdık; çorbanın bütün tadı unun çiğ kokusu gidip fındık gibi kokmaya başladığı o birkaç dakikada oluşuyor.
+aramaBasligi: 'Un çorbası tarifi: Tereyağlı ve salçalı, 20 dakikada'
 ---
 
-Dolapta bir şey yokken bile yapılabilen, ninelerin hasta çorbası.
+Un çorbası, tereyağında kavrulan unun salça ve sıcak suyla açılmasıyla yapılan, Türk mutfağının en sade çorbalarından biri. Dolapta neredeyse hiçbir şey yokken bile tereyağı, un ve salçayla hazırlanabiliyor; kuru nane ve pul biberle tamamlanıyor.
+
+Bu tarifte üç kaşık tereyağında dört kaşık unu sürekli karıştırarak 5 dakika kavuruyoruz. Un hafif renk alıp fındık gibi kokmaya başladığında salça ekleniyor ve bir dakika çevriliyor. Sıcak su azar azar eklenip çırpıldığı için topak kalmıyor; ardından çorba kısık ateşte 10 dakika pişiyor.
+
+4 kişilik tarif 5 dakika hazırlık ve 15 dakika pişirmeyle toplam 20 dakikada hazır. Et suyu kullanırsan daha doyurucu, suyla yaparsan daha hafif bir çorba olur.
