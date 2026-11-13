@@ -218,7 +218,7 @@
     if (!el) return;
     // Endcard (SIMID) testi: ?reklam=onizleme&vast=<Advance endcard kodu> yalnız bu ziyarette o VAST'ı oynatır (sayılmaz, gerçek ziyaretçiye çıkmaz)
     let testVast = '';
-    try { const tv = new URLSearchParams(location.search).get('vast') || ''; if (preview && /^https:\/\/ads\.advancedigital\.media\/aa\/ec\/[a-z0-9-]+\.xml$/.test(tv)) testVast = tv + '?cb=' + Date.now(); } catch (e) {} // cb: tarayıcıdaki eski kopyayı atla
+    try { const tv = new URLSearchParams(location.search).get('vast') || ''; if (preview && (/^https:\/\/ads\.advancedigital\.media\/aa\/ec\/[a-z0-9-]+\.xml$/.test(tv) || tv === 'https://mesaimutfak.com/demo/geri-sayim/vast.xml')) testVast = tv + '?cb=' + Date.now(); } catch (e) {} // cb: tarayıcıdaki eski kopyayı atla; ikinci adres: geri sayımlı Alt Banner demosu (netlify/functions/geri-sayim-demo.mjs)
     const vast = testVast || ((cfg.enabled && cfg.vastTag) ? cfg.vastTag : (preview ? SAMPLE_VAST : ''));
     const V = 'https://cdn.jsdelivr.net/npm/';
     const css = [V + 'video.js@8.24.1/dist/video-js.min.css'];
