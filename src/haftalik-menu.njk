@@ -1,0 +1,65 @@
+---
+layout: base.njk
+permalink: /haftalik-menu/
+title: Haftalık menü
+seoTitle: "Haftalık yemek menüsü hazırla: Akşam yemeği planı ve alışveriş listesi"
+desc: Kaç kişisiniz, kaç dakikan var, neleri sevmiyorsun? Mesai Mutfak tariflerinden haftalık akşam yemeği menünü ve tek alışveriş listeni hazırlayalım.
+---
+<div class="wrap hm" id="hm">
+  <nav class="crumbs" aria-label="Konum"><a href="{{ '/' | link }}">Ana sayfa</a><span>/</span><span aria-current="page">Haftalık menü</span></nav>
+  <header class="hm-hero">
+    <div class="eyebrow">Haftalık menü</div>
+    <h1>Bu hafta ne pişirsem?</h1>
+    <p>Birkaç soruya cevap ver; {{ collections.tarifler.length }} tarifimiz arasından haftanın akşam yemeklerini seçelim, malzemeleri tek bir alışveriş listesinde toplayalım. Beğenmediğin yemeği tek dokunuşla değiştirebilirsin.</p>
+  </header>
+
+  <form class="hm-form" id="hmForm" autocomplete="off">
+    <fieldset class="hm-q">
+      <legend>Kaç kişisiniz?</legend>
+      <div class="hm-step"><button type="button" data-kisi="-1" aria-label="Azalt">−</button><output id="hmKisi">2</output><button type="button" data-kisi="1" aria-label="Artır">+</button><span>kişi</span></div>
+    </fieldset>
+    <fieldset class="hm-q">
+      <legend>Haftada kaç akşam?</legend>
+      <div class="hm-chips" data-ad="gun">{% for n in [3, 5, 7] %}<label><input type="radio" name="gun" value="{{ n }}"{% if n == 5 %} checked{% endif %}><span>{{ n }} akşam</span></label>{% endfor %}</div>
+    </fieldset>
+    <fieldset class="hm-q">
+      <legend>Bir yemeğe en fazla ne kadar vaktin var?</legend>
+      <div class="hm-chips">{% for o in [[30, '30 dk'], [45, '45 dk'], [60, '1 saat'], [0, 'Fark etmez']] %}<label><input type="radio" name="sure" value="{{ o[0] }}"{% if o[0] == 45 %} checked{% endif %}><span>{{ o[1] }}</span></label>{% endfor %}</div>
+    </fieldset>
+    <fieldset class="hm-q">
+      <legend>Beslenme</legend>
+      <div class="hm-chips">{% for o in [['', 'Hepsi'], ['etsiz', 'Etsiz'], ['vegan', 'Vegan'], ['glutensiz', 'Glutensiz']] %}<label><input type="radio" name="diyet" value="{{ o[0] }}"{% if not o[0] %} checked{% endif %}><span>{{ o[1] }}</span></label>{% endfor %}</div>
+    </fieldset>
+    <fieldset class="hm-q">
+      <legend>Sevmediğin ya da evde istemediğin malzemeler</legend>
+      <input type="text" id="hmSevme" maxlength="120" placeholder="Örneğin: mantar, patlıcan, balık">
+    </fieldset>
+    <label class="hm-yan"><input type="checkbox" id="hmYan"> Yanına çorba ya da salata da öner</label>
+    <button type="submit" class="btn hm-go">Menümü hazırla</button>
+  </form>
+
+  <section class="hm-sonuc" id="hmSonuc" hidden aria-live="polite">
+    <div class="hm-bas"><h2>Menün</h2><span class="mono" id="hmOzet"></span></div>
+    <ol class="hm-plan" id="hmPlan"></ol>
+    <div class="hm-tools"><button type="button" class="btn ghost" id="hmYeni">Hepsini yeniden karıştır</button><a class="btn ghost" href="#hmForm" id="hmAyar">Ayarları değiştir</a></div>
+
+    <div class="hm-liste" id="hmListe">
+      <div class="hm-bas"><h2>Alışveriş listesi</h2><span class="mono" id="hmSay"></span></div>
+      <p class="hm-not">Miktarlar <b id="hmKisi2"></b> kişiye göre ve yaklaşık. Evde olanları işaretle; liste yalnızca işaretlemediklerinle paylaşılır.</p>
+      <div id="hmGruplar"></div>
+      <details class="hm-dolap"><summary>Dolabını kontrol et (baharat, yağ, salça…)</summary><p id="hmDolap"></p></details>
+      <div class="hm-acts">
+        <button type="button" class="btn" id="hmKopyala">Listeyi kopyala</button>
+        <a class="btn ghost" id="hmWa" href="https://wa.me/" target="_blank" rel="noopener">WhatsApp</a>
+        <button type="button" class="btn ghost" id="hmEkle">Alışveriş listeme ekle</button>
+        <button type="button" class="btn ghost" id="hmYazdir">Yazdır</button>
+      </div>
+      {%- set activePartners = site.partners | selectattr('enabled') -%}
+      {% if activePartners.length %}<div class="shop-partners"><span>Hangi marketten sipariş vermek istersin?</span>{% for p in activePartners %}<a class="partner{% if p.logo %} has-logo{% endif %}" data-partner="{{ p.k }}" href="{{ p.url }}" target="_blank" rel="noopener">{% if p.logo %}<img src="{{ p.logo | link }}" alt="{{ p.name }}">{% else %}{{ p.name }}{% endif %}<em class="last-tag">son kullandığın</em></a>{% endfor %}</div>
+      <p class="shop-hint">Butona basınca liste kopyalanır; uygulamada aratıp sepete ekleyebilirsin.</p>{% endif %}
+      <p class="shop-msg" id="hmMsg" role="status"></p>
+    </div>
+  </section>
+  <p class="hm-alt">Menü ve işaretlerin yalnızca bu cihazda saklanır. Buzdolabında ne olduğuna göre tarif mi arıyorsun? <a href="{{ '/asistan/?foto=1' | link }}">Fotoğrafını çek, ne pişireceğini söyleyelim</a>.</p>
+</div>
+<script src="{{ '/assets/menu.js' | link }}?v=1" defer></script>

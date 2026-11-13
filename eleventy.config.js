@@ -97,6 +97,23 @@ export default function (eleventyConfig) {
   // Airfryer kategorisinde olmayıp "Airfryer’da nasıl yapılır?" notu bulunan tarifler (başlığa göre sıralı)
   eleventyConfig.addFilter('airfryerNotlu', list => (list || []).filter(r => r.data.airfryer && !r.fileSlug.startsWith('airfryer-')).sort((a, b) => a.data.title.localeCompare(b.data.title, 'tr')));
   eleventyConfig.addFilter('take', (list, n) => list.slice(0, n));
+  // Haftalık Menü verisi: akşam yemeği adayları (ana yemek) ve yanına (çorba, salata, zeytinyağlı, pilav)
+  eleventyConfig.addFilter('menuVeri', list => {
+    const low = s => String(s || '').toLocaleLowerCase('tr');
+    const RX = { balik: /(balık|levrek|somon|hamsi|palamut|çipura|karides|kalamar|midye|uskumru|lüfer)/, tavuk: /(tavuk|hindi)/, et: /(kıyma|kuzu|dana|kuşbaşı|biftek|antrikot|incik|sucuk|pastırma|ciğer|işkembe|kavurma|(^|[\s|,(])(et|eti)(?=[\s|,)]|$))/, bakliyat: /(nohut|mercimek|fasulye|barbunya|börülce|bakla)/ };
+    return (list || []).filter(r => (r.data.cats || []).some(c => ['ana', 'corba', 'salata', 'zeytinyagli', 'pilav'].includes(c))).map(r => {
+      const items = (r.data.ingredients || []).flatMap(g => g.items || []);
+      const adlar = low(items.map(i => i.n).join(' | '));
+      const tur = RX.balik.test(adlar) ? 'balik' : RX.tavuk.test(adlar) ? 'tavuk' : RX.et.test(adlar) ? 'et' : RX.bakliyat.test(adlar) ? 'bakliyat' : 'sebze';
+      const cats = r.data.cats || [];
+      return {
+        s: r.fileSlug, t: r.data.title, i: r.data.image ? cdn(r.data.image, 400) : '', m: (r.data.prep || 0) + (r.data.cook || 0), p: r.data.serv || 4,
+        r: cats.includes('ana') ? 'ana' : 'yan', c: cats.filter(c => ['vegan', 'glutensiz', 'kis-yemekleri', 'yaz-yemekleri', 'hizli', 'dunya', 'corba', 'salata', 'zeytinyagli', 'pilav'].includes(c)),
+        k: tur, e: tur === 'sebze' || tur === 'bakliyat' ? 1 : 0,
+        g: items.map(i => [i.a == null ? '' : i.a, i.u || '', String(i.n || '')])
+      };
+    });
+  });
 
   // Netlify Image CDN: fotoğrafı boyutlandırıp WebP/AVIF olarak sunar (uzak adresler netlify.toml'da izinli)
   const cdn = (src, w) => PREVIEW ? src : `/.netlify/images?url=${encodeURIComponent(src)}&w=${w}&q=72`;
