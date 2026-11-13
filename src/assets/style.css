@@ -998,3 +998,30 @@ html.adv-skin-acik .ad-masthead{display:none!important} /* pageskin üst bandı 
 @media (max-width:520px){.hm-form,.hm-liste{padding:14px;box-shadow:4px 4px 0 var(--ink)}.hm-kart img,.hm-noimg{width:60px;height:60px}.hm-acts .btn{flex:1 1 calc(50% - 8px)}}
 @media print{header.top,.topcats,footer,.crumbs,.hm-hero p,.hm-form,.hm-tools,.hm-degis,.hm-acts,.shop-partners,.shop-hint,.hm-alt,.consent,.ad,ins.adsbygoogle{display:none!important}.hm-liste,.hm-gun{box-shadow:none;border-color:#999}}
 .picker-alt{margin:12px 0 0;font-size:14.5px;color:var(--ink-2)}.picker-alt a{color:var(--ink)}
+
+/* v29 · Ana sayfa: küçük manşet + sağda araç kartları (EV Türkiye düzeni) */
+.hero-tools{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:20px;align-items:stretch}
+.hero-tools .feature .photo{aspect-ratio:16/9}
+.htools{display:grid;grid-template-rows:repeat(4,1fr);gap:10px;min-width:0}
+.ht{display:flex;align-items:center;gap:12px;padding:12px 14px;background:var(--card);border:2px solid var(--ink);border-radius:16px;text-decoration:none;color:var(--ink);box-shadow:3px 3px 0 var(--ink);transition:transform .12s ease,box-shadow .12s ease;min-width:0}
+.ht:hover{transform:translate(-1px,-1px);box-shadow:5px 5px 0 var(--ink)}
+.ht:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
+.ht-ic{flex:none;width:42px;height:42px;border-radius:12px;display:grid;place-items:center;border:2px solid var(--ink)}
+.ht-ic svg{width:22px;height:22px;fill:#fff}
+.ht-talk .ht-ic{background:var(--pom-bg)}.ht-foto .ht-ic{background:#2f7d5b}.ht-menu .ht-ic{background:#e0a21b}.ht-menu .ht-ic svg{fill:#1b1b1b}.ht-zar .ht-ic{background:#3c5bd1}
+.ht-tx{display:flex;flex-direction:column;gap:2px;min-width:0}
+.ht-tx b{font-size:15.5px;line-height:1.2;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.ht-tx em{font-style:normal;font-size:13px;line-height:1.3;color:var(--ink-2)}
+.ht-yeni{font-style:normal;font-size:10.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;background:var(--pom-bg);color:#fff;border-radius:99px;padding:2px 7px}
+@media (max-width:980px){.hero-tools{grid-template-columns:minmax(0,1fr) 290px;gap:14px}.ht-tx em{display:none}}
+@media (max-width:760px){
+  .hero-tools{grid-template-columns:1fr}
+  .hero-tools .feature .photo{aspect-ratio:16/9}
+  .htools{grid-template-rows:none;grid-template-columns:1fr 1fr;gap:8px}
+  .ht{gap:9px;padding:9px 10px;border-radius:14px;box-shadow:2px 2px 0 var(--ink)}
+  .ht-ic{width:34px;height:34px;border-radius:10px}.ht-ic svg{width:18px;height:18px}
+  .ht-tx b{font-size:13.5px;gap:4px}.ht-tx em{display:none}
+  .ht-yeni{font-size:9px;padding:1px 5px}
+}
+.foto-btn{background:#2f7d5b}
+.ht-kisa{display:none}@media (max-width:760px){.ht-uzun{display:none}.ht-kisa{display:inline}}
