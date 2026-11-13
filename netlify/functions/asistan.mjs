@@ -1,11 +1,13 @@
 // Mesai Mutfak · "Bizimle konuş" tarif asistanı
-// POST { mesajlar: [{ rol: 'kullanici'|'asistan', metin }] }  →  { cevap, tarifler: [{ slug, baslik, url, gorsel, dk, zorluk, neden }] }
+// POST { mesajlar: [{ rol: 'kullanici'|'asistan', metin }], foto?: { tip: 'image/jpeg', veri: '<base64>' } }  →  { cevap, tarifler: [{ slug, baslik, url, gorsel, dk, zorluk, neden }] }
 // Claude (Anthropic API) yalnızca sitedeki tarifler arasından seçim yapar; listede olmayan tarif önerilemez.
 // Ortam değişkenleri (Netlify → Site configuration → Environment variables):
 //   ANTHROPIC_API_KEY   zorunlu, gizli
 //   ASISTAN_MODEL       varsayılan claude-haiku-5-5
 //   ASISTAN_KISI_LIMIT  kişi başı günlük soru sınırı (varsayılan 30)
 //   ASISTAN_GUN_LIMIT   tüm site için günlük soru sınırı (varsayılan 3000)
+//   ASISTAN_FOTO_LIMIT  kişi başı günlük fotoğraf sınırı (varsayılan 10)
+// Fotoğraf (buzdolabı/tezgâh): yalnızca bu istekte modele gönderilir, hiçbir yerde saklanmaz ve loglanmaz.
 // Gizlilik: ses tarayıcıda yazıya çevrilir, buraya yalnızca yazı gelir. Sınırlama için IP, günlük değişen tuzla tek yönlü
 // özetlenir; ham IP ve konuşma metinleri saklanmaz.
 import { getStore } from '@netlify/blobs';
@@ -15,6 +17,8 @@ const SITE = process.env.URL || 'https://mesaimutfak.com';
 const MODEL = process.env.ASISTAN_MODEL || 'claude-haiku-5-5';
 const KISI = Number(process.env.ASISTAN_KISI_LIMIT) || 30;
 const GUN = Number(process.env.ASISTAN_GUN_LIMIT) || 3000;
+const FOTO = Number(process.env.ASISTAN_FOTO_LIMIT) || 10;
+const FOTO_TIP = new Set(['image/jpeg', 'image/png', 'image/webp']);
 const json = (o, st = 200) => new Response(JSON.stringify(o), { status: st, headers: { 'content-type': 'application/json', 'cache-control': 'no-store' } });
 const day = () => new Date(Date.now() + 3 * 3600e3).toISOString().slice(0, 10);
 
@@ -129,6 +133,14 @@ export default async (req, context) => {
   const sinir = sureSiniri(messages.filter(m => m.role === 'user').map(m => m.content));
   if (sinir) messages[messages.length - 1] = { role: 'user', content: messages[messages.length - 1].content + `\n\n[Not: kullanıcının süre sınırı ${sinir} dakika. Yalnızca listedeki toplam süresi ${sinir} dakika ya da daha az olan tarifleri öner ve metinde de yalnızca onları an.]` };
 
+  // Fotoğraf: buzdolabı ya da tezgâh. Küçültülmüş hâli tarayıcıdan gelir (en fazla ~1,5 MB base64).
+  let foto = null;
+  if (body.foto && typeof body.foto === 'object') {
+    const tip = String(body.foto.tip || ''), veri = String(body.foto.veri || '');
+    if (!FOTO_TIP.has(tip) || veri.length < 100 || veri.length > 1600000 || !/^[A-Za-z0-9+/=]+$/.test(veri)) return json({ error: 'foto', cevap: 'Fotoğrafı okuyamadım; başka bir fotoğrafla dener misin?' }, 400);
+    foto = { tip, veri };
+  }
+
   // günlük sınır (kişi başı ve toplam)
   const store = getStore('asistan');
   const d = day();
@@ -137,11 +149,24 @@ export default async (req, context) => {
   const sayac = (await store.get('gun/' + d, { type: 'json' })) || { toplam: 0, kisi: {} };
   if (sayac.toplam >= GUN) return json({ error: 'limit', cevap: 'Bugün çok fazla soru geldi, yarın tekrar dener misin? Bu arada "Bugün ne pişirsem?" sayfası her zaman açık.' }, 429);
   if ((sayac.kisi[kim] || 0) >= KISI) return json({ error: 'limit', cevap: 'Bugünlük soru hakkın doldu. Yarın yine buradayız; bu arada "Bugün ne pişirsem?" sayfasını deneyebilirsin.' }, 429);
+  sayac.foto = sayac.foto || {};
+  if (foto && (sayac.foto[kim] || 0) >= FOTO) return json({ error: 'limit', cevap: 'Bugünlük fotoğraf hakkın doldu; evde ne olduğunu yazarak ya da söyleyerek sorabilirsin.' }, 429);
   sayac.toplam++; sayac.kisi[kim] = (sayac.kisi[kim] || 0) + 1;
+  if (foto) sayac.foto[kim] = (sayac.foto[kim] || 0) + 1;
   await store.setJSON('gun/' + d, sayac);
 
   let kat;
   try { kat = await getKatalog(); } catch (e) { return json({ error: 'katalog', cevap: 'Tarif listesine şu an ulaşamadım, birazdan tekrar dener misin?' }, 502); }
+
+  // Modele giden mesajlar: fotoğraf varsa son kullanıcı mesajına görsel olarak eklenir
+  const apiMessages = messages.slice();
+  if (foto) {
+    const son = apiMessages[apiMessages.length - 1];
+    apiMessages[apiMessages.length - 1] = { role: 'user', content: [
+      { type: 'image', source: { type: 'base64', media_type: foto.tip, data: foto.veri } },
+      { type: 'text', text: son.content + '\n\n[Not: kullanıcı buzdolabının, dolabının ya da tezgâhının fotoğrafını gönderdi. Cevap metnine "Fotoğrafta ... görüyorum" diye, fotoğrafta açıkça seçilebilen yiyecek malzemelerini (en fazla 8, sade Türkçe adlarıyla) sayarak başla; emin olmadığını yazma. Sonra bu malzemelerin çoğunu kullanan listedeki tarifleri öner; tuz, yağ, baharat gibi temel malzemelerin evde olduğunu varsay. Fotoğrafta yiyecek yoksa bunu kibarca söyle ve evde ne olduğunu sor; tarif önerme.]' }
+    ] };
+  }
 
   let res, out;
   const istek = (ek, cc = { type: 'ephemeral', ttl: '1h' }) => fetch('https://api.anthropic.com/v1/messages', {
@@ -156,7 +181,7 @@ export default async (req, context) => {
       ],
       tools: [ARAC],
       tool_choice: { type: 'tool', name: 'oner' },
-      messages,
+      messages: apiMessages,
       ...ek
     })
   }).then(async r => ({ r, j: await r.json().catch(() => ({})) }));
@@ -167,7 +192,7 @@ export default async (req, context) => {
     if (!x.r.ok && x.r.status === 400) { console.log('asistan 400', JSON.stringify(x.j).slice(0, 300)); x = await istek({ max_tokens: 4000, tool_choice: { type: 'auto' } }, { type: 'ephemeral' }); }
     res = x.r; out = x.j;
     const u = (out && out.usage) || {};
-    console.log('asistan sure', Date.now() - t0, 'ms', 'onbellek_okuma', u.cache_read_input_tokens || 0, 'onbellek_yazma', u.cache_creation_input_tokens || 0, 'girdi', u.input_tokens || 0, 'cikti', u.output_tokens || 0);
+    console.log('asistan sure', Date.now() - t0, 'ms', foto ? 'foto ' + Math.round(foto.veri.length * 0.75 / 1024) + 'KB' : '', 'onbellek_okuma', u.cache_read_input_tokens || 0, 'onbellek_yazma', u.cache_creation_input_tokens || 0, 'girdi', u.input_tokens || 0, 'cikti', u.output_tokens || 0);
   } catch (e) {
     return json({ error: 'servis', cevap: 'Şu an cevap veremedim, birazdan tekrar dener misin?' }, 502);
   }

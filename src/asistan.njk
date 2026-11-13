@@ -11,18 +11,21 @@ noindex: true
   <header class="asis-hero">
     <div class="eyebrow">Tarif asistanı</div>
     <h1>Anlat, yemeği biz seçelim</h1>
-    <p>Evde ne var, ne kadar vaktin var, kaç kişisiniz? Mikrofona bas ve konuş ya da yaz; {{ collections.tarifler.length }} tarifimiz arasından sana uygun olanları bulalım.</p>
+    <p>Evde ne var, ne kadar vaktin var, kaç kişisiniz? Mikrofona bas ve konuş, yaz ya da buzdolabının fotoğrafını çek; {{ collections.tarifler.length }} tarifimiz arasından sana uygun olanları bulalım.</p>
   </header>
 
   <div class="asis-box">
     <div class="asis-log" id="asLog" aria-live="polite">
       <div class="as-msg as-bot"><p>Merhaba! Bugün ne pişirmek istersin? Örneğin "Evde tavuk ve patates var, yarım saatim var" diyebilirsin.</p></div>
     </div>
+    <button type="button" class="as-foto-cta" id="asFotoCta"><span aria-hidden="true">📷</span> <b>Buzdolabının fotoğrafını çek</b><small>İçindekilere bakıp ne pişirebileceğini söyleyelim</small></button>
     <div class="asis-ex" id="asEx">
       {% for q in ['Evde tavuk ve patates var, 30 dakikam var', 'Hafif ve vegan bir akşam yemeği', 'Misafir geliyor, kolay bir tatlı', 'Çocuklar da yiyecek, pratik bir şey'] %}<button type="button" class="chip-q">{{ q }}</button>{% endfor %}
     </div>
     <form class="asis-form" id="asForm" autocomplete="off">
       <button type="button" class="as-mic" id="asMic" aria-label="Konuşmaya başla" title="Konuşmaya başla"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15a3 3 0 0 0 3-3V6a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-2.08A7 7 0 0 0 19 12h-2z"/></svg></button>
+      <button type="button" class="as-cam" id="asCam" aria-label="Buzdolabının fotoğrafını çek" title="Buzdolabının fotoğrafını çek"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3 7.17 5H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-3.17L15 3H9zm3 15a5 5 0 1 1 0-10 5 5 0 0 1 0 10zm0-2.2a2.8 2.8 0 1 0 0-5.6 2.8 2.8 0 0 0 0 5.6z"/></svg></button>
+      <input type="file" id="asFile" accept="image/*" hidden>
       <label for="asInput" class="sr-only">Mesajın</label>
       <input id="asInput" type="text" maxlength="600" placeholder="Konuş ya da yaz: evde ne var, ne kadar vaktin var?">
       <button type="submit" class="btn" id="asSend">Gönder</button>
@@ -32,7 +35,7 @@ noindex: true
       <span id="asStatus" class="mono"></span>
     </div>
   </div>
-  <p class="asis-note">Konuşman yalnızca yazıya çevrilmek için kısa bir ses kaydı olarak işlenir ve saklanmaz. Yazdıkların, tarif önerisi için yapay zekâ (Anthropic Claude) ile işlenir ve saklanmaz. Öneriler yalnızca Mesai Mutfak tarifleri arasından yapılır. <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
+  <p class="asis-note">Konuşman yalnızca yazıya çevrilmek için kısa bir ses kaydı olarak işlenir ve saklanmaz. Yazdıkların ve gönderdiğin fotoğraf, tarif önerisi için yapay zekâ (Anthropic Claude) ile işlenir ve saklanmaz. Fotoğrafta yalnızca yiyeceklerin görünmesine dikkat et. Öneriler yalnızca Mesai Mutfak tarifleri arasından yapılır. <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
 </div>
 
 <script>
@@ -51,15 +54,16 @@ noindex: true
     try { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(t); u.lang = 'tr-TR'; var v = speechSynthesis.getVoices().filter(function (x) { return /^tr/i.test(x.lang); })[0]; if (v) u.voice = v; speechSynthesis.speak(u); } catch (e) {}
   }
 
-  function ask(text) {
+  function ask(text, foto) {
     text = (text || '').trim(); if (!text || busy) return;
-    busy = true; send.disabled = true; ex.hidden = true;
-    add('as-user', '<p>' + esc(text) + '</p>');
+    busy = true; send.disabled = true; ex.hidden = true; fotoCta.hidden = true;
+    add('as-user', (foto ? '<img class="as-foto" src="data:' + foto.tip + ';base64,' + foto.veri + '" alt="Gönderdiğin fotoğraf">' : '') + '<p>' + esc(text) + '</p>');
     hist.push({ rol: 'kullanici', metin: text });
     input.value = '';
-    var wait = add('as-bot as-wait', '<p><span class="dots"><i></i><i></i><i></i></span> Tariflere bakıyorum…</p>');
-    if (window.mmTrack) mmTrack('asistan_soru', {});
-    fetch('/.netlify/functions/asistan', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ mesajlar: hist }) })
+    var wait = add('as-bot as-wait', '<p><span class="dots"><i></i><i></i><i></i></span> ' + (foto ? 'Fotoğrafa bakıyorum…' : 'Tariflere bakıyorum…') + '</p>');
+    if (window.mmTrack) mmTrack(foto ? 'asistan_foto' : 'asistan_soru', {});
+    var govde = { mesajlar: hist }; if (foto) govde.foto = foto;
+    fetch('/.netlify/functions/asistan', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(govde) })
       .then(function (r) { return r.json().catch(function () { return {}; }); })
       .then(function (d) {
         wait.remove();
@@ -80,6 +84,32 @@ noindex: true
   }
 
   form.addEventListener('submit', function (e) { e.preventDefault(); ask(input.value); });
+
+  // Fotoğraf: tarayıcıda en fazla 1024 px'e küçültülür (JPEG), sonra soruyla birlikte gönderilir
+  var cam = document.getElementById('asCam'), file = document.getElementById('asFile'), fotoCta = document.getElementById('asFotoCta');
+  function fotoSec() { if (!busy) { file.value = ''; file.click(); } }
+  cam.addEventListener('click', fotoSec); fotoCta.addEventListener('click', fotoSec);
+  function kucult(f, cb) {
+    var url = URL.createObjectURL(f), img = new Image();
+    img.onload = function () {
+      var m = 1024, w = img.naturalWidth, h = img.naturalHeight, k = Math.min(1, m / Math.max(w, h));
+      var c = document.createElement('canvas'); c.width = Math.round(w * k); c.height = Math.round(h * k);
+      c.getContext('2d').drawImage(img, 0, 0, c.width, c.height); URL.revokeObjectURL(url);
+      var d = c.toDataURL('image/jpeg', 0.78); cb(d.indexOf('base64,') > 0 ? { tip: 'image/jpeg', veri: d.split('base64,')[1] } : null);
+    };
+    img.onerror = function () { URL.revokeObjectURL(url); cb(null); };
+    img.src = url;
+  }
+  file.addEventListener('change', function () {
+    var f = file.files && file.files[0]; if (!f) return;
+    st.textContent = 'Fotoğraf hazırlanıyor…';
+    kucult(f, function (foto) {
+      st.textContent = '';
+      if (!foto) { add('as-bot', '<p>Bu fotoğrafı açamadım. Başka bir fotoğrafla dener misin?</p>'); return; }
+      ask(input.value.trim() || 'Bu fotoğraftaki malzemelerle ne pişirebilirim?', foto);
+    });
+  });
+  try { if (new URLSearchParams(location.search).get('foto') === '1') { history.replaceState(null, '', location.pathname); fotoCta.classList.add('vurgu'); } } catch (e) {}
   try { var gelen = new URLSearchParams(location.search).get('q'); if (gelen) { history.replaceState(null, '', location.pathname); ask(gelen.slice(0, 600)); } } catch (e) {}
   ex.addEventListener('click', function (e) { var b = e.target.closest('.chip-q'); if (b) ask(b.textContent); });
 

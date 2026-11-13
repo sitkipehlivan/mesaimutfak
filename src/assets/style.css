@@ -799,7 +799,7 @@ nav.main a.talk-nav:hover{border-color:var(--ink)}
   .top .logo{font-size:19px;gap:6px}
   .top .logo svg{width:28px;height:28px}
 }
-@media (max-width:360px){.top .logo{font-size:17px}}
+@media (max-width:360px){.top .logo{font-size:16px;gap:4px}.top .logo svg{width:24px;height:24px}.top .wrap{gap:4px}.top .theme,.hsearch button{width:34px;height:34px;flex:none}.hsearch{flex:none}}
 .top .voice-ico{background:var(--pom-bg)}.top .voice-ico svg{fill:#fff;width:20px;height:20px}
 
 /* v24 · çerez bandı: üç seçenek (Tümünü kabul et / Sadece istatistik / Reddet) */
@@ -941,3 +941,14 @@ html.ads-on .ad-rail_left:not(.adv-dolu),html.ads-on .ad-rail_right:not(.adv-dol
 .mm-tanitim{justify-content:flex-start!important;text-align:left}
 .mm-tanitim.genis .mt-yazi{max-width:52%}
 html.adv-skin-acik .ad-masthead{display:none!important} /* pageskin üst bandı masthead yerini alır */
+
+/* v27 asistan: buzdolabı fotoğrafı */
+.as-cam{flex:none;width:52px;height:52px;border-radius:50%;border:2px solid var(--ink);background:var(--card);cursor:pointer;display:grid;place-items:center}
+.as-cam svg{width:24px;height:24px;fill:var(--ink)}
+.as-foto-cta{display:grid;grid-template-columns:auto 1fr;align-items:center;gap:2px 12px;width:100%;margin:0 0 12px;padding:12px 14px;border:2px dashed var(--ink);border-radius:14px;background:transparent;color:var(--ink);font:inherit;text-align:left;cursor:pointer}
+.as-foto-cta>span{grid-row:span 2;font-size:1.6rem}.as-foto-cta b{font-size:1rem}.as-foto-cta small{opacity:.8;font-size:.85rem}
+.as-foto-cta.vurgu{border-style:solid;background:var(--pom-bg);color:#fff}
+.as-foto{display:block;max-width:180px;max-height:180px;border-radius:10px;margin:0 0 6px auto;object-fit:cover}
+@media (max-width:520px){.asis-form .as-cam,.asis-form .as-mic{width:44px;height:44px}}
+.is-watch .as-cam,.is-watch .as-foto-cta{display:none}
+.asis-form input{min-width:0}
