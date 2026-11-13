@@ -1006,9 +1006,22 @@ html.adv-skin-acik .ad-masthead{display:none!important} /* pageskin üst bandı 
 .ht{display:flex;align-items:center;gap:12px;padding:12px 14px;background:var(--card);border:2px solid var(--ink);border-radius:16px;text-decoration:none;color:var(--ink);box-shadow:3px 3px 0 var(--ink);transition:transform .12s ease,box-shadow .12s ease;min-width:0}
 .ht:hover{transform:translate(-1px,-1px);box-shadow:5px 5px 0 var(--ink)}
 .ht:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
-.ht-ic{flex:none;width:42px;height:42px;border-radius:12px;display:grid;place-items:center;border:2px solid var(--ink)}
-.ht-ic svg{width:22px;height:22px;fill:#fff}
-.ht-talk .ht-ic{background:var(--pom-bg)}.ht-foto .ht-ic{background:#2f7d5b}.ht-menu .ht-ic{background:#e0a21b}.ht-menu .ht-ic svg{fill:#1b1b1b}.ht-zar .ht-ic{background:#3c5bd1}
+.ht-ic{flex:none;width:56px;height:56px;border-radius:14px;display:grid;place-items:center}
+.ht-ic svg{width:42px;height:42px;overflow:visible}
+.ht-talk .ht-ic{background:#ffe1e7}.ht-foto .ht-ic{background:#dcf3e8}.ht-menu .ht-ic{background:#fff0c7}.ht-zar .ht-ic{background:#e3e8ff}
+/* üzerine gelince küçük hareketler */
+.ht-ic svg *{transform-box:fill-box}
+.i-w1,.i-w2{transition:transform .25s ease,opacity .25s ease}
+.i-door{transform-origin:0% 50%;transition:transform .3s ease}
+.i-spark{transform-origin:50% 50%;transition:transform .3s ease}
+.i-check{transform-origin:50% 50%;transition:transform .25s cubic-bezier(.3,1.6,.6,1)}
+.i-lid{transform-origin:0% 100%;transition:transform .25s ease}.i-q{transition:transform .25s ease}
+@media (hover:hover) and (prefers-reduced-motion:no-preference){
+  .ht-talk:hover .i-w1{transform:translateX(-2px)}.ht-talk:hover .i-w2{transform:translateX(2px)}
+  .ht-foto:hover .i-door{transform:scaleX(.55)}.ht-foto:hover .i-spark{transform:scale(1.35) rotate(25deg)}
+  .ht-menu:hover .i-check{transform:scale(1.2)}
+  .ht-zar:hover .i-lid{transform:rotate(-12deg) translateY(-2px)}.ht-zar:hover .i-q{transform:translateY(-3px)}
+}
 .ht-tx{display:flex;flex-direction:column;gap:2px;min-width:0}
 .ht-tx b{font-size:15.5px;line-height:1.2;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .ht-tx em{font-style:normal;font-size:13px;line-height:1.3;color:var(--ink-2)}
@@ -1019,7 +1032,7 @@ html.adv-skin-acik .ad-masthead{display:none!important} /* pageskin üst bandı 
   .hero-tools .feature .photo{aspect-ratio:16/9}
   .htools{grid-template-rows:none;grid-template-columns:1fr 1fr;gap:8px}
   .ht{gap:9px;padding:9px 10px;border-radius:14px;box-shadow:2px 2px 0 var(--ink)}
-  .ht-ic{width:34px;height:34px;border-radius:10px}.ht-ic svg{width:18px;height:18px}
+  .ht-ic{width:40px;height:40px;border-radius:11px}.ht-ic svg{width:31px;height:31px}
   .ht-tx b{font-size:13.5px;gap:4px}.ht-tx em{display:none}
   .ht-yeni{font-size:9px;padding:1px 5px}
 }
