@@ -1038,3 +1038,14 @@ html.adv-skin-acik .ad-masthead{display:none!important} /* pageskin üst bandı 
 }
 .foto-btn{background:#2f7d5b}
 .ht-kisa{display:none}@media (max-width:760px){.ht-uzun{display:none}.ht-kisa{display:inline}}
+/* bildirim daveti (web push) */
+.push-ask{position:fixed;left:max(16px,env(safe-area-inset-left,0px));right:max(16px,env(safe-area-inset-right,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:19;max-width:420px;margin:0 0 0 auto;background:var(--card);border:2px solid var(--ink);border-radius:18px;padding:16px;box-shadow:6px 6px 0 var(--ink);display:flex;flex-direction:column;gap:12px;font-size:14.5px}
+.push-ask[hidden]{display:none}
+.push-ask p{margin:0;color:var(--ink-2)}
+.push-ask p b{display:block;font-family:var(--f-display);font-size:17px;color:var(--ink);margin-bottom:2px}
+.push-ask div{display:flex;gap:8px}
+.push-ask .btn{flex:1 1 auto;padding:10px 14px;font-size:14.5px}
+html.has-anchor .push-ask{bottom:72px}
+.is-app .push-ask{bottom:calc(80px + env(safe-area-inset-bottom,0px))}
+.is-watch .push-ask{display:none}
+@media (max-width:760px){.push-ask{margin:0 auto}}

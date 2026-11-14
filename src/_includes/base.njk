@@ -125,6 +125,10 @@ gtag('js',new Date());gtag('config','{{ site.ga4 }}');
   <p>Siteyi geliştirmek için ziyaret istatistikleri topluyor{% if site.ads.enabled %} ve ilgi alanına göre reklam gösteriyor{% endif %}uz. Hangisine izin veriyorsun? <a href="{{ '/gizlilik/' | link }}">Gizlilik</a></p>
   <div class="consent-btns"><button type="button" class="btn" id="consentYes">Tümünü kabul et</button><button type="button" class="btn ghost" id="consentStat">Sadece istatistik</button><button type="button" class="btn cn-no" id="consentNo">Reddet</button></div>
 </div>{% endif %}
+<div class="push-ask" id="pushAsk" hidden role="dialog" aria-label="Bildirimler">
+  <p><b>Yeni tarifleri kaçırma</b>Yeni tarifler ve kampanyalar için bildirim gönderelim mi?</p>
+  <div><button type="button" class="btn" id="pushOk">Bildirimleri aç</button><button type="button" class="btn ghost" id="pushNo">Şimdi değil</button></div>
+</div>
 <nav class="tabbar" aria-label="Uygulama menüsü">
   <a href="/"{% if isHome %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><path d="M4 11l8-6 8 6v8a1 1 0 0 1-1 1h-4v-6H9v6H5a1 1 0 0 1-1-1z"/></svg>Ana sayfa</a>
   <a href="/ara/"{% if page.url == '/ara/' %} aria-current="page"{% endif %}><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>Ara</a>

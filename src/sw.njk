@@ -69,3 +69,28 @@ self.addEventListener('message', e => {
   if (d.type === 'save' && d.urls) e.waitUntil(caches.open(SAVED).then(c => Promise.all(d.urls.map(u => fetch(u).then(r => r.ok && c.put(u, r)).catch(() => {})))));
   if (d.type === 'unsave' && d.urls) e.waitUntil(caches.open(SAVED).then(c => Promise.all(d.urls.map(u => c.delete(u)))));
 });
+
+// ---------- bildirimler (web push) ----------
+const pushOlay = (e, id) => id ? fetch('/api/push', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ a: 'olay', e, id }) }).catch(() => {}) : Promise.resolve();
+self.addEventListener('push', (e) => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; } catch (err) {}
+  const secenek = { body: d.b || '', icon: d.i || '/img/app/icon-192.png', badge: '/img/app/icon-192.png', data: { u: d.u || '/', id: d.id || '' } };
+  if (d.g) secenek.image = d.g;
+  if (d.id) secenek.tag = d.id;
+  e.waitUntil(Promise.all([self.registration.showNotification(d.t || 'Mesai Mutfak', secenek), pushOlay('g', d.id)]));
+});
+self.addEventListener('notificationclick', (e) => {
+  const d = e.notification.data || {};
+  e.notification.close();
+  e.waitUntil(Promise.all([pushOlay('c', d.id), self.clients.openWindow(d.u || '/')]));
+});
+// Tarayıcı aboneliği yenilerse yeni adresi kaydet, eskisini sil
+self.addEventListener('pushsubscriptionchange', (e) => {
+  const eski = e.oldSubscription;
+  if (!eski || !eski.options) return;
+  e.waitUntil(self.registration.pushManager.subscribe(eski.options).then((yeni) => Promise.all([
+    fetch('/api/push', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ a: 'abone', sub: yeni.toJSON() }) }),
+    fetch('/api/push', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ a: 'iptal', endpoint: eski.endpoint }) }),
+  ])).catch(() => {}));
+});

@@ -155,4 +155,47 @@
   }
   window.addEventListener('appinstalled', () => { btns.forEach(b => b.hidden = true); if (card) card.hidden = true; track('app_installed'); });
   if (standalone) track('app_open');
+
+  /* ---------- bildirimler (web push) ---------- */
+  // Tarayıcının izin penceresi yalnızca ziyaretçi "Bildirimleri aç"a basınca açılır. İzin verilince tarayıcının ürettiği
+  // bildirim adresi /api/push'a kaydedilir (bkz. netlify/functions/push.mjs). "Şimdi değil" denirse 14 gün sorulmaz.
+  (function push() {
+    const VAPID = 'BKC3jurnzW4V0F2LWVF5pUrcXXu1MbrR0xHN-ORitkaJ9NhI58GJC4AuhMEKRrkn4_nHdC9lQ_c8zca_SAOLkGs';
+    const box = $('pushAsk');
+    if (!box || !('serviceWorker' in navigator) || !('PushManager' in window) || !('Notification' in window)) return;
+    if (location.protocol !== 'https:' || /[?&]demo=/.test(location.search) || document.documentElement.classList.contains('is-watch')) return;
+    const KAPAT = 'mm-bildirim-kapat', KAYIT = 'mm-bildirim';
+    const anahtar = () => Uint8Array.from(atob((VAPID + '='.repeat((4 - VAPID.length % 4) % 4)).replace(/-/g, '+').replace(/_/g, '/')), c => c.charCodeAt(0));
+    const abone = async () => {
+      const reg = await swReady;
+      if (!reg) return;
+      const s = (await reg.pushManager.getSubscription()) || (await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: anahtar() }));
+      if (store.get(KAYIT, '') === s.endpoint) return;
+      const r = await fetch('/api/push', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ a: 'abone', sub: s.toJSON() }) });
+      if (r.ok) store.set(KAYIT, s.endpoint);
+    };
+    if (Notification.permission === 'granted') { abone().catch(() => {}); return; }
+    if (Notification.permission === 'denied' || store.get(KAPAT, 0) > Date.now()) return;
+
+    // İlk sayfada rahatsız etme: ikinci sayfa görüntülemede ya da 30 saniye sonra, çerez bandı kapalıyken göster
+    let sayfa = 1;
+    try { sayfa = Number(sessionStorage.getItem('mm-sayfa') || 0) + 1; sessionStorage.setItem('mm-sayfa', String(sayfa)); } catch (e) {}
+    setTimeout(function dene() {
+      const c = $('consent'), h = $('iosHint');
+      if ((c && !c.hidden) || (h && !h.hidden)) { setTimeout(dene, 5000); return; }
+      if (Notification.permission !== 'default') return;
+      box.hidden = false; track('push_davet_goster');
+    }, sayfa > 1 ? 4000 : 30000);
+
+    $('pushOk').addEventListener('click', async () => {
+      box.hidden = true;
+      try {
+        const izin = await Notification.requestPermission();
+        track('push_izin', { outcome: izin });
+        if (izin === 'granted') await abone();
+        else if (izin === 'default') store.set(KAPAT, Date.now() + 14 * 864e5);
+      } catch (e) {}
+    });
+    $('pushNo').addEventListener('click', () => { box.hidden = true; store.set(KAPAT, Date.now() + 14 * 864e5); track('push_davet_kapat'); });
+  })();
 })();
